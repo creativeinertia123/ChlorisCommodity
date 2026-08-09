@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-09T03:57:34+00:00",
-  "take": "Strait of Hormuz remains the dominant crude and product story, with Iran's insistence that the waterway stays closed until sweeping US policy demands are met crushing hopes of a near-term supply resumption and keeping refiners scrambling for alternative barrels. The second key theme is the physical freight fallout, highlighted by Iran weighing a ban on US- and Israeli-linked vessels from Hormuz and a German bulker struck repeatedly off Odesa, which is inflating war-risk premiums and tightening effective tonnage supply across the Middle East and Black Sea. Positioning is notably bearish despite the deepening disruption, with traders betting on a quick peace deal, even as China's second-quarter crude imports fell on higher prices from the Hormuz closure—a dynamic that could leave the market short if the diplomatic track fails. Cross-market, the surge in jet fuel shortages for airlines links directly to middle-distillate cracks, whilst high phenolic bunker blends from Chinese ports at up to 15,750 ppm signal quality-driven price divergence between VLSFO grades and potential operational disruptions for owners. Watch for any progress on the Iran-Oman traffic management system and the US jobs report, as a stronger labour print could firm the dollar and pressure crude, whilst any headline suggesting Hormuz talks are reviving would trigger a sharp sell-off in flat price and backwardation.",
+  "generated_at_utc": "2026-08-09T04:18:33+00:00",
+  "take": "Strait of Hormuz remains the dominant risk after Iran said it stays closed until sweeping US demands are met, keeping crude and product supply chains under severe stress even as traders price a quick peace deal. China's Q2 crude imports fell on higher prices from the disrupted flows, which alongside a 2.0 million barrel US commercial build to 411.7 million barrels, gives the market a bearish inventory narrative despite the geopolitical premium. Airlines are scrambling for jet fuel as the months-long closure drags on, a clear transmission into middle-distillate cracks and a bullish signal for gasoil relative to crude. The freight complex is tightening on the back of Iran weighing a ban on US- and Israeli-linked ships in Hormuz, which would further distort tonne-mile demand and lift VLCC rates, whilst ADNOC L&S's $1.3bn swoop for six VLCCs and five VLGCs underscores asset scarcity. Watch for any progress on the Iran/Oman traffic management deal, as a breakthrough would trigger a sharp long liquidation across crude and products.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -285,10 +285,58 @@
     {
       "source": "FRED Blog",
       "url": "https://fredblog.stlouisfed.org/feed/",
-      "ok": false,
-      "count": 0,
-      "items": [],
-      "error": "HTTPSConnectionPool(host='fredblog.stlouisfed.org', port=443): Read timed out. (read timeout=30)"
+      "ok": true,
+      "count": 8,
+      "items": [
+        {
+          "title": "What securities do FDIC-insured banks hold?",
+          "link": "https://fredblog.stlouisfed.org/2026/08/what-securities-do-fdic-insured-banks-hold/",
+          "published": "Thu, 06 Aug 2026 13:00:00 +0000",
+          "summary": "The quarterly banking profile of FDIC-insured institutions provides an overview of their aggregate financial condition, including data on bank earnings, loan and deposit activity, and asset quality. According to theses profiles, mortgage-backed securities make up more than half of the &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "How does seasonal weather affect construction employment?",
+          "link": "https://fredblog.stlouisfed.org/2026/08/how-does-seasonal-weather-affect-construction-employment/",
+          "published": "Mon, 03 Aug 2026 13:00:00 +0000",
+          "summary": "The FRED Blog has discussed why employment in retail and postal services peak around the Christmas holidays. Today we tap into a 2018 research piece from the Federal Reserve Bank of Chicago to discuss why construction employment may follow different &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "The oldest US data series in FRED",
+          "link": "https://fredblog.stlouisfed.org/2026/07/the-oldest-us-data-series-in-fred/",
+          "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+          "summary": "FRED has not only current data series but also historic data series, some of which are very old. As we&#8217;ve mentioned on this blog, the oldest series in FRED is population data for the United Kingdom, dating back to 1086! &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "Productivity growth, as seen in 1996",
+          "link": "https://fredblog.stlouisfed.org/2026/07/productivity-growth-as-seen-in-1996/",
+          "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+          "summary": "The recent AI boom has renewed debate about how official statistics capture changes in productivity growth and how any lags or limitations might impact monetary policy. For example, in the 1990s, some believed that low measures of productivity weren&#8217;t capturing &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "The link between crude oil prices and airfares",
+          "link": "https://fredblog.stlouisfed.org/2026/07/the-link-between-crude-oil-prices-and-airfares/",
+          "published": "Thu, 23 Jul 2026 13:00:00 +0000",
+          "summary": "The takeaway Crude oil is used to produce jet fuel. Changes in crude oil prices, like the ones since March 2026, can affect jet fuel prices, which may or may not affect airfares. &#160; Crude oil, jet fuel, and airfares &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "Unemployment and marriage status",
+          "link": "https://fredblog.stlouisfed.org/2026/07/unemployment-and-marriage-status/",
+          "published": "Mon, 20 Jul 2026 13:00:00 +0000",
+          "summary": "The takeaway The unemployment rate includes only those who are actively seeking a job, and seeking a job involves different incentives for married couples versus single heads of household. &#160; Unemployment by marriage status Our FRED graph above shows the &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "US manufacturing employment is down, but each state has its own story",
+          "link": "https://fredblog.stlouisfed.org/2026/07/us-manufacturing-employment-is-down-but-each-state-has-its-own-story/",
+          "published": "Thu, 16 Jul 2026 13:00:00 +0000",
+          "summary": "From last May to this May, manufacturing employment decreased by 0.4%. This number may seem small, but it&#8217;s a nationwide figure that can hide considerable variation across US states. So, in the FRED map above, we show state-specific numbers for &#8230; Continue reading &#8594;"
+        },
+        {
+          "title": "Real GDP growth by state: First quarter 2026",
+          "link": "https://fredblog.stlouisfed.org/2026/07/real-gdp-growth-by-state-first-quarter-2026/",
+          "published": "Mon, 13 Jul 2026 13:00:00 +0000",
+          "summary": "On June 25, 2026, the Bureau of Economic Analysis released real GDP data for all US states for the first quarter of 2026. The FRED map above shows the annualized growth rates from the previous quarter: Red denotes contraction (less &#8230; Continue reading &#8594;"
+        }
+      ]
     }
   ]
 }
