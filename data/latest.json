@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-14T23:25:40+00:00",
-  "take": "Brent is heading toward a 5% weekly gain and the $100 handle as stalled US-Iran talks and fresh drone attacks on a tanker in the Strait of Hormuz tighten the geopolitical risk premium, with the market shrugging off a US crude build. The second key theme is the escalating maritime war beyond the Gulf, with Ukraine striking Ust-Luga and seeking a Black Sea shipping truce, which forces further rerouting and adds tonne-mile demand for tankers and product carriers. On flows, Asian buyers are intensifying their uptake of US crude as a substitute for Hormuz transits, whilst US West Coast refiners are pulling Malaysian fuel oil for the first time in three years, signalling a reconfiguration of global feedstock logistics. The cross-market link is clear in bunkers: Singapore VLSFO sales hit a four-month high in July as the detour economy inflates fuel consumption, and tighter Chinese checks have more than tripled sulfur-related bunker claims in H1 2026. Watch for the next 24 hours for any further UKMTO incident reports in the Strait and the Baker Hughes rig count follow-through, as the US count rose this week and higher prices are incentivising additional drilling.",
+  "generated_at_utc": "2026-08-15T23:24:17+00:00",
+  "take": "The effective closure of the Strait of Hormuz remains the dominant market driver, with a tanker hit by a drone today and Asian buyers intensifying US crude purchases as a substitute, which is tightening the Atlantic basin and supporting crude and product cracks. China's 2Q26 crude import decline, attributed to higher prices from these disrupted flows, confirms that demand destruction is already feeding back into the physical market, whilst Russia's output falling further in the second half of 2026 adds another layer of supply-side support. The surge in Somali piracy and the rerouting of hundreds of commercial ships around Africa is the key freight story, boosting tonne-mile demand for tankers and dry bulk carriers alike, though the China VLOC conveyor belt threatens to dilute the anticipated Capesize upside from Simandou. The flow angle is clear: US crude is the marginal barrel for Asia, and with Singapore bunker sales at a four-month high in July, VLSFO demand is reflecting the increased voyage lengths and vessel speeds. Watch for further UKMTO advisories on Hormuz attacks and any confirmation of the Ukraine-proposed Black Sea shipping truce, as a de-escalation there could quickly normalise freight rates in that basin.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,42 @@
       "count": 8,
       "items": [
         {
+          "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+          "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+          "published": "Sat, 15 Aug 2026 18:00:00 -0500",
+          "summary": "Aviation is often treated as one of oil's safest remaining markets. In 2026 that still looks like a reasonable assumption. Airlines are expected to consume around 104 billion gallons of fuel this year, sustainable aviation fuel remains below 1% of total use, and virtually every commercial passenger aircraft in service still depends on liquid hydrocarbons. But that view risks making the same mistak"
+        },
+        {
+          "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+          "published": "Sat, 15 Aug 2026 16:00:00 -0500",
+          "summary": "The Trump administration is pushing for a homegrown nuclear power renaissance. The United States is still the largest producer of nuclear energy in the world, but that won’t last long without drastic changes in energy policy and investment at the state and federal level. The United States’ nuclear energy fleet, while sizable, is aging out, with far more plants being decommissioned than coming onli"
+        },
+        {
+          "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+          "published": "Sat, 15 Aug 2026 14:00:00 -0500",
+          "summary": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects. However, since taking power in 2024, the Labour Party has introduced a wide range of energy policie"
+        },
+        {
+          "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
+          "published": "Sat, 15 Aug 2026 12:00:00 -0500",
+          "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude production forecast to average 8.95 million barrels per day (bpd) in 2026, before declining to around 8"
+        },
+        {
+          "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
+          "link": "https://oilprice.com/Energy/Energy-General/Mexico-Is-Betting-on-Biofuel-to-Tackle-Its-Seaweed-Crisis.html",
+          "published": "Sat, 15 Aug 2026 10:00:00 -0500",
+          "summary": "Over the past 15 years, Mexico has faced a severe seaweed problem, with vast quantities of a brown seaweed known as sargassum washing up on beaches along the Caribbean coast and hitting the tourism industry hard. Researchers are yet to find an effective way to prevent the seaweed from washing ashore or to effectively predict its movement. As the Mexican government attempts to manage the huge quant"
+        },
+        {
+          "title": "Somali Piracy Surges Amid Hormuz Blockade",
+          "link": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
+          "published": "Fri, 14 Aug 2026 19:00:00 -0500",
+          "summary": "The effective closure of the Strait of Hormuz has forced hundreds of commercial ships onto longer routes around Africa, and Somali pirates are moving quickly to exploit the sudden increase in traffic off the continent’s eastern coast. Oil tankers MT Honour 25, MT Eureka and MT Asana were hijacked in the Gulf of Aden and off Puntland between April and July 2026, the largest attacks by Somali pirate"
+        },
+        {
           "title": "Ranked: How Dirty Are the Eight Biggest Names in AI",
           "link": "https://oilprice.com/Energy/Energy-General/Ranked-How-Dirty-Are-the-Eight-Biggest-Names-in-AI.html",
           "published": "Fri, 14 Aug 2026 17:00:00 -0500",
@@ -75,42 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/Why-a-Record-Strength-El-Nio-Still-Might-Not-Save-Europes-Gas-Market.html",
           "published": "Fri, 14 Aug 2026 15:00:00 -0500",
           "summary": "Only an exceptionally strong El Niño will meaningfully ease Europe's LNG needs this winter, and forecasters currently rate that outcome as a long shot. Rystad Energy's analysis indicates that European winter temperatures would need to be at least 2 degrees Celsius above the historical average before the region's LNG demand could fall to or below last winter's level. Current forecasts point to a st"
-        },
-        {
-          "title": "Oracle’s $165 Billion Data Center Plan Hits a Gas Pipeline Delay",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oracles-165-Billion-Data-Center-Plan-Hits-a-Gas-Pipeline-Delay.html",
-          "published": "Fri, 14 Aug 2026 14:39:00 -0500",
-          "summary": "Oracle’s proposed $165 billion data center project in New Mexico has run into a decidedly low-tech problem: the natural gas pipeline meant to help power it won’t be ready on time. Energy Transfer subsidiary Transwestern Pipeline pushed the expected in-service date for its Green Chile Project from August 15 to February 1, 2027, according to a regulatory filing Friday. That six-month delay threatens"
-        },
-        {
-          "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
-          "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
-          "published": "Fri, 14 Aug 2026 13:00:00 -0500",
-          "summary": "Since returning to the White House in early 2025, President Donald Trump has consistently argued that the war in Ukraine should end through negotiations. He initially believed that direct engagement with Russian President Vladimir Putin could create conditions for a political settlement and that Moscow would ultimately be willing to compromise. Recent developments, however, indicate that Washingto"
-        },
-        {
-          "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
-          "published": "Fri, 14 Aug 2026 12:07:38 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 593, up 54 from this same time last year. The number of active oil rigs rose by 1, reaching 455 during the latest reporting period, according to the data. This is 43 above this same time last year. Th"
-        },
-        {
-          "title": "South Africa’s Top Court Blocks Shell Wild Coast Exploration",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/South-Africas-Top-Court-Blocks-Shell-Wild-Coast-Exploration.html",
-          "published": "Fri, 14 Aug 2026 11:30:00 -0500",
-          "summary": "South Africa’s Constitutional Court has blocked Shell-led exploration along the country’s Wild Coast, adding another legal setback to an offshore sector already struggling to keep pace with neighboring Namibia. The country’s highest court on Friday overturned a 2024 Supreme Court of Appeal ruling that had preserved a pathway for Shell and Impact Africa to conduct seismic surveys off South Africa’s"
-        },
-        {
-          "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-          "published": "Fri, 14 Aug 2026 11:21:21 -0500",
-          "summary": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100. Friday, August 14, 2026 Crude oil prices are set to post a 5% weekly gain after this week quashed hopes (for the umpteenth time) of a negotiated US-Iran settlement, with Tehran ratcheting up its strikes on ships attempting to transit the Strait of Hormuz, whilst the White House doubled down"
-        },
-        {
-          "title": "U.S. West Coast Refiners Tap Malaysian Supply",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-West-Coast-Refiners-Tap-Malaysian-Supply.html",
-          "published": "Fri, 14 Aug 2026 10:30:00 -0500",
-          "summary": "A cargo of fuel oil from Malaysia is making its way to a refinery on the U.S. West Coast in the first such shipment in three years as global supply of feedstock for refineries has tightened in recent months due to the closure of the Strait of Hormuz. The Solomon Sea tanker, laden with more than 540,000 barrels of low-sulfur and straight-run (LSSR) fuel oil, departed from Malaysia’s PRefChem refine"
         }
       ]
     },
