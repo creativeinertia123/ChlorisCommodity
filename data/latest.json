@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-15T23:24:17+00:00",
-  "take": "The effective closure of the Strait of Hormuz remains the dominant market driver, with a tanker hit by a drone today and Asian buyers intensifying US crude purchases as a substitute, which is tightening the Atlantic basin and supporting crude and product cracks. China's 2Q26 crude import decline, attributed to higher prices from these disrupted flows, confirms that demand destruction is already feeding back into the physical market, whilst Russia's output falling further in the second half of 2026 adds another layer of supply-side support. The surge in Somali piracy and the rerouting of hundreds of commercial ships around Africa is the key freight story, boosting tonne-mile demand for tankers and dry bulk carriers alike, though the China VLOC conveyor belt threatens to dilute the anticipated Capesize upside from Simandou. The flow angle is clear: US crude is the marginal barrel for Asia, and with Singapore bunker sales at a four-month high in July, VLSFO demand is reflecting the increased voyage lengths and vessel speeds. Watch for further UKMTO advisories on Hormuz attacks and any confirmation of the Ukraine-proposed Black Sea shipping truce, as a de-escalation there could quickly normalise freight rates in that basin.",
+  "generated_at_utc": "2026-08-16T23:23:37+00:00",
+  "take": "The market remains hostage to Strait of Hormuz dynamics, with a tanker hit by a drone over the weekend underscoring that the closure is not a clean, binary event, even as the US claims Middle East exports have rebounded to 15 million bpd against a pre-war average of 20 million bpd. This supply overhang is the single most critical driver for crude and products, as the threat premium persists despite the purported flow normalisation, keeping Brent and Dubai spreads elevated and refining margins volatile. In freight, the \"detour economy\" is the defining theme, with the Black Sea truce sought by Ukraine and the strike on Ust-Luga highlighting that war risk is stretching into the Baltic, which will keep tonne-mile demand and war risk premiums firm for tankers and bulkers alike. On flows, China's Q2 crude import drop confirms that higher prices from the disrupted Hormuz flows are already destroying marginal demand, whilst Asian buyers intensifying purchases of US crude as an alternative transit route points to a structural shift in arbitrage economics that will support the VLCC and suezmax market. Watch for any further UKMTO incident reports in the Strait over the next 24 hours, as a second successful drone strike on a commercial vessel would likely force a re-rating of the risk premium and send bunker prices in Singapore, which hit a four-month high in July, sharply higher.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
+          "published": "Sun, 16 Aug 2026 18:00:00 -0500",
+          "summary": "U.S. Energy Secretary Chris Wright this week said that the oil exports from the Middle East have rebounded to 15 million barrels per day (bpd) and even topped the pre-war average of 20 million bpd on Sunday. Vessel-tracking services and commodity analysts are baffled and struggling to reconcile these numbers with their observations of tanker loadings and traffic in the region. Ship-tracking data s"
+        },
+        {
+          "title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
+          "published": "Sun, 16 Aug 2026 16:00:00 -0500",
+          "summary": "With less than three full months left until the start of heating season in much of Europe, the issue of gas inventories is becoming increasingly pressing. Current inventory levels are at the lowest in 17 years, and supply available for purchase is tighter than it was back in 2022. Yet Europe needs to start buying gas now—or risk shortages. The energy import dependence of most of Europe has been in"
+        },
+        {
+          "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
+          "published": "Sun, 16 Aug 2026 14:00:00 -0500",
+          "summary": "Oil prices have soared in recent months as a result of the almost complete closure of the Strait of Hormuz, a key trade corridor connecting Asia and Europe. High fossil fuel prices have helped to drive up the profits of oil and gas companies around the globe, particularly in the United States and Europe. As a few companies boost production to fill the gap, some oil majors have seen record earnings"
+        },
+        {
+          "title": "AI Set to Extend Fossil Fuel Dominance",
+          "link": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
+          "published": "Sun, 16 Aug 2026 12:00:00 -0500",
+          "summary": "AI's energy footprint is out of control. Hyperscalers are building out data centers faster than the energy industry can keep up with, pushing for the rapid buildout of any form of energy we have at our disposal, clean or dirty. Silicon Valley's leadership in the decarbonization movement and bold net-zero pledges are a thing of the past. But a new study warns that the biggest issue with AI's carbon"
+        },
+        {
+          "title": "The Trillion-Dollar Problem at the Heart of the AI Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
+          "published": "Sun, 16 Aug 2026 10:00:00 -0500",
+          "summary": "Take your pick of alarmist projections about the future of the global economy from top tech leaders. Monzo’s founder, Tom Blomfield, reckons unemployment will surge over the next five years as more and more human output is replaced by AI. Elon Musk reckons it will be near 100 per cent in a decade. But projections are one thing. What is actually happening on the ground right now? I’ve been sent som"
+        },
+        {
           "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
           "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
           "published": "Sat, 15 Aug 2026 18:00:00 -0500",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
           "published": "Sat, 15 Aug 2026 14:00:00 -0500",
           "summary": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects. However, since taking power in 2024, the Labour Party has introduced a wide range of energy policie"
-        },
-        {
-          "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
-          "published": "Sat, 15 Aug 2026 12:00:00 -0500",
-          "summary": "Following a year of tighter sanctions and Ukrainian attacks on refineries, ports and tankers, Russia’s crude output has fallen further in the second half of 2026, severely affecting the nation’s crude production outlook. Factoring in these disruptions, Rystad Energy has revised its Russian crude production forecast to average 8.95 million barrels per day (bpd) in 2026, before declining to around 8"
-        },
-        {
-          "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
-          "link": "https://oilprice.com/Energy/Energy-General/Mexico-Is-Betting-on-Biofuel-to-Tackle-Its-Seaweed-Crisis.html",
-          "published": "Sat, 15 Aug 2026 10:00:00 -0500",
-          "summary": "Over the past 15 years, Mexico has faced a severe seaweed problem, with vast quantities of a brown seaweed known as sargassum washing up on beaches along the Caribbean coast and hitting the tourism industry hard. Researchers are yet to find an effective way to prevent the seaweed from washing ashore or to effectively predict its movement. As the Mexican government attempts to manage the huge quant"
-        },
-        {
-          "title": "Somali Piracy Surges Amid Hormuz Blockade",
-          "link": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
-          "published": "Fri, 14 Aug 2026 19:00:00 -0500",
-          "summary": "The effective closure of the Strait of Hormuz has forced hundreds of commercial ships onto longer routes around Africa, and Somali pirates are moving quickly to exploit the sudden increase in traffic off the continent’s eastern coast. Oil tankers MT Honour 25, MT Eureka and MT Asana were hijacked in the Gulf of Aden and off Puntland between April and July 2026, the largest attacks by Somali pirate"
-        },
-        {
-          "title": "Ranked: How Dirty Are the Eight Biggest Names in AI",
-          "link": "https://oilprice.com/Energy/Energy-General/Ranked-How-Dirty-Are-the-Eight-Biggest-Names-in-AI.html",
-          "published": "Fri, 14 Aug 2026 17:00:00 -0500",
-          "summary": "Big Tech companies are quietly moving farther and farther away from their decarbonization goals. Back in 2019, Amazon pledged to become carbon neutral by 2040, thereby setting a goalpost ten years ahead of the Paris climate agreement in a show of dedication to becoming a leader in decarbonization. The next year, in 2020, Google and Microsoft upped the ante when each pledged to become carbon-free b"
-        },
-        {
-          "title": "Why a Record-Strength El Niño Still Might Not Save Europe's Gas Market",
-          "link": "https://oilprice.com/Energy/Energy-General/Why-a-Record-Strength-El-Nio-Still-Might-Not-Save-Europes-Gas-Market.html",
-          "published": "Fri, 14 Aug 2026 15:00:00 -0500",
-          "summary": "Only an exceptionally strong El Niño will meaningfully ease Europe's LNG needs this winter, and forecasters currently rate that outcome as a long shot. Rystad Energy's analysis indicates that European winter temperatures would need to be at least 2 degrees Celsius above the historical average before the region's LNG demand could fall to or below last winter's level. Current forecasts point to a st"
         }
       ]
     },
@@ -120,6 +120,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Diana pulls plug on Genco takeover",
+          "link": "https://splash247.com/diana-pulls-plug-on-genco-takeover/",
+          "published": "Sun, 16 Aug 2026 20:00:00 +0000",
+          "summary": "Greece&#8217;s Diana Shipping has pulled its takeover offer for Genco Shipping &#38; Trading after the US bulker owner set out terms that Diana said would value the company at about $36.91 per share, ending the current push after nine months of increasingly bitter dealmaking. Genco’s board asked for $27.50 per share in cash, another $2 &#8230;"
+        },
+        {
+          "title": "Fujian Highton expands MPP newbuild programme with fresh pair",
+          "link": "https://splash247.com/fujian-highton-expands-mpp-newbuild-programme-with-fresh-pair/",
+          "published": "Sun, 16 Aug 2026 19:55:00 +0000",
+          "summary": "Chinese owner Fujian Highton Development has returned to Taizhou Kouan Shipbuilding for two more multipurpose heavylift newbuildings, taking its programme at the yard to nine ships. Wholly owned Haitong International Shipping has signed for the two 62,000 dwt vessels, with total investment capped at RMB600m ($89m) before tax. The ships will be financed through a &#8230;"
+        },
+        {
+          "title": "Amoysailing puts Watts Energy on shipbuilding map with kamsarmax quartet",
+          "link": "https://splash247.com/amoysailing-puts-watts-energy-on-shipbuilding-map-with-kamsarmax-quartet/",
+          "published": "Sun, 16 Aug 2026 19:50:00 +0000",
+          "summary": "Xiamen-based bulker owner Amoysailing Maritime has booked four 82,000 dwt kamsarmaxes at Jiangsu Watts Energy &#38; Engineering, handing the Chinese yard its first newbuilding contract. The quartet is scheduled for delivery in 2028. No price has been disclosed, although shipbuilding sources put standard Chinese-built 82,000 dwt kamsarmaxes at around $35m to $38m each, with higher-specification &#8"
+        },
+        {
+          "title": "DOF lands APAC subsea double worth up to $50m",
+          "link": "https://splash247.com/dof-lands-apac-subsea-double-worth-up-to-50m/",
+          "published": "Sun, 16 Aug 2026 19:34:00 +0000",
+          "summary": "Norwegian offshore vessel owner DOF has secured two new subsea service contracts in the Asia-Pacific region worth a combined $25m to $50m. The two offshore campaigns will be carried out across 2026 and 2027, with a combined duration of around 80 days. DOF said multipurpose vessels from its regional fleet will be deployed alongside the &#8230;"
+        },
         {
           "title": "Franbo adds Japanese newbuild to growing MPP programme",
           "link": "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/",
@@ -143,30 +167,6 @@
           "link": "https://splash247.com/splash-wrap-the-detour-economy/",
           "published": "Fri, 14 Aug 2026 08:00:02 +0000",
           "summary": "Shipping has always made money from distance. Increasingly, it is also having to make peace with detours. The defining theme of the week was an industry being forced to find another way around war, drought and infrastructure that can no longer be relied upon. Sometimes the detour means sailing thousands of extra miles. Sometimes it &#8230;"
-        },
-        {
-          "title": "Seven die in toxic gas leak at Bangladesh shipbreaking yard",
-          "link": "https://splash247.com/seven-die-in-toxic-gas-leak-at-bangladesh-shipbreaking-yard/",
-          "published": "Fri, 14 Aug 2026 07:30:02 +0000",
-          "summary": "Seven workers have been reported dead after a toxic gas leak at a ship recycling yard in Bangladesh. The accident occurred on Friday morning at Ferdous Steel Ship Recycling Industries in Bhatiyari, Sitakunda, a facility authorised under the IMO&#8217;s Hong Kong Convention on ship recycling. Local news agency UNB reported that two workers died at &#8230;"
-        },
-        {
-          "title": "Minsheng steps up tanker push with $500m VLCC order",
-          "link": "https://splash247.com/minsheng-steps-up-tanker-push-with-500m-vlcc-order/",
-          "published": "Fri, 14 Aug 2026 07:15:57 +0000",
-          "summary": "Minsheng Financial Leasing has lined up four VLCC newbuildings in China in a deal worth around $500m, extending a rapid run of charter-backed shipping investments by the Chinese lessor. Shipbuilding sources have linked Minsheng to four 319,000 dwt vessels at Jiangsu New Hantong Ship Heavy Industry, priced at around $125m each. The quartet is being &#8230;"
-        },
-        {
-          "title": "Pantheon Tankers returns to MR newbuilds with China order",
-          "link": "https://splash247.com/pantheon-tankers-returns-to-mr-newbuilds-with-china-order/",
-          "published": "Fri, 14 Aug 2026 06:48:54 +0000",
-          "summary": "Anna Angelicoussis-led Pantheon Tankers has returned to the MR newbuilding market with a fresh order in China, ending a lengthy absence from the segment. The Athens-based tanker major has been linked to a new MR construction deal at COSCO Guangdong Shipyard for a pair of 50,000 dwt newbuilds. Details covering price and delivery dates have &#8230;"
-        },
-        {
-          "title": "Four-year-old cape fetches $78m",
-          "link": "https://splash247.com/four-year-old-cape-fetches-78m/",
-          "published": "Fri, 14 Aug 2026 05:58:01 +0000",
-          "summary": "Japanese owners continue to cash in as buyer appetite for quality Japanese-built tonnage pushes values higher.&#160; This week sources have revealed an exceptionally rare sale&#160;by Doun Kisen, one of Japan’s largest private tonnage providers. The Okochi family-controlled firm is trimming its 20-ship strong cape arm, selling the 2022-built Princess Eternity for around $78m. The 182,00 &#8230;"
         }
       ]
     },
