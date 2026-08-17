@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-16T23:23:37+00:00",
-  "take": "The market remains hostage to Strait of Hormuz dynamics, with a tanker hit by a drone over the weekend underscoring that the closure is not a clean, binary event, even as the US claims Middle East exports have rebounded to 15 million bpd against a pre-war average of 20 million bpd. This supply overhang is the single most critical driver for crude and products, as the threat premium persists despite the purported flow normalisation, keeping Brent and Dubai spreads elevated and refining margins volatile. In freight, the \"detour economy\" is the defining theme, with the Black Sea truce sought by Ukraine and the strike on Ust-Luga highlighting that war risk is stretching into the Baltic, which will keep tonne-mile demand and war risk premiums firm for tankers and bulkers alike. On flows, China's Q2 crude import drop confirms that higher prices from the disrupted Hormuz flows are already destroying marginal demand, whilst Asian buyers intensifying purchases of US crude as an alternative transit route points to a structural shift in arbitrage economics that will support the VLCC and suezmax market. Watch for any further UKMTO incident reports in the Strait over the next 24 hours, as a second successful drone strike on a commercial vessel would likely force a re-rating of the risk premium and send bunker prices in Singapore, which hit a four-month high in July, sharply higher.",
+  "generated_at_utc": "2026-08-17T23:26:42+00:00",
+  "take": "The dominant crude story is the Strait of Hormuz closure, which has already forced China's crude imports lower in Q2 and is now distorting product flows, with Russia taking its first gasoline cargo from India as Ukrainian strikes cripple domestic refining capacity. The second theme is the structural shift in US freight demand, where automation, AI and electric trucks threaten to erode diesel consumption over the medium term, a bearish signal for middle-distillate cracks that the market is only beginning to price. On flows, the quadrupling of waterborne shipments from the US Gulf Coast to the West Coast following the Jones Act waiver highlights how infrastructure bottlenecks are being circumvented, adding tonne-mile demand for clean product tankers whilst normalising regional differentials. The cross-market link is clear: LNG dual-fuel adoption in VLCCs and bunker demand for low-carbon ammonia are accelerating, but the immediate read-across is that gasoil strength from Russian product shortages will keep HSFO cracks under pressure as refineries maximise distillate yields. Watch for further escalation in the Strait of Hormuz and any confirmation of additional Indian gasoline cargoes to Russia, which would signal that the product supply crunch is broadening beyond a regional issue.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Waterborne shipments from the U.S. Gulf Coast increased in April and May",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=67964",
+          "published": "Mon, 17 Aug 2026  09:00:00 EST",
+          "summary": "Waterborne shipments of crude oil and petroleum products from the U.S. Gulf Coast (PADD 3) to the West Coast (PADD 5) more than quadrupled year-on-year in April and May following a waiver that permitted a broader group of ships to travel between U.S. ports. Shipments from the U.S. Gulf Coast to the East Coast (PADD 1) also increased."
+        },
         {
           "title": "United States on track for record natural gas production in 2026",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=67944",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=67904",
           "published": "Wed, 29 Jul 2026  09:00:00 EST",
           "summary": "The value of energy trade between the United States and Canada fell by 11% in 2025 to an estimated $137 billion, according to data from the U.S. Census Bureau. Energy trade value is the total value of energy imports and exports between two countries and is driven by commodity volumes and prices. Most of the U.S.-Canada trade value is U.S. energy imports from Canada—$111 billion in 2025—rather than"
-        },
-        {
-          "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
-          "published": "Mon, 27 Jul 2026  09:00:00 EST",
-          "summary": "In the second quarter of 2026 (2Q26), 24% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, up from 22% in 2Q25. Between 2Q25 and 2Q26, hybrid electric vehicles continued to gain market share, reaching a record 16% of light-duty vehicle sales. The market shares of battery electric and plug-in hybrid electric vehicles d"
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Have Middle East Oil Flows Rebounded to 15 Million Bpd as U.S. Claims?",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Have-Middle-East-Oil-Flows-Rebounded-to-15-Million-Bpd-as-US-Claims.html",
-          "published": "Sun, 16 Aug 2026 18:00:00 -0500",
-          "summary": "U.S. Energy Secretary Chris Wright this week said that the oil exports from the Middle East have rebounded to 15 million barrels per day (bpd) and even topped the pre-war average of 20 million bpd on Sunday. Vessel-tracking services and commodity analysts are baffled and struggling to reconcile these numbers with their observations of tanker loadings and traffic in the region. Ship-tracking data s"
+          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+          "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
+          "published": "Mon, 17 Aug 2026 18:00:00 -0500",
+          "summary": "U.S. oil companies dominating the shale patch are planning to trim their spending plans and instead take advantage of higher international oil prices to reduce debt and boost shareholder returns. This is bad news for production growth. Bloomberg reported earlier this month that all the big names in shale had reduced their spending over the first six months of the year. Chevron and ConocoPhillips s"
         },
         {
-          "title": "Europe’s Gas Storage Crunch Deepens Ahead of Heating Season",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Europes-Gas-Storage-Crunch-Deepens-Ahead-of-Heating-Season.html",
-          "published": "Sun, 16 Aug 2026 16:00:00 -0500",
-          "summary": "With less than three full months left until the start of heating season in much of Europe, the issue of gas inventories is becoming increasingly pressing. Current inventory levels are at the lowest in 17 years, and supply available for purchase is tighter than it was back in 2022. Yet Europe needs to start buying gas now—or risk shortages. The energy import dependence of most of Europe has been in"
+          "title": "Automation Could Start Eating Into U.S. Diesel Demand",
+          "link": "https://oilprice.com/Energy/Energy-General/Automation-Could-Start-Eating-Into-US-Diesel-Demand.html",
+          "published": "Mon, 17 Aug 2026 17:00:00 -0500",
+          "summary": "The rise of automation, AI, and electric trucks can fundamentally change the freight transportation industry in the United States, leading to a revolution in transport fuel demand. Various vehicle and technology companies and U.S. cities and states have launched in recent years automation trucking pilot programs. In barge transportation on the Mississippi River, AI-assisted co-pilot projects are a"
         },
         {
-          "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
-          "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Reap-93-Billion-Windfall-From-the-Iran-War.html",
-          "published": "Sun, 16 Aug 2026 14:00:00 -0500",
-          "summary": "Oil prices have soared in recent months as a result of the almost complete closure of the Strait of Hormuz, a key trade corridor connecting Asia and Europe. High fossil fuel prices have helped to drive up the profits of oil and gas companies around the globe, particularly in the United States and Europe. As a few companies boost production to fill the gap, some oil majors have seen record earnings"
+          "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
+          "published": "Mon, 17 Aug 2026 16:00:00 -0500",
+          "summary": "The proposed Libya–Egypt crude oil pipeline has, surprisingly quickly, entered a phase in which Cairo and Tripoli are actively discussing it. The pipeline, expected to be 800 kilometers long, will connect Tobruk in eastern Libya to Egypt’s port of Alexandria, allowing Libyan crude to flow directly into Egypt's Mediterranean refining system. With an expected cost of over $1 billion, it represents a"
         },
         {
-          "title": "AI Set to Extend Fossil Fuel Dominance",
-          "link": "https://oilprice.com/Energy/Energy-General/AI-Set-to-Extend-Fossil-Fuel-Dominance.html",
-          "published": "Sun, 16 Aug 2026 12:00:00 -0500",
-          "summary": "AI's energy footprint is out of control. Hyperscalers are building out data centers faster than the energy industry can keep up with, pushing for the rapid buildout of any form of energy we have at our disposal, clean or dirty. Silicon Valley's leadership in the decarbonization movement and bold net-zero pledges are a thing of the past. But a new study warns that the biggest issue with AI's carbon"
+          "title": "The Next Energy Crisis Could Be a Water Crisis",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
+          "published": "Mon, 17 Aug 2026 15:00:00 -0500",
+          "summary": "Strategic shortfalls? Maybe in getting cobalt out of the Congo or rare earth powders from China or natural gas from Russia or oil from the Persian Gulf? Or maybe something closer to home. Thanks to climate change (yes, just say it and hope the big boss doesn’t hear you), temperatures have risen, and rainfall patterns have changed dramatically. As an example of the consequences, the Colorado River’"
         },
         {
-          "title": "The Trillion-Dollar Problem at the Heart of the AI Boom",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Trillion-Dollar-Problem-at-the-Heart-of-the-AI-Boom.html",
-          "published": "Sun, 16 Aug 2026 10:00:00 -0500",
-          "summary": "Take your pick of alarmist projections about the future of the global economy from top tech leaders. Monzo’s founder, Tom Blomfield, reckons unemployment will surge over the next five years as more and more human output is replaced by AI. Elon Musk reckons it will be near 100 per cent in a decade. But projections are one thing. What is actually happening on the ground right now? I’ve been sent som"
+          "title": "Carbon Capture’s Biggest Problem Isn’t Capturing Carbon",
+          "link": "https://oilprice.com/Energy/Energy-General/Carbon-Captures-Biggest-Problem-Isnt-Capturing-Carbon.html",
+          "published": "Mon, 17 Aug 2026 14:00:00 -0500",
+          "summary": "Carbon capture is still debated as if technical performance were the decisive question. Can a solvent remove carbon dioxide from flue gas? Can the CO2 be compressed, transported and injected underground? Will the storage remain secure? These questions matter, but they no longer explain why most announced projects do not reach construction. The missing component is usually commercial. A cement plan"
         },
         {
-          "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
-          "link": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
-          "published": "Sat, 15 Aug 2026 18:00:00 -0500",
-          "summary": "Aviation is often treated as one of oil's safest remaining markets. In 2026 that still looks like a reasonable assumption. Airlines are expected to consume around 104 billion gallons of fuel this year, sustainable aviation fuel remains below 1% of total use, and virtually every commercial passenger aircraft in service still depends on liquid hydrocarbons. But that view risks making the same mistak"
+          "title": "Russia Receives First Gasoline Cargo From India as Fuel Shortages Spread",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Receives-First-Gasoline-Cargo-From-India-as-Fuel-Shortages-Spread.html",
+          "published": "Mon, 17 Aug 2026 13:30:00 -0500",
+          "summary": "Russia has received its first gasoline cargo from India as Ukrainian attacks knock out refining capacity and a second wave of fuel shortages spreads across at least 10 Russian regions, Reuters reported on Monday. The roughly 68,000-metric-ton cargo was produced by Nayara Energy at its Vadinar refinery in western India and delivered to Russia’s Arctic port of Vitino after a ship-to-ship transfer at"
         },
         {
-          "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
-          "published": "Sat, 15 Aug 2026 16:00:00 -0500",
-          "summary": "The Trump administration is pushing for a homegrown nuclear power renaissance. The United States is still the largest producer of nuclear energy in the world, but that won’t last long without drastic changes in energy policy and investment at the state and federal level. The United States’ nuclear energy fleet, while sizable, is aging out, with far more plants being decommissioned than coming onli"
+          "title": "War and Drought Are Choking the World’s Most Vital Trade Routes",
+          "link": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html",
+          "published": "Mon, 17 Aug 2026 13:00:00 -0500",
+          "summary": "Since early March, a previously obscure waterway between Iran and Oman that very few people could name has become the subject of daily reporting around the world after Iran closed it in response to the attack on Iran by the United States and Israel. The Strait of Hormuz, which remains closed to most ships, is now known around the world as the transit point for 20 percent of the world's oil and hig"
         },
         {
-          "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
-          "published": "Sat, 15 Aug 2026 14:00:00 -0500",
-          "summary": "With a new Prime Minister in office, it is uncertain whether the United Kingdom will continue accelerating its green transition or backtrack on climate pledges to support fossil fuel development. Many have speculated that the new Labour Party PM Andy Burnham will back North Sea oil and gas projects. However, since taking power in 2024, the Labour Party has introduced a wide range of energy policie"
+          "title": "Chevron Strikes Oil and Gas Offshore Angola in Major Discovery",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Strikes-Oil-and-Gas-Offshore-Angola-in-Major-Discovery.html",
+          "published": "Mon, 17 Aug 2026 12:30:00 -0500",
+          "summary": "Chevron has announced a new oil and gas condensate discovery offshore Angola, hitting more than 2,000 feet of hydrocarbons in a Block 0 exploration well that could be tied directly into the company’s existing production infrastructure in the country. The 105-4X well encountered more than 300 feet of net pay in the Pinda reservoir in the Lower Congo Basin, with Chevron describing the reservoir qual"
         }
       ]
     },
@@ -118,57 +118,8 @@
       "source": "Splash247",
       "url": "https://splash247.com/feed/",
       "ok": true,
-      "count": 8,
-      "items": [
-        {
-          "title": "Diana pulls plug on Genco takeover",
-          "link": "https://splash247.com/diana-pulls-plug-on-genco-takeover/",
-          "published": "Sun, 16 Aug 2026 20:00:00 +0000",
-          "summary": "Greece&#8217;s Diana Shipping has pulled its takeover offer for Genco Shipping &#38; Trading after the US bulker owner set out terms that Diana said would value the company at about $36.91 per share, ending the current push after nine months of increasingly bitter dealmaking. Genco’s board asked for $27.50 per share in cash, another $2 &#8230;"
-        },
-        {
-          "title": "Fujian Highton expands MPP newbuild programme with fresh pair",
-          "link": "https://splash247.com/fujian-highton-expands-mpp-newbuild-programme-with-fresh-pair/",
-          "published": "Sun, 16 Aug 2026 19:55:00 +0000",
-          "summary": "Chinese owner Fujian Highton Development has returned to Taizhou Kouan Shipbuilding for two more multipurpose heavylift newbuildings, taking its programme at the yard to nine ships. Wholly owned Haitong International Shipping has signed for the two 62,000 dwt vessels, with total investment capped at RMB600m ($89m) before tax. The ships will be financed through a &#8230;"
-        },
-        {
-          "title": "Amoysailing puts Watts Energy on shipbuilding map with kamsarmax quartet",
-          "link": "https://splash247.com/amoysailing-puts-watts-energy-on-shipbuilding-map-with-kamsarmax-quartet/",
-          "published": "Sun, 16 Aug 2026 19:50:00 +0000",
-          "summary": "Xiamen-based bulker owner Amoysailing Maritime has booked four 82,000 dwt kamsarmaxes at Jiangsu Watts Energy &#38; Engineering, handing the Chinese yard its first newbuilding contract. The quartet is scheduled for delivery in 2028. No price has been disclosed, although shipbuilding sources put standard Chinese-built 82,000 dwt kamsarmaxes at around $35m to $38m each, with higher-specification &#8"
-        },
-        {
-          "title": "DOF lands APAC subsea double worth up to $50m",
-          "link": "https://splash247.com/dof-lands-apac-subsea-double-worth-up-to-50m/",
-          "published": "Sun, 16 Aug 2026 19:34:00 +0000",
-          "summary": "Norwegian offshore vessel owner DOF has secured two new subsea service contracts in the Asia-Pacific region worth a combined $25m to $50m. The two offshore campaigns will be carried out across 2026 and 2027, with a combined duration of around 80 days. DOF said multipurpose vessels from its regional fleet will be deployed alongside the &#8230;"
-        },
-        {
-          "title": "Franbo adds Japanese newbuild to growing MPP programme",
-          "link": "https://splash247.com/franbo-adds-japanese-newbuild-to-growing-mpp-programme/",
-          "published": "Fri, 14 Aug 2026 09:33:00 +0000",
-          "summary": "Taiwan’s Franbo Lines is taking its fast-growing multipurpose newbuilding programme back to Japan, approving a $29m vessel that lifts its MPP expansion slate to 12 ships. The Taipei-listed owner has cleared a 16,500 dwt Singapore-flagged newbuild at an unidentified Japanese yard through newly established vessel-owning vehicle Franbo Jade. No delivery date has been disclosed. The &#8230;"
-        },
-        {
-          "title": "Ukraine seeks Black Sea shipping truce as drones hit Ust-Luga",
-          "link": "https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/",
-          "published": "Fri, 14 Aug 2026 08:37:09 +0000",
-          "summary": "Ukraine is seeking a halt to attacks on civilian shipping in the Black Sea even as its expanding maritime war against Russia stretches more than 1,000 km north to one of Moscow’s most important Baltic energy export hubs. Kyiv has proposed through a third party that Russia and Ukraine mutually suspend attacks on civilian targets &#8230;"
-        },
-        {
-          "title": "China’s VLOC conveyor belt threatens to dilute Simandou cape upside",
-          "link": "https://splash247.com/chinas-vloc-conveyor-belt-threatens-to-dilute-simandou-cape-upside/",
-          "published": "Fri, 14 Aug 2026 08:30:07 +0000",
-          "summary": "Capesize owners counting on Simandou to transform dry bulk shipping may need to temper their expectations, with growing evidence that much of the new Guinea-China iron ore trade is developing into a tightly controlled conveyor belt dominated by very large ore carriers. Broker SSY noted in a new market report that VLOCs of more than &#8230;"
-        },
-        {
-          "title": "Splash Wrap: The detour economy",
-          "link": "https://splash247.com/splash-wrap-the-detour-economy/",
-          "published": "Fri, 14 Aug 2026 08:00:02 +0000",
-          "summary": "Shipping has always made money from distance. Increasingly, it is also having to make peace with detours. The defining theme of the week was an industry being forced to find another way around war, drought and infrastructure that can no longer be relied upon. Sometimes the detour means sailing thousands of extra miles. Sometimes it &#8230;"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "source": "Ship & Bunker",
@@ -177,52 +128,52 @@
       "count": 8,
       "items": [
         {
-          "title": "U.S. Stranglehold On Iran Amid Hormuz Attacks Triggers Resumption Of Oil Gains",
-          "link": "https://shipandbunker.com/news/world/510311-us-stranglehold-on-iran-amid-hormuz-attacks-triggers-resumption-of-oil-gains",
-          "published": "Fri, 14 Aug 2026 12:41:00 +0000",
-          "summary": "Meanwhile, Asian buyers of U.S. crude intensify as an alternative to Hormuz transits."
+          "title": "Everllence and Hudong-Zhonghua Plan New Dual-Fuel Hybrid LNG Carrier",
+          "link": "https://shipandbunker.com/news/apac/534657-everllence-and-hudong-zhonghua-plan-new-dual-fuel-hybrid-lng-carrier",
+          "published": "Mon, 17 Aug 2026 10:28:01 +0000",
+          "summary": "The 180,000 m3 LNG carrier will feature Everllence&#039;s dual-fuel hybrid-electric propulsion system."
         },
         {
-          "title": "Port of Callao Gets Latin America's First Shore Power System",
-          "link": "https://shipandbunker.com/news/am/385175-port-of-callao-gets-latin-americas-first-shore-power-system",
-          "published": "Fri, 14 Aug 2026 11:11:49 +0000",
-          "summary": "The system at DP World Callao is expected to cut more than 6,300 tonnes of CO2 emissions a year."
+          "title": "MOL Names LNG Dual-Fuel VLCC for Equinor",
+          "link": "https://shipandbunker.com/news/world/794294-mol-names-lng-dual-fuel-vlcc-for-equinor",
+          "published": "Mon, 17 Aug 2026 09:48:01 +0000",
+          "summary": "The vessel features LNG fuel tank with a capacity of more than 10,000 m3."
         },
         {
-          "title": "Fratelli Cosulich Methanol-Ready Bunker Tanker Launched in China",
-          "link": "https://shipandbunker.com/news/world/196539-fratelli-cosulich-methanol-ready-bunker-tanker-launched-in-china",
-          "published": "Fri, 14 Aug 2026 09:28:02 +0000",
-          "summary": "The bunker tanker is designed to allow future conversion to methanol propulsion."
+          "title": "Carnival Orders Air Lubrication Systems for Three LNG-Fuelled Cruise Ships",
+          "link": "https://shipandbunker.com/news/world/696019-carnival-orders-air-lubrication-systems-for-three-lng-fuelled-cruise-ships",
+          "published": "Mon, 17 Aug 2026 08:47:03 +0000",
+          "summary": "The technology will help reduce hull friction, fuel consumption and emissions on Carnival&#039;s three new LNG-fuelled cruise ships."
         },
         {
-          "title": "Tanker Hit by Drone in Strait of Hormuz: UKMTO",
-          "link": "https://shipandbunker.com/news/emea/982830-tanker-hit-by-drone-in-strait-of-hormuz-ukmto",
-          "published": "Fri, 14 Aug 2026 09:13:51 +0000",
-          "summary": "The vessel sustained minor damage, while the crew was reported safe."
+          "title": "Morocco Ammonia Project Targets Shipping Demand",
+          "link": "https://shipandbunker.com/news/emea/992603-morocco-ammonia-project-targets-shipping-demand",
+          "published": "Mon, 17 Aug 2026 07:20:59 +0000",
+          "summary": "The proposed project is expected to produce around 560,000 tonnes/year of low-carbon ammonia."
         },
         {
-          "title": "Sulfur Bunker Claims Rise as China Steps Up Checks: Gard",
-          "link": "https://shipandbunker.com/news/apac/868675-sulfur-bunker-claims-rise-as-china-steps-up-checks-gard",
-          "published": "Fri, 14 Aug 2026 08:52:58 +0000",
-          "summary": "Gard says sulfur-related bunker claims more than tripled in the first half of 2026 amid tighter checks in China."
+          "title": "BUNKER JOBS: Trafigura Seeks Bunker Operator in Madrid",
+          "link": "https://shipandbunker.com/news/emea/431902-bunker-jobs-trafigura-seeks-bunker-operator-in-madrid",
+          "published": "Mon, 17 Aug 2026 06:53:03 +0000",
+          "summary": "The company is looking for candidates with a minimum of two years of experience in bunker or oil operations, marine fuel trading, or shipping operations."
         },
         {
-          "title": "MPC Container Ships Christens Methanol Dual-Fuel Boxship",
-          "link": "https://shipandbunker.com/news/emea/256128-mpc-container-ships-christens-methanol-dual-fuel-boxship",
-          "published": "Fri, 14 Aug 2026 08:29:28 +0000",
-          "summary": "The 1,250 TEU capacity vessel will be deployed in Northern Europe."
+          "title": "EPS Completes 700th LNG Bunkering Operation",
+          "link": "https://shipandbunker.com/news/world/822201-eps-completes-700th-lng-bunkering-operation",
+          "published": "Mon, 17 Aug 2026 06:29:38 +0000",
+          "summary": "The firm has bunkered a total of 2.92 million m3 of LNG since it began using the fuel in 2020."
         },
         {
-          "title": "ANALYSIS: Singapore Bunker Sales Rose to Four-Month High in July",
-          "link": "https://shipandbunker.com/news/apac/468908-analysis-singapore-bunker-sales-rose-to-four-month-high-in-july",
-          "published": "Fri, 14 Aug 2026 07:29:34 +0000",
-          "summary": "Increased VLSFO sales accounted for much of the month-on-month gain in bunker sales volume in July."
+          "title": "New Tool to Help Shipowners Assess Ammonia Safety Readiness",
+          "link": "https://shipandbunker.com/news/world/145707-new-tool-to-help-shipowners-assess-ammonia-safety-readiness",
+          "published": "Mon, 17 Aug 2026 05:23:52 +0000",
+          "summary": "The Decarb Hub and MMMCZCS have launched new tools to support the safe adoption of ammonia as a marine fuel."
         },
         {
-          "title": "Singapore Police Arrest Tug Crew Members Over Alleged Illegal MGO Sale",
-          "link": "https://shipandbunker.com/news/apac/249810-singapore-police-arrest-tug-crew-members-over-alleged-illegal-mgo-sale",
-          "published": "Fri, 14 Aug 2026 06:15:32 +0000",
-          "summary": "The police say that the crew allegedly sold MGO worth SGD 10,570 without the company&#039;s knowledge and for personal gain."
+          "title": "BP Appoints Bunker Buyer in Singapore",
+          "link": "https://shipandbunker.com/news/apac/353328-bp-appoints-bunker-buyer-in-singapore",
+          "published": "Mon, 17 Aug 2026 04:56:22 +0000",
+          "summary": "Former Uni-Fuels senior bunker trader Shanice Ling joined BP as a bunker buyer last month."
         }
       ]
     },
@@ -232,6 +183,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "And the FTAV chart quiz winner is . . .",
+          "link": "https://www.ft.com/content/6529c240-13a6-4923-bb76-17d2baf2c733",
+          "published": "Mon, 17 Aug 2026 09:24:09 GMT",
+          "summary": "Giving a shirt"
+        },
+        {
+          "title": "People are worried about America’s solvency",
+          "link": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+          "published": "Mon, 17 Aug 2026 09:15:28 GMT",
+          "summary": "But not worried enough to actually do anything about it"
+        },
+        {
+          "title": "A leaderboard of the biggest trading losses of all time",
+          "link": "https://www.ft.com/content/340bf9e7-0e67-4d19-b671-3dc8186efb99",
+          "published": "Mon, 17 Aug 2026 07:28:50 GMT",
+          "summary": "Well, some of them, anyway"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/49e5c44c-fa4b-4534-809a-dc91969ba86f",
+          "published": "Mon, 17 Aug 2026 05:00:07 GMT",
+          "summary": "The economics of a shrinking world; taker vs maker arbitrage; pevert glasses and HMS Endeavour for sale"
+        },
         {
           "title": "Jane Street has paid up large to avoid its numbers leaking out",
           "link": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
@@ -255,30 +230,6 @@
           "link": "https://www.ft.com/content/e3cd352e-5202-4748-952f-ed623ccdc774",
           "published": "Fri, 14 Aug 2026 04:00:05 GMT",
           "summary": "The US government bond market has become a hedge fund playground"
-        },
-        {
-          "title": "Axes of Evil: office space edition",
-          "link": "https://www.ft.com/content/a547d965-eb3b-412a-9896-7d5cc37eb054",
-          "published": "Thu, 13 Aug 2026 15:17:53 GMT",
-          "summary": "IWG’s KPI chart crime revPAR excellence"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/3fc16b44-8463-4235-87e8-057a350397a8",
-          "published": "Thu, 13 Aug 2026 05:30:02 GMT",
-          "summary": "ERP; comms; scrolling; rage-bait; predictions; LinkedIn"
-        },
-        {
-          "title": "The hyperscalers’ exploding ‘purchase commitments’ reach $1.5tn",
-          "link": "https://www.ft.com/content/1fbe47a6-bbf1-4de1-973b-8ce5baea591d",
-          "published": "Thu, 13 Aug 2026 05:00:02 GMT",
-          "summary": "Spend now, spend more later"
-        },
-        {
-          "title": "America’s largest home lender falls out of the hamster wheel",
-          "link": "https://www.ft.com/content/0a4794fa-7112-436f-a311-9077fcba14b8",
-          "published": "Wed, 12 Aug 2026 13:44:57 GMT",
-          "summary": "Non-bank mortgage lending is in trouble"
         }
       ]
     },
@@ -288,6 +239,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "State minimum wages and cost of living",
+          "link": "https://fredblog.stlouisfed.org/2026/08/state-minimum-wages-and-cost-of-living/",
+          "published": "Mon, 17 Aug 2026 13:00:00 +0000",
+          "summary": "The takeaway The federal minimum wage is the lowest hourly rate employers are required to pay workers. It&#8217;s been $7.25 per hour for a while now. State minimum wages are a different story: Many are higher than the federal minimum, &#8230; Continue reading &#8594;"
+        },
         {
           "title": "What is the Texas ratio?",
           "link": "https://fredblog.stlouisfed.org/2026/08/what-is-the-texas-ratio/",
@@ -329,12 +286,6 @@
           "link": "https://fredblog.stlouisfed.org/2026/07/the-link-between-crude-oil-prices-and-airfares/",
           "published": "Thu, 23 Jul 2026 13:00:00 +0000",
           "summary": "The takeaway Crude oil is used to produce jet fuel. Changes in crude oil prices, like the ones since March 2026, can affect jet fuel prices, which may or may not affect airfares. &#160; Crude oil, jet fuel, and airfares &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "Unemployment and marriage status",
-          "link": "https://fredblog.stlouisfed.org/2026/07/unemployment-and-marriage-status/",
-          "published": "Mon, 20 Jul 2026 13:00:00 +0000",
-          "summary": "The takeaway The unemployment rate includes only those who are actively seeking a job, and seeking a job involves different incentives for married couples versus single heads of household. &#160; Unemployment by marriage status Our FRED graph above shows the &#8230; Continue reading &#8594;"
         }
       ]
     }
