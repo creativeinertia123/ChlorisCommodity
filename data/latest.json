@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-17T23:26:42+00:00",
-  "take": "The dominant crude story is the Strait of Hormuz closure, which has already forced China's crude imports lower in Q2 and is now distorting product flows, with Russia taking its first gasoline cargo from India as Ukrainian strikes cripple domestic refining capacity. The second theme is the structural shift in US freight demand, where automation, AI and electric trucks threaten to erode diesel consumption over the medium term, a bearish signal for middle-distillate cracks that the market is only beginning to price. On flows, the quadrupling of waterborne shipments from the US Gulf Coast to the West Coast following the Jones Act waiver highlights how infrastructure bottlenecks are being circumvented, adding tonne-mile demand for clean product tankers whilst normalising regional differentials. The cross-market link is clear: LNG dual-fuel adoption in VLCCs and bunker demand for low-carbon ammonia are accelerating, but the immediate read-across is that gasoil strength from Russian product shortages will keep HSFO cracks under pressure as refineries maximise distillate yields. Watch for further escalation in the Strait of Hormuz and any confirmation of additional Indian gasoline cargoes to Russia, which would signal that the product supply crunch is broadening beyond a regional issue.",
+  "generated_at_utc": "2026-08-18T23:26:36+00:00",
+  "take": "Aramco’s resumption of VLCC loadings from Ras Tanura and Juaymah after a three-week pause is the key crude story, as it signals a partial normalisation of Hormuz risk premia even with a seafarer killed in the latest strike and Iran detaining a UAE-owned tanker. The second theme is the shadow fleet’s resilience, with a 19-year-old suezmax changing hands for nearly $50m, underscoring that tanker values in the age bracket remain bid and keeping freight rates supported on replacement-cost logic. On positioning, the API print showing crude inventories down a marginal 328,000 barrels whilst distillate stocks sink further reinforces a tightening middle-of-the-barrel narrative that should keep gasoil cracks bid into the EIA release. The cross-market link is direct: the 4-million-bpd shadow pipeline bypassing Hormuz and the U.S. Gulf-to-West Coast waterborne shipments quadrupling year-on-year both add tonne-miles, which supports VLCC and clean product freight even as Saudi loadings restart. Watch for the official EIA inventory data tomorrow and any further Hormuz incident headlines, as the market will test whether the Aramco restart is a durable de-escalation or a temporary lull.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
-          "published": "Mon, 17 Aug 2026 18:00:00 -0500",
-          "summary": "U.S. oil companies dominating the shale patch are planning to trim their spending plans and instead take advantage of higher international oil prices to reduce debt and boost shareholder returns. This is bad news for production growth. Bloomberg reported earlier this month that all the big names in shale had reduced their spending over the first six months of the year. Chevron and ConocoPhillips s"
+          "title": "The U.S. Is Quietly Building a New Energy Foothold in Iraq",
+          "link": "https://oilprice.com/Energy/Natural-Gas/The-US-Is-Quietly-Building-a-New-Energy-Foothold-in-Iraq.html",
+          "published": "Tue, 18 Aug 2026 18:00:00 -0500",
+          "summary": "There have been perhaps a handful of events since the end of the Second World War that have fundamentally reshaped the world’s oil markets and consequently its geopolitics while remaining largely unnoticed at the time. The quiet agreement between U.S. President Franklin D. Roosevelt and Saudi King Abdulaziz bin Abdul Rahman Al Saud struck on 14 February 1945 that would define the energy, economic,"
         },
         {
-          "title": "Automation Could Start Eating Into U.S. Diesel Demand",
-          "link": "https://oilprice.com/Energy/Energy-General/Automation-Could-Start-Eating-Into-US-Diesel-Demand.html",
-          "published": "Mon, 17 Aug 2026 17:00:00 -0500",
-          "summary": "The rise of automation, AI, and electric trucks can fundamentally change the freight transportation industry in the United States, leading to a revolution in transport fuel demand. Various vehicle and technology companies and U.S. cities and states have launched in recent years automation trucking pilot programs. In barge transportation on the Mississippi River, AI-assisted co-pilot projects are a"
+          "title": "Peter Thiel Bets $76 Million on Argentina’s Vaca Muerta Shale",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Peter-Thiel-Bets-76-Million-on-Argentinas-Vaca-Muerta-Shale.html",
+          "published": "Tue, 18 Aug 2026 17:00:00 -0500",
+          "summary": "Palantir chairman and hedge fund owner Peter Thiel bought a 1% stake in one of the biggest companies operating in the Vaca Muerta shale formation in Argentina in the latest evidence of the play’s prospects as the world’s second-largest shale oil and gas deposit amid a global crunch. Thiel bought the stake in Vista in the form of American depositary shares worth $76 million, according to a security"
         },
         {
-          "title": "Why Libya’s Next Oil Pipeline Could Be a Geopolitical Game-Changer",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Why-Libyas-Next-Oil-Pipeline-Could-Be-a-Geopolitical-Game-Changer.html",
-          "published": "Mon, 17 Aug 2026 16:00:00 -0500",
-          "summary": "The proposed Libya–Egypt crude oil pipeline has, surprisingly quickly, entered a phase in which Cairo and Tripoli are actively discussing it. The pipeline, expected to be 800 kilometers long, will connect Tobruk in eastern Libya to Egypt’s port of Alexandria, allowing Libyan crude to flow directly into Egypt's Mediterranean refining system. With an expected cost of over $1 billion, it represents a"
+          "title": "AI Could Make Big Oil Even Bigger",
+          "link": "https://oilprice.com/Energy/Crude-Oil/AI-Could-Make-Big-Oil-Even-Bigger.html",
+          "published": "Tue, 18 Aug 2026 16:00:00 -0500",
+          "summary": "AI is changing energy systems, but data centers are only a small part of the impact. Much has been written and said about how the data center and AI boom are consuming and will consume increasingly higher shares of global electricity demand, and grids are struggling to meet soaring demand. Fossil Fuel Gains Could Outweigh Emissions Cuts from Renewables Arguably, a fundamental change in the energy "
         },
         {
-          "title": "The Next Energy Crisis Could Be a Water Crisis",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
-          "published": "Mon, 17 Aug 2026 15:00:00 -0500",
-          "summary": "Strategic shortfalls? Maybe in getting cobalt out of the Congo or rare earth powders from China or natural gas from Russia or oil from the Persian Gulf? Or maybe something closer to home. Thanks to climate change (yes, just say it and hope the big boss doesn’t hear you), temperatures have risen, and rainfall patterns have changed dramatically. As an example of the consequences, the Colorado River’"
+          "title": "Distillate Stocks Sink Further as U.S. Crude Inventories Barely Budge",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Distillate-Stocks-Sink-Further-as-US-Crude-Inventories-Barely-Budge.html",
+          "published": "Tue, 18 Aug 2026 15:56:48 -0500",
+          "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 328,000 barrels in the week ending August 14. In the week prior, US crude oil inventories rose by 9.072 million barrels on the back of increased imports, decreased exports, and a sizeable injection from the Strategic Petroleum Reserve (SPR). Commercial crude oil inventories excluding the SPR ha"
         },
         {
-          "title": "Carbon Capture’s Biggest Problem Isn’t Capturing Carbon",
-          "link": "https://oilprice.com/Energy/Energy-General/Carbon-Captures-Biggest-Problem-Isnt-Capturing-Carbon.html",
-          "published": "Mon, 17 Aug 2026 14:00:00 -0500",
-          "summary": "Carbon capture is still debated as if technical performance were the decisive question. Can a solvent remove carbon dioxide from flue gas? Can the CO2 be compressed, transported and injected underground? Will the storage remain secure? These questions matter, but they no longer explain why most announced projects do not reach construction. The missing component is usually commercial. A cement plan"
+          "title": "Only 7% of Global Green Hydrogen Capacity Was Finished on Schedule",
+          "link": "https://oilprice.com/Energy/Energy-General/Only-7-of-Global-Green-Hydrogen-Capacity-Was-Finished-on-Schedule.html",
+          "published": "Tue, 18 Aug 2026 15:00:00 -0500",
+          "summary": "Green hydrogen research and development has found itself in limbo, once again. Enthusiasm for the resource’s potential as a clean energy solution in hard-to-abate sectors like steelmaking, shipping, and transportation has waxed and waned over the last decade as the technology has made incremental progress but largely failed to meet expectations. While the war in Iran breathed some new life into th"
         },
         {
-          "title": "Russia Receives First Gasoline Cargo From India as Fuel Shortages Spread",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Receives-First-Gasoline-Cargo-From-India-as-Fuel-Shortages-Spread.html",
-          "published": "Mon, 17 Aug 2026 13:30:00 -0500",
-          "summary": "Russia has received its first gasoline cargo from India as Ukrainian attacks knock out refining capacity and a second wave of fuel shortages spreads across at least 10 Russian regions, Reuters reported on Monday. The roughly 68,000-metric-ton cargo was produced by Nayara Energy at its Vadinar refinery in western India and delivered to Russia’s Arctic port of Vitino after a ship-to-ship transfer at"
+          "title": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz",
+          "link": "https://oilprice.com/Energy/Crude-Oil/A-4-Million-Bpd-Shadow-Oil-Highway-Is-Running-Through-Hormuz.html",
+          "published": "Tue, 18 Aug 2026 14:00:00 -0500",
+          "summary": "U.S. Treasury Secretary Scott Bessent has predicted that the Strait of Hormuz will become “irrelevant” within two years, and with Gulf oil producers already building their way around it, millions of barrels may prove him right for a short time. Months into the Iran war, the UAE, Iraq, Kuwait and Qatar are moving more than 4 million barrels per day through a shadow export network of AIS-dark shuttl"
         },
         {
-          "title": "War and Drought Are Choking the World’s Most Vital Trade Routes",
-          "link": "https://oilprice.com/Energy/Energy-General/War-and-Drought-Are-Choking-the-Worlds-Most-Vital-Trade-Routes.html",
-          "published": "Mon, 17 Aug 2026 13:00:00 -0500",
-          "summary": "Since early March, a previously obscure waterway between Iran and Oman that very few people could name has become the subject of daily reporting around the world after Iran closed it in response to the attack on Iran by the United States and Israel. The Strait of Hormuz, which remains closed to most ships, is now known around the world as the transit point for 20 percent of the world's oil and hig"
+          "title": "Aramco Puts VLCCs Back Into Hormuz After Three-Week Pause",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Puts-VLCCs-Back-Into-Hormuz-After-Three-Week-Pause.html",
+          "published": "Tue, 18 Aug 2026 13:18:00 -0500",
+          "summary": "Saudi Arabia spent weeks finding ways around the Strait of Hormuz. Now it is starting to send tankers straight back through it. Saudi Aramco resumed crude loadings from its Ras Tanura and Juaymah terminals inside the strait last week, ending a three-week gap in activity at the ports, according to Kpler and Vortexa data cited by Reuters. Three VLCCs—Malaysia Prosperity, Algeria Prosperity and Singa"
         },
         {
-          "title": "Chevron Strikes Oil and Gas Offshore Angola in Major Discovery",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Strikes-Oil-and-Gas-Offshore-Angola-in-Major-Discovery.html",
-          "published": "Mon, 17 Aug 2026 12:30:00 -0500",
-          "summary": "Chevron has announced a new oil and gas condensate discovery offshore Angola, hitting more than 2,000 feet of hydrocarbons in a Block 0 exploration well that could be tied directly into the company’s existing production infrastructure in the country. The 105-4X well encountered more than 300 feet of net pay in the Pinda reservoir in the Lower Congo Basin, with Chevron describing the reservoir qual"
+          "title": "Russia Pushes Ahead With Uzbekistan Nuclear Plans Despite Money Troubles",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Russia-Pushes-Ahead-With-Uzbekistan-Nuclear-Plans-Despite-Money-Troubles.html",
+          "published": "Tue, 18 Aug 2026 13:00:00 -0500",
+          "summary": "Despite apparent financing difficulties hovering over the construction of nuclear reactors in Uzbekistan, the Russian nuclear agency Rosatom has announced it is developing a training program for Uzbek technicians who will eventually operate the plant. Rosatom specialists need to develop new, specific training modules for what is envisioned as an “integrated nuclear plant” featuring the operation o"
         }
       ]
     },
@@ -118,8 +118,57 @@
       "source": "Splash247",
       "url": "https://splash247.com/feed/",
       "ok": true,
-      "count": 0,
-      "items": []
+      "count": 8,
+      "items": [
+        {
+          "title": "Maersk tears up fleet ceiling",
+          "link": "https://splash247.com/maersk-tears-up-fleet-ceiling/",
+          "published": "Tue, 18 Aug 2026 08:47:13 +0000",
+          "summary": "Maersk appears ready to tear up one of the defining tenets of its strategy this decade, abandoning its long-standing containership capacity ceiling as Vincent Clerc prepares the Danish carrier for renewed fleet growth. Throughout container shipping’s extraordinarily profitable 2020s, Maersk repeatedly insisted its fleet would remain broadly within a 4m to 4.4m teu band, with &#8230;"
+        },
+        {
+          "title": "Seafarer killed in latest Hormuz strike",
+          "link": "https://splash247.com/seafarer-killed-in-latest-hormuz-strike/",
+          "published": "Tue, 18 Aug 2026 06:54:18 +0000",
+          "summary": "A seafarer has been killed in the latest attack on merchant shipping in the Strait of Hormuz, while Iran is claiming to have detained a UAE-owned tanker for failing to comply with Tehran’s new transit regime. The 76,801 dwt, Liberia-flagged panamax Minoan Dignity was struck by an unknown projectile yesterday evening while transiting around five &#8230;"
+        },
+        {
+          "title": "Splash Singapore: Cetus Maritime’s Tabitha Logan on moving beyond the AI buzzwords",
+          "link": "https://splash247.com/splash-singapore-cetus-maritimes-tabitha-logan-on-moving-beyond-the-ai-buzzwords/",
+          "published": "Tue, 18 Aug 2026 06:01:36 +0000",
+          "summary": "Shipping needs to move beyond the hype and buzzwords surrounding artificial intelligence and start concentrating on practical execution, human trust and whether new technology actually makes life easier for people at sea. That will be one of the key messages from Tabitha Logan of Hong Kong dry bulk owner Cetus Maritime when she takes part &#8230;"
+        },
+        {
+          "title": "Cameroon-flagged ship hijacked off Somalia",
+          "link": "https://splash247.com/cameroon-flagged-ship-hijacked-off-somalia/",
+          "published": "Tue, 18 Aug 2026 05:48:54 +0000",
+          "summary": "Somali pirates have hijacked the Cameroon-flagged general cargo ship Lutuf off the coast of Somalia, the latest incident in a renewed wave of piracy across the western Indian Ocean. Eight armed men boarded and seized control of the small 1995-built vessel yesterday. The condition of the crew remains unconfirmed. The attack adds to mounting concern &#8230;"
+        },
+        {
+          "title": "A.P. Moller Capital swoops for Moroccan logistics group Globex",
+          "link": "https://splash247.com/a-p-moller-capital-swoops-for-moroccan-logistics-group-globex/",
+          "published": "Tue, 18 Aug 2026 05:35:04 +0000",
+          "summary": "A.P. Moller Capital has agreed to acquire a majority stake in Moroccan logistics group Globex Investissement, putting capital from its recently established Morocco-focused logistics fund to work. The deal is being made through the Emerging Markets Infrastructure Fund II and APM Capital Morocco Fund. Financial terms and the size of the majority holding were not &#8230;"
+        },
+        {
+          "title": "Sonangol sells 19-year-old suezmax for nearly $50m",
+          "link": "https://splash247.com/sonangol-sells-19-year-old-suezmax-for-nearly-50m/",
+          "published": "Tue, 18 Aug 2026 04:54:06 +0000",
+          "summary": "A suezmax firmly in the shadow-fleet age bracket is changing hands for just under $50m, with the price tag showing that tanker values in this segment show no sign of cooling down. Joining a long list of suezmaxes changing hands this year is the Sonangol Namibe (158,425 dwt, built 2007 at Daewoo). To the surprise &#8230;"
+        },
+        {
+          "title": "China Merchants firms charter deal for five MPP newbuilds",
+          "link": "https://splash247.com/china-merchants-firms-charter-deal-for-five-mpp-newbuilds/",
+          "published": "Tue, 18 Aug 2026 04:13:00 +0000",
+          "summary": "China Merchants Energy Shipping (CMES) has firmed long-term charter deals for five multipurpose newbuildings, locking in another 422,500 dwt of capacity for its growing general cargo operation. The Shanghai-listed owner has signed for three 84,500 dwt ships from CMB Financial Leasing and another two from China Merchants Financial Leasing. The initial three-year charter period will &#8230;"
+        },
+        {
+          "title": "The hidden cost of the voyage you never considered",
+          "link": "https://splash247.com/the-hidden-cost-of-the-voyage-you-never-considered/",
+          "published": "Tue, 18 Aug 2026 03:00:14 +0000",
+          "summary": "Natalia Liashenko, the CEO of Marine Solver, on making the invisible visible in shipping. Shipping is entering an era of technological pragmatism. It is no longer enough to promise that technology will make operations faster or smarter; companies want measurable results and a clear path to return on investment. That expectation is reasonable. Software, integration &#8230;"
+        }
+      ]
     },
     {
       "source": "Ship & Bunker",
@@ -128,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Everllence and Hudong-Zhonghua Plan New Dual-Fuel Hybrid LNG Carrier",
-          "link": "https://shipandbunker.com/news/apac/534657-everllence-and-hudong-zhonghua-plan-new-dual-fuel-hybrid-lng-carrier",
-          "published": "Mon, 17 Aug 2026 10:28:01 +0000",
-          "summary": "The 180,000 m3 LNG carrier will feature Everllence&#039;s dual-fuel hybrid-electric propulsion system."
+          "title": "Estonia Unveils Biomethane-Battery Powered Multipurpose State Vessel",
+          "link": "https://shipandbunker.com/news/emea/175764-estonia-unveils-biomethane-battery-powered-multipurpose-state-vessel",
+          "published": "Tue, 18 Aug 2026 10:22:27 +0000",
+          "summary": "The vessel combines compressed biomethane and battery-electric propulsion for a range of state maritime operations."
         },
         {
-          "title": "MOL Names LNG Dual-Fuel VLCC for Equinor",
-          "link": "https://shipandbunker.com/news/world/794294-mol-names-lng-dual-fuel-vlcc-for-equinor",
-          "published": "Mon, 17 Aug 2026 09:48:01 +0000",
-          "summary": "The vessel features LNG fuel tank with a capacity of more than 10,000 m3."
+          "title": "ClassNK Revises Alternative-Fuelled Ship Safety Guidelines",
+          "link": "https://shipandbunker.com/news/world/550157-classnk-revises-alternative-fuelled-ship-safety-guidelines",
+          "published": "Tue, 18 Aug 2026 10:09:11 +0000",
+          "summary": "ClassNK has updated safety requirements for hydrogen, methanol and ethanol-fuelled ships in its revised alternative-fuels guidelines."
         },
         {
-          "title": "Carnival Orders Air Lubrication Systems for Three LNG-Fuelled Cruise Ships",
-          "link": "https://shipandbunker.com/news/world/696019-carnival-orders-air-lubrication-systems-for-three-lng-fuelled-cruise-ships",
-          "published": "Mon, 17 Aug 2026 08:47:03 +0000",
-          "summary": "The technology will help reduce hull friction, fuel consumption and emissions on Carnival&#039;s three new LNG-fuelled cruise ships."
+          "title": "Hong Lam Marine's New Bunkering Vessel Launched in China",
+          "link": "https://shipandbunker.com/news/apac/959539-hong-lam-marines-new-bunkering-vessel-launched-in-china",
+          "published": "Tue, 18 Aug 2026 09:36:58 +0000",
+          "summary": "Hong Lam Marine is one of the licensed bunker craft operators in Port of Singapore."
         },
         {
-          "title": "Morocco Ammonia Project Targets Shipping Demand",
-          "link": "https://shipandbunker.com/news/emea/992603-morocco-ammonia-project-targets-shipping-demand",
-          "published": "Mon, 17 Aug 2026 07:20:59 +0000",
-          "summary": "The proposed project is expected to produce around 560,000 tonnes/year of low-carbon ammonia."
+          "title": "Aqua superpower and Hyke Sign Deal on Electric Ferry Networks",
+          "link": "https://shipandbunker.com/news/world/728414-aqua-superpower-and-hyke-sign-deal-on-electric-ferry-networks",
+          "published": "Tue, 18 Aug 2026 09:05:48 +0000",
+          "summary": "Aqua superPower and Hyke have signed an MoU to help cities plan and develop zero-emission electric ferry networks."
         },
         {
-          "title": "BUNKER JOBS: Trafigura Seeks Bunker Operator in Madrid",
-          "link": "https://shipandbunker.com/news/emea/431902-bunker-jobs-trafigura-seeks-bunker-operator-in-madrid",
-          "published": "Mon, 17 Aug 2026 06:53:03 +0000",
-          "summary": "The company is looking for candidates with a minimum of two years of experience in bunker or oil operations, marine fuel trading, or shipping operations."
+          "title": "AYK Energy to Electrify Two Dutch Workboats",
+          "link": "https://shipandbunker.com/news/emea/430678-ayk-energy-to-electrify-two-dutch-workboats",
+          "published": "Tue, 18 Aug 2026 08:10:24 +0000",
+          "summary": "AYK Energy will supply battery systems for two Dutch workboats as part of new projects with Gebhard Electro."
         },
         {
-          "title": "EPS Completes 700th LNG Bunkering Operation",
-          "link": "https://shipandbunker.com/news/world/822201-eps-completes-700th-lng-bunkering-operation",
-          "published": "Mon, 17 Aug 2026 06:29:38 +0000",
-          "summary": "The firm has bunkered a total of 2.92 million m3 of LNG since it began using the fuel in 2020."
+          "title": "Yang Ming Boxship Completes First SIMOPS LNG Bunkering at Shanghai",
+          "link": "https://shipandbunker.com/news/apac/600848-yang-ming-boxship-completes-first-simops-lng-bunkering-at-shanghai",
+          "published": "Tue, 18 Aug 2026 07:01:31 +0000",
+          "summary": "The dual-fuel ship received around 2,000 mt of LNG at the Port of Shanghai."
         },
         {
-          "title": "New Tool to Help Shipowners Assess Ammonia Safety Readiness",
-          "link": "https://shipandbunker.com/news/world/145707-new-tool-to-help-shipowners-assess-ammonia-safety-readiness",
-          "published": "Mon, 17 Aug 2026 05:23:52 +0000",
-          "summary": "The Decarb Hub and MMMCZCS have launched new tools to support the safe adoption of ammonia as a marine fuel."
+          "title": "X-Press Feeders Partners With Portchain to Cut Fuel Burn Through Better Berth Planning",
+          "link": "https://shipandbunker.com/news/world/980518-x-press-feeders-partners-with-portchain-to-cut-fuel-burn-through-better-berth-planning",
+          "published": "Tue, 18 Aug 2026 06:08:00 +0000",
+          "summary": "Feeder operator says sharper just-in-time arrivals will trim waiting time, fuel consumption, and emissions across its network."
         },
         {
-          "title": "BP Appoints Bunker Buyer in Singapore",
-          "link": "https://shipandbunker.com/news/apac/353328-bp-appoints-bunker-buyer-in-singapore",
-          "published": "Mon, 17 Aug 2026 04:56:22 +0000",
-          "summary": "Former Uni-Fuels senior bunker trader Shanice Ling joined BP as a bunker buyer last month."
+          "title": "China Sets Global Record with 8,000-MT Methanol Bunkering in Yangshan",
+          "link": "https://shipandbunker.com/news/apac/111981-china-sets-global-record-with-8000-mt-methanol-bunkering-in-yangshan",
+          "published": "Tue, 18 Aug 2026 05:52:07 +0000",
+          "summary": "The bunkering was the largest single green methanol bunkering operation to date."
         }
       ]
     },
@@ -183,6 +232,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Here’s Apollo’s big First Brands short presentation",
+          "link": "https://www.ft.com/content/01165fdb-4957-45de-b612-85fac4836220",
+          "published": "Tue, 18 Aug 2026 12:55:59 GMT",
+          "summary": "Fear factor"
+        },
+        {
+          "title": "Forget the bond rout, fund managers are in party mode",
+          "link": "https://www.ft.com/content/e57f1e66-578e-42c9-8e59-37fe05067032",
+          "published": "Tue, 18 Aug 2026 12:04:11 GMT",
+          "summary": "Ain’t no party like a capex party, because apparently a capex party don’t stop"
+        },
+        {
+          "title": "You have ONE more chance to win our charts quiz champion T-shirt because the prize will soon be this hat",
+          "link": "https://www.ft.com/content/4cfc3208-b7cb-415c-8648-0f97d92e8527",
+          "published": "Tue, 18 Aug 2026 06:20:33 GMT",
+          "summary": "Geeky Friday"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/b2c808ec-a67f-4a72-b5b7-a05a5a3036c3",
+          "published": "Tue, 18 Aug 2026 05:00:02 GMT",
+          "summary": "Fluids; tokens; hotlines; Chelsea; political spam"
+        },
         {
           "title": "And the FTAV chart quiz winner is . . .",
           "link": "https://www.ft.com/content/6529c240-13a6-4923-bb76-17d2baf2c733",
@@ -206,30 +279,6 @@
           "link": "https://www.ft.com/content/49e5c44c-fa4b-4534-809a-dc91969ba86f",
           "published": "Mon, 17 Aug 2026 05:00:07 GMT",
           "summary": "The economics of a shrinking world; taker vs maker arbitrage; pevert glasses and HMS Endeavour for sale"
-        },
-        {
-          "title": "Jane Street has paid up large to avoid its numbers leaking out",
-          "link": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
-          "published": "Fri, 14 Aug 2026 12:20:14 GMT",
-          "summary": "Cheap financing < privacy"
-        },
-        {
-          "title": "FTAV’s Friday charts quiz",
-          "link": "https://www.ft.com/content/7f886b9c-c2f4-4561-96a3-9fe2736122c5",
-          "published": "Fri, 14 Aug 2026 10:52:51 GMT",
-          "summary": "Plotting"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/7b1117a2-ffea-4754-9da8-342db07fe963",
-          "published": "Fri, 14 Aug 2026 05:30:03 GMT",
-          "summary": "Sameness; tariffs; Africa; clouds; sharing; Windows; play; assemblage"
-        },
-        {
-          "title": "The Treasury market’s toxic codependency",
-          "link": "https://www.ft.com/content/e3cd352e-5202-4748-952f-ed623ccdc774",
-          "published": "Fri, 14 Aug 2026 04:00:05 GMT",
-          "summary": "The US government bond market has become a hedge fund playground"
         }
       ]
     },
