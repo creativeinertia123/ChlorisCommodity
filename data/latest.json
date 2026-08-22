@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-21T23:27:58+00:00",
-  "take": "The dominant crude story is the extraordinary reversal of Russian product flows, with Moscow importing nearly 270,000 tonnes of refined fuels from Asia this month as Ukrainian strikes cripple refinery capacity, which tightens the global clean product balance and forces a repricing of arbitrage routes. The second key theme is the Panama Canal cutting daily booking capacity to 32 ships from mid-September, which will lengthen voyage times, tighten tonnage supply and lift freight rates across the dry bulk and container segments, with knock-on effects on bunker demand. On positioning, the US rig count fell this week despite rising oil prices, suggesting capital discipline is overriding price signals and keeping a lid on future supply growth, whilst China's second-quarter import slump continues to weigh on sentiment. The cross-market link is clear: Russian product imports from Asia and Venezuelan loading delays of up to 30 days are both adding tonne-miles and vessel days, which supports clean tanker rates and widens the spread between east and west bunker prices. Watch for any OPEC commentary on Iraq's ambition to double output to 8-10 million bpd, as well as further updates on Hormuz disruption and whether the Panama Canal's capacity cuts force more cargoes onto longer alternative routes.",
+  "generated_at_utc": "2026-08-22T23:24:30+00:00",
+  "take": "Hormuz remains effectively closed since late February, and with China's Q2 crude imports falling on the resulting price spike, the market is now repricing a sustained loss of Gulf barrels rather than a quick resolution. The extraordinary reversal of Russian refined product flows—importing nearly 270,000 tonnes from Asia this month as Ukrainian strikes cripple refineries—is tightening clean product freight and supporting gasoil cracks at a time when Atlantic basin supply is already stretched. The Panama Canal's cut to 32 daily transits from mid-September adds a fresh logistical premium to LNG and LPG tonne-miles, whilst the hijacking of a sanctioned product tanker in the Gulf of Aden signals rising piracy risk that will feed into war risk insurance and rerouting costs. Saudi shipments bypassing Houthi hunting grounds are soaring, which lengthens voyages and underpins VLCC rates even as the broader tanker orderbook grows. Watch for any confirmation of Iraq's push to lift OPEC output towards 8-10 million bpd, as that would be the clearest bearish catalyst for crude in an otherwise supply-constrained tape.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,22 +65,40 @@
       "count": 8,
       "items": [
         {
-          "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
-          "published": "Fri, 21 Aug 2026 17:00:00 -0500",
-          "summary": "China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies. Rel"
+          "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
+          "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
+          "published": "Sat, 22 Aug 2026 18:00:00 -0500",
+          "summary": "The Rhine has slightly risen from its mid-August record low (when Kaub’s water level gauge – at the river’s decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam and Antwerp to southern Germany, eastern France and Switzerland short of transport capacity. The immediate result is exp"
+        },
+        {
+          "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
+          "published": "Sat, 22 Aug 2026 16:00:00 -0500",
+          "summary": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less often than the announcements do. Goldman Sachs put hard numbers on the demand side in May. U.S. data ce"
+        },
+        {
+          "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
+          "link": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
+          "published": "Sat, 22 Aug 2026 14:00:00 -0500",
+          "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered energy mix. Despite massive rollbacks of Biden- and Obama-era clean energy incentives and financial s"
+        },
+        {
+          "title": "Every Chokepoint That Isn't Hormuz",
+          "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
+          "published": "Sat, 22 Aug 2026 12:00:00 -0500",
+          "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of crude and liquids made it through in the second quarter. In the last quarter of 2025 that number was 21"
+        },
+        {
+          "title": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
+          "link": "https://oilprice.com/Energy/Energy-General/IEA-Southeast-Asia-Needs-Grid-Investment-to-Nearly-Quadruple-by-2050.html",
+          "published": "Sat, 22 Aug 2026 10:00:00 -0500",
+          "summary": "Southeast Asia needs to invest heavily in upgrading and modernising its transmission networks if countries across the region hope to deploy larger quantities of renewable energy over the next decade. With investment in green energy growing ever higher, the grid systems in countries such as Indonesia, India, and Vietnam simply cannot keep up with capacity growth, creating a bottleneck in power dist"
         },
         {
           "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
           "link": "https://oilprice.com/Energy/Energy-General/The-Race-to-Unlock-the-Worlds-Hidden-Hydrogen-Reserves.html",
           "published": "Fri, 21 Aug 2026 16:00:00 -0500",
           "summary": "Countries around the globe are racing to become the world’s first geologic hydrogen hotspot. A few years ago, the United States Department of Energy released a bombshell report that estimated that there are trillions of metric tons of natural hydrogen deposits sitting in underground pockets around the world – and that a considerable amount of that could be extracted for industrial use. Energy comp"
-        },
-        {
-          "title": "Low Rivers, High Stakes: Europe's Nuclear Cooling Crisis",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Low-Rivers-High-Stakes-Europes-Nuclear-Cooling-Crisis.html",
-          "published": "Fri, 21 Aug 2026 15:00:00 -0500",
-          "summary": "The extreme heat experienced across Europe in recent weeks has caused widespread disruption to nuclear power plants. Governments across the region have been forced to take extraordinary measures to keep nuclear facilities operating, but some are failing to meet their goals, with river levels at record lows. This is expected to have a significant impact on Europe’s GDP, with economic losses in the "
         },
         {
           "title": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way",
@@ -93,24 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/China-Challenges-Russias-Arms-Dominance-in-Central-Asia.html",
           "published": "Fri, 21 Aug 2026 13:00:00 -0500",
           "summary": "China is challenging Russia’s stranglehold on Central Asia’s arms market. Uzbekistan appears to have taken delivery of four PRC-made ChengduJ-10CE multi-role combat aircraft, according to multiple reports, one of which includes a photo of one of the fighters supposedly acquired by the Uzbek Air Force. Tashkent reportedly has an agreement with Beijing to receive a total of 24 fighters. Uzbek and Ch"
-        },
-        {
-          "title": "Tankers Wait a Month as Venezuela Hits an Oil Export Ceiling",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Tankers-Wait-a-Month-as-Venezuela-Hits-an-Oil-Export-Ceiling.html",
-          "published": "Fri, 21 Aug 2026 13:00:00 -0500",
-          "summary": "Venezuela has plenty of oil buyers again. What it does not have is enough functioning port infrastructure to get them their crude. Tankers are waiting as long as 30 days to load Venezuelan oil as aging terminals, power outages and crude-quality problems create a de facto ceiling on exports, according to Reuters. That ceiling appears to be around 1.25 million barrels per day. PDVSA and its partners"
-        },
-        {
-          "title": "US Oil Drillers See Pullback as Oil Prices Rise",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-See-Pullback-as-Oil-Prices-Rise.html",
-          "published": "Fri, 21 Aug 2026 12:16:00 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 588, up 50 from this same time last year. The number of active oil rigs fell by 3, sinking to 452 during the latest reporting period, according to the data. This is 41 above this same time last year."
-        },
-        {
-          "title": "India Boosts Battery Investment to Cut Solar Power Waste",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Boosts-Battery-Investment-to-Cut-Solar-Power-Waste.html",
-          "published": "Fri, 21 Aug 2026 12:00:00 -0500",
-          "summary": "Solar power developers in India have started to add battery storage to photovoltaic projects to attract buyers and reduce the large share of curtailments for power supply that the grids are unable to absorb, Santosh Sarangi, Secretary of India’s Ministry of New and Renewable Energy, said on Friday. As much as 42 gigawatts (GW) of solar projects are still struggling to find offtakers, with about 18"
         }
       ]
     },
@@ -183,6 +183,12 @@
           "summary": "Platform built its position among fuel suppliers and now wants the companies buying the fuel."
         },
         {
+          "title": "Oil Steady As Iran Blinks in U.S. Standoff And Girds For Trump's Economic Assault",
+          "link": "https://shipandbunker.com/news/world/235412-oil-steady-as-iran-blinks-in-us-standoff-and-girds-for-trumps-economic-assault",
+          "published": "Fri, 21 Aug 2026 13:26:00 +0000",
+          "summary": "Meanwhile, Saudi oil shipments bypassing Houthi hunting grounds soar."
+        },
+        {
           "title": "Mitsui E&S Moves Ammonia Engines and Fuel Systems to Commercial Stage",
           "link": "https://shipandbunker.com/news/apac/628157-mitsui-es-moves-ammonia-engines-and-fuel-systems-to-commercial-stage",
           "published": "Fri, 21 Aug 2026 10:34:31 +0000",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/am/954331-us-maritime-body-chair-backs-lng-and-bio-lng-in-nzf",
           "published": "Fri, 21 Aug 2026 06:02:52 +0000",
           "summary": "Chair of FMC Laura DiBella says concerns over rising bio-LNG costs overlook the potential for supply to grow with demand."
-        },
-        {
-          "title": "Damen Delivers Hybrid-Electric Workboat to Mowi Norway",
-          "link": "https://shipandbunker.com/news/world/716790-damen-delivers-hybrid-electric-workboat-to-mowi-norway",
-          "published": "Fri, 21 Aug 2026 05:16:08 +0000",
-          "summary": "The workboat features 444 kWh of battery capacity."
         }
       ]
     },
