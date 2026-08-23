@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-22T23:24:30+00:00",
-  "take": "Hormuz remains effectively closed since late February, and with China's Q2 crude imports falling on the resulting price spike, the market is now repricing a sustained loss of Gulf barrels rather than a quick resolution. The extraordinary reversal of Russian refined product flows—importing nearly 270,000 tonnes from Asia this month as Ukrainian strikes cripple refineries—is tightening clean product freight and supporting gasoil cracks at a time when Atlantic basin supply is already stretched. The Panama Canal's cut to 32 daily transits from mid-September adds a fresh logistical premium to LNG and LPG tonne-miles, whilst the hijacking of a sanctioned product tanker in the Gulf of Aden signals rising piracy risk that will feed into war risk insurance and rerouting costs. Saudi shipments bypassing Houthi hunting grounds are soaring, which lengthens voyages and underpins VLCC rates even as the broader tanker orderbook grows. Watch for any confirmation of Iraq's push to lift OPEC output towards 8-10 million bpd, as that would be the clearest bearish catalyst for crude in an otherwise supply-constrained tape.",
+  "generated_at_utc": "2026-08-23T23:25:12+00:00",
+  "take": "Diesel cracks remain the core risk as the world runs out of stored fuels and refining capacity stays stretched, with the Middle East war outlook grim and fresh US sanctions threats keeping the geopolitical premium firmly in place. China's second-quarter crude imports fell on higher prices from Strait of Hormuz disruptions, which normalises into softer Asian demand just as Permian longer laterals keep US supply growing. Waterborne Gulf Coast shipments to the West Coast more than quadrupled year-on-year in April and May after the waiver, tightening PADD 3 stocks and supporting clean product freight. The Panama Canal cutting daily transit slots on falling water levels adds a fresh tonne-mile squeeze for dry bulk and LNG carriers, whilst Saudi shipments bypassing Houthi hunting grounds extend voyage distances and underpin VLCC rates. Watch for any US sanctions detail on Iran and the next Rhine gauge reading, as Kaub below 10cm keeps barge economics unworkable and distorts European product logistics.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,34 +65,34 @@
       "count": 8,
       "items": [
         {
+          "title": "Diesel Crisis Threatens to Outlast the Middle East War",
+          "link": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+          "published": "Sun, 23 Aug 2026 18:00:00 -0500",
+          "summary": "The outlook for the Middle East war remains grim, the U.S. just threatened Iran with the “toughest sanctions in history,” and the world is running out of stored fuels. To make matters worse, refining capacity is down considerably, and even if the outlook for the war suddenly changed and the U.S. and Iran made peace, the fuel squeeze will last for months—and so will its adverse effects on the globa"
+        },
+        {
+          "title": "Pemex and Petrobras Bet Big on High-Risk High-Reward Drilling Off Mexico",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-and-Petrobras-Bet-Big-on-High-Risk-High-Reward-Drilling-Off-Mexico.html",
+          "published": "Sun, 23 Aug 2026 16:00:00 -0500",
+          "summary": "Mexico’s state oil firm Pemex and Brazil’s national oil company Petrobras are joining efforts and expertise to drill prospects in Mexican waters in the Gulf of Mexico, hoping to unlock huge oil resources from source rock formations that are miles deeper and eight times older than the currently producing formations in the U.S. Gulf. Exploration in the Jurassic formations deep under the Mexican Gulf"
+        },
+        {
+          "title": "Super El Niño Threatens Food, Water and Trade Worldwide",
+          "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
+          "published": "Sun, 23 Aug 2026 14:00:00 -0500",
+          "summary": "The world is set to experience an extremely intense El Niño weather event this year, with warmer-than-normal sea surface temperatures in the tropical Pacific. This could disrupt typical weather patterns and lead to heavy rainfall in some regions and severe drought in others. While it is unclear whether the more frequent occurrence of El Niño is directly linked to human-caused climate change, it is"
+        },
+        {
+          "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
+          "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Is-Circling-Utilities-as-AI-Reshapes-the-Grid.html",
+          "published": "Sun, 23 Aug 2026 13:00:00 -0500",
+          "summary": "While it seems that Democrats and Republicans can’t agree on much of anything these days, there’s at least one common enemy that’s bringing both sides of the aisle together: data centers. Representatives on both sides of the aisle are increasingly pushing back against hyperscalers who are developing massive data center campuses on local energy grids, driving up energy demand and therefore causing "
+        },
+        {
           "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
           "link": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
           "published": "Sat, 22 Aug 2026 18:00:00 -0500",
           "summary": "The Rhine has slightly risen from its mid-August record low (when Kaub’s water level gauge – at the river’s decisive chokepoint – was below 10 cm), but the relief is mostly optical. Barges still cannot carry normal loads through it, leaving the industrial corridor from Rotterdam and Antwerp to southern Germany, eastern France and Switzerland short of transport capacity. The immediate result is exp"
-        },
-        {
-          "title": "The Gas Turbine Shortage Just Became AI’s Biggest Constraint",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Gas-Turbine-Shortage-Just-Became-AIs-Biggest-Constraint.html",
-          "published": "Sat, 22 Aug 2026 16:00:00 -0500",
-          "summary": "Order a heavy-duty gas turbine from GE Vernova today and it won’t arrive until 2031. That’s the company’s actual production schedule, confirmed on its July 22 earnings call, and it’s the fact sitting underneath every AI data center power plan announced in the last two years. It comes up far less often than the announcements do. Goldman Sachs put hard numbers on the demand side in May. U.S. data ce"
-        },
-        {
-          "title": "Clean Energy Spending Tracking Toward Record $180 Billion in 2026",
-          "link": "https://oilprice.com/Energy/Energy-General/Clean-Energy-Spending-Tracking-Toward-Record-180-Billion-in-2026.html",
-          "published": "Sat, 22 Aug 2026 14:00:00 -0500",
-          "summary": "Donald Trump is accidentally overseeing a massive buildout of the country’s renewable energy capacity and infrastructure. Not only are investments in renewable technologies soaring to new highs, the national energy grid is rapidly transforming to accommodate an increasingly solar- and wind-powered energy mix. Despite massive rollbacks of Biden- and Obama-era clean energy incentives and financial s"
-        },
-        {
-          "title": "Every Chokepoint That Isn't Hormuz",
-          "link": "https://oilprice.com/Energy/Energy-General/Every-Chokepoint-That-Isnt-Hormuz.html",
-          "published": "Sat, 22 Aug 2026 12:00:00 -0500",
-          "summary": "For six months the entire conversation about oil logistics has been about one strait, and you can hardly blame anyone for that. Hormuz has been effectively closed since late February, when the war between Iran and the U.S. and Israel started, and the EIA reckons only 4.9 million barrels a day of crude and liquids made it through in the second quarter. In the last quarter of 2025 that number was 21"
-        },
-        {
-          "title": "IEA: Southeast Asia Needs Grid Investment to Nearly Quadruple by 2050",
-          "link": "https://oilprice.com/Energy/Energy-General/IEA-Southeast-Asia-Needs-Grid-Investment-to-Nearly-Quadruple-by-2050.html",
-          "published": "Sat, 22 Aug 2026 10:00:00 -0500",
-          "summary": "Southeast Asia needs to invest heavily in upgrading and modernising its transmission networks if countries across the region hope to deploy larger quantities of renewable energy over the next decade. With investment in green energy growing ever higher, the grid systems in countries such as Indonesia, India, and Vietnam simply cannot keep up with capacity growth, creating a bottleneck in power dist"
         },
         {
           "title": "The Race to Unlock the World’s Hidden Hydrogen Reserves",
@@ -117,58 +117,10 @@
     {
       "source": "Splash247",
       "url": "https://splash247.com/feed/",
-      "ok": true,
-      "count": 8,
-      "items": [
-        {
-          "title": "Russian fuel shortages reverse tanker trade flows",
-          "link": "https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
-          "published": "Fri, 21 Aug 2026 08:22:08 +0000",
-          "summary": "Russia is importing almost 270,000 tonnes of refined fuels from Asia this month, creating an extraordinary reversal in tanker trade flows as repeated Ukrainian strikes on refineries leave one of the world’s largest energy producers short of fuel, with images of long queues at Russian petrol stations becoming commonplace. Preliminary shipping data cited by Reuters &#8230;"
-        },
-        {
-          "title": "Panama Canal cuts daily capacity",
-          "link": "https://splash247.com/panama-canal-cuts-daily-capacity/",
-          "published": "Fri, 21 Aug 2026 08:00:50 +0000",
-          "summary": "The Panama Canal is cutting daily booking capacity to 32 ships from mid-September as worsening rainfall deficits force the waterway into deeper defensive measures against El Niño. For booking dates from September 4, the canal will offer nine neopanamax and 25 panamax slots a day. From September 15, panamax availability drops again to 23 slots, &#8230;"
-        },
-        {
-          "title": "Splash Wrap: More ships, fewer reliable routes",
-          "link": "https://splash247.com/splash-wrap-more-ships-fewer-reliable-routes/",
-          "published": "Fri, 21 Aug 2026 07:47:02 +0000",
-          "summary": "Shipping is betting on more ships thanks, in no small part, to the disruption created by fewer reliable routes. That contradiction ran through much of Splash’s coverage this week. Panama, Hormuz, the Houthis, Somali pirates and the Black Sea were constant presences in our reporting. Different threats, different causes, same result: the arteries of global &#8230;"
-        },
-        {
-          "title": "Sanctioned tanker hijacked in Gulf of Aden",
-          "link": "https://splash247.com/sanctioned-tanker-hijacked-in-gulf-of-aden/",
-          "published": "Fri, 21 Aug 2026 07:30:59 +0000",
-          "summary": "A US-sanctioned product tanker has been hijacked in the Gulf of Aden and forced towards Somalia, the second reported vessel seizure in the region this week as Somali piracy gathers renewed momentum. UK Maritime Trade Operations said the incident occurred around 136 nautical miles east of Al Mukalla, Yemen, after the vessel broadcast a distress &#8230;"
-        },
-        {
-          "title": "Missing evidence clouds Phoenician M cocaine convictions",
-          "link": "https://splash247.com/missing-evidence-clouds-phoenician-m-cocaine-convictions/",
-          "published": "Fri, 21 Aug 2026 07:00:35 +0000",
-          "summary": "A new independent report has called for urgent international intervention in the case of two senior seafarers convicted of drug trafficking in Türkiye, arguing that serious gaps in the evidence raise the prospect of a “grave miscarriage of justice”. Human Rights at Sea (HRAS) has examined the convictions of Syrian-born, Finnish citizen chief officer Ali &#8230;"
-        },
-        {
-          "title": "SPM Shipping enters gas shipping with $91m VLGC buy",
-          "link": "https://splash247.com/spm-shipping-enters-gas-shipping-with-91m-vlgc-buy/",
-          "published": "Fri, 21 Aug 2026 06:30:30 +0000",
-          "summary": "With only a few years in shipowning, Dubai-based SPM Shipping&#160;has now added its&#160;first VLGC after moving into both the capesize and VLCC segments. The company has been named as the buyer of Dorian LPG&#8217;s 2015-built, 84,000 cu m Clermont, paying $91m for the Hyundai Samho-built vessel. VesselsValue sales registers show that SPM Shipping&#160; is the &#8230;"
-        },
-        {
-          "title": "ASL scales up with Huangpu Wenchong boxship order",
-          "link": "https://splash247.com/asl-scales-up-with-huangpu-wenchong-boxship-order/",
-          "published": "Fri, 21 Aug 2026 05:30:00 +0000",
-          "summary": "Hong Kong-based ASL Shipping is making a sizeable jump in ship size with an order for two firm 5,300 teu containerships at CSSC Huangpu Wenchong Shipbuilding, with options for two more. The vessels will be built to Huangpu Wenchong’s own series design, measuring 235 m long and 37.5 m wide with around 71,500 dwt. No &#8230;"
-        },
-        {
-          "title": "Jason Statham goes full Die Hard at sea",
-          "link": "https://splash247.com/container-shipping-gets-the-die-hard-treatment/",
-          "published": "Fri, 21 Aug 2026 03:00:00 +0000",
-          "summary": "Jason Statham’s latest action movie, Mutiny, puts the British hardman aboard a containership packed with mercenaries, with much of the maritime action filmed not on a studio set but aboard an actual 30-year-old feeder. Statham plays Cole Reed, a former special forces operative and cop turned private security contractor who is framed for the murder &#8230;"
-        }
-      ]
+      "ok": false,
+      "count": 0,
+      "items": [],
+      "error": "403 Client Error: Forbidden for url: https://splash247.com/feed/"
     },
     {
       "source": "Ship & Bunker",
