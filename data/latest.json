@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-28T06:49:23+00:00",
-  "take": "Brent is heading for another weekly loss despite escalating Iran tensions, with the market seemingly shrugging off geopolitical risk premia as US forces confirm Iranian sea mines have been cleared from Strait of Hormuz shipping lanes. The Dangote refinery's ramp-up continues to reshape product flows, with Nigerian seaborne petroleum exports up seven-fold since 2023 and adding incremental supply to an already well-supplied Atlantic basin. European gas storage entering winter at a two-decade low, exacerbated by Middle East conflict disrupting Qatari LNG, is the key macro undercurrent that will keep a floor under distillate cracks and support bunker premiums into Q4. The eight US pipeline completions since the start of 2025 are easing Gulf Coast takeaway constraints, which alongside the quadrupling of waterborne crude shipments to the West Coast points to a normalising WTI-Brent spread and cheaper inland crude for refiners. Watch for any fresh US-Venezuela ownership headlines and the next tranche of positioning data to see whether speculative length capitulation has run its course.",
+  "generated_at_utc": "2026-08-29T04:04:31+00:00",
+  "take": "The Strait of Hormuz remains the fulcrum of the entire complex, with VLCC earnings on the benchmark Saudi-to-China route surging to a record $647,000 per day even as oil prices shed 5% on the week, signalling that the market is pricing in a gradual normalisation of flows despite the elevated risk premium. The US announcement of its 'toughest sanctions in history' against Iran has been shrugged off by crude, which holds near $90, but the real tension lies in the disconnect between Washington's rhetoric and the physical reality of moving barrels through a waterway where at least 70 attacks on ships have been confirmed. The freight market is the clearest transmission mechanism here, with Frontline locking four VLCCs into term charters at up to $120,000 per day and Himalaya Shipping converting newcastlemax charters to $53,000 per day into 2027, indicating that shipowners are monetising scarcity value rather than betting on a quick de-escalation. The product tanker complex is also firming on the back of Nigerian seaborne exports growing seven-fold since 2023, with the Dangote refinery adding incremental clean product supply into a market already tight on middle distillates, whilst the US Gulf-to-West Coast waterborne route has more than quadrupled year-on-year following the Jones Act waiver. Watch for any confirmation of Qatar's LNG force majeure extension into November, as Asian and European gas prices have already jumped on the news and a sustained outage would tighten the global bunker fuel complex through higher LNG carrier demand and elevated tonne-mile requirements.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "U.S. uranium production more than tripled in 2025 and was the highest since 2017",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68044",
+          "published": "Fri, 28 Aug 2026  09:00:00 EST",
+          "summary": "In 2025, uranium concentrate production in the United States totaled 2.1 million pounds of triuranium octoxide (U3O8), the base component of nuclear reactor fuel. U.S. U3O8 production in 2025 was the most since 2017 and more than triple the volume produced in 2024."
+        },
         {
           "title": "Eight petroleum liquids pipeline projects have been completed since the start of 2025",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68024",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=67925",
           "published": "Fri, 7 Aug 2026  09:00:00 EST",
           "summary": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, operators added another 8.3 GW of battery storage capacity, reaching nearly 52 GW of nameplate batte"
-        },
-        {
-          "title": "The U.S.-Canada natural gas and electricity trade value rose in 2025",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=",
-          "published": "Wed, 05 Aug 2026  09:00:00 EST",
-          "summary": "Although the total value of energy trade between the United States and Canada fell by 11% in 2025 to an estimated $137 billion, according to data from the U.S. Census Bureau, the trade value of natural gas and electricity between the two countries increased slightly primarily because of increased natural gas prices and trade volume."
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-a-Weekly-Loss-Despite-Escalating-Iran-Tensions.html",
-          "published": "Fri, 28 Aug 2026 00:15:00 -0500",
-          "summary": "Crude oil prices were on course to book another weekly loss despite no sign of any progress being made towards peace between Iran and the United States. At the time of writing, Brent crude was trading at $89.17 per barrel, with West Texas Intermediate at $83.19 per barrel. Brent was down by 5.3% over the week, and WTI was set for a 4.3% decline, Reuters reported earlier today. The price trend is i"
+          "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
+          "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
+          "published": "Fri, 28 Aug 2026 15:00:00 -0500",
+          "summary": "Over the last two years, the EU and UK have emerged as leading actors in imposing sanctions on Russia. But people like Maria Demertzis, Professor at the European University Institute in Italy, have raised questions around the effectiveness of the sanctions campaign, as European institutions continue to operate profitable subsidiaries in the country with little scrutiny. UK and EU regulators should"
         },
         {
-          "title": "Egypt’s LNG Comeback Is Set to Start in Cyprus",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Egypts-LNG-Comeback-Is-Set-to-Start-in-Cyprus.html",
-          "published": "Thu, 27 Aug 2026 19:00:00 -0500",
-          "summary": "Egypt’s gas sector is running short of domestic gas just as Cyprus prepares to become a producer. The recently approved Cronos project offshore Cyprus (expected to deliver up to 2.8 million tonnes per year of LNG from 2028) offers a three-way bargain. Cyprus gains an export route it cannot economically build alone; Egypt secures feedstock for infrastructure increasingly constrained by falling dome"
+          "title": "The AI Boom Could Triple Data Center Water Use by 2030",
+          "link": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
+          "published": "Fri, 28 Aug 2026 14:00:00 -0500",
+          "summary": "The massive data center capacity scale-up underway has focused attention on the scale of water required for these facilities to operate. Rystad Energy estimates that without water-saving measures in place, global water consumption by data centers could rise to 644 billion liters per year by 2030. However, active mitigation could reduce demand to 388 billion liters, representing worst- and best-cas"
         },
         {
-          "title": "East Africa’s Oil Rivalry Spurs Multi-Billion-Dollar Projects Across The Region",
-          "link": "https://oilprice.com/Energy/Crude-Oil/East-Africas-Oil-Rivalry-Spurs-Multi-Billion-Dollar-Projects-Across-The-Region.html",
-          "published": "Thu, 27 Aug 2026 18:00:00 -0500",
-          "summary": "Last month, we reported that Nigerian billionaire and Africa’s richest man, Aliko Dangote, has agreed to build a $17 billion (Ksh2.2 trillion), 700,000-barrel-per-day refinery on Kenya’s Lamu Island that would process crude not only for Kenya but also its neighbors such as Uganda, Rwanda, Burundi, South Sudan and the DRC. The giant refinery--Africa’s second largest refinery behind only Nigeria’s D"
+          "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Helped-Build-OPEC-Now-It-May-Help-Break-It-Apart.html",
+          "published": "Fri, 28 Aug 2026 13:30:00 -0500",
+          "summary": "Venezuela helped create OPEC. More than six decades later, it is considering walking away, and Washington appears perfectly happy to hold open the door. Caracas is weighing whether to leave the Organization of the Petroleum Exporting Countries, Bloomberg reported Friday, citing people familiar with discussions that have included U.S. officials. No final decision has been made. Venezuela produced a"
         },
         {
-          "title": "DoE Begins Tests for Fracked Geothermal",
-          "link": "https://oilprice.com/Alternative-Energy/Geothermal-Energy/DoE-Begins-Tests-for-Fracked-Geothermal.html",
-          "published": "Thu, 27 Aug 2026 17:00:00 -0500",
-          "summary": "The Trump administration is no friend of wind and solar. Axed subsidies and project suspensions have been the attitude towards those alternative forms of energy. Geothermal, however, is something else. The current Department of Energy is very much for it. In fact, it is so much for it that it funded an experiment that would show whether fracking technology could be used to generate geothermal anyw"
+          "title": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
+          "link": "https://oilprice.com/Energy/Energy-General/Russias-Energy-Crisis-Puts-Kazakhstan-in-a-Tough-Spot.html",
+          "published": "Fri, 28 Aug 2026 13:00:00 -0500",
+          "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe damage on Russia’s energy infrastructure and its military-industrial complex, prompting Russian officials to seek emergency energy supplies and refining arrangements from Central A"
         },
         {
-          "title": "Europe Heads Into Winter With Gas Storage at a Two-Decade Low",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Heads-Into-Winter-With-Gas-Storage-at-a-Two-Decade-Low.html",
-          "published": "Thu, 27 Aug 2026 16:00:00 -0500",
-          "summary": "Europe is heading for the winter with one of the lowest levels of gas in storage in the past two decades as the war in the Middle East crippled LNG supply from Qatar, sent gas and LNG prices in Europe and Asia skyrocketing, and intensified competition for the shrunk pool of readily available global LNG cargoes. A perfect storm of elevated demand for filling depleted storage and electricity during "
+          "title": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Iran-War-Has-Turned-VLCCs-Into-650000-a-Day-Assets.html",
+          "published": "Fri, 28 Aug 2026 12:30:00 -0500",
+          "summary": "More Gulf oil is moving again. Getting it out now costs a fortune. Earnings on the benchmark Saudi Arabia-to-China supertanker route surged to a record $647,000 per day on Thursday, according to Baltic Exchange data cited by Bloomberg. That is more than ten times the rate a year ago—and nearly 27% above the $510,000 reached just ten days earlier. The spike comes as Persian Gulf producers increase "
         },
         {
-          "title": "U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-In-Talks-To-Take-Direct-Ownership-Of-Venezuelan-Oil-Fields.html",
-          "published": "Thu, 27 Aug 2026 14:51:00 -0500",
-          "summary": "The Trump administration is reportedly in active discussions with Venezuela’s interim government to acquire a direct U.S. ownership stake in key Venezuelan oil fields. According to senior U.S. officials cited by Axios, the talks involve equity stakes in a select group of high-yield fields containing approximately 90 billion barrels of proven crude—a transaction that would significantly alter Washi"
+          "title": "U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise",
+          "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Rig-Count-Falls-by-5-as-Gas-Rigs-Rise.html",
+          "published": "Fri, 28 Aug 2026 12:24:00 -0500",
+          "summary": "The total number of active drilling rigs for oil and gas in the United States stayed the same this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 588, up 52 from this same time last year. The number of active oil rigs fell by 5, sinking to 447 during the latest reporting period, according to the data. This is 35 above this same time"
         },
         {
-          "title": "Trump’s War on Offshore Wind Leaves U.S. Workers in Limbo",
-          "link": "https://oilprice.com/Energy/Energy-General/Trumps-War-on-Offshore-Wind-Leaves-US-Workers-in-Limbo.html",
-          "published": "Thu, 27 Aug 2026 14:00:00 -0500",
-          "summary": "United States President Trump has strongly criticised wind power since coming into office, introducing several executive actions aimed at restricting the development of wind farms. Trump has particularly targeted offshore wind, leading to several projects being put on hold or cancelled. The on-again-off-again nature of U.S. offshore wind has hit workers hard, creating job insecurity and posing the"
+          "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
+          "published": "Fri, 28 Aug 2026 11:30:00 -0500",
+          "summary": "Natural gas prices in Asia and Europe jumped on Friday as the market digested reports that Qatar has extended the force majeure on its LNG deliveries into November amid still blocked transits through the Strait of Hormuz. In Asia, the spot LNG price jumped to $23.388 per million British thermal units (MMBtu) on Friday, traders told Bloomberg. The spot LNG price has been hovering at four-year high "
         },
         {
-          "title": "Trump Sends Saudi Nuclear Deal to Congress as Riyadh Rejects Israel Condition",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Sends-Saudi-Nuclear-Deal-to-Congress-as-Riyadh-Rejects-Israel-Condition.html",
-          "published": "Thu, 27 Aug 2026 13:30:00 -0500",
-          "summary": "Trump has formally sent the landmark U.S.-Saudi civilian nuclear agreement to Congress, even as Riyadh reiterated Thursday that it will not normalize relations with Israel without an independent Palestinian state, a condition Trump says must be met before the nuclear deal can take effect. The submission starts a 90-legislative-day congressional review of the 30-year agreement, which would allow U."
+          "title": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Shrugs-Off-Trumps-Toughest-Sanctions-in-History.html",
+          "published": "Fri, 28 Aug 2026 10:55:22 -0500",
+          "summary": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge. Friday, August 28, 2026 The US announcement of ‘toughest sanctions in history’ against Iran did relatively little to push oil prices away from their comfort zone around $90 per barrel (for ICE Brent), with Qatari and Pakistani mediation so far failing to bring the warring sides closer. Aft"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Japan set to tweak shipping tax regime",
-          "link": "https://splash247.com/japan-set-to-tweak-shipping-tax-regime/",
-          "published": "Fri, 28 Aug 2026 06:17:25 +0000",
-          "summary": "Japan is preparing a broad review of the tax regime supporting its international shipping industry as Tokyo increasingly treats control over ships and maritime transport as an economic security issue. The Ministry of Land, Infrastructure, Transport and Tourism’s Maritime Bureau announced Friday it intends to consider four key tax measures affecting international shipping as a &#8230;"
+          "title": "Enesel adds newcastlemax newbuild to dry bulk comeback",
+          "link": "https://splash247.com/enesel-adds-newcastlemax-newbuild-to-dry-bulk-comeback/",
+          "published": "Fri, 28 Aug 2026 11:00:00 +0000",
+          "summary": "Greek owner Enesel has added a newcastlemax to its rapidly expanding dry bulk orderbook, taking its return to the sector to nine newbuildings little more than a year after exiting the market. The Lemos family-controlled company has lined up a 210,000 dwt ship at Hengli Shipbuilding in Dalian for delivery in November 2028. Enesel has &#8230;"
+        },
+        {
+          "title": "Multi-owner tanker order lands at China Merchants",
+          "link": "https://splash247.com/multi-owner-tanker-order-lands-at-china-merchants/",
+          "published": "Fri, 28 Aug 2026 10:35:34 +0000",
+          "summary": "Four European and Canadian shipowners have teamed up on a fresh four-ship product tanker order in China, taking Furetank&#8217;s long-running Vinga series to 26 vessels. Two of the 17,999 dwt newbuilds will go to FureBear, the 50/50 joint venture between Sweden&#8217;s Furetank and Canada&#8217;s Algoma Central Corporation. Swedish owner Älvtank is taking another, while Norway&#8217;s &#8230;"
+        },
+        {
+          "title": "Himalaya pushes rate cover into 2027",
+          "link": "https://splash247.com/himalaya-pushes-rate-cover-into-2027/",
+          "published": "Fri, 28 Aug 2026 10:30:00 +0000",
+          "summary": "Himalaya Shipping has pushed its fixed-rate cover into 2027, converting two more index-linked newcastlemax charters to an average $53,000 per day. The Tor Olav Trøim-backed owner has locked the pair from September 1 through March 31 next year. The ships and charterers were not disclosed. The seven-month conversion represents around $22.5m of gross hire across &#8230;"
+        },
+        {
+          "title": "Ardmore maxes out Wuhu tanker series",
+          "link": "https://splash247.com/ardmore-maxes-out-wuhu-tanker-series/",
+          "published": "Fri, 28 Aug 2026 10:00:00 +0000",
+          "summary": "Ardmore Shipping has taken up its final two options at China&#8217;s Wuhu Shipyard, lifting its product and chemical tanker newbuilding programme to six ships worth around $269m. The New York-listed owner has exercised options for another two 40,500 dwt handysize tankers, with the latest pair contracted on similar terms to the four ships already on &#8230;"
+        },
+        {
+          "title": "Frontline secures multi-year cover for VLCC quartet",
+          "link": "https://splash247.com/frontline-secures-multi-year-cover-for-vlcc-quartet/",
+          "published": "Fri, 28 Aug 2026 09:30:00 +0000",
+          "summary": "Frontline has taken advantage of the red-hot VLCC market to lock four ships into term charters, securing rates of up to $120,000 per day and adding longer-term earnings cover at levels rarely seen in the sector. The John Fredriksen-backed tanker giant has fixed two newly delivered VLCCs for one year each at $120,000 per day. &#8230;"
+        },
+        {
+          "title": "Splash Wrap: The price of passage",
+          "link": "https://splash247.com/splash-wrap-the-price-of-passage/",
+          "published": "Fri, 28 Aug 2026 08:25:28 +0000",
+          "summary": "Shipping spent this week paying ever more extravagant sums for something that used to be taken largely for granted: passage. War, drought, congestion and regulation have turned the journey from A to B into an increasingly complicated calculation of risk, availability and price. This week showed just how expensive keeping those routes open is becoming. &#8230;"
+        },
+        {
+          "title": "Hafnia cashes out of Andromeda joint venture",
+          "link": "https://splash247.com/hafnia-cashes-out-of-andromeda-joint-venture/",
+          "published": "Fri, 28 Aug 2026 08:12:50 +0000",
+          "summary": "Product tanker giant Hafnia has cashed out its stake in a joint venture with Monaco-based Andromeda Shipping, booking a $13.3m profit as it continues to prune older tonnage from its fleet. The BW Group-controlled owner sold its 50% interest in the two MR tankers held through H&#38;A Shipping during the third quarter. Hafnia did not &#8230;"
         },
         {
           "title": "Seaspan takes the renminbi into the global P&I market",
           "link": "https://splash247.com/seaspan-takes-the-renminbi-into-the-global-pi-market/",
-          "published": "Fri, 28 Aug 2026 06:03:52 +0000",
+          "published": "Fri, 28 Aug 2026 08:03:52 +0000",
           "summary": "Bing Chen-led Seaspan is taking the internationalisation of the renminbi into marine insurance, becoming the first overseas shipowner to pay protection and indemnity calls to China P&#38;I Club in the Chinese currency. The containership lessor and China Shipowners Mutual Assurance Association signed an agreement in Shanghai this week covering two 14,000 teu newbuildings, which will &#8230;"
-        },
-        {
-          "title": "Can an AI camera really measure safety culture?",
-          "link": "https://splash247.com/can-an-ai-camera-really-measure-safety-culture/",
-          "published": "Fri, 28 Aug 2026 05:36:08 +0000",
-          "summary": "AI-powered cameras can detect unsafe acts at sea, but measuring behaviour is not the same as understanding competence, culture or risk. Alex Byelyavtsev, a master marine with Maersk, explains. Shipboard cameras are not new. What is new is the claim wrapped around them. Vendors sell AI that watches those feeds and flags missing PPE, people &#8230;"
-        },
-        {
-          "title": "Seafarer dock work battle heads towards EU court",
-          "link": "https://splash247.com/seafarer-dock-work-battle-heads-towards-eu-court/",
-          "published": "Fri, 28 Aug 2026 05:28:11 +0000",
-          "summary": "A European legal battle over whether ships’ crews can be required to undertake cargo handling work in port has widened after the European Trade Union Confederation was allowed to intervene in an appeal before the Court of Appeal of The Hague. The case centres on the International Transport Workers’ Federation’s Non-Seafarers’ Work Clause, which prevents &#8230;"
-        },
-        {
-          "title": "COSL eyes two new deepwater semisubs",
-          "link": "https://splash247.com/cosl-eyes-two-new-deepwater-semisubs/",
-          "published": "Thu, 27 Aug 2026 12:00:00 +0000",
-          "summary": "Offshore driller China Oilfield Services Limited (COSL) is looking into the construction of next-generation deepwater semisub drilling rigs. During a meeting of COSL&#8217;s board of directors, the board reviewed and approved a proposal for a feasibility study report on constructing two such rigs. The company&#8217;s audit committee previously reviewed and approved the feasibility study proposal. "
-        },
-        {
-          "title": "Chinese firm secures $272m offshore wind and subsea cable haul",
-          "link": "https://splash247.com/chinese-firm-secures-272m-offshore-wind-and-subsea-cable-haul/",
-          "published": "Thu, 27 Aug 2026 11:30:00 +0000",
-          "summary": "Chinese subsea cable and offshore wind specialist Jiangsu Hengtong Optic-Electric has secured a string of domestic and international offshore contracts worth a combined RMB 1.831 bn ($272.4m). The company and its controlled subsidiaries received winning bid notices or signed contracts for projects spanning submarine cables, laying works, turbine installation, and offshore operations and maintenanc"
-        },
-        {
-          "title": "TotalEnergies cuts final ties with Arctic LNG 2",
-          "link": "https://splash247.com/totalenergies-cuts-final-ties-with-arctic-lng-2/",
-          "published": "Thu, 27 Aug 2026 11:00:00 +0000",
-          "summary": "French energy major TotalEnergies has transferred its stake in Novatek’s Arctic LNG 2 project to NordLine. The company confirmed it has completed the transfer of its 10% interest in the project to Novatek’s subsidiary, NordLine. After this transfer, TotalEnergies has no remaining stake in the Arctic LNG 2 project. Originally, Novatek owned a 60% stake, &#8230;"
-        },
-        {
-          "title": "South Korea puts green shipping corridors into law",
-          "link": "https://splash247.com/south-korea-puts-green-shipping-corridors-into-law/",
-          "published": "Thu, 27 Aug 2026 10:30:00 +0000",
-          "summary": "South Korea is moving to turn green shipping corridors from bilateral pledges into domestic law, publishing the detailed rules behind what Seoul claims is the world’s first dedicated legislation governing their development. The Ministry of Oceans and Fisheries said on Thursday it had drawn up the enforcement decree and regulations for the Special Act on &#8230;"
         }
       ]
     },
@@ -176,6 +176,42 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "IMO Seeks Practical Solutions to Restore Freedom of Navigation in Hormuz",
+          "link": "https://shipandbunker.com/news/emea/417299-imo-seeks-practical-solutions-to-restore-freedom-of-navigation-in-hormuz",
+          "published": "Fri, 28 Aug 2026 11:00:42 +0000",
+          "summary": "IMO Secretary-General Arsenio Dominguez says at least 70 attacks on ships have been confirmed since the conflict began."
+        },
+        {
+          "title": "RINA Concept Uses Main Engine for More Than Propulsion",
+          "link": "https://shipandbunker.com/news/world/510903-rina-concept-uses-main-engine-for-more-than-propulsion",
+          "published": "Fri, 28 Aug 2026 10:01:46 +0000",
+          "summary": "The ship propulsion concept could save more than 1,000 mt/year of fuel."
+        },
+        {
+          "title": "Iranian Resolve Strained But Traders' Faith In Its Control Of Hormuz Causes 5% Weekly Loss For Oil",
+          "link": "https://shipandbunker.com/news/world/944386-iranian-resolve-strained-but-traders-faith-in-its-control-of-hormuz-causes-5-weekly-loss-for-oil",
+          "published": "Fri, 28 Aug 2026 09:03:00 +0000",
+          "summary": "Meanwhile, earnings on the Saudi Arabia-to-China supertanker route reach record highs."
+        },
+        {
+          "title": "ADNOC L&S Orders Two Additional LNG Carriers",
+          "link": "https://shipandbunker.com/news/world/171601-adnoc-ls-orders-two-additional-lng-carriers",
+          "published": "Fri, 28 Aug 2026 08:31:27 +0000",
+          "summary": "The company has placed orders for two LNG carriers worth $444 million with Jiangnan Shipyard."
+        },
+        {
+          "title": "KR Seeks Feedback on Classification Rules for Low-Flashpoint Fuel Ships",
+          "link": "https://shipandbunker.com/news/world/202211-kr-seeks-feedback-on-classification-rules-for-low-flashpoint-fuel-ships",
+          "published": "Fri, 28 Aug 2026 07:57:10 +0000",
+          "summary": "The classification society is seeking industry feedback on proposed rule changes covering low-flashpoint fuel ships and pollution prevention systems."
+        },
+        {
+          "title": "First Battery-Hybrid Bulker Enters Service",
+          "link": "https://shipandbunker.com/news/world/991349-first-battery-hybrid-bulker-enters-service",
+          "published": "Fri, 28 Aug 2026 07:05:29 +0000",
+          "summary": "The vessel has started operations for construction material firm Adbri in South Australia."
+        },
         {
           "title": "Two More Ammonia Dual-Fuel Ships Set to Join Exmar's Fleet",
           "link": "https://shipandbunker.com/news/world/301148-two-more-ammonia-dual-fuel-ships-set-to-join-exmars-fleet",
@@ -187,42 +223,6 @@
           "link": "https://shipandbunker.com/news/world/171373-us-says-iranian-sea-mines-cleared-from-strait-of-hormuz-shipping-lanes",
           "published": "Fri, 28 Aug 2026 05:43:48 +0000",
           "summary": "Admiral Brad Cooper says US forces have assisted more than 1,500 ships transiting the Strait of Hormuz in recent months."
-        },
-        {
-          "title": "Petrobras Approved to Supply Bunkers by Barge to Foreign-Bound Ships at Suape",
-          "link": "https://shipandbunker.com/news/am/636603-petrobras-approved-to-supply-bunkers-by-barge-to-foreign-bound-ships-at-suape",
-          "published": "Fri, 28 Aug 2026 05:16:17 +0000",
-          "summary": "The approval allows Petrobras to supply marine fuels by barge to vessels bound for foreign destinations at Suape."
-        },
-        {
-          "title": "BUNKER JOBS: Monjasa Seeks Trader in Cyprus",
-          "link": "https://shipandbunker.com/news/world/501237-bunker-jobs-monjasa-seeks-trader-in-cyprus",
-          "published": "Fri, 28 Aug 2026 05:03:55 +0000",
-          "summary": "The company is looking for candidates with experience from either the shipping industry or a sales position."
-        },
-        {
-          "title": "Sunoil Biodiesel Wins Approval to Supply Sustainable Biofuels in Belgium",
-          "link": "https://shipandbunker.com/news/emea/775357-sunoil-biodiesel-wins-approval-to-supply-sustainable-biofuels-in-belgium",
-          "published": "Fri, 28 Aug 2026 04:50:27 +0000",
-          "summary": "The company has previously supplied B100 marine biofuel in the ARA."
-        },
-        {
-          "title": "Dual-Fuel Propulsion Offers Flexibility, But Burning Less Fuel Matters Too: BAR Technologies",
-          "link": "https://shipandbunker.com/news/world/152050-dual-fuel-propulsion-offers-flexibility-but-burning-less-fuel-matters-too-bar-technologies",
-          "published": "Fri, 28 Aug 2026 04:00:50 +0000",
-          "summary": "CEO John Cooper says shipowners should combine fuel flexibility with efficiency to reduce exposure to the cost and availability of future marine fuels."
-        },
-        {
-          "title": "Freepoint's $450 Million Offtake Set to Deliver Sub-$1,000/mt Biomethanol Bunkers",
-          "link": "https://shipandbunker.com/news/world/591035-freepoints-450-million-offtake-set-to-deliver-sub-1000mt-biomethanol-bunkers",
-          "published": "Fri, 28 Aug 2026 00:12:00 +0000",
-          "summary": "Emvolon says the pricing makes its fuel a &quot;no brainer&quot; for owners facing FuelEU penalties, with first marine volumes two to three years out."
-        },
-        {
-          "title": "Corvus Launches First Marine Battery System From BYD Tie-Up",
-          "link": "https://shipandbunker.com/news/world/670333-corvus-launches-first-marine-battery-system-from-byd-tie-up",
-          "published": "Thu, 27 Aug 2026 22:19:00 +0000",
-          "summary": "High-power LFP system targets tugs, workboats, and ferries that charge between crossings."
         }
       ]
     },
@@ -232,6 +232,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "FTAV’s Friday chart quiz",
+          "link": "https://www.ft.com/content/5f0af00c-7f75-48fc-b89e-1a31978273c3",
+          "published": "Fri, 28 Aug 2026 16:51:22 GMT",
+          "summary": "Live Graph Love"
+        },
+        {
+          "title": "SpaceX considered as a leasing company",
+          "link": "https://www.ft.com/content/a5c1460d-631a-4c4e-8c51-32536de09b80",
+          "published": "Fri, 28 Aug 2026 10:13:42 GMT",
+          "summary": "Selling gold nuggets in a shovel rush"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/caf9084f-8166-48c3-abab-0e801dd7a456",
+          "published": "Fri, 28 Aug 2026 06:14:15 GMT",
+          "summary": "Rent; repo; tax; China; birds; fish fingers; and cogs"
+        },
         {
           "title": "Harvard and the Cloudflare governance fight",
           "link": "https://www.ft.com/content/a95aebcf-6cfe-418c-8c11-ddf05f3aef4d",
@@ -261,24 +279,6 @@
           "link": "https://www.ft.com/content/3a1e302b-bcfd-4bdb-afd4-cb18678acb21",
           "published": "Wed, 26 Aug 2026 06:04:12 GMT",
           "summary": "Foreign demand for US assets; US-Canada trade negotiations; big-tech spending commitments; protein silencing; vintage AI; nuclear war; awful people; and anti-Wordle"
-        },
-        {
-          "title": "Nvidia’s $200bn ‘balance sheet-as-a-service’",
-          "link": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67",
-          "published": "Wed, 26 Aug 2026 05:00:03 GMT",
-          "summary": "Because ‘vendor finance’ are such ugly words"
-        },
-        {
-          "title": "And the FTAV Friday charts quiz winner is . . .",
-          "link": "https://www.ft.com/content/b532ed0f-af32-4b56-8a5a-f13d4b6eb8c4",
-          "published": "Tue, 25 Aug 2026 09:46:38 GMT",
-          "summary": "A Farewell to Tees"
-        },
-        {
-          "title": "Bessent gets Drucked",
-          "link": "https://www.ft.com/content/9d61ca14-6939-4efa-a6fe-0ec1b283d77a",
-          "published": "Tue, 25 Aug 2026 09:17:28 GMT",
-          "summary": "‘Governments defending prices against fundamentals always lose’"
         }
       ]
     },
