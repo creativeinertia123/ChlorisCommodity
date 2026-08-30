@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-08-29T04:04:31+00:00",
-  "take": "The Strait of Hormuz remains the fulcrum of the entire complex, with VLCC earnings on the benchmark Saudi-to-China route surging to a record $647,000 per day even as oil prices shed 5% on the week, signalling that the market is pricing in a gradual normalisation of flows despite the elevated risk premium. The US announcement of its 'toughest sanctions in history' against Iran has been shrugged off by crude, which holds near $90, but the real tension lies in the disconnect between Washington's rhetoric and the physical reality of moving barrels through a waterway where at least 70 attacks on ships have been confirmed. The freight market is the clearest transmission mechanism here, with Frontline locking four VLCCs into term charters at up to $120,000 per day and Himalaya Shipping converting newcastlemax charters to $53,000 per day into 2027, indicating that shipowners are monetising scarcity value rather than betting on a quick de-escalation. The product tanker complex is also firming on the back of Nigerian seaborne exports growing seven-fold since 2023, with the Dangote refinery adding incremental clean product supply into a market already tight on middle distillates, whilst the US Gulf-to-West Coast waterborne route has more than quadrupled year-on-year following the Jones Act waiver. Watch for any confirmation of Qatar's LNG force majeure extension into November, as Asian and European gas prices have already jumped on the news and a sustained outage would tighten the global bunker fuel complex through higher LNG carrier demand and elevated tonne-mile requirements.",
+  "generated_at_utc": "2026-08-30T01:10:01+00:00",
+  "take": "Hormuz risk is the dominant story: despite US claims that Iranian sea mines have been cleared from shipping lanes, the IMO confirms at least 70 attacks on ships since the conflict began, yet oil still lost 5% on the week as traders bet Tehran's control of the strait remains intact. The red-hot VLCC market is the second theme, with Frontline locking four ships into term charters at up to $120,000 per day and Saudi Arabia-to-China supertanker earnings at record highs, a direct transmission of war risk premia into freight rates. On flows, the $330 billion swell in the global energy import bill since March underscores how physical buyers are absorbing the conflict premium, whilst the US exploring an 18th-century law to seize and sell Iranian oil signals potential supply-side disruption to watch. Cross-market, the record VLCC earnings and Himalaya's fixed-rate cover at $53,000/day for newcastlemaxes highlight how tanker and dry bulk markets are both pricing in extended voyage times and rerouting around Hormuz, with product tanker newbuilds from Ardmore and Furetank adding to the supply-side response. Watch for any confirmation of actual tanker diversions away from Hormuz over the next 24 hours, as a break in the current trader conviction on Iranian resolve would trigger a sharp repricing of both crude and freight.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,42 @@
       "count": 8,
       "items": [
         {
+          "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
+          "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
+          "published": "Sat, 29 Aug 2026 18:00:00 -0500",
+          "summary": "The war between the United States, Israel, and Iran has caused the oil and gas import bill of the world to swell by as much as $330 billion over the six months between March and August. That’s despite a smaller-than-feared oil price climb and equally smaller-than-feared rise in gas prices. However, the war is not over yet. The bill could swell further. The data comes from the Finland-based climate"
+        },
+        {
+          "title": "Solar Has Crossed a Critical Economic Tipping Point",
+          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Crossed-a-Critical-Economic-Tipping-Point.html",
+          "published": "Sat, 29 Aug 2026 16:00:00 -0500",
+          "summary": "For years, the economic case for solar came with an awkward qualification. Yes, it had no fuel bill. Yes, its operating costs were low. And yes, over the life of a project it could already produce cheaper electricity than a new coal or gas plant. But first, someone had to pay for it. Solar concentrated most of its lifetime costs at the beginning. Fossil power appeared to ask for less capital upfro"
+        },
+        {
+          "title": "Mexico’s Green Energy Push Is Finally Gaining Momentum",
+          "link": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
+          "published": "Sat, 29 Aug 2026 14:00:00 -0500",
+          "summary": "After a delayed start under the previous government, Mexico is now well on its way to undergoing a green transition. President Claudia Sheinbaum has launched an energy reform that opens Mexico’s energy sector to greater private investment and focuses on expanding the country’s renewable energy sector. Meanwhile, the approval of several solar and wind projects demonstrates the government’s commitme"
+        },
+        {
+          "title": "America’s Electricity Boom Is Outrunning Its Power Grid",
+          "link": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
+          "published": "Sat, 29 Aug 2026 12:00:00 -0500",
+          "summary": "The United States’ energy grid is under extreme duress as rapid electrification and energy demand place increasing and unprecedented demand on transmission infrastructure. The artificial intelligence boom is sending energy demand rates into the stratosphere as hyperscalers race to develop energy-hungry data center campuses across the country. At the same time, clean energy campaigns and the renewa"
+        },
+        {
+          "title": "U.S. Eyes 18th-Century Law to Seize and Sell Iranian Oil",
+          "link": "https://oilprice.com/Energy/Crude-Oil/US-Eyes-18th-Century-Law-to-Seize-and-Sell-Iranian-Oil.html",
+          "published": "Sat, 29 Aug 2026 11:00:00 -0500",
+          "summary": "The US government is exploring an unusual legal route for dealing with Iranian oil and ships captured as part of its blockade: bringing back a wartime maritime system that has barely been used for generations, according to Bloomberg. The Justice Department, working with the Pentagon, is preparing to use prize law, which historically allowed courts to decide whether vessels and cargo captured durin"
+        },
+        {
+          "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+          "published": "Sat, 29 Aug 2026 10:00:00 -0500",
+          "summary": "Azerbaijan is one of the world’s oldest oil producers and exporters, having pumped crude since the mid-19th century, and remains a major global oil producer. It has long relied on oil and gas to meet its energy needs and as a major economic contributor. However, the host of the 29th UN Climate Change Conference (COP29) in 2024 is now looking to diversify its energy mix by deploying more renewable "
+        },
+        {
           "title": "Europe’s Russia Sanctions Have a Major Blind Spot",
           "link": "https://oilprice.com/Energy/Energy-General/Europes-Russia-Sanctions-Have-a-Major-Blind-Spot.html",
           "published": "Fri, 28 Aug 2026 15:00:00 -0500",
@@ -75,42 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
           "published": "Fri, 28 Aug 2026 14:00:00 -0500",
           "summary": "The massive data center capacity scale-up underway has focused attention on the scale of water required for these facilities to operate. Rystad Energy estimates that without water-saving measures in place, global water consumption by data centers could rise to 644 billion liters per year by 2030. However, active mitigation could reduce demand to 388 billion liters, representing worst- and best-cas"
-        },
-        {
-          "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Helped-Build-OPEC-Now-It-May-Help-Break-It-Apart.html",
-          "published": "Fri, 28 Aug 2026 13:30:00 -0500",
-          "summary": "Venezuela helped create OPEC. More than six decades later, it is considering walking away, and Washington appears perfectly happy to hold open the door. Caracas is weighing whether to leave the Organization of the Petroleum Exporting Countries, Bloomberg reported Friday, citing people familiar with discussions that have included U.S. officials. No final decision has been made. Venezuela produced a"
-        },
-        {
-          "title": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
-          "link": "https://oilprice.com/Energy/Energy-General/Russias-Energy-Crisis-Puts-Kazakhstan-in-a-Tough-Spot.html",
-          "published": "Fri, 28 Aug 2026 13:00:00 -0500",
-          "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe damage on Russia’s energy infrastructure and its military-industrial complex, prompting Russian officials to seek emergency energy supplies and refining arrangements from Central A"
-        },
-        {
-          "title": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Iran-War-Has-Turned-VLCCs-Into-650000-a-Day-Assets.html",
-          "published": "Fri, 28 Aug 2026 12:30:00 -0500",
-          "summary": "More Gulf oil is moving again. Getting it out now costs a fortune. Earnings on the benchmark Saudi Arabia-to-China supertanker route surged to a record $647,000 per day on Thursday, according to Baltic Exchange data cited by Bloomberg. That is more than ten times the rate a year ago—and nearly 27% above the $510,000 reached just ten days earlier. The spike comes as Persian Gulf producers increase "
-        },
-        {
-          "title": "U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise",
-          "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Rig-Count-Falls-by-5-as-Gas-Rigs-Rise.html",
-          "published": "Fri, 28 Aug 2026 12:24:00 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States stayed the same this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 588, up 52 from this same time last year. The number of active oil rigs fell by 5, sinking to 447 during the latest reporting period, according to the data. This is 35 above this same time"
-        },
-        {
-          "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
-          "published": "Fri, 28 Aug 2026 11:30:00 -0500",
-          "summary": "Natural gas prices in Asia and Europe jumped on Friday as the market digested reports that Qatar has extended the force majeure on its LNG deliveries into November amid still blocked transits through the Strait of Hormuz. In Asia, the spot LNG price jumped to $23.388 per million British thermal units (MMBtu) on Friday, traders told Bloomberg. The spot LNG price has been hovering at four-year high "
-        },
-        {
-          "title": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Shrugs-Off-Trumps-Toughest-Sanctions-in-History.html",
-          "published": "Fri, 28 Aug 2026 10:55:22 -0500",
-          "summary": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge. Friday, August 28, 2026 The US announcement of ‘toughest sanctions in history’ against Iran did relatively little to push oil prices away from their comfort zone around $90 per barrel (for ICE Brent), with Qatari and Pakistani mediation so far failing to bring the warring sides closer. Aft"
         }
       ]
     },
