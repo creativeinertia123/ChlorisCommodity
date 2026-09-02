@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-01T01:44:03+00:00",
-  "take": "Resumption of US-Iran strikes in the Strait of Hormuz is the dominant crude story, with the fragile lull shattered and fresh attacks on merchant shipping threatening to reprice the ~20mb/d of waterborne flows through the chokepoint, though oil trading has remained notably calm so far. The second theme is the container capacity shock looming beneath the surface, with port congestion absorbing 2.3m teu of vessel supply just as a brutal release of new tonnage approaches, which will pressure dry bulk and tanker sentiment via weaker boxship demand for bunkers. On flows, Nigeria's Dangote refinery has driven a seven-fold surge in seaborne product exports since 2023, adding incremental clean product supply into a market already wrestling with Persian Gulf disruption risk. Cross-market, the US Gulf Coast-to-West Coast crude and product waterborne shipments more than quadrupled year-on-year in April and May following the Jones Act waiver, a direct tailwind for domestic clean tanker rates and a bearish signal for pipeline differentials. Watch the next 24 hours for any escalation in Hormuz attacks or further US sanctions against Iran, which could quickly flip the current calm into a sharp bid for crude, bunkers and war-risk freight premiums.",
+  "generated_at_utc": "2026-09-02T00:54:30+00:00",
+  "take": "The API print showing a 2.6 million barrel draw in US crude inventories, against a backdrop of continued SPR releases, tightens the physical balance and lends immediate support to the front of the curve, reinforcing the constructive narrative for crude into the autumn. The Dangote refinery's seven-fold surge in Nigerian product exports is the structural story to watch, as it shifts Atlantic Basin gasoline and gasoil flows and pressures European refining margins at a time when US Gulf Coast waterborne shipments to the West Coast have already quadrupled year-on-year. The freight complex is being pulled in two directions: aframax ordering remains robust with SK Oceanplant's $583m deal for up to eight units, whilst the push for LNG and methanol dual-fuel newbuilds, including Cosco's $2.7bn boxship order, signals a sustained premium for compliant tonnage and keeps scrubber-fitted vessel earnings supported. The cross-market link is clear in bunkers: Repsol's first VLSFO delivery at Chancay and Titan's new 6,000 cu m LNG bunker vessel in the Western Med highlight the regionalisation of fuel supply, which will keep HSFO discounts versus gasoil wide and support LNG bunker premiums over conventional fuels. Watch for the official EIA inventory report tomorrow for confirmation of the API draw, and any further commentary from Treasury Secretary Bessent on the Strait of Hormuz bypass timeline, which would have immediate implications for tanker tonne-mile demand and Gulf crude differentials.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "U.S. LNG exports rose 23% in the first half of 2026 because of higher capacity",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=",
+          "published": "Tue, 01 Sep 2026 09:00:00 EST",
+          "summary": "U.S. liquefied natural gas (LNG) exports averaged 17.4 billion cubic feet per day (Bcf/d) in the first six months of the year, 23% more than the same period in 2025, according to our Natural Gas Monthly. In our latest Short-Term Energy Outlook, we estimate U.S. LNG exports will average 17.3 Bcf/d in the second half of 2026 (2H26) before rising to 18.7 Bcf/d in 1H27."
+        },
         {
           "title": "U.S. uranium production more than tripled in 2025 and was the highest since 2017",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68044",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=67926",
           "published": "Mon, 10 Aug 2026  09:00:00 EST",
           "summary": "In 2025, customers in Puerto Rico experienced an average of 36 hours of power interruptions that were not caused by major events such as hurricanes, 19% more than in 2024. On average, between 2021 and 2025, Puerto Rican customers experience 29 hours of power loss each year. By comparison, electricity customers in the mainland United States generally experience about two hours of electricity interr"
-        },
-        {
-          "title": "Battery storage capacity averaged 70% growth over the last three years",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=67925",
-          "published": "Fri, 7 Aug 2026  09:00:00 EST",
-          "summary": "Utility-scale battery storage capacity in the United States increased significantly during the last three years, with an annual average growth rate of 70%. By the end of 2025, the U.S. power system had operational battery storage capacity of 43.6 gigawatts (GW). During the first six months of 2026, operators added another 8.3 GW of battery storage capacity, reaching nearly 52 GW of nameplate batte"
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "New Tech Breakthrough Aims To Solve The World's Plastic Waste Problem",
-          "link": "https://oilprice.com/Energy/Energy-General/New-Tech-Breakthrough-Aims-To-Solve-The-Worlds-Plastic-Waste-Problem.html",
-          "published": "Mon, 31 Aug 2026 19:00:00 -0500",
-          "summary": "Plastics remanufacturing is the industry everyone wishes they’d gotten into earlier, with McKinsey seeing as much as $75 billion in economic opportunity by 2035 for technologies capable of putting the world’s plastic waste back to work. And Denovia has just taken its biggest step toward capturing a piece of that market, signing a strategic framework with a major international polyester producer th"
+          "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
+          "published": "Tue, 01 Sep 2026 19:00:00 -0500",
+          "summary": "Saudi Arabia’s power stations, desalination plants, factories and farms consume more than 1 million barrels per day of liquid fuel that the kingdom aims to displace by 2030. Natural gas and renewables will provide most of the replacement energy. Nuclear power could reduce domestic oil consumption further after 2030 as electricity demand continues to grow. On July 22, the United States and Saudi Ar"
         },
         {
-          "title": "Why More Venezuelan Oil Won’t Solve America’s Gasoline Problem",
-          "link": "https://oilprice.com/Energy/Energy-General/Why-More-Venezuelan-Oil-Wont-Solve-Americas-Gasoline-Problem.html",
-          "published": "Mon, 31 Aug 2026 18:00:00 -0500",
-          "summary": "Venezuela has the largest proven oil reserves in the world, and its heavy crude is particularly well suited to the sophisticated refineries lining the U.S. Gulf Coast. More Venezuelan oil should help U.S. refiners, but that doesn’t translate directly into lower prices at the pump. Trump announced Friday that the U.S. had secured majority control over Venezuelan fields containing more than 65 billi"
+          "title": "Major U.S. Oil Port Selected for Nuclear Power Project",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Major-US-Oil-Port-Selected-for-Nuclear-Power-Project.html",
+          "published": "Tue, 01 Sep 2026 18:00:00 -0500",
+          "summary": "The port of Corpus Christi has become one of two ports selected for a project aimed at integrating small modular reactors in a bid to expand the use of nuclear power in more industries—and propel SMR technology forward. Small modular reactors are all the rage, at least on paper. They can be installed more quickly than conventional nuclear reactors, and their locations can be more flexible. They ar"
         },
         {
-          "title": "Iran War Triggers Billions in New Oil Pipeline and Port Investment",
-          "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Triggers-Billions-in-New-Oil-Pipeline-and-Port-Investment.html",
-          "published": "Mon, 31 Aug 2026 16:00:00 -0500",
-          "summary": "The severe disruption of oil and gas flows out of the Persian Gulf resulting from the war between the U.S. and Israel and Iran, has saddled energy-importing nations with soaring bills, supply uncertainty, and a murky outlook. However, there has been a silver lining: a rush to build alternative conduits for bringing oil and gas out of the Middle East. The global total energy import bill swelled by "
+          "title": "EU Struggles to Curb Energy Transition Dependence on China",
+          "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/EU-Struggles-to-Curb-Energy-Transition-Dependence-on-China.html",
+          "published": "Tue, 01 Sep 2026 16:00:00 -0500",
+          "summary": "In recent years, the European Union has replaced one critical energy and security vulnerability with another heavy dependence for its green energy ambitions. As the EU has moved to phase out Russian energy imports and reduce the overall dependence on oil and gas, it has rolled out massive renewable energy capacity. But the clean energy transition has become dependent on another global power, which"
         },
         {
-          "title": "Canada Tariffs Deepen North America’s Steel and Aluminum Squeeze",
-          "link": "https://oilprice.com/Metals/Commodities/Canada-Tariffs-Deepen-North-Americas-Steel-and-Aluminum-Squeeze.html",
-          "published": "Mon, 31 Aug 2026 16:00:00 -0500",
-          "summary": "The renewed trade war between the United States and Canada adds even more uncertainty to the complex steel and aluminum supply chains critical for heavy manufacturing and North America’s automotive industry. Last week’s breakdown in trade talks led to a quick escalation of tariffs and counter-tariffs, which the two close trading partners announced on each other’s imports. The trade war escalation "
+          "title": "Solar Power Is Booming in Emerging Markets",
+          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Power-Is-Booming-in-Emerging-Markets.html",
+          "published": "Tue, 01 Sep 2026 16:00:00 -0500",
+          "summary": "Solar energy is going gangbusters. The world is adding photovoltaic solar panels at a blistering rate, shattering its own records year after year, buoyed by a flood of ever-cheaper solar panels out of China. “We have a plentiful and cheap source of electricity that can be built quickly, almost anywhere in the world,” NewScientist wrote in an article published late last year. “Is it fanciful to ima"
         },
         {
-          "title": "Norway Wants Europe’s Energy Market, Without Sharing Its Trade-Offs",
-          "link": "https://oilprice.com/Energy/Energy-General/Norway-Wants-Europes-Energy-Market-Without-Sharing-Its-Trade-Offs.html",
-          "published": "Mon, 31 Aug 2026 15:00:00 -0500",
-          "summary": "Norway is supposedly breaking with Brussels. Energy Minister Terje Aasland says the country will continue exploring for oil and gas in the Barents Sea despite European Union support for an Arctic drilling moratorium. He has also dismissed the old ambition for Norway to become Europe’s “green battery” as a flawed idea. Placed together, the statements create a compelling political story: a sovereign"
+          "title": "U.S. Crude Inventories Drop amid Continued SPR Draws",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Drop-amid-Continued-SPR-Draws.html",
+          "published": "Tue, 01 Sep 2026 15:56:27 -0500",
+          "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell 2.6 million barrels in the week ending August 28. In the week prior, US crude oil inventories rose by 4.2 million barrels. Commercial crude oil inventories excluding the SPR have lost just over 48 million barrels over the last twenty weeks, with US crude inventories up 3.1 million for the year, ac"
         },
         {
-          "title": "Chevron, ONGC and GE Vernova Near Final Venezuela Energy Deals",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-ONGC-and-GE-Vernova-Near-Final-Venezuela-Energy-Deals.html",
-          "published": "Mon, 31 Aug 2026 14:30:00 -0500",
-          "summary": "Chevron, India’s ONGC, GE Vernova, Eni and GeoPark are preparing to sign final energy agreements in Venezuela, bringing new foreign investment into the country’s oilfields and power infrastructure, Reuters reported Monday, citing five sources close to the preparations. Venezuela has spent the past six months rewriting existing oil contracts under its amended hydrocarbons law, giving foreign compan"
+          "title": "U.S. Shale Producers Lose Bid to Kill Oil Price-Fixing Case",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Shale-Producers-Lose-Bid-to-Kill-Oil-Price-Fixing-Case.html",
+          "published": "Tue, 01 Sep 2026 15:30:00 -0500",
+          "summary": "A federal judge has allowed antitrust lawsuits accusing some of the biggest U.S. shale producers of coordinating production cuts to keep oil and fuel prices higher to proceed. U.S. District Judge Matthew Garcia in New Mexico rejected efforts by Diamondback Energy, Occidental Petroleum and other producers to dismiss the consolidated litigation. The lawsuits, filed beginning in 2024, allege that pro"
         },
         {
-          "title": "Trump’s “Historic Deal” With Venezuela Isn’t Fooling Oil Traders",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Trumps-Historic-Deal-With-Venezuela-Isnt-Fooling-Oil-Traders.html",
-          "published": "Mon, 31 Aug 2026 14:00:00 -0500",
-          "summary": "Two days after President Trump called his new Venezuela agreement “the biggest oil deal in world history,” the story has already moved past the barrels themselves. A Pentagon spokesman contradicted the reported ownership structure. The company positioned to run the fields changed hands under murky circumstances just weeks before the deal was announced. And the revenue figures Caracas released over"
+          "title": "U.S. Lithium Miners Finally Have a Shot at Cashing In",
+          "link": "https://oilprice.com/Energy/Energy-General/US-Lithium-Miners-Finally-Have-a-Shot-at-Cashing-In.html",
+          "published": "Tue, 01 Sep 2026 15:00:00 -0500",
+          "summary": "After years of volatile markets, lithium prices are soaring, and everyone wants a piece. As the battery storage sector goes gangbusters on a global scale, lithium spot prices are seeing a major windfall, with mining companies posting massive profits. As a result, lithium asset dealmaking is also on the rise, and could soon – at long last – put the United States on the map as a key supplier of the "
         },
         {
-          "title": "BP Adds 80 MMcf/d to Egypt’s Gas Supply Two Years Ahead of Schedule",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/BP-Adds-80-MMcfd-to-Egypts-Gas-Supply-Two-Years-Ahead-of-Schedule.html",
-          "published": "Mon, 31 Aug 2026 13:30:00 -0500",
-          "summary": "Roughly two years ahead of schedule, BP has started production from the Fayoum-4 well in Egypt’s West Nile Delta, adding around 80 million cubic feet per day of natural gas to a market where declining domestic production has forced Cairo back into large-scale LNG imports, Egyptian media reported on Monday. Fayoum-4 was connected to BP’s existing West Nile Delta processing facilities through the Gi"
+          "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Bessent-Says-Strait-of-Hormuz-Obsolete-Within-Two-Years.html",
+          "published": "Tue, 01 Sep 2026 14:30:00 -0500",
+          "summary": "Treasury Secretary Scott Bessent says Gulf oil producers could bypass the Strait of Hormuz within two years, putting a remarkably short timetable on a pipeline buildout that has accelerated since the Iran war disrupted one of the world’s busiest oil routes. “That will be bypassed in two years,” Bessent said Tuesday during a discussion with Larry Kudlow at the G20 financial meetings in Asheville, N"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Peter Döhle returns to Hudong-Zhonghua for boxship brace",
-          "link": "https://splash247.com/peter-dohle-returns-to-hudong-zhonghua-for-boxship-brace/",
-          "published": "Mon, 31 Aug 2026 13:11:00 +0000",
-          "summary": "German tonnage provider Peter Döhle Schiffahrts is being linked to another two containership newbuildings at Hudong-Zhonghua, extending one of the busiest boxship ordering runs among Germany&#8217;s independent owners. Shipbuilding sources reported the Hamburg outfit has returned to the CSSC yard for a fresh 14,000 teu two-ship contract, bringing its series at the yard to a &#8230;"
+          "title": "SK Oceanplant lines up up to eight aframaxes for Greek owner",
+          "link": "https://splash247.com/sk-oceanplant-lines-up-up-to-eight-aframaxes-for-greek-owner/",
+          "published": "Tue, 01 Sep 2026 12:30:00 +0000",
+          "summary": "South Korea&#8217;s SK Oceanplant has landed its biggest merchant shipbuilding deal in years, signing a Greek owner for up to eight aframax tankers worth around KRW800bn ($583m). The firm contract is for six 115,000 dwt newbuilds, worth around $430m, and comes with options for another two ships. The vessels will be built at SK Oceanplant&#8217;s &#8230;"
         },
         {
-          "title": "Chinese newcomer lines up $24m boxship newbuild",
-          "link": "https://splash247.com/chinese-newcomer-lines-up-24m-boxship-newbuild/",
-          "published": "Mon, 31 Aug 2026 12:09:00 +0000",
-          "summary": "Newly established Xiamen Xinliansheng Shipping has moved straight into shipowning with a RMB158m ($24m) containership newbuild at Zhejiang Shenzhou Sunshine Heavy Industry. A Xiamen enterprise investment filing shows the company has commissioned the Chinese yard to build a 2,000 teu unit for delivery in July 2027. Xinliansheng is only a few months old. Business registration &#8230;"
+          "title": "Titan and Sogestran team up on Mediterranean LNG bunker newbuild",
+          "link": "https://splash247.com/titan-and-sogestran-team-up-on-mediterranean-lng-bunker-newbuild/",
+          "published": "Tue, 01 Sep 2026 12:00:00 +0000",
+          "summary": "Titan Clean Fuels has struck a long-term deal with France&#8217;s Sogestran for a new 6,000 cu m LNG bunkering vessel, giving the Molgas-owned fuel supplier dedicated ship-to-ship capacity in the western Mediterranean. The vessel will be owned by Sogestran and built at Nantong CIMC Sinopacific Offshore &#38; Engineering in China under a contract firmed last &#8230;"
         },
         {
-          "title": "US cuts costs and red tape in shipbuilding finance overhaul",
-          "link": "https://splash247.com/us-cuts-costs-and-red-tape-in-shipbuilding-finance-overhaul/",
-          "published": "Mon, 31 Aug 2026 10:58:00 +0000",
-          "summary": "Washington has overhauled the rules governing its Title XI ship and shipyard financing programme, lowering application costs and removing a potential bottleneck for projects using foreign equipment. The US Maritime Administration&#8217;s interim final rule took effect on August 28 and cuts the Title XI application fee from $5,000 to $1,000. The agency has also replaced &#8230;"
+          "title": "GMI doubles hydrogen bulker programme",
+          "link": "https://splash247.com/gmi-doubles-hydrogen-bulker-programme/",
+          "published": "Tue, 01 Sep 2026 11:21:00 +0000",
+          "summary": "Norwegian newcomer Green Maritime Infrastructure (GMI) Group has doubled its hydrogen-powered bulker programme to four ships, signing for another two newbuilds at India&#8217;s Chowgule Shipyard. The latest pair will be around 3,000 dwt each and join two larger 4,000 dwt ships already under construction at Gelibolu Shipyard in Turkey. The first of the four is &#8230;"
         },
         {
-          "title": "Cotemar chases ABS affiliate for $59m in New York",
-          "link": "https://splash247.com/cotemar-chases-abs-affiliate-for-59m-in-new-york/",
-          "published": "Mon, 31 Aug 2026 10:04:00 +0000",
-          "summary": "Mexican offshore contractor Cotemar has launched legal action in New York seeking to enforce a $34.8m Mexican judgment against ABSG Consulting, a subsidiary of the American Bureau of Shipping. Cotemar values the claim at $59.4m after adding interest under Mexican and New York law. The dispute stems from work carried out in the Gulf of &#8230;"
+          "title": "Tidewater completes $500m Brazil OSV takeover",
+          "link": "https://splash247.com/tidewater-completes-500m-brazil-osv-takeover/",
+          "published": "Tue, 01 Sep 2026 10:50:00 +0000",
+          "summary": "Tidewater has completed its $500m takeover of Wilson Sons Ultratug Offshore, adding 22 platform supply vessels and dramatically scaling up its position in Brazil. The Houston-based OSV giant closed the acquisition of Wilson Sons Ultratug Participações and affiliate Atlantic Offshore Services on August 31, six months after first announcing the all-cash deal. The acquired fleet &#8230;"
         },
         {
-          "title": "Two attack-damaged ships wash up on Turkish Black Sea coast",
-          "link": "https://splash247.com/two-attack-damaged-ships-wash-up-on-turkish-black-sea-coast/",
-          "published": "Mon, 31 Aug 2026 09:41:16 +0000",
-          "summary": "Two merchant ships damaged in separate attacks around the Black Sea washed up on Turkey’s coast on Sunday. The Hong Kong-flagged chemical/products tanker Golden Sapling grounded at Geyikkoşan in Samsun province after drifting unmanned for several days. Turkish agency DHA reported the 19,455 dwt tanker had been damaged in a drone attack around 90 nautical &#8230;"
+          "title": "AFRY takes offshore role on $2.7bn Vietnam LNG-to-power project",
+          "link": "https://splash247.com/afry-takes-offshore-role-on-2-7bn-vietnam-lng-to-power-project/",
+          "published": "Tue, 01 Sep 2026 10:30:00 +0000",
+          "summary": "Sweden’s AFRY has been brought in as an international technical adviser for the $2.69bn Thai Binh LNG-to-power development in northern Vietnam, including work on the project’s floating terminal, subsea pipeline and offshore mooring infrastructure. The engineering group said that its scope covers offshore LNG receiving infrastructure, subsea gas pipeline systems, a submerged yoke mooring system, &#"
         },
         {
-          "title": "Hormuz shipping back in firing line as US-Iran strikes resume",
-          "link": "https://splash247.com/hormuz-shipping-back-in-firing-line-as-us-iran-strikes-resume/",
-          "published": "Mon, 31 Aug 2026 08:33:55 +0000",
-          "summary": "The fragile lull in the Strait of Hormuz has shattered, with the US and Iran exchanging fire for the first time in more than a month just as a fresh series of attacks on merchant shipping threatens to close down hard-won transit routes. Iran’s Revolutionary Guard claimed on Monday that an unidentified tanker had struck &#8230;"
+          "title": "Deep wins four-year TenneT offshore cable survey deal",
+          "link": "https://splash247.com/deep-wins-four-year-tennet-offshore-cable-survey-deal/",
+          "published": "Tue, 01 Sep 2026 10:00:00 +0000",
+          "summary": "Dutch survey specialist Deep has secured a multi-year contract from TenneT covering annual integrity surveys across the transmission operator’s offshore cable infrastructure. The Amsterdam-based company will carry out the campaigns annually between 2026 and 2029, using hydrographic and geophysical surveys to measure cable burial and identify seabed features or objects that could threaten cable int"
         },
         {
-          "title": "Congestion masks container shipping’s coming capacity shock",
-          "link": "https://splash247.com/congestion-masks-container-shippings-coming-capacity-shock/",
-          "published": "Mon, 31 Aug 2026 08:17:37 +0000",
-          "summary": "Port congestion is doing container shipping an enormous favour, absorbing 2.3m teu of vessel capacity at precisely the moment the industry is preparing for a potentially brutal release of tonnage from both newbuildings and a return to the Suez Canal. New Sea-Intelligence data shows worsening delays have rendered 6.6% of the global containership fleet effectively &#8230;"
+          "title": "Helix-Hornbeck merger takes effect after shareholder vote",
+          "link": "https://splash247.com/helix-hornbeck-merger-takes-effect-after-shareholder-vote/",
+          "published": "Tue, 01 Sep 2026 09:43:00 +0000",
+          "summary": "Helix Energy Solutions Group has completed its combination with Hornbeck Offshore Services after shareholders cleared the all-stock deal, creating a larger US offshore services group under the Hornbeck name. Helix shareholders approved the proposals required to complete the transaction at a special meeting and the merger became effective on September 1. The deal effectively brings &#8230;"
         },
         {
-          "title": "Splash Singapore finalises agenda for Asia’s top shipping conference",
-          "link": "https://splash247.com/splash-singapore-finalises-agenda-for-asias-top-shipping-conference/",
-          "published": "Mon, 31 Aug 2026 08:01:12 +0000",
-          "summary": "The agenda has been finalised for the inaugural Splash Singapore, with some of the biggest names in global shipping heading to the Lion City next month for a full day of market debate, technology discussion and high-level networking with hundreds of delegates already signed up. Taking place on September 24 in the Stamford Ballroom at &#8230;"
+          "title": "Maersk tipped to slide off liner podium",
+          "link": "https://splash247.com/maersk-tipped-to-slide-off-liner-podium/",
+          "published": "Tue, 01 Sep 2026 08:35:56 +0000",
+          "summary": "Maersk could slip from first to fourth in the global liner rankings within the space of just six years as CMA CGM and COSCO continue to expand at a pace the Danish carrier has so far been unwilling to match. Having surrendered the liner crown to Mediterranean Shipping Co (MSC) in early 2022, Maersk is &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Oil Trading Calm In Response To Resumption of U.S./Iran Military Strikes",
-          "link": "https://shipandbunker.com/news/world/901535-oil-trading-calm-in-response-to-resumption-of-usiran-military-strikes",
-          "published": "Mon, 31 Aug 2026 10:54:00 +0000",
-          "summary": "Further sanctions are expected to be imposed against the Islamic republic."
+          "title": "Titan and Sogestran Partner on New 6,000 m3 LNG Bunker Vessel",
+          "link": "https://shipandbunker.com/news/emea/383731-titan-and-sogestran-partner-on-new-6000-m3-lng-bunker-vessel",
+          "published": "Tue, 01 Sep 2026 10:14:18 +0000",
+          "summary": "Titan plans to operate the vessel to supply LNG and LBM to ships in the Western Mediterranean."
         },
         {
-          "title": "Weilbach Adds Voyage Optimisation Technology Into Its Platform",
-          "link": "https://shipandbunker.com/news/world/471094-weilbach-adds-voyage-optimisation-technology-into-its-platform",
-          "published": "Mon, 31 Aug 2026 10:09:23 +0000",
-          "summary": "Weilbach is bringing Optimum Voyage&#039;s route and speed optimisation technology into its platform."
+          "title": "Repsol Completes First Bunker Delivery at Peru's Port of Chancay",
+          "link": "https://shipandbunker.com/news/am/607022-repsol-completes-first-bunker-delivery-at-perus-port-of-chancay",
+          "published": "Tue, 01 Sep 2026 09:54:55 +0000",
+          "summary": "Repsol has made its first bunker delivery at Port of Chancay, supplying 750 mt of VLSFO to a container ship."
         },
         {
-          "title": "WinGD Finds LNG Retrofit Offers Fastest Payback",
-          "link": "https://shipandbunker.com/news/world/306951-wingd-finds-lng-retrofit-offers-fastest-payback",
-          "published": "Mon, 31 Aug 2026 09:49:00 +0000",
-          "summary": "Ships running on low-GHG LNG could offer an estimated six-year payback on retrofit investment."
+          "title": "Verde Marine Energy Expands into Marine Lubricants",
+          "link": "https://shipandbunker.com/news/emea/207445-verde-marine-energy-expands-into-marine-lubricants",
+          "published": "Tue, 01 Sep 2026 09:06:22 +0000",
+          "summary": "Patrick Koers has joined as a lubricant trader and will be responsible for developing and managing the lubricant business."
         },
         {
-          "title": "Klaipeda Plans for Green Methanol Bunkering with New Vessel Concept",
-          "link": "https://shipandbunker.com/news/emea/918853-klaipeda-plans-for-green-methanol-bunkering-with-new-vessel-concept",
-          "published": "Mon, 31 Aug 2026 09:41:25 +0000",
-          "summary": "The bunkering vessel is anticipated to have a green methanol capacity of 800 mt."
+          "title": "MB Energy Bunkers Cruise Ship with Methanol at Port of Kiel",
+          "link": "https://shipandbunker.com/news/emea/542558-mb-energy-bunkers-cruise-ship-with-methanol-at-port-of-kiel",
+          "published": "Tue, 01 Sep 2026 08:48:54 +0000",
+          "summary": "The trial saw 25 m3 of renewable methanol supplied to the ship, which will be used for boiler operations rather than propulsion."
         },
         {
-          "title": "OOCL Names Second Methanol Dual-Fuel Boxship",
-          "link": "https://shipandbunker.com/news/apac/761544-oocl-names-second-methanol-dual-fuel-boxship",
-          "published": "Mon, 31 Aug 2026 08:47:19 +0000",
-          "summary": "The 24,000 TEU methanol dual-fuel ship was named at Nantong COSCO KHI Ship Engineering Co on Friday."
+          "title": "LD Armateurs Launches Hybrid-Electric Service Operational Vessel",
+          "link": "https://shipandbunker.com/news/world/372796-ld-armateurs-launches-hybrid-electric-service-operational-vessel",
+          "published": "Tue, 01 Sep 2026 08:35:00 +0000",
+          "summary": "The vessel is due for delivery in 2027 and will operate in wind farms in North Sea."
         },
         {
-          "title": "Singapore and Brazil Join Forces on Green Shipping Corridor and Alternative Fuels",
-          "link": "https://shipandbunker.com/news/world/749265-singapore-and-brazil-join-forces-on-green-shipping-corridor-and-alternative-fuels",
-          "published": "Mon, 31 Aug 2026 08:37:04 +0000",
-          "summary": "Singapore and Brazil have signed an MoU to develop a green shipping corridor and alternative marine fuel supply chains."
+          "title": "Cosco Orders 12 LNG Dual-Fuel Boxships in $2.7 Billion Deal",
+          "link": "https://shipandbunker.com/news/apac/462618-cosco-orders-12-lng-dual-fuel-boxships-in-27-billion-deal",
+          "published": "Tue, 01 Sep 2026 08:27:04 +0000",
+          "summary": "The shipbuilding contracts were signed on Monday, with the 12 vessels scheduled to enter the fleet between 2028 and 2030."
         },
         {
-          "title": "BUNKER JOBS: Arte Bunkering Seeks Senior Bunker Trader in Hong Kong or Shanghai",
-          "link": "https://shipandbunker.com/news/apac/832334-bunker-jobs-arte-bunkering-seeks-senior-bunker-trader-in-hong-kong-or-shanghai",
-          "published": "Mon, 31 Aug 2026 08:17:07 +0000",
-          "summary": "The company is looking to hire a Mandarin-fluent senior bunker trader in Shanghai or Hong Kong."
+          "title": "Ahti Integrates With DNV's Veracity for FuelEU Pooling",
+          "link": "https://shipandbunker.com/news/world/424495-ahti-integrates-with-dnvs-veracity-for-fueleu-pooling",
+          "published": "Tue, 01 Sep 2026 07:22:38 +0000",
+          "summary": "The new link is aimed at reducing manual work in emissions reporting and FuelEU compliance."
         },
         {
-          "title": "MPA Urges Maritime Companies to Prepare for Haze",
-          "link": "https://shipandbunker.com/news/apac/794858-mpa-urges-maritime-companies-to-prepare-for-haze",
-          "published": "Mon, 31 Aug 2026 07:38:13 +0000",
-          "summary": "The MPA has urged maritime companies to maintain business continuity plans for haze."
+          "title": "DP World Names New Methanol Dual-Fuel Container Ship",
+          "link": "https://shipandbunker.com/news/emea/989704-dp-world-names-new-methanol-dual-fuel-container-ship",
+          "published": "Tue, 01 Sep 2026 06:54:46 +0000",
+          "summary": "The vessel had completed its first methanol bunkering in Rotterdam in June."
         }
       ]
     },
@@ -232,6 +232,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "GoPro: a totally normal, unremarkable piece of merger activity",
+          "link": "https://www.ft.com/content/e7cc6fc2-74ae-497b-92bf-d8254dd161fa",
+          "published": "Tue, 01 Sep 2026 17:33:21 GMT",
+          "summary": "Camera action"
+        },
+        {
+          "title": "Shein’s unhappy IPO",
+          "link": "https://www.ft.com/content/66df7f0e-ce6a-4619-8044-fa23423db3e7",
+          "published": "Tue, 01 Sep 2026 11:00:07 GMT",
+          "summary": "There’s no time to cry, happy, happy"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/476d21cd-f759-4245-a439-f5b1330c8b30",
+          "published": "Tue, 01 Sep 2026 05:00:09 GMT",
+          "summary": "Pluto; freezers; L’Entarteur; bonds; Snow vs Leavis; ice cream vans; and kids"
+        },
+        {
+          "title": "This time it really was different",
+          "link": "https://www.ft.com/content/15de7725-234a-448a-9cc6-12500a47aada",
+          "published": "Tue, 01 Sep 2026 04:30:08 GMT",
+          "summary": "Another look at why 2022-23 wasn’t like 1982-83"
+        },
         {
           "title": "Happy birthday to the First Index Investment Trust",
           "link": "https://www.ft.com/content/c0341d15-482e-41a6-abe1-ef3e5e9a0d0b",
@@ -255,30 +279,6 @@
           "link": "https://www.ft.com/content/ff42d33c-9cb9-4707-8250-677af16fb0b6",
           "published": "Mon, 31 Aug 2026 05:00:11 GMT",
           "summary": "Reserves; Rockstar; Hugging Face; Pete Hegseth; kids’ sports; 9/11; Mark Zuckerberg; and justification"
-        },
-        {
-          "title": "What’s the fiscal hit from higher yields?",
-          "link": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
-          "published": "Sun, 30 Aug 2026 04:12:14 GMT",
-          "summary": "A long answer to a simple question"
-        },
-        {
-          "title": "FTAV’s Friday chart quiz",
-          "link": "https://www.ft.com/content/5f0af00c-7f75-48fc-b89e-1a31978273c3",
-          "published": "Fri, 28 Aug 2026 16:51:22 GMT",
-          "summary": "Live Graph Love"
-        },
-        {
-          "title": "SpaceX considered as a leasing company",
-          "link": "https://www.ft.com/content/a5c1460d-631a-4c4e-8c51-32536de09b80",
-          "published": "Fri, 28 Aug 2026 10:13:42 GMT",
-          "summary": "Selling gold nuggets in a shovel rush"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/caf9084f-8166-48c3-abab-0e801dd7a456",
-          "published": "Fri, 28 Aug 2026 06:14:15 GMT",
-          "summary": "Rent; repo; tax; China; birds; fish fingers; and cogs"
         }
       ]
     },
