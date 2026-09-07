@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-06T00:44:12+00:00",
-  "take": "Crude is heading for a sixth weekly gain as the Iran war forces a rewrite of global oil trade routes, with exporters scrambling to diversify channels away from the Strait of Hormuz and diesel fears mounting on the supply disruption risk. Elevated crack spreads and crude prices are feeding directly into higher pump prices, which underscores the tightness in middle-distillate barrels and keeps refining margins bid. In freight, the tanker-for-tanker phase of the conflict is escalating, with the US striking Iranian state tankers in retaliation, which will keep war-risk premia elevated and could distort clean product and crude tonne-mile demand as rerouting persists. The positioning angle is that the rally is \"mostly mood and fear driven,\" per analysts, so expect speculative length to be vulnerable to any diplomatic headline, whilst physical inventory draws remain the key confirmation signal. Watch for the ISWG-GHG 22 outcome and any MEPC 85 text on GHG pricing, as a centralised fund levy would raise bunker costs and hit tanker and dry bulk operators' margins.",
+  "generated_at_utc": "2026-09-07T00:48:10+00:00",
+  "take": "Crude is heading for a sixth weekly gain, with the Iran war forcing a rewrite of global oil trade routes and exporters scrambling to diversify channels, whilst analysts caution the rally is \"mostly mood and fear driven\" rather than physical tightness. Elevated crack spreads are feeding directly into higher pump prices, and with diesel fears mounting, the refining margin story remains the key transmission mechanism into products even if crude's risk premium wobbles. On the freight side, Nigerian seaborne product exports have grown seven-fold since 2023 on Dangote's ramp-up, adding tonne-miles and tightening clean tanker supply just as the IMO's GHG pricing debate at ISWG-GHG 22 points toward a centralised fund that will raise bunker costs from 2027. Positioning is vulnerable to a sharp correction given the fear-driven nature of the bid, but any pullback in crude will be cushioned by structurally firm gasoil cracks and the US Gulf Coast-to-West Coast waterborne route, which has more than quadrupled year-on-year following the waiver. Watch for MEPC 85's net-zero framework text and the December 4 adoption session, plus any headline from the Middle East that either validates or deflates the current risk premium in the next 24 hours.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,42 @@
       "count": 8,
       "items": [
         {
+          "title": "Russia Is Redrawing Its Energy Map Through the Arctic",
+          "link": "https://oilprice.com/Energy/Energy-General/Russia-Is-Redrawing-Its-Energy-Map-Through-the-Arctic.html",
+          "published": "Sun, 06 Sep 2026 18:00:00 -0500",
+          "summary": "Russia’s Northern Sea Route (NSR) is about to become a game-changer for Eurasian energy trade, and Europe’s January 2027 ban on Russian LNG is pushing Moscow to bring it to life sooner than planned. LNG will remain its foundation, while crude traffic and Rosneft’s vast Vostok Oil project could provide far greater scale. For Russia, the prize is a shorter route to Asian customers that avoids foreig"
+        },
+        {
+          "title": "Most Critical Minerals Aren’t Going to the Energy Transition",
+          "link": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+          "published": "Sun, 06 Sep 2026 17:00:00 -0500",
+          "summary": "An Oakland Institute analysis challenges claims that a large increase in mining is an unavoidable cost of replacing fossil fuels. Using International Energy Agency (IEA) data, Oakland calculated that wind, solar, renewable-power networks, grid batteries and electric vehicles accounted for 26% of combined demand for copper, lithium, nickel, cobalt, graphite and magnet rare earths in 2024. It assign"
+        },
+        {
+          "title": "Oil Majors Seek Bigger Bargaining Power in Labor Disputes",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Majors-Seek-Bigger-Bargaining-Power-in-Labor-Disputes.html",
+          "published": "Sun, 06 Sep 2026 16:00:00 -0500",
+          "summary": "The biggest oil companies in the United States are playing hardball in unionized labor negotiations in a bid to get more concessions from workers’ unions in the new contracts. Over the past few years, some of the top U.S. refining companies have resorted to lockouts to ensure most of the company management’s proposals in new labor contracts are accepted. The trend began earlier this decade with Ex"
+        },
+        {
+          "title": "High Fuel Prices Are Powering an Electric Motorcycle Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/High-Fuel-Prices-Are-Powering-an-Electric-Motorcycle-Boom.html",
+          "published": "Sun, 06 Sep 2026 14:00:00 -0500",
+          "summary": "While electric car and truck sales have grown more slowly than expected in recent years, prompting governments to rethink clean fuel targets and automakers to slow the pace of EV production, electric motorcycles are becoming increasingly popular in certain parts of the world. Two-wheel vehicles have long been popular in busy cities and low-income countries, and now, largely due to rising fuel pric"
+        },
+        {
+          "title": "Colombia Moves to Reverse Fracking Ban, Eyes $4 Billion in New Oil Investment",
+          "link": "https://oilprice.com/Energy/Energy-General/Colombia-Moves-to-Reverse-Fracking-Ban-Eyes-4-Billion-in-New-Oil-Investment.html",
+          "published": "Sun, 06 Sep 2026 12:00:00 -0500",
+          "summary": "A regime change in Colombia’s federal government is poised to usher in an oil and gas renaissance in the South American nation. After a four-year ban on oil and gas exploration under the previous leftist president Gustavo Petro, a new right-wing administration is eager to open the country’s oil and gas reserves up to foreign investors. But while mining and oil companies are ready to pour billions "
+        },
+        {
+          "title": "Oil-Rich Oman Bets Big on Renewable Energy",
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
+          "published": "Sun, 06 Sep 2026 10:00:00 -0500",
+          "summary": "Oman, a major oil and gas producer, plans to expand its renewable energy capacity as part of its energy diversification and green transition goals. The government recently introduced new national policies to expand Oman’s green energy and cleantech industries and to encourage private investment in the sector. This year, Oman’s Ministry of Energy and Minerals launched a revised net-zero emissions s"
+        },
+        {
           "title": "Iran War Forces a Rewrite of Global Oil Trade Routes",
           "link": "https://oilprice.com/Energy/Crude-Oil/Iran-War-Forces-a-Rewrite-of-Global-Oil-Trade-Routes.html",
           "published": "Sat, 05 Sep 2026 18:00:00 -0500",
@@ -75,42 +111,6 @@
           "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Japan-South-Korea-and-the-US-Forge-a-New-Nuclear-Alliance.html",
           "published": "Sat, 05 Sep 2026 16:00:00 -0500",
           "summary": "Northeast Asia is experiencing a rapid nuclear energy revival as Japan and South Korea move to prioritize the baseload clean energy source into their energy security strategies. Not only are the two major economies ramping up nuclear energy expansion, they are also changing the geopolitics of how and with whom they plan these expansions. As the artificial intelligence boom pushes an all-of-the-abo"
-        },
-        {
-          "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
-          "published": "Sat, 05 Sep 2026 14:00:00 -0500",
-          "summary": "Governments worldwide are racing to develop small modular reactors (SMRs) as part of their plans for a nuclear power renaissance, with significant progress being seen in recent years. However, the United States appears to be leading the way in nuclear microreactor development, with significant investment in the technology recently announced by the U.S. Army. SMRs are advanced nuclear reactors with"
-        },
-        {
-          "title": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of Natural Gas a Year",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Nebraska-Cattle-Feedlot-Turns-Manure-Into-12-Million-MMBtu-of-Natural-Gas-a-Yea.html",
-          "published": "Sat, 05 Sep 2026 12:00:00 -0500",
-          "summary": "A new project is seeking to turn cattle manure into a source of sustainable natural gas for energy production and shipping fuel. The initiative just broke ground in Broken Bow, Nebraska, where eight anaerobic digesters will process waste from the Adams Land & Cattle feedlot into what the project leads are hoping will be a lucrative and eco-friendly source of approximately 1.2 million MMBtu of pipe"
-        },
-        {
-          "title": "Green Bonds Hit Record High Despite Persistent Challenges",
-          "link": "https://oilprice.com/Energy/Energy-General/Green-Bonds-Hit-Record-High-Despite-Persistent-Challenges.html",
-          "published": "Sat, 05 Sep 2026 10:00:00 -0500",
-          "summary": "Green bonds account for a tiny proportion of the global bond market but have significant growth potential as consumers become increasingly concerned about environmental issues, such as climate change. The issuance of green bonds could also support governments worldwide in undergoing a green transition. Green bonds contribute to projects that support the environment, such as renewable energy, clean"
-        },
-        {
-          "title": "How The U.S. Fell Behind China On Nuclear Power",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
-          "published": "Fri, 04 Sep 2026 17:00:00 -0500",
-          "summary": "The United States is the largest producer of nuclear power in the world, solely responsible for about one-third of global output. As of today, the U.S. has 96 operating commercial nuclear reactors in 57 power plants across 28 states. However, while that fleet remains highly productive, the domestic nuclear sector is rapidly aging out. All but two of the nation’s nuclear reactors are Gen II models,"
-        },
-        {
-          "title": "Will We Control AI—or Will AI Control Us?",
-          "link": "https://oilprice.com/Energy/Energy-General/Artificial-Intelligence-Is-It-Good-Bad-or-a-Game-Changer.html",
-          "published": "Fri, 04 Sep 2026 16:00:00 -0500",
-          "summary": "The world is undergoing a transformation driven by the exponential growth of artificial intelligence (AI)—a pace of change unprecedented in human history. Consequently, many people fear massive unemployment, along with other implications that could affect their livelihoods and quality of life. Is this truly the case? Yes—or perhaps not entirely. The purpose of this short article is to explore the "
-        },
-        {
-          "title": "BLM Moves to Fast-Track Oil Permits in Alaska Petroleum Reserve",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/BLM-Moves-to-Fast-Track-Oil-Permits-in-Alaska-Petroleum-Reserve.html",
-          "published": "Fri, 04 Sep 2026 15:30:00 -0500",
-          "summary": "The Bureau of Land Management wants to cut the permitting time for some oil and gas projects in Alaska’s National Petroleum Reserve to as little as 60 days, according to a Friday press release. The proposed rule would replace separate case-by-case reviews for qualifying production sites with a standardized process covering common, repeatable activities that BLM says have already been studied exten"
         }
       ]
     },
@@ -118,57 +118,8 @@
       "source": "Splash247",
       "url": "https://splash247.com/feed/",
       "ok": true,
-      "count": 8,
-      "items": [
-        {
-          "title": "COSCO brands US spying claims ‘totally unfounded’",
-          "link": "https://splash247.com/cosco-brands-us-spying-claims-totally-unfounded/",
-          "published": "Fri, 04 Sep 2026 09:47:06 +0000",
-          "summary": "COSCO, the world’s largest shipowner by fleet size, has strongly rejected allegations that its commercial vessels are being used to collect military intelligence for Beijing. The Chinese state-controlled group issued a statement after Reuters reported that two senior US administration officials believe COSCO ships carry concealed signals-intelligence equipment capable of intercepting military comm"
-        },
-        {
-          "title": "Nanjing Shenghang lines up six chemical tankers at China Merchants yard",
-          "link": "https://splash247.com/nanjing-shenghang-lines-up-six-chemical-tankers-at-china-merchants-yard/",
-          "published": "Fri, 04 Sep 2026 09:45:00 +0000",
-          "summary": "Chinese chemical tanker owner Nanjing Shenghang Shipping is scaling up its fleet renewal programme with plans to spend CNY994.8m ($148m) on six 13,500 dwt stainless-steel chemical and product tanker newbuildings. The Shenzhen-listed company has lined up China Merchants Shipbuilding Industry Group Nanjing Shipyard for the series, with each vessel priced at CNY165.8m ($24.7m), including tax. &#8230;"
-        },
-        {
-          "title": "Scorpio puts three tankers on three-year charters",
-          "link": "https://splash247.com/scorpio-puts-three-tankers-on-three-year-charters/",
-          "published": "Fri, 04 Sep 2026 09:30:00 +0000",
-          "summary": "Monaco-based Scorpio Tankers has put three product tankers on three-year charters carrying more than $110m in aggregate gross revenue at the disclosed headline rates. The Emanuele Lauro-led owner has fixed LR2s STI Gladiator and STI Jermyn at $40,188 and $42,500 per day, respectively, with both charters starting this month. MR tanker STI Pontiac has been &#8230;"
-        },
-        {
-          "title": "Splash Wrap: Hormuz, Hamburg and the ghosts of the last boom",
-          "link": "https://splash247.com/splash-wrap-hormuz-hamburg-and-the-ghosts-of-the-last-boom/",
-          "published": "Fri, 04 Sep 2026 08:42:43 +0000",
-          "summary": "The war around the Strait of Hormuz entered an increasingly dangerous tanker-for-tanker phase this week, with the US striking Iranian state tankers in retaliation for attacks on commercial shipping while a laden VLCC sits abandoned and listing off Oman. SMM, Europe’s largest shipping exhibition, hogged many headlines, running from Tuesday through to today across nine &#8230;"
-        },
-        {
-          "title": "Argentina’s shale sand rush is quietly reshaping the country’s freight and shipping map",
-          "link": "https://splash247.com/argentinas-shale-sand-rush-is-quietly-reshaping-the-countrys-freight-and-shipping-map/",
-          "published": "Fri, 04 Sep 2026 08:02:08 +0000",
-          "summary": "Argentina’s Vaca Muerta shale boom is creating more than an energy revolution. Its demand for silica sand may provide the cargo base needed to revive long-delayed infrastructure projects, from railways and ports to Atlantic–Pacific connections. Fernando Torres, the co-founder of Trade Up Global Business Solutions, reports. Vaca Muerta is creating something beyond oil and gas: &#8230;"
-        },
-        {
-          "title": "Diana cuts Genco stake below 10%",
-          "link": "https://splash247.com/diana-cuts-genco-stake-below-10/",
-          "published": "Fri, 04 Sep 2026 07:49:51 +0000",
-          "summary": "Diana Shipping has cut its stake in Genco Shipping &#38; Trading below 10%, continuing a rapid unwind of the position following the collapse of its takeover attempt last month. Fresh SEC filing shows Diana sold another 275,000 Genco shares on September 1 and 2 for about $7.26m. The Athens-based owner offloaded 125,000 shares at an &#8230;"
-        },
-        {
-          "title": "Maritime technology’s annual bible launches",
-          "link": "https://splash247.com/maritime-technologys-annual-bible-launches/",
-          "published": "Fri, 04 Sep 2026 07:00:00 +0000",
-          "summary": "SplashTech is a new magazine launching today examining how technology is reshaping the way shipping operates, competes and makes decisions. Built around original interviews, industry data and practical case studies, it moves beyond hype to explore what actually works onboard and ashore. The magazine covers AI, digital ROI, interoperability, data ownership, cyber risk, workforce skills, &#8230;"
-        },
-        {
-          "title": "Yangzijiang Maritime piles on another 12 newbuilds",
-          "link": "https://splash247.com/yangzijiang-maritime-piles-on-another-12-newbuilds/",
-          "published": "Fri, 04 Sep 2026 06:00:00 +0000",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has signed up for up to 12 more newbuildings at two Chinese yards, extending an ordering run that has spread across dry bulk, product and chemical tankers. The Ren Yuanlin-led company has signed for six firm plus four optional 64,500 dwt ultramax bulkers at Jingjiang Nanyang Shipbuilding. A separate deal covers &#8230;"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "source": "Ship & Bunker",
