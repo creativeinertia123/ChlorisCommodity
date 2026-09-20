@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-19T01:02:35+00:00",
-  "take": "Saudi Aramco’s decision to withhold October crude from European term customers whilst redirecting roughly 60 million barrels back through the Persian Gulf has pushed Brent below $105, a stark reminder that the East-West pipeline damage is reshaping flows rather than destroying supply, with European diesel tightness the real pressure point as Macron calls for another G7 emergency release. The Hormuz disruption has metastasised into freight: the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke $1m a day for the first time, and Maersk’s confirmed 26-ship order of 18,000 teu vessels signals carriers are capitalising on a supercycle that feels structurally different from prior booms. Positioning-wise, the US rig count crept higher on strong prices and EIA forecasts record 2026 crude output of 13.8 million b/d, so the supply response is coming even as product cracks stay elevated and pump prices reflect it. The cross-market link to watch is bunker economics versus gasoil: with a $700/t carbon price needed before methanol-fitted ships abandon conventional fuel under the IMO’s proposed $380/t penalty, LNG bunkering bottlenecks shifting from vessels to ports, and ammonia supply deals like Azane-Yara building out, the distillate complex retains its grip on marine fuel demand. Over the next 24 hours, watch whether the G7 convenes on a second emergency release, any further Hormuz tanker strikes after the Trend incident, and whether the VLCC rate spike holds or fades as Saudi barrels reroute.",
+  "generated_at_utc": "2026-09-20T00:50:43+00:00",
+  "take": "The Hormuz disruption has escalated from rhetoric to physical strikes on tankers, with Iran’s Revolutionary Guards hitting the Togo-flagged product tanker Trend and Macron now calling a G7 emergency release as Europe loses Saudi crude deliveries and diesel cracks push deeper into record territory. The freight transmission is already violent: the Baltic’s Middle East Gulf–China VLCC benchmark broke the equivalent of $1m a day for the first time, and Maersk’s confirmed 26-ship order for 18,000 teu units signals carriers are positioning for structurally longer routings rather than a temporary spike. Positioning-wise, the tell is in the paper market rather than the physical — with US crude forecast at a record 13.8m b/d in 2026 and US LNG exports up 23% year-on-year to 17.4 Bcf/d, the upside is being priced into freight and distillate cracks rather than flat price, whilst emergency stock releases would flatten the curve without fixing the tonne-mile problem. The cross-market link to watch is gasoil versus bunker: European LNG spot prices up 150% are pulling gas into power and away from industrial demand, whilst a $700/t carbon price is what GCMD and BCG reckon is needed before methanol or ammonia take meaningful bunker share — under the IMO’s proposed $380/t penalty, methanol-fitted ships would still burn conventional fuel almost all the time. In the next 24 hours, watch whether the G7 actually convenes on a co-ordinated release, whether the Black Sea truce draft from Turkey gains Russian and Ukrainian traction, and whether VLCC rates hold above the $1m/day print or fade on any de-escalation headline.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
+          "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
+          "published": "Sat, 19 Sep 2026 18:00:00 -0500",
+          "summary": "Global maritime and energy markets are currently showing two significant developments. Both indicate they should not be treated as separate market stories, but as an intertwined sector. Abu Dhabi’s ADNOC investment arm, XRG, is reportedly considering acquiring up to 50% of Energos Infrastructure, a floating-LNG company valued at around $3 billion. At the same time, shipowners have ordered more VLC"
+        },
+        {
+          "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+          "published": "Sat, 19 Sep 2026 18:00:00 -0500",
+          "summary": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel. European buyers are stepping up purchases, however, despite the price. They have no choice. Asian demand for liquefied gas is set to decline this month—and over the year—according to analysts. September flows of LNG into Asian countries are estimated at 20.09"
+        },
+        {
+          "title": "Britain Faces £150 Billion Grid Overhaul to Power Renewable Energy Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/Britain-Faces-150-Billion-Grid-Overhaul-to-Power-Renewable-Energy-Boom.html",
+          "published": "Sat, 19 Sep 2026 14:00:00 -0500",
+          "summary": "The United Kingdom will need to invest heavily in expanding its electricity grid to meet rising power demand and ensure that new renewable energy projects can connect to it. The U.K. National Energy System Operator (NESO) has announced that more than an estimated £150 million will be required to update the country’s transmission infrastructure. The U.K. has announced major plans to overhaul its el"
+        },
+        {
+          "title": "IAEA Triples Nuclear Power Forecast as Small Reactors Finally Take Off",
+          "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
+          "published": "Sat, 19 Sep 2026 12:00:00 -0500",
+          "summary": "After years of delays and plateaued development timelines, it might finally be time for the small nuclear revolution. In a brand new report, the International Atomic Energy Agency (IAEA) has once again increased its long-term nuclear power forecast, projecting that the world’s nuclear power generation capacity will fully triple by 2060. The Agency expects a whole lot of that increased capacity to "
+        },
+        {
+          "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
+          "link": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
+          "published": "Sat, 19 Sep 2026 10:00:00 -0500",
+          "summary": "The United Nations has, for the first time, acknowledged that the world will overshoot its target of limiting global warming to 1.5°C above pre-industrial levels, marking the failure of the 2015 Paris Agreement pledges. The world is now expected to warm to 1.5°C above pre-industrial levels within the next few years, according to a report from the UN Environment Programme. Even if all climate commi"
+        },
+        {
           "title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
           "link": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
           "published": "Fri, 18 Sep 2026 16:00:00 -0500",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
           "published": "Fri, 18 Sep 2026 16:00:00 -0500",
           "summary": "French President Emmanuel Macron is calling the G7 back to the table to discuss another release of emergency oil stocks as Europe loses Saudi crude deliveries and diesel prices push deeper into record territory. Macron said Friday that he will convene G7 countries in the coming weeks to coordinate stock levels, exports and production capacity and consider tapping strategic reserves. France is also"
-        },
-        {
-          "title": "Kazakhstan Turns to Russian Gas as Domestic Demand Surges",
-          "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Turns-to-Russian-Gas-as-Domestic-Demand-Surges.html",
-          "published": "Fri, 18 Sep 2026 13:00:00 -0500",
-          "summary": "Kazakhstan intends to increase natural gas imports from Russia. The purchase price may be low, but the overall cost could turn out to be steep because of pending new US sanctions on Russia. Under a supplementary agreement signed with the Russian energy giant Gazprom, Kazakhstan has agreed to purchase about 11 billion cubic meters (bcm) of Russian gas this year, up from around 4 million bcm in 2025"
-        },
-        {
-          "title": "Saudi Arabia Cuts Europe Off From October Crude as Gulf Exports Surge",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Cuts-Europe-Off-From-October-Crude-as-Gulf-Exports-Surge.html",
-          "published": "Fri, 18 Sep 2026 12:30:00 -0500",
-          "summary": "Saudi Aramco has told European term customers they will receive no Saudi crude in October, even as the kingdom pushes roughly 60 million barrels back through the Persian Gulf after damage to its East-West pipeline. At least two European refiners were told their October allocations are zero, Bloomberg reported Friday. People familiar with the decision said it applies to all European term buyers. Wh"
-        },
-        {
-          "title": "U.S. Oil, Gas Rig Count Creeps Up With Strong Prices",
-          "link": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Rig-Count-Creeps-Up-With-Strong-Prices.html",
-          "published": "Fri, 18 Sep 2026 12:18:56 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 595, up 53 from this same time last year. The number of active oil rigs rose by 2, reaching 452 during the latest reporting period, according to the data. This is 34 above this same time last year. Th"
-        },
-        {
-          "title": "TotalEnergies and BlackRock Sign $1.8B Deal for African Oil and Gas Assets",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/TotalEnergies-and-BlackRock-Sign-18B-Deal-for-African-Oil-and-Gas-Assets.html",
-          "published": "Fri, 18 Sep 2026 11:30:00 -0500",
-          "summary": "TotalEnergies and BlackRock’s Global Infrastructure Partners (GIP) have signed a partnership agreement under which GIP will invest $1.8 billion in capital contribution toward some of the French supermajor’s oil and gas infrastructure assets in Africa. In exchange for the $1.8 billion capital contribution, TotalEnergies will pay GIP a tariff over a period of up to 15 years, based on the assets’ thr"
-        },
-        {
-          "title": "Saudi Export Pivot Sends Brent Below $105",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Export-Pivot-Sends-Brent-Below-105.html",
-          "published": "Fri, 18 Sep 2026 11:15:00 -0500",
-          "summary": "Saudi Aramco shifts crude exports to the Persian Gulf, easing supply fears and pushing Brent below $105. Friday, September 18, 2026 Last week’s market panic about the 7 million b/d East-West pipeline remaining offline for weeks gave way to a slightly more nuanced outlook this week, with Saudi Aramco re-orienting all its loadings to the Persian Gulf. Whilst flows from Ras Tanura still carry the ris"
         }
       ]
     },
@@ -177,6 +177,12 @@
       "count": 8,
       "items": [
         {
+          "title": "Voyage Data Shows Container Lines' EU ETS Costs and \"Brexit Savings\"",
+          "link": "https://shipandbunker.com/news/world/312810-voyage-data-shows-container-lines-eu-ets-costs-and-brexit-savings",
+          "published": "Fri, 18 Sep 2026 23:59:00 +0000",
+          "summary": "VesselBot puts the Q2 EU ETS bill at €572 million, and finds UK cargo calls left just 0.5% of emissions in scope on seven Singapore to Zeebrugge voyages."
+        },
+        {
           "title": "BUNKER JOBS: Blue Energy Partners Seeks Commercially Driven Traders Across Five Offices",
           "link": "https://shipandbunker.com/news/world/541146-bunker-jobs-blue-energy-partners-seeks-commercially-driven-traders-across-five-offices",
           "published": "Fri, 18 Sep 2026 23:44:19 +0000",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/world/560175-weekly-vessel-scrapping-report-2026-week-37",
           "published": "Thu, 17 Sep 2026 23:17:00 +0000",
           "summary": "Have you sold bunkers to a recently scrapped vessel? Check here with VesselsValue&#039;s demolition sales from September 10 – September 16, 2026."
-        },
-        {
-          "title": "Peninsula Confirms Missing Crew Member From Hercules Star Incident Found Deceased",
-          "link": "https://shipandbunker.com/news/emea/973688-peninsula-confirms-missing-crew-member-from-hercules-star-incident-found-deceased",
-          "published": "Thu, 17 Sep 2026 20:54:26 +0000",
-          "summary": "It takes taking the death toll from the incident to two; all other members of the vessel&#039;s crew have now been repatriated."
         }
       ]
     },
