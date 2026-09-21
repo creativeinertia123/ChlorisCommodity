@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-20T00:50:43+00:00",
-  "take": "The Hormuz disruption has escalated from rhetoric to physical strikes on tankers, with Iran’s Revolutionary Guards hitting the Togo-flagged product tanker Trend and Macron now calling a G7 emergency release as Europe loses Saudi crude deliveries and diesel cracks push deeper into record territory. The freight transmission is already violent: the Baltic’s Middle East Gulf–China VLCC benchmark broke the equivalent of $1m a day for the first time, and Maersk’s confirmed 26-ship order for 18,000 teu units signals carriers are positioning for structurally longer routings rather than a temporary spike. Positioning-wise, the tell is in the paper market rather than the physical — with US crude forecast at a record 13.8m b/d in 2026 and US LNG exports up 23% year-on-year to 17.4 Bcf/d, the upside is being priced into freight and distillate cracks rather than flat price, whilst emergency stock releases would flatten the curve without fixing the tonne-mile problem. The cross-market link to watch is gasoil versus bunker: European LNG spot prices up 150% are pulling gas into power and away from industrial demand, whilst a $700/t carbon price is what GCMD and BCG reckon is needed before methanol or ammonia take meaningful bunker share — under the IMO’s proposed $380/t penalty, methanol-fitted ships would still burn conventional fuel almost all the time. In the next 24 hours, watch whether the G7 actually convenes on a co-ordinated release, whether the Black Sea truce draft from Turkey gains Russian and Ukrainian traction, and whether VLCC rates hold above the $1m/day print or fade on any de-escalation headline.",
+  "generated_at_utc": "2026-09-21T00:56:04+00:00",
+  "take": "The closure of the Strait of Hormuz is the dominant story, with the IEA now expecting global coal demand to hit a record high as countries substitute away from constrained oil and gas trade, a dynamic that will keep crude and distillate cracks structurally bid whilst redirecting barrels onto longer, costlier routes. The ClarkSea Index surging 27% above its 2007 peak confirms that this re-routing is already paying out across gas carriers, bulkers, containerships and car carriers, with the record transpacific-versus-Asia-Europe container rate gap reinforcing that tonne-miles, not volumes, are the marginal freight driver. Positioning-wise, the secondhand market is validating the theme — Pantheon clearing a 15-year-old VLCC at $135m above the newbuild benchmark and Toro doubling its MR fleet for $83.4m show owners paying up for product and crude tonnage that can capture these longer hauls. The cross-market link to watch is the bunker complex: with EU ETS costs running at €572m for Q2 and GCMD/BCG flagging that a $700/t carbon price is needed before new fuels displace conventional bunkers, gasoil and VLSFO demand stays sticky even as LNG bunkering bottlenecks shift from vessels to ports. Over the next 24 hours, watch Hormuz headlines for any de-escalation that could unwind the coal-substitution trade, and keep an eye on whether the record transpacific-Asia-Europe rate gap starts pulling container tonnage away from the dry bulk and tanker segments.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,30 @@
       "count": 8,
       "items": [
         {
+          "title": "Big Oil’s Production Keeps Soaring Despite Deep Spending Cuts",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Production-Keeps-Soaring-Despite-Deep-Spending-Cuts.html",
+          "published": "Sun, 20 Sep 2026 18:00:00 -0500",
+          "summary": "Some of the world’s largest oil and gas companies have adopted a new modus operandi ever since the historic oil price crash of 2020 devastated energy companies, prioritizing returning more cash to shareholders while expansion plans have been put on the back burner. Indeed, over the past five years, Exxon Mobil (NYSE:XOM), Chevron (NYSE:CVX), British Petroleum (NYSE:BP), Shell (NYSE:SHEL) and Total"
+        },
+        {
+          "title": "Hormuz Crisis to Push Global Coal Demand to Record High",
+          "link": "https://oilprice.com/Energy/Coal/Hormuz-Crisis-to-Push-Global-Coal-Demand-to-Record-High.html",
+          "published": "Sun, 20 Sep 2026 14:00:00 -0500",
+          "summary": "The International Energy Agency expects coal demand to increase this year in response to ongoing oil and gas trade constraints stemming from the closure of the Strait of Hormuz. Several countries have been forced to turn back to coal to fill the gap, as oil inventories are depleted and countries gradually expand their renewable energy capacity. In its mid-year update, the IEA predicted that coal u"
+        },
+        {
+          "title": "China Will Dominate Global Nuclear Energy Through 2035, Analyst Says",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Will-Dominate-Global-Nuclear-Energy-Through-2035-Analyst-Says.html",
+          "published": "Sun, 20 Sep 2026 12:00:00 -0500",
+          "summary": "The future of nuclear energy is in China’s hands. While the United States remains the world’s largest producer of nuclear energy, China’s sector is growing at such a rapid clip that it is expected to overtake France as well as the United States to become the world’s leading nuclear power producer within the next decade. In addition to this rapid expansion of traditional nuclear power capacity, Bei"
+        },
+        {
+          "title": "New York’s $75 Billion Climate Liability Law Faces an Uncertain Future",
+          "link": "https://oilprice.com/Energy/Energy-General/New-Yorks-75-Billion-Climate-Liability-Law-Faces-an-Uncertain-Future.html",
+          "published": "Sun, 20 Sep 2026 10:00:00 -0500",
+          "summary": "In 2024, New York Governor Kathy Hochul signed a law requiring large fossil fuel polluters to pay up to $75 billion in damages. However, after two years, a federal judge has ruled that the law conflicts with federal law and cannot proceed. The law that Hochul signed in December 2024 would have required companies that contribute heavily to fossil fuel pollution to pay to repair damage caused by ext"
+        },
+        {
           "title": "Energy Giants Are Betting Billions on a World of Longer Oil Routes",
           "link": "https://oilprice.com/Energy/Energy-General/Energy-Giants-Are-Betting-Billions-on-a-World-of-Longer-Oil-Routes.html",
           "published": "Sat, 19 Sep 2026 18:00:00 -0500",
@@ -87,30 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/IAEA-Triples-Nuclear-Power-Forecast-as-Small-Reactors-Finally-Take-Off.html",
           "published": "Sat, 19 Sep 2026 12:00:00 -0500",
           "summary": "After years of delays and plateaued development timelines, it might finally be time for the small nuclear revolution. In a brand new report, the International Atomic Energy Agency (IAEA) has once again increased its long-term nuclear power forecast, projecting that the world’s nuclear power generation capacity will fully triple by 2060. The Agency expects a whole lot of that increased capacity to "
-        },
-        {
-          "title": "UN Warns World Must Prepare for Life Beyond 1.5°C",
-          "link": "https://oilprice.com/The-Environment/Global-Warming/UN-Warns-World-Must-Prepare-for-Life-Beyond-15C.html",
-          "published": "Sat, 19 Sep 2026 10:00:00 -0500",
-          "summary": "The United Nations has, for the first time, acknowledged that the world will overshoot its target of limiting global warming to 1.5°C above pre-industrial levels, marking the failure of the 2015 Paris Agreement pledges. The world is now expected to warm to 1.5°C above pre-industrial levels within the next few years, according to a report from the UN Environment Programme. Even if all climate commi"
-        },
-        {
-          "title": "Global Shipping Costs Explode as Hormuz Disruptions Hit Key Trade Routes",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Global-Shipping-Costs-Explode-as-Hormuz-Disruptions-Hit-Key-Trade-Routes.html",
-          "published": "Fri, 18 Sep 2026 16:00:00 -0500",
-          "summary": "The Middle East crisis has reverberated through key global shipping chokepoints thousands of miles away from the Strait of Hormuz. Following the crippled tanker traffic through the Middle East’s main oil and LNG export outlet, the Panama Canal and the Suez Canal have seen an increase in energy commodity cargo traffic in the past half year. As a result, shipping costs have soared to record highs, a"
-        },
-        {
-          "title": "Space-Based Solar Power Could Reach the Grid by 2028",
-          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
-          "published": "Fri, 18 Sep 2026 16:00:00 -0500",
-          "summary": "The artificial intelligence energy crisis is catalyzing the development pipeline for space-based solar energy. As the world rushes to build up more energy production capacity in a scramble to keep up with skyrocketing demand from data center hyperscalers, the public and private sectors alike are increasingly adopting an all-of-the-above approach to energy investing, including next-gen and emerging"
-        },
-        {
-          "title": "Macron Calls for Another Emergency Oil Release as Europe Loses Supply",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Macron-Calls-for-Another-Emergency-Oil-Release-as-Europe-Loses-Supply.html",
-          "published": "Fri, 18 Sep 2026 16:00:00 -0500",
-          "summary": "French President Emmanuel Macron is calling the G7 back to the table to discuss another release of emergency oil stocks as Europe loses Saudi crude deliveries and diesel prices push deeper into record territory. Macron said Friday that he will convene G7 countries in the coming weeks to coordinate stock levels, exports and production capacity and consider tapping strategic reserves. France is also"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Maersk confirms 26-ship newbuilding spree",
-          "link": "https://splash247.com/maersk-confirms-26-ship-newbuilding-spree/",
-          "published": "Fri, 18 Sep 2026 14:58:11 +0000",
-          "summary": "Maersk has confirmed orders for 26 large containerships, ending days of speculation over a major fleet expansion programme. The Danish carrier said on Friday that all 26 ships will have capacity of 18,600 teu and will feature dual-fuel engines capable of operating on LNG. Deliveries are scheduled across 2029 and 2030. Maersk has declined to &#8230;"
+          "title": "ClarkSea Index surges 27% above 2007 peak",
+          "link": "https://splash247.com/clarksea-index-surges-27-above-2007-peak/",
+          "published": "Mon, 21 Sep 2026 00:30:00 +0000",
+          "summary": "Clarksons’ cross-sector ClarkSea Index continues to record new all-time highs as strong conditions spread across gas carriers, bulkers, containerships and car carriers to go alongside the extraordinary earnings seen in the crude tanker sector. The ClarkSea Index climbed another 14% on Friday to $64,569 a day, propelled by record crude tanker earnings but with Clarksons &#8230;"
         },
         {
-          "title": "Turn Services takes over St. John Fleeting",
-          "link": "https://splash247.com/turn-services-takes-over-st-john-fleeting/",
-          "published": "Fri, 18 Sep 2026 09:30:00 +0000",
-          "summary": "US inland marine operator Turn Services has completed its acquisition of St. John Fleeting and its affiliated companies, expanding its barge operations on the Lower Mississippi River. The deal gives Turn Services control of St. John’s fleet site at around Mile Marker 140 near Reserve, Louisiana, with capacity for as many as 300 barges. The &#8230;"
+          "title": "Transpacific-Europe rate gap blows out to record",
+          "link": "https://splash247.com/transpacific-europe-rate-gap-blows-out-to-record/",
+          "published": "Mon, 21 Sep 2026 00:25:00 +0000",
+          "summary": "The world’s two great east-west container trades are moving in dramatically different directions, with the gap between transpacific and Asia-Europe spot rates widening to unprecedented levels. Clarksons Research said in its latest Shipping Intelligence Weekly that “geographic divergence” continued in the container freight market, with Shanghai-North Europe rates falling 5% week on week to $2,425 &"
         },
         {
-          "title": "Turkey pushes Black Sea truce",
-          "link": "https://splash247.com/turkey-pushes-black-sea-truce/",
-          "published": "Fri, 18 Sep 2026 08:45:07 +0000",
-          "summary": "Turkey has presented Russia and Ukraine with a draft proposal aimed at ending attacks on commercial vessels in the Black Sea, the latest attempt to contain a maritime conflict that is taking an increasingly heavy toll on merchant shipping. Ankara has shared the text of a memorandum with both Moscow and Kyiv designed to find &#8230;"
+          "title": "Yangzijiang Maritime confirms 24 newbuilds and 16 options",
+          "link": "https://splash247.com/yangzijiang-maritime-confirms-24-newbuilds-and-16-options/",
+          "published": "Mon, 21 Sep 2026 00:20:00 +0000",
+          "summary": "Yangzijiang Maritime Development has put an official stamp on a newbuilding spree Splash has been tracking for months, disclosing 24 firm ship orders across five vessel types along with options on another 16. The Singapore-listed maritime investment group said the latest firm package comprises six 64,500 dwt bulkers, six 49,800 dwt product and chemical tankers, &#8230;"
         },
         {
-          "title": "Why this shipping supercycle feels different",
-          "link": "https://splash247.com/why-this-shipping-supercycle-feels-different/",
-          "published": "Fri, 18 Sep 2026 08:30:04 +0000",
-          "summary": "Shipping people have long memories, and that might be the simplest explanation for why today’s extraordinary market feels nothing like the last great supercycle. Anyone who lived through the heady days of 2008 remembers how quickly the music stopped. The Baltic Dry Index peaked at 11,793 in May of that year. Within six months it &#8230;"
+          "title": "Is maritime neglecting AI?",
+          "link": "https://splash247.com/is-maritime-neglecting-ai/",
+          "published": "Mon, 21 Sep 2026 00:00:00 +0000",
+          "summary": "Olga Boenigk, the founder of AI goes Maritime, has a different take on the whole shipping and artificial intelligence debate. We&#8217;re an industry that&#8217;s proud of being careful. We take our time. We wait to see what works before we touch it, and most of the time that has served us well. I&#8217;d defend it &#8230;"
         },
         {
-          "title": "Splash Wrap: When the boom spills over",
-          "link": "https://splash247.com/splash-wrap-when-the-boom-spills-over/",
-          "published": "Fri, 18 Sep 2026 08:15:28 +0000",
-          "summary": "The most extraordinary numbers this week came from tankers, where the Baltic Exchange’s Middle East Gulf-China VLCC benchmark broke through the equivalent of $1m a day for the first time. VLCCs loading outside the Gulf are earning close to a million a day too, suezmax and aframax markets are flying and 10-year-old VLCCs are now &#8230;"
+          "title": "Toro doubles MR fleet with $83m tanker pair",
+          "link": "https://splash247.com/toro-doubles-mr-fleet-with-83m-tanker-pair/",
+          "published": "Sun, 20 Sep 2026 21:43:00 +0000",
+          "summary": "Nasdaq-listed Toro Corp has doubled its MR tanker fleet with the acquisition of two ships for a combined $83.4m, accelerating its return to the product tanker sector as it prepares to spin off its remaining LPG carriers. The Petros Panagiotidis-led company has paid $45.9m for the 2018 Japanese-built Wonder Alasia, taking delivery on September 17. &#8230;"
         },
         {
-          "title": "Dali becomes biggest P&I loss in history",
-          "link": "https://splash247.com/dali-becomes-biggest-pi-loss-in-history/",
-          "published": "Fri, 18 Sep 2026 08:00:54 +0000",
-          "summary": "The Dali casualty has become the largest single loss in the history of the P&#38;I market, with reserves now exceeding $2.8bn and the claim reaching a layer of the International Group’s insurance structure never previously tested by a casualty of this scale. Gallagher Specialty said the reserve associated with the 2024 destruction of Baltimore’s Francis &#8230;"
+          "title": "Pantheon sells 15-year-old VLCC above newbuild benchmark",
+          "link": "https://splash247.com/pantheon-sells-15-year-old-vlcc-above-newbuild-benchmark/",
+          "published": "Sun, 20 Sep 2026 20:40:00 +0000",
+          "summary": "Anna Angelicoussis-led Pantheon Tankers is cashing in again on the booming VLCC secondhand market, with brokers reporting the sale of the 2011-built Sea Leopard for $135m. The 314,000 dwt DSME-built tanker has been committed to undisclosed buyers in what ranks among the largest VLCC secondhand deals reported last week. Pantheon has yet to announce the &#8230;"
         },
         {
-          "title": "Iran claims fresh Hormuz tanker strike, Italy readies Red Sea escorts",
-          "link": "https://splash247.com/iran-claims-fresh-hormuz-tanker-strike-italy-readies-red-sea-escorts/",
-          "published": "Fri, 18 Sep 2026 07:22:30 +0000",
-          "summary": "Iran’s Revolutionary Guards said on Friday they had struck the Togo-flagged product tanker Trend after what Tehran described as an “illegal” attempt to transit Hormuz outside its approved passage system. The 7,119 dwt vessel was hit and stopped after a fire broke out onboard, according to the IRGC. The claims have not been independently verified. &#8230;"
+          "title": "Dong Fang Offshore lines up another newbuild at Vard",
+          "link": "https://splash247.com/dong-fang-offshore-lines-up-another-newbuild-at-vard/",
+          "published": "Sun, 20 Sep 2026 20:40:00 +0000",
+          "summary": "Taiwanese offshore vessel owner Dong Fang Offshore (DFO) has approved another newbuild at Norway’s Vard, setting aside up to $86m for a service operations vessel aimed at the international offshore energy market. A stock exchange disclosure shows DFO’s board approved construction of one operations and maintenance support vessel with Vard Group or one of its &#8230;"
         },
         {
-          "title": "Akrotiri Tankers makes gas shipping debut with VLAC pair",
-          "link": "https://splash247.com/akrotiri-tankers-makes-gas-shipping-debut-with-vlac-pair/",
-          "published": "Fri, 18 Sep 2026 07:00:49 +0000",
-          "summary": "Greek tanker newcomer Akrotiri Tankers is making its first move into gas shipping, ordering two very large ammonia carriers at China’s New Times Shipbuilding. Greek shipbuilding market sources say the company, led by Marielena Procopiou and Konstantinos Lampsias, has contracted the 93,000 cu m pair for delivery in 2029. Pricing has not been disclosed. The &#8230;"
+          "title": "Paratus and Vantris JV clears Petrobras PLSV tender hurdle",
+          "link": "https://splash247.com/paratus-and-vantris-jv-clears-petrobras-plsv-tender-hurdle/",
+          "published": "Sun, 20 Sep 2026 20:38:00 +0000",
+          "summary": "Paratus Energy and Vantris Energy joint venture Seagems has moved closer to adding another pipelay support vessel to its Brazilian operation after Petrobras accepted its bid for an unidentified third-party vessel. Paratus said that Petrobras had published partial results from its latest PLSV tender, confirming acceptance of the Seagems bid. The result is still subject &#8230;"
         }
       ]
     },
