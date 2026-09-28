@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-27T01:12:57+00:00",
-  "take": "Oil fell on renewed hope for a US/Iran truce that would supposedly reopen the Strait of Hormuz within a week, a headline risk that matters more than any single inventory print because it directly threatens the geopolitical premium baked into crude and, by extension, product cracks. On the freight side, Houston has seen a drop in bunker operations for crude tankers this month after the post-Iran-war bump, whilst Sincere Navigation paid $38.5m for a 2019-built kamsarmax and Rio Tinto offloaded its final two newcastlemaxes to Yasa — a reminder that dry bulk asset rotation continues even as tanker bunkering cools. The positioning angle is thin on hard numbers today, but the EIA's call for record US crude output of 13.8m b/d in 2026 against Henry Hub gas averaging just $2.93/MMBtu this summer tells you the supply side is not the problem — it is demand and geopolitics doing the work. Cross-market, watch the gasoil-bunker spread: with green hydrogen at Antwerp-Bruges producing only 70 mt/year and dual-fuel LNG engines still being tested, the marginal tonne-mile is still oil-based, so any Hormuz reopening hits VLSFO and crude in the same trade. In the next 24 hours, watch whether the Iran truce talk converts into actual barrels moving through Hormuz, and keep an eye on the Baker Hughes rig count rise as a slow-burn bearish counterweight to any spike.",
+  "generated_at_utc": "2026-09-28T01:28:28+00:00",
+  "take": "Oil fell on renewed hope for a US/Iran truce that would supposedly reopen the Strait of Hormuz within a week, a headline risk that matters far more than any single inventory print because it threatens to normalise the geopolitical premium baked into crude and, by extension, product cracks. On the freight side, Houston has seen a drop in bunker operations for crude tankers this month per Spotbarge, whilst Sincere Navigation paid $38.5m for a 2019-built kamsarmax and Rio Tinto offloaded its final two newcastlemaxes to Yasa, a reminder that dry bulk asset rotation continues even as tanker bunkering activity cools. The flow angle is the EIA's forecast of record US crude production at 13.8m b/d in 2026, surpassing 2025's 13.7m b/d, which keeps barrels long and caps rallies unless the Hormuz story escalates. Cross-market, the $14/mt spread between the best and worst Singapore bunker suppliers on cost of doing business is a direct margin tax on owners already squeezed by elevated crack spreads feeding into higher pump prices. Watch in the next 24 hours whether the Iran truce rhetoric hardens into anything concrete on Hormuz transit, and whether Singapore bunker premiums widen further as suppliers reprice that $14/mt dispersion.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,30 @@
       "count": 8,
       "items": [
         {
+          "title": "Venezuela’s Oil Comeback Could Cost More Than $100 Billion",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Comeback-Could-Cost-More-Than-100-Billion.html",
+          "published": "Sun, 27 Sep 2026 18:00:00 -0500",
+          "summary": "The Trump Administration is touting the new oil order in Venezuela as a tremendous opportunity for reviving the industry in the world’s biggest crude oil resource holder. The U.S.-led restructuring of the sector kicked out Russian and Chinese companies out of previously awarded concessions, and spurred a flurry of oil deals with oil majors, the biggest oilfield service providers, and relatively un"
+        },
+        {
+          "title": "The Next Global Energy Crisis Won’t Come From Just One Direction",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+          "published": "Sun, 27 Sep 2026 14:00:00 -0500",
+          "summary": "The next global energy crisis is just around the corner. If the past four years have taught us anything, it’s that an energy crisis can be brought about unexpectedly and by a number of factors – often in tandem. Changing weather patterns, increased grid stress, geopolitical tensions, and conflict have converged in different ways in different moments to send global energy markets into extreme volat"
+        },
+        {
+          "title": "The AI Data Center Boom Faces a New Reality Check",
+          "link": "https://oilprice.com/Energy/Energy-General/The-AI-Data-Center-Boom-Faces-a-New-Reality-Check.html",
+          "published": "Sun, 27 Sep 2026 12:00:00 -0500",
+          "summary": "“A fraction of proposed data centers will get built. Utilities are wising up.” That was the headline on a May 2025 Utility Dive article that explored the conundrum speculative data center requests pose for U.S. electric utilities. More than a year later, it’s unclear how much has changed. Community opposition has emerged as a major barrier to data center development, with other challenges includin"
+        },
+        {
+          "title": "EPA Power Plant Rollback To Add 123 Million More Tons of CO2",
+          "link": "https://oilprice.com/Energy/Energy-General/EPA-Power-Plant-Rollback-To-Add-123-Million-More-Tons-of-CO2.html",
+          "published": "Sun, 27 Sep 2026 10:00:00 -0500",
+          "summary": "The U.S. Environmental Protection Agency (EPA) announced in September that it will relinquish its authority to regulate greenhouse gas emissions from power plants under the Clean Air Act, a tool previously used to tackle climate change. This effectively removes any limits on emissions from coal and gas plants and reduces the government’s ability to curb this pollution. When the carbon pollution st"
+        },
+        {
           "title": "Global Gas Squeeze Could Last Through Next Summer",
           "link": "https://oilprice.com/Energy/Natural-Gas/Global-Gas-Squeeze-Could-Last-Through-Next-Summer.html",
           "published": "Sat, 26 Sep 2026 18:00:00 -0500",
@@ -87,30 +111,6 @@
           "link": "https://oilprice.com/Energy/Energy-General/North-Carolina-Regulators-Reject-Duke-Energy-Gas-Power-Plant.html",
           "published": "Sat, 26 Sep 2026 10:00:00 -0500",
           "summary": "Natural gas output in the United States is expected to reach record highs in 2026 and 2027, as the country ramps up production and seeks to fill the gap created by restrictions on energy trade through the Strait of Hormuz. However, as the U.S. doubles down on its gas ambitions, a judge has ruled that a North Carolina gas power plant should not proceed. Both the supply and demand of U.S. natural ga"
-        },
-        {
-          "title": "Nigeria Joins IEA As Crude Output Hits Six-Year High",
-          "link": "https://oilprice.com/Energy/Energy-General/Nigeria-Joins-IEA-As-Crude-Output-Hits-Six-Year-High.html",
-          "published": "Fri, 25 Sep 2026 17:00:00 -0500",
-          "summary": "Nigeria has ambitious energy plans for the coming decades, including expanding its oil industry and accelerating the development of its renewable energy sector. In recent years, Nigeria has begun to solidify its position as a major energy power in Africa. This led the International Energy Agency (IEA) Governing Board to decide in June to welcome Nigeria as an Association country. Nigeria joins Sou"
-        },
-        {
-          "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Why-Record-Heat-Failed-to-Lift-US-Natural-Gas-Prices.html",
-          "published": "Fri, 25 Sep 2026 15:00:00 -0500",
-          "summary": "Henry Hub natural gas averaged $2.93 per million British thermal units from June through August, 6% below the same period last year, even with the Lower 48 posting its hottest July on record. Average temperatures across the Lower 48 reached 77°F in July, according to NOAA, pushing electricity demand higher as air conditioners ran harder. Solar and wind took a large share of that extra power demand"
-        },
-        {
-          "title": "Venezuela Oil Output Could Hit 1.8 Million Bpd By 2030, Rystad Says",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Venezuela-Oil-Output-Could-Hit-18-Million-Bpd-By-2030-Rystad-Says.html",
-          "published": "Fri, 25 Sep 2026 13:00:00 -0500",
-          "summary": "Venezuela’s upstream oil sector is attracting its broadest pool of international operators and capital in decades, with established majors expanding their footprints and new operators entering under revised contractual frameworks. If capital deployment, rig availability and oilfield services scale in line with requirements, Rystad Energy models Venezuelan crude production reaching around 1.6 milli"
-        },
-        {
-          "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Gas-Drilling-Perks-Up-As-Pressure-Mounts.html",
-          "published": "Fri, 25 Sep 2026 12:15:00 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 599, up 50 from this same time last year. It is the second The number of active oil rigs rose by 3, reaching 455 during the latest reporting period, according to the data. This is 31 above this same t"
         }
       ]
     },
@@ -177,6 +177,12 @@
       "count": 8,
       "items": [
         {
+          "title": "ANALYSIS: $14/mt Separates the Best and Worst Singapore Bunker Suppliers on the Cost of Doing Business, Fuelsure Data Shows",
+          "link": "https://shipandbunker.com/news/world/818979-analysis-14mt-separates-the-best-and-worst-singapore-bunker-suppliers-on-the-cost-of-doing-business-fuelsure-data-shows",
+          "published": "Mon, 28 Sep 2026 00:21:00 +0000",
+          "summary": "Fuelsure data shared with Ship &amp; Bunker puts a number on what happens after the deal is fixed, port by port and supplier by supplier."
+        },
+        {
           "title": "BUNKER JOBS: Eleven Energy Seeks Trader/Senior Trader in Singapore",
           "link": "https://shipandbunker.com/news/apac/440166-bunker-jobs-eleven-energy-seeks-tradersenior-trader-in-singapore",
           "published": "Fri, 25 Sep 2026 11:03:42 +0000",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/world/492866-kickster-adds-eua-request-for-quote-service-to-fueleu-marketplace",
           "published": "Fri, 25 Sep 2026 08:30:29 +0000",
           "summary": "Kickster had launched its Kickster Fuel EU Marketplace digital platform in March."
-        },
-        {
-          "title": "HD Hyundai Heavy Industries Completes Tests for New LNG Dual-Fuel Engine",
-          "link": "https://shipandbunker.com/news/apac/207272-hd-hyundai-heavy-industries-completes-tests-for-new-lng-dual-fuel-engine",
-          "published": "Fri, 25 Sep 2026 07:29:31 +0000",
-          "summary": "The new engine is designed to improve fuel efficiency and cut methane slip compared to previous engine models."
         }
       ]
     },
