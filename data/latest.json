@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-09-30T01:54:08+00:00",
-  "take": "Brent’s pullback on recovering Middle Eastern exports and fading Iranian leverage is the headline that matters most, because it directly undercuts the war premium that has kept crude and distillate cracks elevated for seven months. The second theme is the physical freight and product tightness underneath it: Tufton fixing an MR at $39,000/day, an 81% uplift, plus Scorpio committing $415.6m to four newbuildings, tells you the tanker market is pricing sustained dislocation even as headline crude softens. On flows, the API build of 1.019 million barrels in crude against falling distillate stocks is the key tell, and the DoE offering another 40 million barrels from the SPR confirms the administration is fighting a diesel problem, not a crude one, with red-dyed diesel relief also under consideration. The cross-market link to watch is the Hormuz LNG crunch driving European gas higher whilst a vessel was struck by a suspected projectile in the Strait, which keeps LNG and product tonne-miles bid and supports bunker complex pricing even as crude fades. Over the next 24 hours, watch whether the EIA’s official inventory print confirms the distillate draw and crude build, and whether Iran follows through on threats to Middle East energy infrastructure, which would reverse today’s crude weakness fast.",
+  "generated_at_utc": "2026-10-01T01:54:36+00:00",
+  "take": "Iranian crude disappearing from the market just as China’s independent refiners return for more is the key bullish crude story, tightening the medium-sour barrel pool that Asian teapots rely on and lending support to Brent and Dubai spreads. The Strait of Hormuz remains the second theme, with an LNG tanker and two other tankers reportedly struck by unknown projectiles even as conflicting data points to a 98% recovery in Gulf transit, so freight war-risk premia and LNG routing costs stay bid. The positioning angle sits in the diesel complex, where Oilprice argues the shortfall has existed since at least 2020 and is not simply an Iran-war artefact, meaning elevated crack spreads are structural rather than a spike to fade. The cross-market link is bunker versus gasoil: with alternative-fuel newbuilds outpacing trained crews and Hormuz risk lifting LNG carrier insurance, HSFO and VLSFO economics will diverge from distillate cracks as scrubber-fitted tonnage gets rerated. Watch the next 24 hours for any UKMTO or UKMTO-style confirmation on Hormuz transits and for signs China’s teapot buying translates into physical Dubai cargoes, whilst keeping an eye on the Dallas Fed survey showing crude swinging from $67 to $107 in under three months.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "U.S. electricity use for electric vehicles increasing at a slower pace in 2026",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68224",
+          "published": "Wed, 30 Sep 2026  09:00:00 EST",
+          "summary": "We estimate light-duty electric vehicles in the United States consumed 8% more electricity during the first six months of 2026 than in the last half of 2025 (2H25) in our Monthly Energy Review, down from the 13-24% growth seen in six-month periods in recent years. The slowing electric vehicle electricity consumption growth followed a decline in sales after U.S. federal tax credits expired in Septe"
+        },
         {
           "title": "Henry Hub natural gas prices this summer were 6% lower than last summer",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68204",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68104",
           "published": "Fri, 04 Sep 2026  09:00:00 EST",
           "summary": "What are crack spreads and why are they elevated? Crack spreads are indicators of the profitability of refining crude oil into petroleum products such as gasoline and diesel. One common crack spread is calculated by subtracting the spot market price of a gallon of crude oil from the wholesale price of a gallon of refined product. Since May, the gasoline crack spread in New York Harbor has averaged"
-        },
-        {
-          "title": "Weekly average load in ERCOT continues near record high",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68084",
-          "published": "Thu, 03 Sep 2026 09:00:00 EST",
-          "summary": "Sustained high temperatures have contributed to persistently high electricity demand in the Electric Reliability Council of Texas (ERCOT), the regional transmission organization for most of the state."
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Oil's New Normal Is Higher Prices",
-          "link": "https://oilprice.com/Energy/Energy-General/Oils-New-Normal-Is-Higher-Prices.html",
-          "published": "Tue, 29 Sep 2026 19:00:00 -0500",
-          "summary": "Oil prices pulled back on Tuesday, reversing recent gains as investors weighed signs of export recovery by Middle Eastern producers against uncertainty surrounding the fate of the Iran war. Brent crude for November delivery fell 1.5% to trade at $103.72 per barrel at 1.10 pm ET, while WTI crude for October delivery declined 2.2% to change hands at $90.62/bbl. Crude exports from the region climbed "
+          "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
+          "published": "Wed, 30 Sep 2026 19:00:00 -0500",
+          "summary": "Iranian oil is disappearing from the market just as its biggest buyer returns for more. China’s recovering crude demand is colliding with the loss of a supplier that sustained its independent refiners through the crisis, forcing them to compete for increasingly expensive alternatives. The consequences reach beyond China: every replacement barrel tightens supplies for other buyers, while Tehran fac"
         },
         {
-          "title": "Europe’s Gas Crisis Deepens as Hormuz LNG Crunch Drives Prices Higher",
-          "link": "https://oilprice.com/Energy/Energy-General/Europes-Gas-Crisis-Deepens-as-Hormuz-LNG-Crunch-Drives-Prices-Higher.html",
-          "published": "Tue, 29 Sep 2026 18:00:00 -0500",
-          "summary": "European natural gas prices have soared dramatically since the war in Iran trapped a fifth of the world’s liquefied natural gas supply behind the Strait of Hormuz. The high prices are creating a headache for governments amid soaring energy bills for households and spiking energy costs for industry. The surge in natural gas, gasoline, and diesel prices in recent months is clearly fueling inflation."
+          "title": "EU Gas Crunch Forces Rethink of Methane Rules",
+          "link": "https://oilprice.com/Energy/Natural-Gas/EU-Gas-Crunch-Forces-Rethink-of-Methane-Rules.html",
+          "published": "Wed, 30 Sep 2026 18:00:00 -0500",
+          "summary": "The European Commission has signaled it would delay the entry into effect of its controversial methane regulation amid a persistent gas crunch resulting from the wars in Ukraine and the Middle East. That may not be enough to offset the effects of that crunch—because the regulation is not yet in effect and Europeans are already struggling. “I have instructed my services to look into the possibiliti"
         },
         {
-          "title": "US Government Presents Regulatory Gift to Gas Automakers",
-          "link": "https://oilprice.com/Energy/Energy-General/US-Government-Presents-Regulatory-Gift-to-Gas-Automakers.html",
-          "published": "Tue, 29 Sep 2026 17:00:00 -0500",
-          "summary": "The US government on Monday finalized new lower vehicle fuel economy standards — reversing a push by the Biden administration to build more fuel-efficient vehicles. The move is broadly seen as helping sales of gas-powered cars and trucks at the expense of electric vehicles. The Alliance for Automotive Innovation called the rollback an “appropriate course correction” that aligns fuel economy standa"
+          "title": "Venezuela’s Oil Revival Accelerates as Foreign Companies Return",
+          "link": "https://oilprice.com/Energy/Energy-General/Venezuelas-Oil-Revival-Accelerates-as-Foreign-Companies-Return.html",
+          "published": "Wed, 30 Sep 2026 17:00:00 -0500",
+          "summary": "Hundreds of oil executives have flocked to Venezuela’s capital city of Caracas this week for the first major industry event in the country in decades. The Venezuela International Oil & Gas Summit is taking place nine months after the U.S. captured Nicolas Maduro, installed a U.S.-friendly administration, and vowed to open Venezuela’s oil reserves – the world’s biggest – to development by internati"
         },
         {
-          "title": "US Distillate Stocks Continue to Fall As Crude Inventories Build",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Distillate-Stocks-Continue-to-Fall-As-Crude-Inventories-Build.html",
-          "published": "Tue, 29 Sep 2026 16:02:23 -0500",
-          "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States rose by 1.019 million barrels in the week ending September 25. Analysts had expected a 1.9 million barrel draw. In the week prior, US crude oil inventories grew by 1.786 million barrels. Commercial crude oil inventories excluding the SPR have lost 38 million barrels over the last 24 weeks, but US crude"
+          "title": "Can Quantum Computing Tame AI's Energy Appetite?",
+          "link": "https://oilprice.com/Energy/Energy-General/Can-Quantum-Computing-Tame-AIs-Energy-Appetite.html",
+          "published": "Wed, 30 Sep 2026 16:00:00 -0500",
+          "summary": "The United States Department of Energy (DoE) is offering up $215 million in funding to help domestic firms develop the world’s first reliable quantum computer. The race to unlock quantum computing has heated up as the next-gen technology has arisen as a potential solution to the Pandora's box of energy demand that the AI boom has opened. The DoE’s Quantum Genesis Q Competition is now accepting pro"
         },
         {
-          "title": "White House Weighs Red-Dyed Diesel Relief as Fuel Prices Soar",
-          "link": "https://oilprice.com/Energy/Energy-General/White-House-Weighs-Red-Dyed-Diesel-Relief-as-Fuel-Prices-Soar.html",
-          "published": "Tue, 29 Sep 2026 16:00:00 -0500",
-          "summary": "The U.S. federal government has come up with an alternative to a diesel fuel export ban that could alleviate the price pain at the pump by boosting the availability of a tax-free sort of diesel. That’s according to unnamed sources quoted by Reuters this week. It is unclear if the idea is a replacement for the ban or will complement it, should a ban be approved. The fuel in question is red-dyed die"
+          "title": "Africa’s Massive Cement Expansion Could Drive An Energy Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/Africas-Massive-Cement-Expansion-Could-Drive-An-Energy-Boom.html",
+          "published": "Wed, 30 Sep 2026 15:00:00 -0500",
+          "summary": "For decades, Africa has lagged the world in energy consumption, accounting for less than 5% of global energy supplies despite being home to a fifth of the world’s population. The continent also accounts for a mere 2% of global manufacturing output, with the majority of African nations exporting raw minerals and agricultural products while importing expensive finished goods. However, Africa now lea"
         },
         {
-          "title": "California and the EU Move to Rein In the Environmental Cost of AI",
-          "link": "https://oilprice.com/Energy/Energy-General/California-and-the-EU-Move-to-Rein-In-the-Environmental-Cost-of-AI.html",
-          "published": "Tue, 29 Sep 2026 15:00:00 -0500",
-          "summary": "A global crackdown on the water and energy use of the artificial intelligence sector is picking up speed. This week government officials in California and the European Union both announced new policies to help track and limit the runaway resource use of hyperscalers as the threat of AI’s environmental impact looms ever larger. By the end of this decade, artificial intelligence will consume as much"
+          "title": "Guyana’s Oil Riches Are Transforming Its Economy at Breakneck Speed",
+          "link": "https://oilprice.com/Energy/Energy-General/Guyanas-Oil-Riches-Are-Transforming-Its-Economy-at-Breakneck-Speed.html",
+          "published": "Wed, 30 Sep 2026 14:00:00 -0500",
+          "summary": "Guyana is starting to see significant profits from its rapidly expanding oil operations, with much more expected to come. Oil was first discovered in the offshore Stabroek Block in 2015, with development commencing soon after, and production starting in December 2019. This has transformed Guyana into South America’s third-largest oil producer, after Brazil and neighbouring Venezuela. Guyana’s oil "
         },
         {
-          "title": "Iran Threatens Middle East Energy Infrastructure as Hormuz Standoff Deepens",
-          "link": "https://oilprice.com/Energy/Energy-General/Iran-Threatens-Middle-East-Energy-Infrastructure-as-Hormuz-Standoff-Deepens.html",
-          "published": "Tue, 29 Sep 2026 14:00:00 -0500",
-          "summary": "Iran threatened to attack energy infrastructure across the Middle East if its security isn't guaranteed as it ratcheted up its rhetoric while waiting for the United States to officially respond to a plan Tehran says would reopen the Strait of Hormuz. While air attacks by both sides have subsided recently, ships in the key waterway continue to be targeted by Iran, which claims control over the stra"
+          "title": "The World’s Diesel Problem Runs Deeper Than the Iran War",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Worlds-Diesel-Problem-Runs-Deeper-Than-the-Iran-War.html",
+          "published": "Wed, 30 Sep 2026 13:00:00 -0500",
+          "summary": "The nature of the shortage of diesel and jet fuel is more complex than most people realize. Based on my analysis, a shortfall has existed since at least 2020. The shortage is not simply the result of the closure of the Strait of Hormuz. In this post, I will provide background information regarding the nature of the shortfall and the international conflict it is leading to. I will also share my tho"
         },
         {
-          "title": "U.S. Taps Strategic Oil Reserve Again as Diesel Tops $6",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Taps-Strategic-Oil-Reserve-Again-as-Diesel-Tops-6.html",
-          "published": "Tue, 29 Sep 2026 13:20:00 -0500",
-          "summary": "The U.S. Department of Energy will offer another 40 million barrels of crude from the Strategic Petroleum Reserve as gasoline and diesel prices remain elevated nearly seven months into the Iran war. The barrels will be offered through an exchange, marking the final tranche of the 172 million barrels the United States pledged to a coordinated emergency release organized by the International Energy "
+          "title": "U.S. Oil and Gas Production Climbs Despite Extreme Oil Price Volatility",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Oil-and-Gas-Production-Climbs-Despite-Extreme-Oil-Price-Volatility.html",
+          "published": "Wed, 30 Sep 2026 12:31:07 -0500",
+          "summary": "U.S. oil and gas production increased among firms surveyed by the Dallas Fed in Q3, but crude’s swing from $67 to $107 per barrel in less than three months has left producers struggling to decide where prices are headed. Oil and gas output rose during the quarter among exploration and production firms surveyed by the Dallas Fed, which samples energy companies located or headquartered in Texas, sou"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "AI risks hollowing out shipping’s next generation of expertise",
-          "link": "https://splash247.com/ai-risks-hollowing-out-shippings-next-generation-of-expertise/",
-          "published": "Tue, 29 Sep 2026 20:08:00 +0000",
-          "summary": "Shipping’s AI debate is moving rapidly beyond technology towards the far more difficult question of what happens to the people expected to work alongside it. That was the central theme running through the AI, Digitalisation and the Maritime Workforce panel at last week’s Splash Singapore, where executives from shipping, technology, classification and mining wrestled with &#8230;"
+          "title": "Norden: The capital shift from tankers to dry cargo",
+          "link": "https://splash247.com/norden-the-capital-shift-from-tankers-to-dry-cargo/",
+          "published": "Wed, 30 Sep 2026 21:54:49 +0000",
+          "summary": "Jan Rindbo says today’s fragmented shipping markets demand flexibility, with tanker exposure being reduced as dry bulk offers a more attractive balance of risk and reward. Shipping’s fragmented markets are moving through very different stages of the cycle, and for Norden chief executive Jan Rindbo, that is increasingly shaping where the Danish shipping group puts &#8230;"
         },
         {
-          "title": "Geneva Dry unveils expanded agenda for 2027 edition",
-          "link": "https://splash247.com/geneva-dry-unveils-expanded-agenda-for-2027-edition/",
-          "published": "Tue, 29 Sep 2026 20:00:00 +0000",
-          "summary": "Geneva Dry, the world’s premier annual dry bulk shipping conference, has launched marketing for its 2027 edition with an expanded agenda featuring new sessions on bauxite, investment and crewing, alongside a significantly revamped workshop programme. The fourth edition of Geneva Dry will return to the Hotel President Wilson on the shores of Lake Geneva on &#8230;"
+          "title": "How maritime influencers are transforming brand storytelling at sea",
+          "link": "https://splash247.com/how-maritime-influencers-are-transforming-brand-storytelling-at-sea/",
+          "published": "Wed, 30 Sep 2026 20:38:00 +0000",
+          "summary": "Chloe Buchanan, head of PR &#38; social media at The MTM Agency, writes for Splash today. When we talk about influencers, maritime probably isn’t the first industry that springs to mind. But perhaps it should be. Influencer marketing has moved a long way beyond its beauty, fashion and lifestyle roots. We’re now seeing creators become &#8230;"
         },
         {
-          "title": "Scorpio pushes fleet renewal with tanker newbuilds and ship sales",
-          "link": "https://splash247.com/scorpio-pushes-fleet-renewal-with-tanker-newbuilds-and-ship-sales/",
-          "published": "Tue, 29 Sep 2026 12:57:12 +0000",
-          "summary": "Scorpio Tankers has doubled its directly controlled VLCC orderbook and added another pair of LR2s in China, committing $415.6m to four newbuildings while continuing to clear older tonnage from its fleet. The Emanuele Lauro-led owner has agreed to acquire two scrubber-fitted VLCCs at Hengli Shipbuilding in Dalian for $135m apiece. The ships are scheduled for &#8230;"
+          "title": "China Merchants locks in $2.8bn Simandou VLOC contract",
+          "link": "https://splash247.com/china-merchants-locks-in-2-8bn-simandou-vloc-contract/",
+          "published": "Wed, 30 Sep 2026 20:33:00 +0000",
+          "summary": "China Merchants Energy Shipping has locked in a major piece of the emerging Simandou iron ore trade, signing a 25-year transport agreement worth at least $2.8bn. Shanghai-listed CMES said that its dry bulk arm, Hong Kong Ming Wah, has signed the long-term transportation agreement with a customer covering six very large ore carriers (VLOCs), with &#8230;"
         },
         {
-          "title": "Tufton scores 81% uplift on MR charter",
-          "link": "https://splash247.com/tufton-scores-81-uplift-on-mr-charter/",
-          "published": "Tue, 29 Sep 2026 12:03:00 +0000",
-          "summary": "London-listed Tufton Assets has capitalised on the strong tanker market, fixing one of its MR product tankers at $39,000 per day, an 81% increase on the vessel’s existing employment. The Mia Grace has been fixed for 12 to 14 months, up from its current rate of $21,500 per day. The new charter is expected to &#8230;"
+          "title": "Chartering’s AI revolution brings competitive edge back to people",
+          "link": "https://splash247.com/charterings-ai-revolution-brings-competitive-edge-back-to-people/",
+          "published": "Wed, 30 Sep 2026 19:57:00 +0000",
+          "summary": "The paradox confronting modern chartering desks is becoming increasingly clear: the more data and technology everybody gets, the harder it becomes to differentiate. That was one of the central themes to emerge from the Chartering Spotlight at last week’s Splash Singapore, where charterers, operators and technology providers debated how AI, transparency and increasingly sophisticated data &#8230;"
         },
         {
-          "title": "Great Eastern adds newbuild suezmax to fleet renewal drive",
-          "link": "https://splash247.com/great-eastern-adds-newbuild-suezmax-to-fleet-renewal-drive/",
-          "published": "Tue, 29 Sep 2026 11:37:00 +0000",
-          "summary": "India’s Great Eastern Shipping has contracted to acquire a 157,000 dwt newbuilding suezmax, adding a yard-built ship to a fleet renewal drive that has so far been dominated by secondhand transactions. The Mumbai-listed owner disclosed the deal late on Monday, saying the tanker will be constructed by an unnamed leading shipbuilder in the Far East &#8230;"
+          "title": "IWS orders four CSOVs in offshore wind expansion",
+          "link": "https://splash247.com/iws-orders-four-csovs-in-offshore-wind-expansion/",
+          "published": "Wed, 30 Sep 2026 19:45:00 +0000",
+          "summary": "Integrated Wind Solutions is expanding its offshore wind vessel fleet with four new Skywalker-class commissioning service operation vessels in a €260m ($295m) order at China’s Nantong Rainbow Offshore &#38; Engineering Equipment. The Oslo-listed company said its IWS Fleet subsidiary has signed fixed-price turnkey contracts for the four CSOVs, which are scheduled for delivery during 2029 &#8230;"
         },
         {
-          "title": "Bernhard Schulte Shipmanagement buys into Norwegian crewing specialist",
-          "link": "https://splash247.com/bernhard-schulte-shipmanagement-buys-into-norwegian-crewing-specialist/",
-          "published": "Tue, 29 Sep 2026 11:26:00 +0000",
-          "summary": "Germany&#8217;s Bernhard Schulte Shipmanagement has agreed to acquire a 50% interest in Kristiansand-based OffshoreCrew, widening the shipmanager’s access to specialised offshore personnel. OffshoreCrew supplies recruitment, agency staffing, crew-management services, and maintains an internal database of around 30,000 offshore professionals. The company sources personnel for offshore vessels and p"
+          "title": "BOMESC wins FPSO topsides deal from SBM Offshore",
+          "link": "https://splash247.com/bomesc-wins-fpso-topsides-deal-from-sbm-offshore/",
+          "published": "Wed, 30 Sep 2026 12:30:00 +0000",
+          "summary": "Chinese offshore engineering contractor BOMESC has secured a contract worth between RMB1.6bn and RMB2.1bn ($225m and $295m) from SBM Offshore for work on an FPSO destined for South America. BOMESC said its wholly owned subsidiary Tianjin BOMESC Offshore Engineering had signed the contract with Single Buoy Moorings, SBM Offshore’s operating subsidiary. The scope covers the &#8230;"
         },
         {
-          "title": "Hoa Phat goes local for latest bulker newbuild",
-          "link": "https://splash247.com/hoa-phat-goes-local-for-latest-bulker-newbuild/",
-          "published": "Tue, 29 Sep 2026 11:13:00 +0000",
-          "summary": "Vietnamese steelmaker Hoa Phat has turned to a domestic yard for its latest fleet expansion, contracting Nam Trieu Shipbuilding to build an ultramax bulk carrier. Hoa Phat Shipping signed the contract for the 65,000 dwt unit with the Haiphong-based yard, better known as NASICO, with Vietnamese firm Viet Han Ship Design and Technical Services responsible &#8230;"
+          "title": "COSCO Shipping Specialized Carriers piles on 14 heavylift newbuilds",
+          "link": "https://splash247.com/cosco-shipping-specialized-carriers-piles-on-14-more-heavylifters/",
+          "published": "Wed, 30 Sep 2026 12:00:00 +0000",
+          "summary": "COSCO Shipping Specialized Carriers is pressing ahead with another major fleet expansion, lining up 14 more 60,000 dwt multipurpose heavylift ships through a mix of owned newbuildings and long-term bareboat charters. The Shanghai-listed unit of COSCO Shipping Group has approved eight vessels at COSCO Shipping Heavy Industry’s Dalian yard for up to RMB2.624bn ($392m), or &#8230;"
         },
         {
-          "title": "KKB unit bags Shell deal for Malaysian offshore developments",
-          "link": "https://splash247.com/kkb-unit-bags-shell-deal-for-malaysian-offshore-developments/",
-          "published": "Tue, 29 Sep 2026 11:04:00 +0000",
-          "summary": "Malaysian fabricator OceanMight has secured an engineering, procurement, and construction contract from Shell for fixed offshore structures linked to several field developments off Malaysia. Parent company KKB Engineering said OceanMight received a letter of award covering the SK408 Teja and Pepulut developments as well as the Temu and Inai fields. The contract work will run &#8230;"
+          "title": "Erasmus keeps China boxship spree rolling",
+          "link": "https://splash247.com/erasmus-keeps-china-boxship-spree-rolling/",
+          "published": "Wed, 30 Sep 2026 11:28:00 +0000",
+          "summary": "Athens-based Erasmus Shipinvest has returned to CSSC Huangpu Wenchong for another pair of 1,900 teu containerships, taking its firm programme with the Guangzhou-based builder to eight ships. The John Su-led owner signed the latest contract with the yard and China Shipbuilding Trading this week. The two ships are follow-ons to a pair of the same &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Propeller Fuels Acquires Bunker Trading Firm Shipergy",
-          "link": "https://shipandbunker.com/news/world/590541-propeller-fuels-acquires-bunker-trading-firm-shipergy",
-          "published": "Tue, 29 Sep 2026 21:53:00 +0000",
-          "summary": "Shipergy brand and traders to stay within the enlarged group, while co-founder Daniel Rose leaves trading."
+          "title": "VIEWPOINT: Shipping is Buying Alternative-Fuel Ships Faster Than it is Building the Workforce to Run Them",
+          "link": "https://shipandbunker.com/news/world/352658-viewpoint-shipping-is-buying-alternative-fuel-ships-faster-than-it-is-building-the-workforce-to-run-them",
+          "published": "Thu, 01 Oct 2026 01:22:00 +0000",
+          "summary": "Simulators that do not match the plant and instructors who cannot explain it are producing engineers with certificates but not competence, writes Danica&#039;s Henrik Jensen."
         },
         {
-          "title": "Oil Falls On Climbing Middle East Exports, Declining Iranian Bargaining Power",
-          "link": "https://shipandbunker.com/news/world/227319-oil-falls-on-climbing-middle-east-exports-declining-iranian-bargaining-power",
-          "published": "Tue, 29 Sep 2026 11:52:00 +0000",
-          "summary": "Meanwhile, Trump says he has offered nothing to Iran to stop the war."
+          "title": "Oil Steady As \"Gradual\" Gulf Transit Improvement Forecasts Clash With News of 98% Recovery",
+          "link": "https://shipandbunker.com/news/world/192100-oil-steady-as-gradual-gulf-transit-improvement-forecasts-clash-with-news-of-98-recovery",
+          "published": "Wed, 30 Sep 2026 11:39:00 +0000",
+          "summary": "Conflicting data still suggests Iran&#039;s diminishing influence over the Hormuz."
         },
         {
-          "title": "EPS-Chartered LNG Dual-Fuel PCTC Sets Sail for SUARDIAZ",
-          "link": "https://shipandbunker.com/news/world/227128-eps-chartered-lng-dual-fuel-pctc-sets-sail-for-suardiaz",
-          "published": "Tue, 29 Sep 2026 10:57:31 +0000",
-          "summary": "The 5,500 CEU RS Atlantico has departed China for Europe under SUARDIAZ&#039;s charter from EPS."
+          "title": "Titan's LNG Bunkering Vessel Completes 15-Year Survey",
+          "link": "https://shipandbunker.com/news/apac/678755-titans-lng-bunkering-vessel-completes-15-year-survey",
+          "published": "Wed, 30 Sep 2026 10:46:22 +0000",
+          "summary": "Titan Clean Fuels says the vessel is now set to trade for another five years."
         },
         {
-          "title": "Vessel Hit by Suspected Projectile in Strait of Hormuz",
-          "link": "https://shipandbunker.com/news/emea/306696-vessel-hit-by-suspected-projectile-in-strait-of-hormuz",
-          "published": "Tue, 29 Sep 2026 10:43:52 +0000",
-          "summary": "The vessel&#039;s fire has been extinguished after it was struck by a suspected projectile while transiting the Strait of Hormuz."
+          "title": "Two More Vessels Reportedly Hit in Strait of Hormuz",
+          "link": "https://shipandbunker.com/news/emea/340846-two-more-vessels-reportedly-hit-in-strait-of-hormuz",
+          "published": "Wed, 30 Sep 2026 10:31:12 +0000",
+          "summary": "An LNG tanker and two other tankers were reportedly struck by unknown projectiles in the Strait of Hormuz."
         },
         {
-          "title": "Low Energy Density of Batteries Limits Use on Oceangoing Ships: ICS",
-          "link": "https://shipandbunker.com/news/world/848147-low-energy-density-of-batteries-limits-use-on-oceangoing-ships-ics",
-          "published": "Tue, 29 Sep 2026 09:43:52 +0000",
-          "summary": "ICS says batteries will need to work in hybrid systems alongside conventional or alternative fuels on oceangoing ships."
+          "title": "Accelleron Gets ClassNK Certification for Engine and Emissions Tools",
+          "link": "https://shipandbunker.com/news/world/277169-accelleron-gets-classnk-certification-for-engine-and-emissions-tools",
+          "published": "Wed, 30 Sep 2026 10:19:29 +0000",
+          "summary": "The certification covers two digital tools that help ship operators monitor engine performance, improve fuel efficiency and manage emissions reporting."
         },
         {
-          "title": "CMA CGM Names Methanol-Fuelled Boxship",
-          "link": "https://shipandbunker.com/news/world/166354-cma-cgm-names-methanol-fuelled-boxship",
-          "published": "Tue, 29 Sep 2026 09:30:12 +0000",
-          "summary": "The container segment has led orders for methanol-fuelled newbuilds."
+          "title": "UKMTO Reports Crude Tanker Struck in Strait of Hormuz",
+          "link": "https://shipandbunker.com/news/emea/881419-ukmto-reports-crude-tanker-struck-in-strait-of-hormuz",
+          "published": "Wed, 30 Sep 2026 10:01:38 +0000",
+          "summary": "The vessel was hit by an unknown projectile on the port side."
         },
         {
-          "title": "Port Authorities of Singapore and Brunei Sign Maritime Cooperation MoU",
-          "link": "https://shipandbunker.com/news/apac/659505-port-authorities-of-singapore-and-brunei-sign-maritime-cooperation-mou",
-          "published": "Tue, 29 Sep 2026 08:23:55 +0000",
-          "summary": "Singapore and Brunei will step up cooperation on maritime safety, digitalisation, port inspections and training under a new agreement."
+          "title": "Turkey's Sea of Marmara Ferry Network Could Cut Emissions 63% With Electric Vessels: IMO",
+          "link": "https://shipandbunker.com/news/emea/527753-turkeys-sea-of-marmara-ferry-network-could-cut-emissions-63-with-electric-vessels-imo",
+          "published": "Wed, 30 Sep 2026 07:37:07 +0000",
+          "summary": "The study finds mix of hybrid and fully electric vessels could deliver significant benefits."
         },
         {
-          "title": "Ningbo-Zhoushan Port Completes 100th LNG Bunkering Operation: Reports",
-          "link": "https://shipandbunker.com/news/apac/661871-ningbo-zhoushan-port-completes-100th-lng-bunkering-operation-reports",
-          "published": "Tue, 29 Sep 2026 06:57:12 +0000",
-          "summary": "The port completed its 100th LNG bunkering operation for an international vessel on Friday."
+          "title": "GTT Marine and Normec Verifavia Integrate Platforms for Emissions Verification",
+          "link": "https://shipandbunker.com/news/world/474052-gtt-marine-and-normec-verifavia-integrate-platforms-for-emissions-verification",
+          "published": "Wed, 30 Sep 2026 06:44:00 +0000",
+          "summary": "The integration will automate emissions data exchange and help shipowners manage EU ETS, FuelEU Maritime and other reporting requirements."
         }
       ]
     },
@@ -232,6 +232,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Bond investors 💔 OATs",
+          "link": "https://www.ft.com/content/e7c044f0-5448-4d90-9b86-9786ffafbc7b",
+          "published": "Wed, 30 Sep 2026 12:08:17 GMT",
+          "summary": "Sacré bleu"
+        },
+        {
+          "title": "‘Big names in AI like Kyndryl’",
+          "link": "https://www.ft.com/content/a07f7faf-7b49-4988-910f-5768f3214f71",
+          "published": "Wed, 30 Sep 2026 07:38:55 GMT",
+          "summary": "Love me tendril"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/77c71290-89c4-4ed5-8b05-2c1b22eff911",
+          "published": "Wed, 30 Sep 2026 05:30:04 GMT",
+          "summary": "A plug; Manchester City; Micron; AI x wealth; AI x McDonald’s; AI x nukes; credit; and AI agents"
+        },
+        {
+          "title": "Self-fulfilling bank runs just aren’t really a thing",
+          "link": "https://www.ft.com/content/80c78c90-97b2-48db-84e0-26975f47305e",
+          "published": "Wed, 30 Sep 2026 05:00:04 GMT",
+          "summary": "Or, at least, that’s what the data seems to suggest"
+        },
         {
           "title": "Who is driving the massive surge in repo borrowing?",
           "link": "https://www.ft.com/content/df11786e-4b07-45d6-b8ef-8e74f0d189ad",
@@ -255,30 +279,6 @@
           "link": "https://www.ft.com/content/2194d34f-a57e-4ace-b2b3-d78a7ddd1281",
           "published": "Mon, 28 Sep 2026 16:56:32 GMT",
           "summary": "Not a TACO fan"
-        },
-        {
-          "title": "What is the AI capex breakeven rate?",
-          "link": "https://www.ft.com/content/f83b44e9-406b-4004-9fdb-83357c3ac977",
-          "published": "Mon, 28 Sep 2026 11:00:42 GMT",
-          "summary": "Heroic ROIC"
-        },
-        {
-          "title": "And the FTAV chart quiz winner is . . .",
-          "link": "https://www.ft.com/content/b43739dc-eb98-4bf4-ae4e-a966139ce6f0?syn-25a6b1a6=1",
-          "published": "Mon, 28 Sep 2026 09:52:13 GMT",
-          "summary": "Cap’s locked"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/0903a8bc-69f1-4abd-a18b-94e20f5efa12",
-          "published": "Mon, 28 Sep 2026 05:30:08 GMT",
-          "summary": "China’s current account; microphones; AI disruption; Google; productivity; ‘Musk’; John Coltrane; and swag"
-        },
-        {
-          "title": "The Bank of England’s balance sheet has already stopped shrinking",
-          "link": "https://www.ft.com/content/1a442c17-ef23-478b-8aed-1bca65cbb45f?syn-25a6b1a6=1",
-          "published": "Mon, 28 Sep 2026 05:00:09 GMT",
-          "summary": "So is it QE on the QT?"
         }
       ]
     },
