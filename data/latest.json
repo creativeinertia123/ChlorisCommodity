@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-02T02:04:17+00:00",
-  "take": "China halting October refined fuel exports to prioritise domestic supply security is the dominant story, removing diesel, gasoline and jet fuel barrels from an already tight global market just as the UK holds emergency talks with Washington over threatened US diesel export curbs to Europe, a combination that should keep distillate cracks and prompt physical premiums bid. On the freight side, Venezuela's exports fell nearly 9% to 1.08 million b/d in September as soaring tanker costs forced steeper discounts and delayed cargoes, whilst Middle East crude exports hit their highest level since the war with Iran began, a split that lengthens voyages and underpins tonne-mile demand even as headline volumes shift. Positioning-wise, the tanker secondhand market has entered its own \"death zone\" with prices for older tonnage surpassing newbuild values, evidenced by Torm offloading an ageing MR for $22.5m and Transpetrol trimming an aframax for $73m, signalling owners are monetising vintage tonnage into a strong charter market rather than committing to new steel. The cross-market link to watch is bunker versus gasoil: with distillate scarcity deepening and 168 alternative-fuelled vessel orders booked in Q3, the highest quarterly total since Q3 2024, VLSFO and MGO spreads will normalise around whatever diesel does next, and poor DMX quality in emergency fuel samples is a reminder that specification risk carries a real operational cost. For the next 24 hours, watch whether the US follows through on diesel export restrictions to Europe and whether China's export suspension extends beyond October, as either would tighten Atlantic Basin distillate balances further and pull crude and product tanker rates along with them.",
+  "generated_at_utc": "2026-10-03T01:48:15+00:00",
+  "take": "Dated Brent surging above $120 whilst ICE Brent slips toward $101 is the standout dislocation, signalling a genuine physical squeeze in the North Sea and wider Atlantic Basin that should keep prompt crude and distillate cracks bid even as the flat price looks conflicted. The G7's agreement to release up to 100 million barrels of emergency diesel and crude over four months is the second theme, and its transmission into freight is straightforward: more government barrels moving into a tight fuel market means additional tonne-miles and sustained demand for product tankers, reinforced by Kuwait Oil Tanker Company suffering its second VLCC strike in four days and a projectile attack briefly disrupting loading at Yanbu. On positioning, the squeeze narrative is corroborated by VLCC secondhand values now exceeding newbuild prices — the \"death zone\" — which tells you owners are pricing in prolonged dislocation rather than a normalising market, whilst the U.S. rig count fell again this week even as the EIA forecasts record 2026 crude output of 13.8 million b/d, a divergence worth monitoring. The cross-market link to watch is the diesel complex versus bunker: with European diesel stocks being tapped and 21 LNG cargoes exiting Hormuz in September — the highest since the Iran war began but still well below pre-war levels — gasoil strength should keep VLSFO and MGO bunker premiums supported, feeding directly into dry bulk and tanker voyage economics. Over the next 24 hours, watch whether Dated Brent holds above $120 and how the market digests the first tranche of the G7 release, plus any further Hormuz security headlines, since the WTI whipsaw between improving Gulf flows and returning Middle East risk is the clearest signal of which way this breaks.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,18 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "U.S. natural gas production reached a record high in July 2026",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68225",
+          "published": "Fri, 02 Oct 2026  09:00:00 EST",
+          "summary": "U.S. natural gas production hit an all-time high in July 2026, driven primarily by increased output in the Permian Basin, according to our latest Natural Gas Monthly."
+        },
+        {
+          "title": "U.S. exports of propane reached records in the first half of 2026",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68244",
+          "published": "Thu, 01 Oct 2026  09:00:00 EST",
+          "summary": "U.S. propane exports increased to 2 million barrels per day (b/d) in the first half of 2026, 11% more than during the same period in 2025. Increased U.S. propane production and changing trade flows, particularly increased exports to India and other countries in South Asia, drove propane exports to a record high of 2.1 million (b/d) in April 2026. Since then, total propane exports, including export"
+        },
         {
           "title": "U.S. electricity use for electric vehicles increasing at a slower pace in 2026",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68224",
@@ -43,18 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68125",
           "published": "Thu, 10 Sep 2026  09:00:00 EST",
           "summary": "We forecast U.S. crude oil production will average 13.8 million barrels per day (b/d) in 2026, surpassing the previous record of 13.7 million b/d set in 2025, in our latest Short-Term Energy Outlook (STEO)."
-        },
-        {
-          "title": "New England natural gas prices have been trading near record discounts to Henry Hub",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68124",
-          "published": "Wed, 09 Sep 2026  09:00:00 EST",
-          "summary": "Low-cost Appalachian and Canadian natural gas supplies coupled with lower-than-usual regional consumption have pushed down natural gas prices at a major New England pricing hub in recent months to trade at a discount to the widely cited U.S. benchmark, Henry Hub."
-        },
-        {
-          "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68104",
-          "published": "Fri, 04 Sep 2026  09:00:00 EST",
-          "summary": "What are crack spreads and why are they elevated? Crack spreads are indicators of the profitability of refining crude oil into petroleum products such as gasoline and diesel. One common crack spread is calculated by subtracting the spot market price of a gallon of crude oil from the wholesale price of a gallon of refined product. Since May, the gasoline crack spread in New York Harbor has averaged"
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "5 Energy ETFs That Have Soared in 2026",
-          "link": "https://oilprice.com/Energy/Energy-General/5-Energy-ETFs-That-Have-Soared-in-2026.html",
-          "published": "Thu, 01 Oct 2026 19:00:00 -0500",
-          "summary": "With three quarters of the current year in the books, the U.S. stock market is on track for a fourth consecutive year of double-digit gains, with massive AI infrastructure spending coupled with exceptionally strong corporate earnings growth giving the market a major boost. The S&amp;P 500 has returned 11.8% year-to-date, with only Utilities (-7.7%), Consumer Discretionary (-6.3%), and Financial Se"
+          "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
+          "published": "Fri, 02 Oct 2026 16:30:00 -0500",
+          "summary": "President Donald Trump said Friday that South Korea’s investment agreement with the United States now includes $8.4 billion for an enhanced oil recovery project. Seoul says it agreed to no such thing. “The Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World"
         },
         {
-          "title": "China Targets Solid-State Battery Dominance by 2030",
-          "link": "https://oilprice.com/Energy/Energy-General/China-Targets-Solid-State-Battery-Dominance-by-2030.html",
-          "published": "Thu, 01 Oct 2026 18:00:00 -0500",
-          "summary": "China, already dominating the global lithium-ion battery market, plans to expand this position to solid-state batteries, too. The government in Beijing will seek to cut solid-state battery costs, boost their performance, and begin commercial production by 2030. “Over the next five years, the new-type battery industry is at a critical window for technological upgrading, and we must seize the strate"
+          "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+          "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+          "published": "Fri, 02 Oct 2026 14:00:00 -0500",
+          "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sect"
         },
         {
-          "title": "Power Demand Is Surging Faster Than Grids Can Keep Up",
-          "link": "https://oilprice.com/Energy/Energy-General/Power-Demand-Is-Surging-Faster-Than-Grids-Can-Keep-Up.html",
-          "published": "Thu, 01 Oct 2026 17:00:00 -0500",
-          "summary": "After years of stagnation in key developed markets, power demand is rising again at a pace not seen in decades as data centers, electrification, and industrialization drive a surge in electricity consumption. The Age of Electricity, as the International Energy Agency (IEA) put it in its 2026 Electricity report, is gathering pace, changing long-term assumptions and forecasts about power markets in "
+          "title": "U.S. Oil Drilling Inches Up As Prices Fall",
+          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
+          "published": "Fri, 02 Oct 2026 12:16:00 -0500",
+          "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 598, up 49 from this same time last year. The number of active oil rigs rose by 1, reaching 456 during the latest reporting period, according to the data. This is 34 above this same time last year. T"
         },
         {
-          "title": "Venezuela’s Oil Exports Drop 9% as Freight Costs Bite",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Exports-Drop-9-as-Freight-Costs-Bite.html",
-          "published": "Thu, 01 Oct 2026 16:00:00 -0500",
-          "summary": "Venezuela’s oil exports fell nearly 9% in September to 1.08 million barrels per day as soaring tanker costs forced traders to demand steeper discounts and delayed cargoes leaving the country. Global trading houses, including Vitol and Trafigura, pressed PDVSA for better terms as freight costs chew into margins, and tanker reroutings added to shipping delays that had already accumulated over the su"
+          "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+          "published": "Fri, 02 Oct 2026 11:50:45 -0500",
+          "summary": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China reinstating its refined product export ban have all played their part in this week’s extremely volatile trading, with ICE Brent edging lower to $101 per barrel. That said, the phys"
         },
         {
-          "title": "China Halts October Fuel Exports as Global Diesel Crunch Deepens",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/China-Halts-October-Fuel-Exports-as-Global-Diesel-Crunch-Deepens.html",
-          "published": "Thu, 01 Oct 2026 15:40:00 -0500",
-          "summary": "China’s major refiners have suspended most refined fuel exports for October as Beijing prioritizes domestic supply security, removing another source of diesel, gasoline and jet fuel from an already severely constrained global market. PetroChina has cancelled several gasoline and jet fuel cargoes scheduled for October, while Zhejiang Petrochemical did not schedule exports during China’s week-long N"
+          "title": "G7 Moves to Release 100 Million Barrels to Counter Diesel Crisis",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/G7-Moves-to-Release-100-Million-Barrels-to-Counter-Diesel-Crisis.html",
+          "published": "Fri, 02 Oct 2026 10:23:00 -0500",
+          "summary": "The G7 and its partners have agreed to release as much as 100 million barrels of emergency diesel and crude stocks over the next four months, putting government inventories into a fuel market that has been running short of refinery output for months. French President Emmanuel Macron said Friday that the release would be coordinated through the International Energy Agency, with an emphasis on diese"
         },
         {
-          "title": "UK Holds Emergency Talks With U.S. as Diesel Crisis Escalates",
-          "link": "https://oilprice.com/Energy/Energy-General/UK-Holds-Emergency-Talks-With-US-as-Diesel-Crisis-Escalates.html",
-          "published": "Thu, 01 Oct 2026 15:00:00 -0500",
-          "summary": "Energy secretary Miatta Fahnbulleh is holding crunch talks with her American counterpart over Donald Trump’s threat to curb diesel exports to Europe. City AM understands that Fahnbulleh is in direct contact with US energy secretary Chris Wright to discuss a US move to potentially choke off diesel exports to Europe that threatens to upend supply and send prices at the pump soaring, a person familia"
+          "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
+          "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
+          "published": "Fri, 02 Oct 2026 10:00:00 -0500",
+          "summary": "A total of 21 LNG cargoes are estimated to have exited the Strait of Hormuz in September, the highest monthly number since the Iran war began, yet well below pre-war levels, shipping data compiled by Reuters showed on Friday. Shipment analytics firm Kpler has estimated that 21 cargoes managed to squeeze last month through the chokepoint, which handled one fifth of global LNG supply before the war."
         },
         {
-          "title": "Middle East Oil Exports Stage a Remarkable Comeback",
-          "link": "https://oilprice.com/Energy/Energy-General/Middle-East-Oil-Exports-Stage-a-Remarkable-Comeback.html",
-          "published": "Thu, 01 Oct 2026 14:00:00 -0500",
-          "summary": "Exports of crude oil from the Middle East hit their highest level in September since the war with Iran began, reinforcing a trend of increased supplies despite Iranian attacks on shipping in the Strait of Hormuz, according to analysis of shipping and commodity market data by industry observers. But while crude levels have risen, the refinery bottleneck that has caused a global spike in diesel pric"
+          "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+          "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+          "published": "Fri, 02 Oct 2026 09:45:00 -0500",
+          "summary": "November WTI crude oil futures spent the week caught between two opposing trades. Gulf crude flows improved as Saudi Arabia restored export routes and producers found ways around the Strait of Hormuz disruption. That was the supply relief sellers needed. The fuel market would not let them run with it. Diesel, gasoline and jet-fuel flows remain constrained, Russia has restricted diesel exports, and"
         },
         {
-          "title": "Amazon Secures 20 Years of Nuclear Power From Constellation",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Amazon-Secures-20-Years-of-Nuclear-Power-From-Constellation.html",
-          "published": "Thu, 01 Oct 2026 13:00:00 -0500",
-          "summary": "Goldman analyst Carly Davenport views Amazon's nuclear power deal with Constellation Energy as \"positive for industry broadly\" as the \"Powering Up America\" theme and nuclear theme continue as Big Tech scrambles for the cleanest form of stable power to fuel data centers chip stacks. Davenport said Constellation Energy's 20-year deal to supply Amazon with 690 megawatts from Maryland's Calvert Cliffs"
+          "title": "U.S. Exit Leaves Iraq With a Militia Problem",
+          "link": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
+          "published": "Fri, 02 Oct 2026 09:45:00 -0500",
+          "summary": "Politics, Geopolitics & Conflict U.S. troops have withdrawn from Iraq, but this isn’t Biden’s Iraq. The withdrawal was agreed in 2024 when Biden determined that Iraqi forces could handle the remaining ISIS threat and that Washington could replace the coalition mission with bilateral training, intelligence sharing, and military assistance. Trump inherited that agreement and has now carried it out i"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Fragmented trade drives dry bulk tonne-mile demand",
-          "link": "https://splash247.com/fragmented-trade-drives-dry-bulk-tonne-mile-demand/",
-          "published": "Thu, 01 Oct 2026 20:00:00 +0000",
-          "summary": "Dry bulk shipping has entered the final quarter of 2026 in considerably better shape than most owners expected, with industry leaders at last week’s Splash Singapore conference arguing that increasingly fragmented trade could keep vessel demand elevated even without spectacular growth in cargo volumes. G2 Ocean chief executive Arthur English admitted the strength of the &#8230;"
+          "title": "DOF secures preliminary award for 2028 project",
+          "link": "https://splash247.com/dof-secures-preliminary-award-for-2028-project/",
+          "published": "Fri, 02 Oct 2026 10:15:00 +0000",
+          "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF&#8217;s in-house project management and engineering, procurement, and logistics support services. DOF expects to confirm the full contract award by mid-November 2026. If the contract is awarded, the vessel will begin work &#8230;"
+        },
+        {
+          "title": "Chevron extends Australia asset-integrity deal with EnerMech",
+          "link": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
+          "published": "Fri, 02 Oct 2026 10:10:00 +0000",
+          "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The Aberdeen-headquartered services company first won the assignment in 2017. The renewed agreement covers inspection and integrity support across Chevron Australia’s operations, including"
+        },
+        {
+          "title": "MOL lands Vale charter for two tri-fuel ore carriers",
+          "link": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
+          "published": "Fri, 02 Oct 2026 10:05:00 +0000",
+          "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s Singapore-based capesize bulker operator, signed the agreement with Vale International for vessels scheduled to enter service in 2030. The ships will primarily &#8230;"
+        },
+        {
+          "title": "Carlova returns to Japan with Imabari aframax pair",
+          "link": "https://splash247.com/carlova-returns-to-japan-with-imabari-aframax-pair/",
+          "published": "Fri, 02 Oct 2026 10:00:00 +0000",
+          "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos Steamship. Carlova’s newly updated fleet list shows the ships scheduled for delivery in the fourth quarter of 2029 and first quarter of 2030. Contract prices &#8230;"
+        },
+        {
+          "title": "ONE folds Hong Kong regional HQ into Singapore",
+          "link": "https://splash247.com/one-folds-hong-kong-regional-hq-into-singapore/",
+          "published": "Fri, 02 Oct 2026 09:30:00 +0000",
+          "summary": "Ocean Network Express is consolidating its Asian regional management in Singapore, folding its Hong Kong-based East Asia headquarters into a new Asia Pacific operation from April 1, 2027. The Japanese containerline said the new Asia Pacific regional headquarters will combine its current East Asia operation in Hong Kong with the South Asia headquarters already based &#8230;"
         },
         {
           "title": "Tankers enter the death zone",
           "link": "https://splash247.com/tankers-enter-the-death-zone/",
-          "published": "Thu, 01 Oct 2026 18:04:09 +0000",
+          "published": "Fri, 02 Oct 2026 08:20:09 +0000",
           "summary": "Like climbers entering the death zone above 8,000 metres en route to the summit of Everest, VLCCs have entered their own peak: the moment where prices for secondhand tonnage surpass newbuild prices, and sell signs flash hard. These moments tend to be fleeting and have historically been associated with the hottest stages of shipping cycles. &#8230;"
         },
         {
-          "title": "Yangzijiang Maritime tanker spree builds with Haifeng LR2 series",
-          "link": "https://splash247.com/yangzijiang-maritime-tanker-spree-builds-with-haifeng-lr2-series/",
-          "published": "Thu, 01 Oct 2026 14:22:00 +0000",
-          "summary": "Singapore-listed Yangzijiang Maritime Development has built up a sizeable LR2 programme at China’s Jiangsu Haifeng Shipbuilding as the Ren Yuanlin-led group continues one of this year’s most aggressive tanker investment drives. Shipbuilding database information seen by Splash shows Yangzijiang Maritime behind six firm 114,000 dwt LR2 tankers at Haifeng, plus options for another two. The &#8230;"
+          "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
+          "link": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
+          "published": "Fri, 02 Oct 2026 08:15:11 +0000",
+          "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of the Middle East’s key oil export routes. Maritime security firm Vanguard Tech identified the latest Hormuz casualty as the Kuwait-flagged Kazimah &#8230;"
         },
         {
-          "title": "Precious adds Asyad deal to ultramax fixing run",
-          "link": "https://splash247.com/precious-adds-asyad-deal-to-ultramax-fixing-run/",
-          "published": "Thu, 01 Oct 2026 14:00:00 +0000",
-          "summary": "Thai dry bulk owner Precious Shipping has fixed its recently delivered ultramax Rossarin Naree to Asyad Shipping for up to 14 months in the latest index-linked deal for its larger bulker fleet. The Khalid Hashim-led company said the 63,500 dwt ship started a 12-to-14-month charter with Asyad on October 1 at a gross variable rate &#8230;"
-        },
-        {
-          "title": "Torm cashes in on ageing MR",
-          "link": "https://splash247.com/torm-cashes-in-on-ageing-mr/",
-          "published": "Thu, 01 Oct 2026 13:30:00 +0000",
-          "summary": "Danish product tanker giant Torm has been linked to another fleet disposal, with brokers reporting the sale of one of its oldest MRs to China’s Seacon Shipping group for $22.5m. Splash understands the 2008-built Torm Laura has been picked up by Seacon Tankers Shipping. The 50,000 dwt scrubber-fitted vessel was built at Guangzhou Shipyard International. &#8230;"
-        },
-        {
-          "title": "Rio Tinto sell-down spreads to post-panamaxes",
-          "link": "https://splash247.com/rio-tinto-sell-down-spreads-to-post-panamaxes/",
-          "published": "Thu, 01 Oct 2026 13:04:00 +0000",
-          "summary": "Rio Tinto’s owned-vessel sell-down appears to be extending beyond the newcastlemax fleet it cleared out this year, with a pair of 2013-built post-panamax bulkers reported sold en bloc for $42.8m. Broker reports list the 89,892 dwt RTM Dias and RTM Flinders, both built by Namura in Japan, at $21.4m each. The ships are part of &#8230;"
-        },
-        {
-          "title": "Transpetrol trims aframax fleet in $73m deal",
-          "link": "https://splash247.com/transpetrol-trims-aframax-fleet-in-73m-deal/",
-          "published": "Thu, 01 Oct 2026 12:30:00 +0000",
-          "summary": "Belgian tanker owner Transpetrol Maritime Services has offloaded its 2016-built aframax in a $73m deal with Turkish buyers. VesselsValue data identified Transpetrol as the seller of the Hyundai Samho-built 114,070 dwt TP Affinity and put the ship’s current market value at $80.72m. Transpetrol’s own fleet records show it was delivered in July 2016 and completed &#8230;"
-        },
-        {
-          "title": "Akrotiri Tankers doubles suezmax order at New Times",
-          "link": "https://splash247.com/akrotiri-tankers-doubles-suezmax-order-at-new-times/",
-          "published": "Thu, 01 Oct 2026 12:00:00 +0000",
-          "summary": "Greek tanker newcomer Akrotiri Tankers has returned to New Times Shipbuilding for a second suezmax, continuing a rapid expansion of its Chinese newbuilding programme. Shipbroking sources place the latest order at $84.4m for a 157,000 dwt crude tanker scheduled for delivery in June 2029. The contract takes Akrotiri’s suezmax orderbook to two ships. The Marielena &#8230;"
+          "title": "Splash Wrap: When normal becomes the risk",
+          "link": "https://splash247.com/splash-wrap-when-normal-becomes-the-risk/",
+          "published": "Fri, 02 Oct 2026 08:00:54 +0000",
+          "summary": "For an industry that has spent much of the 2020s making extraordinary money from things going wrong, this week brought an unfamiliar threat: things starting to go right. Some of shipping’s most important pressure points showed signs of easing. At the Panama Canal, for instance, improving rainfall allowed the authorities to announce this week an &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "INTERVIEW: Arrest, Mediate, or Litigate? SeaSolveX on How to Handle a Bunker Dispute in Today's Market",
-          "link": "https://shipandbunker.com/news/world/442405-interview-arrest-mediate-or-litigate-seasolvex-on-how-to-handle-a-bunker-dispute-in-todays-market",
-          "published": "Fri, 02 Oct 2026 00:29:00 +0000",
-          "summary": "Secure the claim first, then settle at the earliest commercially sensible moment."
+          "title": "Oil Dips As Europe Taps Diesel Reserves And Iran's Threats Fall On Deaf Ears",
+          "link": "https://shipandbunker.com/news/world/620377-oil-dips-as-europe-taps-diesel-reserves-and-irans-threats-fall-on-deaf-ears",
+          "published": "Fri, 02 Oct 2026 12:48:00 +0000",
+          "summary": "Meanwhile, Trump sends more missiles to guard Middle East assets."
         },
         {
-          "title": "VIEWPOINT: When Safety Depends on Fuel: The Hidden Risk in Emergency Assets",
-          "link": "https://shipandbunker.com/news/world/376355-viewpoint-when-safety-depends-on-fuel-the-hidden-risk-in-emergency-assets",
-          "published": "Thu, 01 Oct 2026 21:42:22 +0000",
-          "summary": "Nearly half of emergency fuel samples were not DMX, the grade ISO 8217 intends."
+          "title": "Japanese Vessel Completes First Voyage Using Hydrogen-Fired Engine",
+          "link": "https://shipandbunker.com/news/apac/384847-japanese-vessel-completes-first-voyage-using-hydrogen-fired-engine",
+          "published": "Fri, 02 Oct 2026 10:58:44 +0000",
+          "summary": "The vessel sailed for around two hours in Osaka Bay using a hydrogen-powered engine."
         },
         {
-          "title": "BUNKER JOBS: Suzun Marine Fuels Seeks Sales and Supply Development Assistant in Turkey",
-          "link": "https://shipandbunker.com/news/emea/312827-bunker-jobs-suzun-marine-fuels-seeks-sales-and-supply-development-assistant-in-turkey",
-          "published": "Thu, 01 Oct 2026 18:32:32 +0000",
-          "summary": "Entry-level role at the truck-to-ship specialist&#039;s Turkish office, with the business run in English and training provided."
+          "title": "Hoegh Autoliners LNG-Fuelled Ship Connects to Shore Power in Zeebrugge",
+          "link": "https://shipandbunker.com/news/emea/206211-hoegh-autoliners-lng-fuelled-ship-connects-to-shore-power-in-zeebrugge",
+          "published": "Fri, 02 Oct 2026 10:31:20 +0000",
+          "summary": "The LNG-fuelled car carrier drew electricity using an 11kV shore power connection."
         },
         {
-          "title": "Oil Jumps 4% As Washington Dispatches More Ships, Troops, to Middle East",
-          "link": "https://shipandbunker.com/news/world/883368-oil-jumps-4-as-washington-dispatches-more-ships-troops-to-middle-east",
-          "published": "Thu, 01 Oct 2026 11:59:00 +0000",
-          "summary": "An escalation of the U.S./Iran war is expected after the U.S. midterms."
+          "title": "Babcock LGE to Supply Fuel Gas Systems for Ammonia Carriers",
+          "link": "https://shipandbunker.com/news/world/235805-babcock-lge-to-supply-fuel-gas-systems-for-ammonia-carriers",
+          "published": "Fri, 02 Oct 2026 10:12:23 +0000",
+          "summary": "The contracts cover three 90,000 m3 very large ammonia carriers being built for Thenamaris LNG."
         },
         {
-          "title": "Alternative-Capable Vessel Orders Hit 69 in September: DNV",
-          "link": "https://shipandbunker.com/news/world/819012-alternative-capable-vessel-orders-hit-69-in-september-dnv",
-          "published": "Thu, 01 Oct 2026 09:48:54 +0000",
-          "summary": "The third quarter recorded 168 alternative-fuelled vessel orders, the highest quarterly total since Q3 2024."
+          "title": "MOL Ocean Bulk Signs 25-Year Deal for Tri-Fuel Capable Ore Carriers",
+          "link": "https://shipandbunker.com/news/world/235865-mol-ocean-bulk-signs-25-year-deal-for-tri-fuel-capable-ore-carriers",
+          "published": "Fri, 02 Oct 2026 10:00:56 +0000",
+          "summary": "The two 210,000 mt vessels will be capable of running on conventional marine fuels, methanol and ethanol."
         },
         {
-          "title": "Sofar Ocean Launches Self-Service Voyage Optimisation Tool",
-          "link": "https://shipandbunker.com/news/world/780043-sofar-ocean-launches-self-service-voyage-optimisation-tool",
-          "published": "Thu, 01 Oct 2026 09:35:42 +0000",
-          "summary": "Sofar Ocean has launched a new tool for fleets to manage voyage routing in-house."
+          "title": "Former Stena Bulk Manager Joins ScanOcean as Senior Commercial Manager",
+          "link": "https://shipandbunker.com/news/emea/872763-former-stena-bulk-manager-joins-scanocean-as-senior-commercial-manager",
+          "published": "Fri, 02 Oct 2026 08:25:17 +0000",
+          "summary": "Former Stena Bulk bunker procurement manager Lars Malmbratt has joined the company&#039;s Gothenburg office this month."
         },
         {
-          "title": "CMA CGM Adds New LNG Dual-Fuel Boxship to Fleet",
-          "link": "https://shipandbunker.com/news/world/143679-cma-cgm-adds-new-lng-dual-fuel-boxship-to-fleet",
-          "published": "Thu, 01 Oct 2026 09:27:23 +0000",
-          "summary": "The container ship will operate on a route connecting Asia and Europe."
+          "title": "MSC Cruises' New LNG-Fuelled Ship Floats Out in France",
+          "link": "https://shipandbunker.com/news/world/529734-msc-cruises-new-lng-fuelled-ship-floats-out-in-france",
+          "published": "Fri, 02 Oct 2026 07:39:12 +0000",
+          "summary": "The vessel is scheduled to join MSC Cruises&#039; fleet in November 2027."
         },
         {
-          "title": "When Safety Depends on Fuel: The Hidden Risk in Emergency Assets",
-          "link": "https://shipandbunker.com/news/world/443131-when-safety-depends-on-fuel-the-hidden-risk-in-emergency-assets",
-          "published": "Thu, 01 Oct 2026 08:38:21 +0000",
-          "summary": "VPS says poor fuel quality can pose hidden risks to safety-critical emergency equipment."
+          "title": "Trio to Develop Digital Twin for Ammonia-Fuelled Vessel Safety",
+          "link": "https://shipandbunker.com/news/world/721210-trio-to-develop-digital-twin-for-ammonia-fuelled-vessel-safety",
+          "published": "Fri, 02 Oct 2026 07:09:29 +0000",
+          "summary": "The project will combine CFD and digital twin technology to assess ammonia leak scenarios during vessel design."
         }
       ]
     },
@@ -232,6 +232,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "The Ellison credit complex gets a bit more complex",
+          "link": "https://www.ft.com/content/2c56ac58-87b2-4159-aa83-55567368149a",
+          "published": "Fri, 02 Oct 2026 15:44:29 GMT",
+          "summary": "If it wasn’t for the PSKY kid . . ."
+        },
+        {
+          "title": "FTAV’s Friday charts quiz",
+          "link": "https://www.ft.com/content/9412420b-0820-41a1-9655-30bcd1bc48da",
+          "published": "Fri, 02 Oct 2026 08:14:12 GMT",
+          "summary": "Plot In Herre"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/13fa2121-bca2-4c0b-957d-b12b806fdf08",
+          "published": "Fri, 02 Oct 2026 05:30:03 GMT",
+          "summary": "Muse; Donald Trump; India; monopsony; London; John Berger; fraternities; and Jane Street"
+        },
         {
           "title": "Is circular financing in AI a problem?",
           "link": "https://www.ft.com/content/87875b20-4081-4511-9afe-4ee389409742",
@@ -261,24 +279,6 @@
           "link": "https://www.ft.com/content/77c71290-89c4-4ed5-8b05-2c1b22eff911",
           "published": "Wed, 30 Sep 2026 05:30:04 GMT",
           "summary": "A plug; Manchester City; Micron; AI x wealth; AI x McDonald’s; AI x nukes; credit; and AI agents"
-        },
-        {
-          "title": "Self-fulfilling bank runs just aren’t really a thing",
-          "link": "https://www.ft.com/content/80c78c90-97b2-48db-84e0-26975f47305e",
-          "published": "Wed, 30 Sep 2026 05:00:04 GMT",
-          "summary": "Or, at least, that’s what the data seems to suggest"
-        },
-        {
-          "title": "Who is driving the massive surge in repo borrowing?",
-          "link": "https://www.ft.com/content/df11786e-4b07-45d6-b8ef-8e74f0d189ad",
-          "published": "Tue, 29 Sep 2026 11:00:08 GMT",
-          "summary": "You can probably guess this one"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/6dc0716f-9a9c-4c3e-903a-2b497eb5190c",
-          "published": "Tue, 29 Sep 2026 05:30:10 GMT",
-          "summary": "Piracy; salt; batteries; Alex Karp; LLMs; the Bronze Age; and pasta"
         }
       ]
     },
