@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-04T02:27:59+00:00",
-  "take": "The VLCC strike on a Kuwait Oil Tanker Company vessel and the projectile attack at Saudi Arabia's Yanbu port are the dominant crude story, as fresh security risk to Gulf loading infrastructure should steepen the front of the Brent curve even as headline oil dips on Europe tapping diesel reserves. The second theme is the tanker market's structural tightness, with secondhand VLCC values now surpassing newbuild prices — the so-called death zone — whilst MOL's 25-year charter for two 210,000-dwt tri-fuel ore carriers with Vale signals long-haul iron ore demand being locked in and tonne-miles effectively pre-sold. On flows, U.S. crude production is tracking a record 13.8 million b/d in 2026 and propane exports hit 2 million b/d in H1, up 11% year-on-year, so the Atlantic Basin remains long barrels even as Gulf risk premia build. The cross-market link to watch is the diesel complex: Europe drawing down reserves caps gasoil cracks, which in turn softens the incentive to run refineries hard and feeds through to bunker demand, whilst the EIA's $2.93/MMBtu Henry Hub summer average, 6% below last year, keeps LNG-fuelled tonnage economics favourable versus conventional bunkers. For the next 24 hours, watch whether further Hormuz or Yanbu incidents materialise and whether the Baker Hughes rig count decline translates into any downgrade of the 13.8 million b/d forecast, plus any European diesel reserve release data that could extend the crude sell-off.",
+  "generated_at_utc": "2026-10-05T01:45:58+00:00",
+  "take": "Europe’s diesel squeeze is the story that matters most, with China suspending all fuel exports this month and Trump demanding Germany and France release 120 million barrels from reserves, a combination that tightens Atlantic Basin distillate supply just as the Hormuz shock has already pushed gasoline car sales below 50% of the global mix for the first time. Shipping is confirming the physical tightness, with the ClarkSea Index jumping 14% to $75,658 a day for a fourth consecutive record and Singapore cutting ship registration to minutes via AI, whilst the broader freight complex is being reshaped by regionalisation and fresh LNG and VLGC newbuilding programmes at Samsung. The inventory and positioning angle is straightforward: US crude output is forecast to average 13.8 million b/d in 2026 and propane exports hit 2 million b/d in H1, so the marginal barrel is American, but the distillate tightness is European and Asian, meaning the arb is wide and the paper market is likely underhedged on gasoil. The cross-market link to watch is gasoil versus bunker, where record-high fuel prices are accelerating the shift away from gasoline cars and simultaneously supporting scrubber economics and HSFO-VLSFO spreads, whilst the weaker Henry Hub summer at $2.93 per MMBtu keeps US LNG feedgas economics in the money. Over the next 24 hours, watch for any European government response to the 120 million barrel reserve release demand, Chinese export policy headlines, and whether the ClarkSea Index can post a fifth consecutive record as the market digests the K Line and JP Morgan newbuilding orders.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,10 +65,34 @@
       "count": 8,
       "items": [
         {
-          "title": "The Iran War Is Showing What ADNOC’s AI Can Really Do",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Showing-What-ADNOCs-AI-Can-Really-Do.html",
-          "published": "Sat, 03 Oct 2026 18:00:00 -0500",
-          "summary": "Oil companies have spent years using AI to drill faster, predict equipment failures and squeeze more production from existing fields. The UAE’s state-run oil giant, ADNOC, is now finding out what the same technology can do when the problem isn’t efficiency, but a war that initially cut UAE oil exports by roughly two-thirds, from about 5.1 million barrels per day before the conflict to just 1.9 mil"
+          "title": "Fuel Price Shock Pushes Global Gas Car Sales Below 50% for First Time",
+          "link": "https://oilprice.com/Energy/Energy-General/Fuel-Price-Shock-Pushes-Global-Gas-Car-Sales-Below-50-for-First-Time.html",
+          "published": "Sun, 04 Oct 2026 18:00:00 -0500",
+          "summary": "The share of gasoline cars in global vehicle sales fell below 50% for the first time ever as the Hormuz shock and the resulting record-high fuel prices accelerated the previously sluggish shift toward EVs outside China. A few years ago, China blew past the threshold of 50% of all car sales being hybrids and EVs, and the share is now about 55%. But the rest of the world didn’t follow until the Iran"
+        },
+        {
+          "title": "Europe’s Diesel Woes Just Got Even Worse",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Europes-Diesel-Woes-Just-Got-Even-Worse.html",
+          "published": "Sun, 04 Oct 2026 16:00:00 -0500",
+          "summary": "China this week announced it will suspend all fuel exports this month to keep its domestic market supplied. Also this week, President Donald Trump demanded that Germany and France release 120 million barrels of diesel from their storage or get hit with a U.S. diesel export ban. Europe is running out of options to stay well supplied with a critical fuel. Diesel is the fuel, on which any economy run"
+        },
+        {
+          "title": "Pentagon Backs Ambitious Plan to Beam Solar Power From Space",
+          "link": "https://oilprice.com/Energy/Energy-General/Pentagon-Backs-Ambitious-Plan-to-Beam-Solar-Power-From-Space.html",
+          "published": "Sun, 04 Oct 2026 14:00:00 -0500",
+          "summary": "Space-based solar power just got another powerful vote of confidence. The United States Department of Defense just inked a contract with solar energy company Overview Energy to “design, build, and test a homing beacon that will enable its space-based solar energy system to accurately beam power from orbit to receiving solar arrays on Earth,” according to a brand new report from Interesting Enginee"
+        },
+        {
+          "title": "Floating Power Plants Are Opening a New Energy Frontier",
+          "link": "https://oilprice.com/Energy/Energy-General/Floating-Power-Plants-Are-Opening-a-New-Energy-Frontier.html",
+          "published": "Sun, 04 Oct 2026 12:00:00 -0500",
+          "summary": "The renewable revolution is running out of space. Utility-scale solar and wind farms take up enormous tracts of land and are facing increasing legal pushback from many of the communities where their development is planned. However, an enormous expansion of clean energy resources is still needed to stay on track with any feasible pathway toward keeping global warming within 1.5º Celsius of pre-indu"
+        },
+        {
+          "title": "Private Equity Firms Double Down on Fossil Fuels",
+          "link": "https://oilprice.com/Energy/Energy-General/Private-Equity-Firms-Double-Down-on-Fossil-Fuels.html",
+          "published": "Sun, 04 Oct 2026 10:00:00 -0500",
+          "summary": "Despite pressure from some governments and consumers for a global energy transition, private equity firms continue to invest heavily in some of the world’s largest greenhouse gas emitters. Following the Covid-19 pandemic, several companies, banks, and even energy companies began introducing stronger environmental, social, and governance (ESG) standards, including measures to decarbonise operations"
         },
         {
           "title": "Could White Hydrogen Succeed Where Green Hydrogen Stumbled?",
@@ -87,30 +111,6 @@
           "link": "https://oilprice.com/The-Environment/Global-Warming/New-Research-Strengthens-the-Link-Between-Warming-and-Extreme-Weather.html",
           "published": "Sat, 03 Oct 2026 12:00:00 -0500",
           "summary": "There is an increasing body of evidence connecting climate change and severe weather events. In 2004, a group of researchers published one of the first studies linking human-caused climate change to a specific extreme weather event – the 2003 European summer heatwave, which killed over 70,000 people across Europe. The scientists determined that human involvement had at least doubled the risk of su"
-        },
-        {
-          "title": "Latin America Could Double Its Onshore Wind Capacity by 2035",
-          "link": "https://oilprice.com/Energy/Energy-General/Latin-America-Could-Double-Its-Onshore-Wind-Capacity-by-2035.html",
-          "published": "Sat, 03 Oct 2026 10:00:00 -0500",
-          "summary": "Several countries across Latin America have been rapidly expanding their wind energy capacity to diversify the energy mix and strengthen energy security, with far more expansion planned for the next decade. Brazil and Mexico are leading the way, with several other countries across the region also beginning to develop their green energy sectors. Across Latin America, installed wind energy capacity "
-        },
-        {
-          "title": "Trump Says South Korea Deal Includes $8.4 Billion U.S. Oil Project",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-South-Korea-Deal-Includes-84-Billion-US-Oil-Project.html",
-          "published": "Fri, 02 Oct 2026 16:30:00 -0500",
-          "summary": "President Donald Trump said Friday that South Korea’s investment agreement with the United States now includes $8.4 billion for an enhanced oil recovery project. Seoul says it agreed to no such thing. “The Republic of Korea Deal keeps getting BETTER! 8.4 Billion Dollars for an enhanced Oil Recovery Project. Producing more Oil and Gas means American Energy Dominance and Energy Security in the World"
-        },
-        {
-          "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
-          "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
-          "published": "Fri, 02 Oct 2026 14:00:00 -0500",
-          "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sect"
-        },
-        {
-          "title": "U.S. Oil Drilling Inches Up As Prices Fall",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Inches-Up-As-Prices-Fall.html",
-          "published": "Fri, 02 Oct 2026 12:16:00 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US falling to 598, up 49 from this same time last year. The number of active oil rigs rose by 1, reaching 456 during the latest reporting period, according to the data. This is 34 above this same time last year. T"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "DOF secures preliminary award for 2028 project",
-          "link": "https://splash247.com/dof-secures-preliminary-award-for-2028-project/",
-          "published": "Fri, 02 Oct 2026 10:15:00 +0000",
-          "summary": "Norwegian offshore vessel owner DOF has received a letter of intent to hire an I-class vessel in 2028. The scope of work includes DOF&#8217;s in-house project management and engineering, procurement, and logistics support services. DOF expects to confirm the full contract award by mid-November 2026. If the contract is awarded, the vessel will begin work &#8230;"
+          "title": "Shipping markets hit new highs across multiple sectors",
+          "link": "https://splash247.com/shipping-markets-hit-new-highs-across-multiple-sectors/",
+          "published": "Mon, 05 Oct 2026 01:21:15 +0000",
+          "summary": "Shipping’s extraordinary earnings boom powered further into uncharted territory on Friday, with Clarksons Research’s cross-sector ClarkSea Index jumping another 14% to $75,658 a day, its fourth consecutive all-time high. The index has now surged 73% in a month, while its year-to-date average is up 66% year on year and stands 84% above its 10-year trend.&#160; &#8230;"
         },
         {
-          "title": "Chevron extends Australia asset-integrity deal with EnerMech",
-          "link": "https://splash247.com/chevron-extends-australia-asset-integrity-deal-with-enermech/",
-          "published": "Fri, 02 Oct 2026 10:10:00 +0000",
-          "summary": "UK oilfield services specialist EnerMech has secured a five-year extension to its non-destructive testing contract with Chevron Australia, retaining the inspection and asset-integrity work until the end of 2031. The Aberdeen-headquartered services company first won the assignment in 2017. The renewed agreement covers inspection and integrity support across Chevron Australia’s operations, including"
+          "title": "Why shipping’s niche players are set to resurge",
+          "link": "https://splash247.com/why-shippings-niche-players-are-set-to-resurge/",
+          "published": "Mon, 05 Oct 2026 01:00:00 +0000",
+          "summary": "Mark O’Neill discusses the likely shipping impact as the world shifts from globalisation to regionalisation. For decades, global shipping has been built around a simple premise: the more integrated the world economy became &#8211; &#160;governed and regulated by a sophisticated and universally respected international rules-based order&#160;&#8211; the more efficient, standardised and global mariti"
         },
         {
-          "title": "MOL lands Vale charter for two tri-fuel ore carriers",
-          "link": "https://splash247.com/mol-lands-vale-charter-for-two-tri-fuel-ore-carriers/",
-          "published": "Fri, 02 Oct 2026 10:05:00 +0000",
-          "summary": "Japanese shipping giant Mitsui OSK Lines (MOL) will operate two 210,000-dwt ore carriers for Vale under a 25-year contract, introducing tri-fuel propulsion to the long-haul iron ore trade. MOL Ocean Bulk, the group’s Singapore-based capesize bulker operator, signed the agreement with Vale International for vessels scheduled to enter service in 2030. The ships will primarily &#8230;"
+          "title": "Gunvor rebrands as Centalion and heads for Singapore",
+          "link": "https://splash247.com/gunvor-rebrands-as-centalion-and-heads-for-singapore/",
+          "published": "Sun, 04 Oct 2026 22:00:00 +0000",
+          "summary": "Commodity trading giant Gunvor is changing its name to Centalion and moving its corporate base to Singapore less than a year after completing a management buyout. The employee partnership that owns the business has voted to rename Gunvor Group as Centalion Group and intends to redomicile its parent holding company from Cyprus to Singapore, subject &#8230;"
         },
         {
-          "title": "Carlova returns to Japan with Imabari aframax pair",
-          "link": "https://splash247.com/carlova-returns-to-japan-with-imabari-aframax-pair/",
-          "published": "Fri, 02 Oct 2026 10:00:00 +0000",
-          "summary": "Anthony Inglessis-led Carlova Maritime has ordered two 114,000 dwt aframax tankers at Imabari Shipbuilding, marking the Greek owner’s first newbuilding contracts in Japan since emerging from the break-up of Samos Steamship. Carlova’s newly updated fleet list shows the ships scheduled for delivery in the fourth quarter of 2029 and first quarter of 2030. Contract prices &#8230;"
+          "title": "K Line tied to $494m Samsung LNG carrier pair",
+          "link": "https://splash247.com/k-line-tied-to-494m-samsung-lng-carrier-pair/",
+          "published": "Sun, 04 Oct 2026 21:21:00 +0000",
+          "summary": "Japan’s K Line has been linked to another pair of LNG carrier newbuildings at Samsung Heavy Industries worth KRW672.2bn ($494m). Samsung disclosed on Friday that it had secured an order from an unnamed Asian shipowner for two LNG carriers, with delivery of both ships scheduled by the end of May 2029. Shipbuilding sources identify Kawasaki &#8230;"
         },
         {
-          "title": "ONE folds Hong Kong regional HQ into Singapore",
-          "link": "https://splash247.com/one-folds-hong-kong-regional-hq-into-singapore/",
-          "published": "Fri, 02 Oct 2026 09:30:00 +0000",
-          "summary": "Ocean Network Express is consolidating its Asian regional management in Singapore, folding its Hong Kong-based East Asia headquarters into a new Asia Pacific operation from April 1, 2027. The Japanese containerline said the new Asia Pacific regional headquarters will combine its current East Asia operation in Hong Kong with the South Asia headquarters already based &#8230;"
+          "title": "JP Morgan expands gas carrier spree with Samsung VLGC double",
+          "link": "https://splash247.com/jp-morgan-expands-gas-carrier-spree-with-samsung-vlgc-double/",
+          "published": "Sun, 04 Oct 2026 21:00:00 +0000",
+          "summary": "JP Morgan has added another two VLGC newbuildings at Samsung Heavy Industries, taking the US banking giant’s 88,000 cu m programme at the South Korean yard to six ships. Shipbuilding sources list two additional gas carriers against JP Morgan’s Bermuda-based maritime investment platform Global Meridian Holdings at Samsung’s Geoje yard for delivery in 2030. The &#8230;"
         },
         {
-          "title": "Tankers enter the death zone",
-          "link": "https://splash247.com/tankers-enter-the-death-zone/",
-          "published": "Fri, 02 Oct 2026 08:20:09 +0000",
-          "summary": "Like climbers entering the death zone above 8,000 metres en route to the summit of Everest, VLCCs have entered their own peak: the moment where prices for secondhand tonnage surpass newbuild prices, and sell signs flash hard. These moments tend to be fleeting and have historically been associated with the hottest stages of shipping cycles. &#8230;"
+          "title": "Singapore puts ship registration on AI fast track",
+          "link": "https://splash247.com/singapore-puts-ship-registration-on-ai-fast-track/",
+          "published": "Sun, 04 Oct 2026 20:22:00 +0000",
+          "summary": "Singapore is preparing an AI-powered overhaul of its ship registry that will cut standard registration processing times from as much as three working days to a matter of minutes. The Maritime and Port Authority of Singapore said that a new end-to-end registration platform will be launched in the first half of 2027, covering everything from &#8230;"
         },
         {
-          "title": "Fresh attacks hit Hormuz tanker and Saudi oil gateway",
-          "link": "https://splash247.com/fresh-attacks-hit-hormuz-tanker-and-saudi-oil-gateway/",
-          "published": "Fri, 02 Oct 2026 08:15:11 +0000",
-          "summary": "Kuwait Oil Tanker Company has suffered its second VLCC strike in four days, while a separate projectile attack at Saudi Arabia’s Yanbu port briefly disrupted loading operations, piling fresh security pressure on two of the Middle East’s key oil export routes. Maritime security firm Vanguard Tech identified the latest Hormuz casualty as the Kuwait-flagged Kazimah &#8230;"
+          "title": "Pan Ocean and Korea Line secure fresh POSCO Flow cover",
+          "link": "https://splash247.com/pan-ocean-and-korea-line-secure-fresh-posco-flow-cover/",
+          "published": "Sun, 04 Oct 2026 19:35:00 +0000",
+          "summary": "South Korea’s Pan Ocean and Korea Line have secured separate long-term contracts from POSCO Flow worth a combined KRW167.75bn ($123.6m) to move steelmaking raw materials into the country. Harim-controlled Pan Ocean has signed the larger of the two deals, a KRW95.83bn ($70.7m) contract covering shipments of iron ore and coal from Australia, Canada and other &#8230;"
         },
         {
-          "title": "Splash Wrap: When normal becomes the risk",
-          "link": "https://splash247.com/splash-wrap-when-normal-becomes-the-risk/",
-          "published": "Fri, 02 Oct 2026 08:00:54 +0000",
-          "summary": "For an industry that has spent much of the 2020s making extraordinary money from things going wrong, this week brought an unfamiliar threat: things starting to go right. Some of shipping’s most important pressure points showed signs of easing. At the Panama Canal, for instance, improving rainfall allowed the authorities to announce this week an &#8230;"
+          "title": "Namura absorbs Imari steel arm ahead of shipbuilding expansion",
+          "link": "https://splash247.com/namura-absorbs-imari-steel-arm-ahead-of-shipbuilding-expansion/",
+          "published": "Sun, 04 Oct 2026 19:00:00 +0000",
+          "summary": "Japan’s Namura Shipbuilding is absorbing its wholly owned Imari Steel Center as the shipbuilder moves to tighten control of production ahead of a major expansion of its newbuilding business. The Osaka-listed builder has approved the merger, with the transaction scheduled to take effect on April 1, 2027. Namura will remain the surviving company and Imari &#8230;"
         }
       ]
     },
@@ -176,6 +176,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "VIEWPOINT: Bunker Operations Run on Trust, Not Checklists",
+          "link": "https://shipandbunker.com/news/world/823758-viewpoint-bunker-operations-run-on-trust-not-checklists",
+          "published": "Mon, 05 Oct 2026 00:43:00 +0000",
+          "summary": "Procedures set out what should happen in a bunker delivery, writes Capt. Qaisar Qayyum, how the barge master feels about a 2am call decides if problems surface in time."
+        },
         {
           "title": "Oil Dips As Europe Taps Diesel Reserves And Iran's Threats Fall On Deaf Ears",
           "link": "https://shipandbunker.com/news/world/620377-oil-dips-as-europe-taps-diesel-reserves-and-irans-threats-fall-on-deaf-ears",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/world/529734-msc-cruises-new-lng-fuelled-ship-floats-out-in-france",
           "published": "Fri, 02 Oct 2026 07:39:12 +0000",
           "summary": "The vessel is scheduled to join MSC Cruises&#039; fleet in November 2027."
-        },
-        {
-          "title": "Trio to Develop Digital Twin for Ammonia-Fuelled Vessel Safety",
-          "link": "https://shipandbunker.com/news/world/721210-trio-to-develop-digital-twin-for-ammonia-fuelled-vessel-safety",
-          "published": "Fri, 02 Oct 2026 07:09:29 +0000",
-          "summary": "The project will combine CFD and digital twin technology to assess ammonia leak scenarios during vessel design."
         }
       ]
     },
@@ -285,58 +285,10 @@
     {
       "source": "FRED Blog",
       "url": "https://fredblog.stlouisfed.org/feed/",
-      "ok": true,
-      "count": 8,
-      "items": [
-        {
-          "title": "Real GDP growth by state: Second quarter 2026",
-          "link": "https://fredblog.stlouisfed.org/2026/10/real-gdp-growth-by-state-second-quarter-2026/",
-          "published": "Thu, 01 Oct 2026 13:00:00 +0000",
-          "summary": "On September 30, 2026, the Bureau of Economic Analysis (BEA) released real GDP data for all US states for the second quarter of 2026. The FRED map above shows the annualized growth rates from the previous quarter: Red denotes contraction &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "What is the Treasury general account?",
-          "link": "https://fredblog.stlouisfed.org/2026/09/what-is-the-treasury-general-account/",
-          "published": "Mon, 28 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway When you hear commentary on the federal government&#8217;s financial situation, the information is often based on the money flowing into and out of the Treasury general account. The US government&#8217;s checking account As with any household or business, &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "Estimating the risk of recession in the US",
-          "link": "https://fredblog.stlouisfed.org/2026/09/estimating-the-risk-of-recession-in-the-us/",
-          "published": "Thu, 24 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway A new dataset in FRED provides the monthly probability the US economy is in recession. The latest data, for August 2026, show that probability was 0.08%. The data FRED has added probability estimates of the US economy being &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "FOMC Summary of Economic Projections, September 2026",
-          "link": "https://fredblog.stlouisfed.org/2026/09/fomc-summary-of-economic-projections-september-2026/",
-          "published": "Mon, 21 Sep 2026 13:00:00 +0000",
-          "summary": "In a previous FRED Blog post, we discussed the Summary of Economic Projections (SEP) released by the FOMC this past June. In this blog post, we again use ALFRED to compare the latest set of projections released in September 2026 &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "Using options prices to measure financial risk : The Kansas City Fed Policy Rate Skew",
-          "link": "https://fredblog.stlouisfed.org/2026/09/using-options-prices-to-measure-financial-risk/",
-          "published": "Thu, 17 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway The Kansas City Fed uses options prices to measure how financial markets perceive the balance of risks for future short-term interest rates: a.k.a., the KC Policy Rate Skew. The data Options are publicly traded financial instruments that reflect &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "Measuring money with M2",
-          "link": "https://fredblog.stlouisfed.org/2026/09/measuring-money-with-m2/",
-          "published": "Mon, 14 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway The Fed&#8217;s monetary aggregates measure the amount of money in the economy. One such measure is M2, which includes liquid assets such as checking accounts but excludes non-liquid assets such as individual retirement accounts. What is M2? M2 &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "A new calculation for subprime credit risk",
-          "link": "https://fredblog.stlouisfed.org/2026/09/a-new-calculation-for-subprime-credit-risk/",
-          "published": "Thu, 10 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway The New York Fed&#8217;s consumer credit dataset is now calculated with a different methodology—one that includes 33 million more borrowers than before. The Consumer Credit Panel With a data update on August 10, 2026, the New York Fed &#8230; Continue reading &#8594;"
-        },
-        {
-          "title": "Measures of consumer sentiment",
-          "link": "https://fredblog.stlouisfed.org/2026/09/measures-of-consumer-sentiment/",
-          "published": "Thu, 03 Sep 2026 13:00:00 +0000",
-          "summary": "The takeaway Measures of household financial well-being don’t always align with consumer sentiment. You can feel relatively secure about your finances while still being pessimistic about the overall economy. &#160; Are you doing OK? In an earlier post, we described &#8230; Continue reading &#8594;"
-        }
-      ]
+      "ok": false,
+      "count": 0,
+      "items": [],
+      "error": "HTTPSConnectionPool(host='fred.stlouisfed.org', port=443): Read timed out. (read timeout=30)"
     }
   ]
 }
