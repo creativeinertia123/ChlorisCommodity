@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-09T02:51:42+00:00",
-  "take": "Trump’s Truth Social pledge not to strike Iran before the November midterms knocked oil sharply lower, unwinding the geopolitical premium that had built through 3Q26 when crude prices and refinery margins rose on persistent Middle East conflict, and it matters because the same Gulf ship-to-ship transfer lifeline Russell Hardy flagged as the market’s safety valve is now priced as less at risk. The freight and shipping theme is escalating regardless, with Windward counting 45 commercial ships attacked in the Gulf in Q3 versus 25 in Q2 and a tanker struck off Qatar, hundreds of miles west of Hormuz, which widens the war-risk zone, lifts insurance and rerouting costs and supports tonne-miles even as flat price falls. On flows, Hurricane Isaias has shut in 1.28 million b/d of US Gulf production, up from 185,120 b/d two days earlier, a bullish supply offset to the Iran headline, whilst US propane exports hit a record 2 million b/d in H1 2026 and US natural gas output set a July record, reinforcing the light-ends export story. The cross-market link to watch is distillate and bunker: with US gasoline at a record October $4.36/gal and diesel cracks still elevated after a strong 3Q26 margin run, any further crude weakness feeds straight into bunker and gasoil pricing, whilst the Berlin block on COSCO’s Konrad Zippel stake and Rosatom’s Delo buyout keep freight capacity and ownership shifting politically. In the next 24 hours, watch Isaias shut-in numbers and Gulf war-risk premiums for any sign the tanker attacks spread further west, plus whether the market fades Trump’s pre-midterm restraint as a temporary rather than structural de-escalation.",
+  "generated_at_utc": "2026-10-10T02:12:05+00:00",
+  "take": "Hurricane Isaias has shut in 1.46m b/d of US Gulf crude production, 71% of offshore output, and with Brent already above $100 and Trump putting Iran strikes on hold ahead of the midterms, the supply-side buffer is thinner than the headline record 13.8m b/d US crude average suggests, so any duration extension on shut-ins tightens the prompt spread. The US has lifted sanctions on Russian diesel for six months via General License 135 through 7 April 2027 whilst Russia and Germany add barrels, and China plans to resume refined fuel exports, which together cap the distillate squeeze that has been the real tightness in the complex. Positioning-wise, the diesel crisis persists despite record crude output because refinery configuration cannot convert light sweet into middle distillate at will, and the FSL LR1 sale to UAE interests at $110m alongside Larine's exit signals asset owners are monetising tanker strength rather than betting on further product tightness. The cross-market link to watch is bunker: ammonia bunkering trials and CMB.TECH's 210,000 dwt Mineral Europa maiden voyage to Australia point to structural tonne-mile demand growth on the dry side, whilst Black Sea grain exports cratering amid maritime war cuts both tonne-miles and the diesel demand that goes with them. In the next 24 hours, watch Isaias landfall timing and the Marine Minerals Service restart guidance, the Panama Canal authority's post-earthquake inspection results for transit continuity, and whether the Trump-Putin diesel détente holds through the weekend.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
+          "published": "Fri, 09 Oct  09:00:00 EST",
+          "summary": "As of 4:00 a.m. central time on October 9, the National Oceanic and Atmospheric Administration expects Hurricane Isaias to make landfall on the Gulf Coast late Friday or early Saturday, creating the potential for significant disruptions to energy infrastructure. Hurricane Isaias is the first hurricane of the 2026 Atlantic season and will be the largest storm system to make landfall in the region s"
+        },
         {
           "title": "Mixed outlook for energy expenditures this winter",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68264",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68184",
           "published": "Tue, 22 Sep 2026  09:00:00 EST",
           "summary": "Publicly traded companies represent a tiny share of the total number of companies producing crude oil and natural gas in the United States, but they make up a large share of U.S. production. In 2025, publicly traded companies accounted for just 2% of about 12,000 oil and natural gas producers but produced 68% of the crude oil and natural gas in the Lower 48 states."
-        },
-        {
-          "title": "What goes into diesel prices?",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68164",
-          "published": "Fri, 18 Sep 2026  09:00:00 EST",
-          "summary": "The price of distillate fuel oil, often sold as diesel, is driven by the price of crude oil, retail margins, distribution costs, taxes, and crack spreads, the indicator we use for refining margins. Tight global supplies of distillate fuel oil and elevated crude oil prices have driven prices higher in recent months."
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "World’s Top Crude Trader Isn’t Ruling Out $200 Oil Just Yet",
-          "link": "https://oilprice.com/Energy/Oil-Prices/Worlds-Top-Crude-Trader-Isnt-Ruling-Out-200-Oil-Just-Yet.html",
-          "published": "Thu, 08 Oct 2026 19:00:00 -0500",
-          "summary": "Ship-to-ship transfers in the Gulf of Oman that keep oil flowing from the Middle East provide a lifeline to Gulf producers and to the oil market, according to Russell Hardy, chief executive officer at the world’s biggest independent oil trader, Vitol Group. “Without it, you do have that $200-a-barrel scenario, so it is pretty important it continues,” Hardy said at the Energy Intelligence Forum in "
+          "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
+          "published": "Fri, 09 Oct 2026 17:00:00 -0500",
+          "summary": "The United States is producing more crude oil than ever. According to the Energy Information Administration, U.S. crude production is on track to average a record 13.8 million barrels per day in 2026, surpassing the previous record set last year. Yet diesel prices recently climbed to record highs, while distillate inventories remain unusually low. The EIA expects those inventories to stay below th"
         },
         {
-          "title": "Cuba’s Fuel Crisis Turns the Island Into a Solar Test Case",
-          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Cubas-Fuel-Crisis-Turns-the-Island-Into-a-Solar-Test-Case.html",
-          "published": "Thu, 08 Oct 2026 17:00:00 -0500",
-          "summary": "Cuba is turning into a solar-powered island because of the U.S. naval blockade that is preventing fuel from reaching it. Imports of solar tech from that same U.S. are surging despite the decades-old U.S. embargo on Cuba, and strengthening the case for solar energy—in the absence of any alternatives. Bloomberg earlier this week cited U.S. Census data showing that exports of solar cells and modules "
+          "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
+          "published": "Fri, 09 Oct 2026 16:30:00 -0500",
+          "summary": "Russia and Germany are putting more diesel into a global market that has spent months looking for barrels almost anywhere it can find them. President Donald Trump said Friday that Russian President Vladimir Putin had agreed to immediately supply more than 300,000 metric tons of diesel to the U.S. and global market, followed by another 500,000 tons in November and 1 million tons after that. The fir"
         },
         {
-          "title": "Iran War Energy Shock Puts Hydrogen Back on the Table",
-          "link": "https://oilprice.com/Energy/Energy-General/Iran-War-Energy-Shock-Puts-Hydrogen-Back-on-the-Table.html",
-          "published": "Thu, 08 Oct 2026 16:00:00 -0500",
-          "summary": "This year’s global energy crisis has revived international interest in hydrogen’s potential to replace fossil fuels in a wide range of industrial applications, from steelmaking to shipping. Green hydrogen is still massively expensive to produce, reducing its potential for commercial scaling, while gray and blue hydrogen relies on the same fossil fuels that many global markets are trying to move aw"
+          "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
+          "published": "Fri, 09 Oct 2026 15:30:00 -0500",
+          "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil production, along with 1.26 billion cubic feet per day of natural gas, or 58.84% of Gulf gas output"
         },
         {
-          "title": "Kinder Morgan Restores U.S.-Mexico Gas Flows After Pipeline Outage",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Kinder-Morgan-Restores-US-Mexico-Gas-Flows-After-Pipeline-Outage.html",
-          "published": "Thu, 08 Oct 2026 15:30:00 -0500",
-          "summary": "Kinder Morgan has lifted force majeure on its Tennessee Gas Pipeline after repairs restored natural gas deliveries to Mexico that had been interrupted earlier this week. Tennessee Gas identified problems on October 5 and isolated sections of the system, including the Rio Bravo and Cenagas delivery meters. The company declared force majeure the following day. Kinder Morgan said Thursday that the pr"
+          "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
+          "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
+          "published": "Fri, 09 Oct 2026 15:00:00 -0500",
+          "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hybrid sales in the U.S. rose 24% through the third quarter, battery-electric registrations jumped 52% across Europe in August, and the International Energy Agency figures EVs will ma"
         },
         {
-          "title": "Hurricane Isaias Shuts In 1.28 Million Bpd of Gulf Oil Production",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Hurricane-Isaias-Shuts-In-128-Million-Bpd-of-Gulf-Oil-Production.html",
-          "published": "Thu, 08 Oct 2026 15:00:00 -0500",
-          "summary": "Hurricane Isaias has knocked 1.28 million barrels per day of U.S. Gulf oil production offline, up from just 185,120 bpd two days ago as operators clear personnel from the storm’s path. The Marine Minerals Administration said Thursday that 62.89% of current Gulf oil production and 57.35% of natural gas production had been shut in based on operator reports submitted by 11 a.m. CDT. Operators evacuat"
+          "title": "U.S. Oil Drilling Continues to Inch Upward",
+          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
+          "published": "Fri, 09 Oct 2026 12:31:16 -0500",
+          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 during the latest reporting period, according to the data. This is 44 above this same time last year. Th"
         },
         {
-          "title": "Virtual Power Plants: The Grid Capacity Nobody Had to Build",
-          "link": "https://oilprice.com/Energy/Energy-General/Virtual-Power-Plants-The-Grid-Capacity-Nobody-Had-to-Build.html",
-          "published": "Thu, 08 Oct 2026 14:00:00 -0500",
-          "summary": "On the evening of Sept. 9, 2026, with a heat wave pushing electricity demand across California toward its limits, more than 140,000 home batteries started discharging at the same time. Over a three-hour window, they sent more than 580 megawatts of power into the state's grid, roughly what a large conventional power plant puts out. Nobody broke ground on anything and no fuel got burned. The batteri"
+          "title": "States Bet on Virtual Power Plants to Cut Grid Costs",
+          "link": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
+          "published": "Fri, 09 Oct 2026 12:00:00 -0500",
+          "summary": "The United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of hundreds or thousands of households and businesses can use the latent potential of their thermostats,"
         },
         {
-          "title": "Oil Prices Plunge as Trump Rules Out Iran Strikes Before Midterms",
-          "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Plunge-as-Trump-Rules-Out-Iran-Strikes-Before-Midterms.html",
-          "published": "Thu, 08 Oct 2026 13:00:00 -0500",
-          "summary": "President Trump just issued a new Truth Social Post Thursday just after noon time (eastern), wherein he declared \"we will not be attacking Iran at any time prior to the Midterm Elections\" in November. Oil dropped on the statement (though is still up on the day)... The full Trump post below, wherein Trump also claims that active discussions with the Iranians are still happening, and that oil is \"fl"
+          "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
+          "published": "Fri, 09 Oct 2026 11:35:22 -0500",
+          "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil prices were nearing the $110 per barrel mark amidst a deteriorating security situation in Saudi Arab"
         },
         {
-          "title": "U.S. Gasoline Prices Set October Record Even as National Average Slips",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Gasoline-Prices-Set-October-Record-Even-as-National-Average-Slips.html",
-          "published": "Thu, 08 Oct 2026 12:30:00 -0500",
-          "summary": "U.S. gasoline prices have fallen for a second straight week, but drivers are still paying more at the pump than they ever have in October. AAA put the national average at $4.36 per gallon Thursday, down about five cents from a week ago. A year ago, gasoline averaged $3.12. This is the first October in which the national average has remained above $4 per gallon. The drop came despite a small increa"
+          "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
+          "link": "https://oilprice.com/Geopolitics/International/Pashinyans-Nuclear-U-Turn-Gives-Moscow-an-Opening-in-Armenia.html",
+          "published": "Fri, 09 Oct 2026 11:00:00 -0500",
+          "summary": "Unable to persuade Armenia to abandon its efforts to join the European Union, Russia is now signaling that it is adopting a harder line. Armenian Prime Minister Nikol Pashinyan evidently is taking the menacing tone of recent Russian statements seriously. It appears the price of keeping the Kremlin at bay for now is the suspension of a nuclear cooperation deal with the United States and an accompan"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "The hidden health issue sending seafarers home",
-          "link": "https://splash247.com/the-hidden-health-issue-sending-seafarers-home/",
-          "published": "Thu, 08 Oct 2026 13:48:55 +0000",
-          "summary": "Musculoskeletal problems are responsible for a significant proportion of crew repatriations, but earlier intervention could help prevent many cases from reaching that stage says Ronald Spithout, MD oneHealth by VIKAND. Working at sea is physically demanding, so aches and pains can easily be accepted as part of the job. A sore back after lifting, a &#8230;"
+          "title": "CMB.TECH sends world’s first ammonia-powered bulker to sea",
+          "link": "https://splash247.com/cmb-tech-sends-worlds-first-ammonia-powered-bulker-to-sea/",
+          "published": "Fri, 09 Oct 2026 10:44:00 +0000",
+          "summary": "Belgium’s CMB.TECH has sent the 210,000 dwt Mineral Europa on its maiden voyage to Australia, marking the first deployment of an ammonia-powered dry bulk carrier. The 2026-built newcastlemax is the first of a much larger ammonia-fuelled fleet being rolled out by the Alexander Saverys-led shipping group. CMB.TECH said 21 ammonia-powered ships are due to enter &#8230;"
         },
         {
-          "title": "SPM Shipping plays the market",
-          "link": "https://splash247.com/spm-shipping-plays-the-market/",
-          "published": "Thu, 08 Oct 2026 13:46:51 +0000",
-          "summary": "With only a few months in gas, Dubai-based SPM Shipping, a shipowner, operator and offshore player, has now added its third VLGC, according to sources. The fast-growing owner is ambitious and moving comfortably in the largest segments in shipping, first placing money in both the cape and VLCC segments, an uncommon move for a relative &#8230;"
+          "title": "BIMCO moves to break ship retrofit cost deadlock",
+          "link": "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/",
+          "published": "Fri, 09 Oct 2026 10:20:03 +0000",
+          "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry&#8217;s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the financial benefit. The Copenhagen-based organisation announced that its Documentary Committee had approved the Energy Saving Device Retrofit Addendum 2026, giving shipowners an"
         },
         {
-          "title": "Seatrium bags first FSRU conversion for Excelerate",
-          "link": "https://splash247.com/seatrium-bags-first-fsru-conversion-for-excelerate/",
-          "published": "Thu, 08 Oct 2026 12:40:37 +0000",
-          "summary": "Singapore shipyard group Seatrium has secured an EPCIC contract from New York-listed floating regasification specialist Excelerate Energy to convert an LNG carrier into an FSRU, with an option for a second unit. The project is Seatrium’s first FSRU conversion for Excelerate. Financial terms were not disclosed. Engineering work is expected to begin in the fourth &#8230;"
+          "title": "FSL cashes in on another veteran product tanker",
+          "link": "https://splash247.com/fsl-cashes-in-on-another-veteran-product-tanker/",
+          "published": "Fri, 09 Oct 2026 10:14:15 +0000",
+          "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary FSL-14 had struck a deal to sell the 2006-built Speciality to an unrelated buyer. The 4,426 dwt tanker was built &#8230;"
         },
         {
-          "title": "Yinson Production lands $1.46bn refinancing for Agogo FPSO",
-          "link": "https://splash247.com/yinson-production-lands-1-46bn-refinancing-for-agogo-fpso/",
-          "published": "Thu, 08 Oct 2026 10:01:00 +0000",
-          "summary": "Singapore-based Yinson Production has priced $1.458bn of senior secured notes backed by the Agogo FPSO, marking what the company says is the largest FPSO project bond to date and the first of its kind outside Brazil. Yinson Azalea Production, which owns the Agogo FPSO, is issuing the notes, which will be used primarily to refinance &#8230;"
+          "title": "UK P&I and TT Club merger clears member vote",
+          "link": "https://splash247.com/uk-pi-and-tt-club-merger-clears-member-vote/",
+          "published": "Fri, 09 Oct 2026 10:00:00 +0000",
+          "summary": "Members of the UK P&#38;I Club and TT Club have approved a merger to create United Transport Mutual Limited (UTM), a transport mutual covering shipping, logistics, ports, and terminals. Members voted at separate special general meetings on October 7 and 8, following member consultations that began in September. The merger is scheduled to take effect &#8230;"
         },
         {
-          "title": "Rosatom folds Delo into expanding logistics platform",
-          "link": "https://splash247.com/rosatom-folds-delo-into-expanding-logistics-platform/",
-          "published": "Thu, 08 Oct 2026 10:00:00 +0000",
-          "summary": "Russia’s state-owned Rosatom has completed the buyout of Delo Group founder Sergei Shishkarev’s controlling stake, taking full control of one of the country’s largest transport and container logistics groups. Rosatom, which previously held 49% of Delo, has acquired Shishkarev’s remaining 51% and will now begin consolidating the company with its other transport holdings, including shipping &#8230;"
+          "title": "Hunter’s VLCC charter dispute swells to nearly $68m",
+          "link": "https://splash247.com/hunters-vlcc-charter-dispute-swells-to-nearly-68m/",
+          "published": "Fri, 09 Oct 2026 09:51:30 +0000",
+          "summary": "Norwegian shipping investment company Hunter Group&#8217;s dispute with an unnamed long-term VLCC charter counterparty has deepened further, with unpaid hire now approaching $68m after another substantial shortfall in September. The Oslo-listed company disclosed on Friday that its counterparty paid approximately $12.75m less than the amount due for September, marking the seventh consecutive month "
         },
         {
-          "title": "Tanker attack off Qatar widens Gulf shipping conflict",
-          "link": "https://splash247.com/tanker-attack-off-qatar-widens-gulf-shipping-conflict/",
-          "published": "Thu, 08 Oct 2026 08:45:29 +0000",
-          "summary": "The war on merchant shipping in the Middle East has taken a worrying geographical turn, with casualties reported aboard a tanker attacked off Qatar, hundreds of miles west of the Strait of Hormuz, while a containership has also come under fire in the Red Sea. The Antigua and Barbuda-flagged oil/chemical tanker Acers (IMO: 9301902) was &#8230;"
+          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
+          "link": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
+          "published": "Fri, 09 Oct 2026 09:40:00 +0000",
+          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have identified the vessels as the 2016-built Bluebird and Starling, both constructed at China&#8217;s New Times Shipbuilding. Splash understands the pair has changed hands for approximately &#8"
         },
         {
-          "title": "Berlin blocks COSCO takeover of German freight forwarder",
-          "link": "https://splash247.com/berlin-blocks-cosco-takeover-of-german-freight-forwarder/",
-          "published": "Thu, 08 Oct 2026 08:30:20 +0000",
-          "summary": "Germany has blocked COSCO Shipping’s planned acquisition of an 80% stake in Hamburg freight forwarder Konrad Zippel, overriding an earlier competition clearance on national security grounds. The federal cabinet approved the prohibition on Wednesday, with the economy ministry saying the transaction would have deepened strategic dependencies and threatened the resilience of German and EU supply &#82"
+          "title": "Diana rolls capesize into $13m fixture",
+          "link": "https://splash247.com/diana-rolls-capesize-into-13m-fixture/",
+          "published": "Fri, 09 Oct 2026 09:30:00 +0000",
+          "summary": "New York-listed Greek bulker owner Diana Shipping has secured a 42% rate increase for its capesize GP Zafirakis in a new time charter with Classic Maritime. The 2014-built, 179,492 dwt vessel has been fixed at $38,000 per day, less a 5% commission, compared with the $26,800 per day currently paid by Japanese shipping giant NYK. &#8230;"
         },
         {
-          "title": "Cido boss pledges five ships to settle $277m Korean tax bill",
-          "link": "https://splash247.com/cido-boss-pledges-five-ships-to-settle-277m-korean-tax-bill/",
-          "published": "Thu, 08 Oct 2026 07:45:00 +0000",
-          "summary": "Cido Shipping founder Hyuk Kwon has pledged five overseas ships as collateral after agreeing to settle KRW393.8bn ($277m) in personal tax arrears in South Korea, bringing a 15-year dispute with the country’s tax authorities towards a close. South Korea’s National Tax Service said Kwon has submitted a plan to clear the entire amount and already &#8230;"
+          "title": "Black Sea grain exports crater amid widening maritime war",
+          "link": "https://splash247.com/black-sea-grain-exports-crater-amid-widening-maritime-war/",
+          "published": "Fri, 09 Oct 2026 08:42:41 +0000",
+          "summary": "Black Sea wheat exports are plunging at the height of the traditional shipping season as escalating attacks on commercial vessels and port infrastructure leave both Russia and Ukraine struggling to get their harvests to international markets. Fresh vessel-tracking data compiled by AXSMarine and published by Greek shipbroker Ursa show wheat loadings across the Black Sea &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "VIEWPOINT: Why a Counter-Offer Rarely Keeps a Bunker Trader",
-          "link": "https://shipandbunker.com/news/world/350506-viewpoint-why-a-counter-offer-rarely-keeps-a-bunker-trader",
-          "published": "Fri, 09 Oct 2026 01:23:00 +0000",
-          "summary": "A matched package buys a few months, says Vernon Jayanathan; the resentment, the lost trust, and the market quote stay for good."
+          "title": "Magnitude 7.7 Earthquake Hits Panama; Canal Transits Continue as Authority Inspects Facilities",
+          "link": "https://shipandbunker.com/news/am/496651-magnitude-77-earthquake-hits-panama-canal-transits-continue-as-authority-inspects-facilities",
+          "published": "Fri, 09 Oct 2026 22:50:56 +0000",
+          "summary": "Canal authority reports no effect on transits while inspections continue, and the Pacific tsunami warning has been lifted."
         },
         {
-          "title": "CMA CGM Adds Another Methanol-Fuelled Boxship to Fleet",
-          "link": "https://shipandbunker.com/news/emea/849731-cma-cgm-adds-another-methanol-fuelled-boxship-to-fleet",
-          "published": "Thu, 08 Oct 2026 10:53:21 +0000",
-          "summary": "The 13,000 TEU container ship, CMA CGM Gold, has joined the firm&#039;s methanol-fuelled fleet."
+          "title": "US Lifts Sanctions on Russian Diesel for Six Months After Trump-Putin Call",
+          "link": "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call",
+          "published": "Fri, 09 Oct 2026 21:24:00 +0000",
+          "summary": "General License 135 authorises the sale, shipping and import of Russian diesel until April 7, 2027, but EU and UK sanctions are unchanged."
         },
         {
-          "title": "Q3 Was the Most Dangerous Quarter for Global Shipping: Windward",
-          "link": "https://shipandbunker.com/news/world/178306-q3-was-the-most-dangerous-quarter-for-global-shipping-windward",
-          "published": "Thu, 08 Oct 2026 10:22:37 +0000",
-          "summary": "Iran attacked 45 commercial ships in the Gulf during Q3, up from 25 in Q2, Windward says."
+          "title": "Oil Gains On Hurricane Worries But Capped By Yet More Talk Of U.S./Iran Peace",
+          "link": "https://shipandbunker.com/news/world/424742-oil-gains-on-hurricane-worries-but-capped-by-yet-more-talk-of-usiran-peace",
+          "published": "Fri, 09 Oct 2026 11:15:00 +0000",
+          "summary": "Meanwhile, China plans to resume refined fuel exports."
         },
         {
-          "title": "TFG Marine Deploys MFMs Across More Than 90% of Bunker Fleet",
-          "link": "https://shipandbunker.com/news/am/336332-tfg-marine-deploys-mfms-across-more-than-90-of-bunker-fleet",
-          "published": "Thu, 08 Oct 2026 09:53:31 +0000",
-          "summary": "The firm installed a mass flow meter on its third vessel on the US Gulf Coast."
+          "title": "Ammonia Bunkering Trial Planned for Converted LNG-Fuelled Vessel",
+          "link": "https://shipandbunker.com/news/emea/166934-ammonia-bunkering-trial-planned-for-converted-lng-fuelled-vessel",
+          "published": "Fri, 09 Oct 2026 10:08:11 +0000",
+          "summary": "The 2003-built platform supply vessel has been converted from LNG to ammonia propulsion."
         },
         {
-          "title": "Japanese LNG Bunkering Vessel Completes 200th Operation",
-          "link": "https://shipandbunker.com/news/apac/142764-japanese-lng-bunkering-vessel-completes-200th-operation",
-          "published": "Thu, 08 Oct 2026 09:35:35 +0000",
-          "summary": "The Kaguya is the first LNG bunkering vessel operating in Japan since 2020."
+          "title": "Peninsula Vessel Joins EMSA Oil Spill Response Network",
+          "link": "https://shipandbunker.com/news/world/340623-peninsula-vessel-joins-emsa-oil-spill-response-network",
+          "published": "Fri, 09 Oct 2026 09:47:48 +0000",
+          "summary": "The marine fuel supplier&#039;s tanker Panama 100 will provide standby oil spill response capability in the Canary Islands."
         },
         {
-          "title": "Malik Supply Hires Bunker Trader in Denmark",
-          "link": "https://shipandbunker.com/news/emea/710315-malik-supply-hires-bunker-trader-in-denmark",
-          "published": "Thu, 08 Oct 2026 08:57:55 +0000",
-          "summary": "Mathias Krogsgard joined the firm as a bunker trader last month."
+          "title": "NYK to Issue Transition Bonds to Support LNG-Fuelled Vessel Investments",
+          "link": "https://shipandbunker.com/news/apac/938448-nyk-to-issue-transition-bonds-to-support-lng-fuelled-vessel-investments",
+          "published": "Fri, 09 Oct 2026 09:34:14 +0000",
+          "summary": "The group&#039;s seventh transition bond issuance will support decarbonisation projects, including investments in LNG-fuelled vessels."
         },
         {
-          "title": "Battery-Powered Fleet Surpasses 2,000 With Norway Leading: MBF",
-          "link": "https://shipandbunker.com/news/world/349659-battery-powered-fleet-surpasses-2000-with-norway-leading-mbf",
-          "published": "Thu, 08 Oct 2026 08:30:48 +0000",
-          "summary": "The Maritime Battery Forum says the actual global fleet could be higher, with China&#039;s battery-powered vessels underrepresented in its registry."
+          "title": "Repsol Supplies Co-Processed B30-MGO to NCLH Ship in Barcelona",
+          "link": "https://shipandbunker.com/news/emea/470619-repsol-supplies-co-processed-b30-mgo-to-nclh-ship-in-barcelona",
+          "published": "Fri, 09 Oct 2026 08:56:35 +0000",
+          "summary": "The B30-MGO was supplied under an eight-year renewable fuel deal signed in 2025."
         },
         {
-          "title": "Construction Begins on New LNG-Fuelled Disney Cruise Ship",
-          "link": "https://shipandbunker.com/news/emea/117921-construction-begins-on-new-lng-fuelled-disney-cruise-ship",
-          "published": "Thu, 08 Oct 2026 07:59:11 +0000",
-          "summary": "Meyer Werft has laid the keel for Disney Cruise Line&#039;s latest cruise ship at its Papenburg shipyard in Germany."
+          "title": "Malaysia Detains Tanker and Tugboat Over Alleged Unauthorised STS Transfer",
+          "link": "https://shipandbunker.com/news/apac/169333-malaysia-detains-tanker-and-tugboat-over-alleged-unauthorised-sts-transfer",
+          "published": "Fri, 09 Oct 2026 07:50:39 +0000",
+          "summary": "The tanker and tugboat were detained off Selangor after failing to produce permits for the suspected diesel transfer."
         }
       ]
     },
@@ -232,6 +232,36 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Death-spiral finance: altcoin edition",
+          "link": "https://www.ft.com/content/c84a0307-714c-4279-9073-caad985cce63",
+          "published": "Fri, 09 Oct 2026 12:00:33 GMT",
+          "summary": "Ever get the feeling you’ve been CHAD?"
+        },
+        {
+          "title": "The FT Alphaville Pub Quiz returns to New York City on 17 November. Sign up NOW!",
+          "link": "https://www.ft.com/content/bf03380a-3193-4342-b300-bcbfd8f51187",
+          "published": "Fri, 09 Oct 2026 11:09:19 GMT",
+          "summary": "Fun times this way ↓↓↓"
+        },
+        {
+          "title": "FTAV’s Friday charts quiz",
+          "link": "https://www.ft.com/content/4597f34b-f376-4c45-9379-24e79a724053",
+          "published": "Fri, 09 Oct 2026 09:03:02 GMT",
+          "summary": "Plot goes the weasel"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/b2efb147-5380-4d78-b648-cc5e442d1ce1",
+          "published": "Fri, 09 Oct 2026 05:30:01 GMT",
+          "summary": "Sticky tape; ratings; transmission; maths; dataviz; drones; names"
+        },
+        {
+          "title": "Games Workshop’s wall of worry",
+          "link": "https://www.ft.com/content/42a5c77c-d09c-40b3-8ad2-4a01633dd6a0",
+          "published": "Fri, 09 Oct 2026 05:00:02 GMT",
+          "summary": "Games Workshop’s wall of worry keeps getting steeper"
+        },
         {
           "title": "On the LLMternet, nobody cares you’re a plant",
           "link": "https://www.ft.com/content/795ffd25-1b11-4531-b4bc-2974d798389c",
@@ -249,36 +279,6 @@
           "link": "https://www.ft.com/content/bf40e0fb-9542-4ddf-9ac3-c216be55a5a6",
           "published": "Thu, 08 Oct 2026 05:00:06 GMT",
           "summary": "A battle for capital between rate-insensitive borrowers could end badly"
-        },
-        {
-          "title": "How US mortgage bonds can trigger a ‘vicious loop’ for Treasury yields",
-          "link": "https://www.ft.com/content/a04ef3b4-2fcf-48f9-ab34-2c40c39d9a0c",
-          "published": "Wed, 07 Oct 2026 10:20:56 GMT",
-          "summary": "One little cog in the bond market’s feedback machine"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/2a7ccefb-416c-4aa7-91a0-b1a2ac56dea5",
-          "published": "Wed, 07 Oct 2026 05:30:02 GMT",
-          "summary": "Prices; currencies; hacking; oil; Le chonk; antibiotics; afterlife"
-        },
-        {
-          "title": "Who’d be betting against Webuild, the builder that built Italy?",
-          "link": "https://www.ft.com/content/0c188b13-a8e5-4447-8e54-2d50ce4ab082?syn-25a6b1a6=1",
-          "published": "Wed, 07 Oct 2026 05:00:02 GMT",
-          "summary": "Treni, porti, politica, ma nessun ponte"
-        },
-        {
-          "title": "Would you buy a Yankees ETF?",
-          "link": "https://www.ft.com/content/2387b6dc-2fe9-4699-b076-57ec2ee68117",
-          "published": "Tue, 06 Oct 2026 13:56:00 GMT",
-          "summary": "Everything is gambling these days"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/ce3027d8-3990-4a74-942c-9a0fbdfbbe13",
-          "published": "Tue, 06 Oct 2026 05:30:07 GMT",
-          "summary": "Budgets; NEETs; malaria; clean tech; growth; Gaza; MPs; charts; social media; Jesus; fans"
         }
       ]
     },
