@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-10T02:12:05+00:00",
-  "take": "Hurricane Isaias has shut in 1.46m b/d of US Gulf crude production, 71% of offshore output, and with Brent already above $100 and Trump putting Iran strikes on hold ahead of the midterms, the supply-side buffer is thinner than the headline record 13.8m b/d US crude average suggests, so any duration extension on shut-ins tightens the prompt spread. The US has lifted sanctions on Russian diesel for six months via General License 135 through 7 April 2027 whilst Russia and Germany add barrels, and China plans to resume refined fuel exports, which together cap the distillate squeeze that has been the real tightness in the complex. Positioning-wise, the diesel crisis persists despite record crude output because refinery configuration cannot convert light sweet into middle distillate at will, and the FSL LR1 sale to UAE interests at $110m alongside Larine's exit signals asset owners are monetising tanker strength rather than betting on further product tightness. The cross-market link to watch is bunker: ammonia bunkering trials and CMB.TECH's 210,000 dwt Mineral Europa maiden voyage to Australia point to structural tonne-mile demand growth on the dry side, whilst Black Sea grain exports cratering amid maritime war cuts both tonne-miles and the diesel demand that goes with them. In the next 24 hours, watch Isaias landfall timing and the Marine Minerals Service restart guidance, the Panama Canal authority's post-earthquake inspection results for transit continuity, and whether the Trump-Putin diesel détente holds through the weekend.",
+  "generated_at_utc": "2026-10-11T01:42:40+00:00",
+  "take": "Hurricane Isaias has shut in 1.46 million b/d of US Gulf oil production, 71% of the region's output, which is the dominant crude headline even as Washington and Tehran talk peace and China signals it will resume refined fuel exports. The second theme is the shipping crisis proper: supertanker rates have soared to record highs as the Iran war reshuffles trade routes and ties up tonnage in inefficient voyages, whilst the IEA's fresh 100 million barrel release of diesel, gasoline and crude risks draining the world's last supply cushion. Positioning-wise, the US lifting of sanctions on Russian diesel for six months via General License 135, with EU and UK measures unchanged, plus extra Russian and German barrels, should soften the distillate squeeze that record US crude output of 13.8 million b/d cannot fix. The cross-market link to watch is product tanker earnings versus bunker economics, with FSL offloading another veteran product tanker and Larine clearing its two LR1s to UAE interests for $110m, signalling asset values are running hot into the dislocation. In the next 24 hours watch Isaias landfall damage assessments and any MMS restart guidance, the Panama Canal's post-earthquake inspections given transits are still running, and whether the Iran peace chatter gains enough traction to cap the hurricane bid.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
+          "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
+          "published": "Sat, 10 Oct 2026 18:00:00 -0500",
+          "summary": "The cost of shipping crude oil soared to record highs last month as the Iran war reshuffled trade routes and patterns and tied up more tankers in inefficient and lengthy voyages. Supertanker rates soared in September to above $1 million per day on the Persian Gulf to China route—a record high. The September record was soon smashed as freight rates soared by another 40% in the first week of October"
+        },
+        {
+          "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+          "published": "Sat, 10 Oct 2026 18:00:00 -0500",
+          "summary": "Earlier this week, the International Energy Agency, after consulting with G7, said it would release another 100 million barrels of diesel, gasoline, and crude oil. The release is part of a plan announced in March to release 400 million barrels of oil in response to the Hormuz squeeze. But there is a problem with those releases—storage is emptying. When the U.S. administration began releasing oil f"
+        },
+        {
+          "title": "Pemex Needs Nearly $110 Billion to Hit Mexico's Output Targets",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
+          "published": "Sat, 10 Oct 2026 16:00:00 -0500",
+          "summary": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority of its energy needs, leaving it in a vulnerable position. However, the answer to Mexico’s energy in"
+        },
+        {
+          "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
+          "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
+          "published": "Sat, 10 Oct 2026 14:00:00 -0500",
+          "summary": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopening, restoring flows of crude oil out of the Persian Gulf and toward Asian buyers, global oil market"
+        },
+        {
+          "title": "The Iran War Is Fueling a Boom in Clean Energy",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
+          "published": "Sat, 10 Oct 2026 10:00:00 -0500",
+          "summary": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the international energy system. Restrictions on trade through the Strait of Hormuz have underscored just how dependent many countries are on this waterway for fossil fuel imports, promp"
+        },
+        {
           "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
           "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
           "published": "Fri, 09 Oct 2026 17:00:00 -0500",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
           "published": "Fri, 09 Oct 2026 15:30:00 -0500",
           "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil production, along with 1.26 billion cubic feet per day of natural gas, or 58.84% of Gulf gas output"
-        },
-        {
-          "title": "5 Stocks Cashing In as $100 Oil Pushes Drivers Toward Electric",
-          "link": "https://oilprice.com/Energy/Energy-General/5-Stocks-Cashing-In-as-100-Oil-Pushes-Drivers-Toward-Electric.html",
-          "published": "Fri, 09 Oct 2026 15:00:00 -0500",
-          "summary": "Gasoline topped $4.40 a gallon in the U.S. in September, and Brent has sat above $100 a barrel since early September, up from around $60 before the Iran war started. Drivers have responded about how you'd expect. New hybrid sales in the U.S. rose 24% through the third quarter, battery-electric registrations jumped 52% across Europe in August, and the International Energy Agency figures EVs will ma"
-        },
-        {
-          "title": "U.S. Oil Drilling Continues to Inch Upward",
-          "link": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drilling-Continues-to-Inch-Upward.html",
-          "published": "Fri, 09 Oct 2026 12:31:16 -0500",
-          "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US rising to 603, up 56 from this same time last year. The number of active oil rigs rose by 6, reaching 462 during the latest reporting period, according to the data. This is 44 above this same time last year. Th"
-        },
-        {
-          "title": "States Bet on Virtual Power Plants to Cut Grid Costs",
-          "link": "https://oilprice.com/Energy/Energy-General/States-Bet-on-Virtual-Power-Plants-to-Cut-Grid-Costs.html",
-          "published": "Fri, 09 Oct 2026 12:00:00 -0500",
-          "summary": "The United States has shown greater support for virtual power plants (VPPs) in recent years, as these systems are expanding across various states. A VPP is a collection of small-scale electricity generation resources that, together, can deliver electricity to the grid. When coordinated, a group of hundreds or thousands of households and businesses can use the latent potential of their thermostats,"
-        },
-        {
-          "title": "Trump Puts Iran Strikes on Hold as Hurricane Threatens Oil Supply",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Trump-Puts-Iran-Strikes-on-Hold-as-Hurricane-Threatens-Oil-Supply.html",
-          "published": "Fri, 09 Oct 2026 11:35:22 -0500",
-          "summary": "Oil retreats from $110 as Trump rules out Iran strikes before the midterms, but tanker attacks and a Gulf hurricane threaten fresh volatility. Friday, October 09, 2026 Donald Trump seems to be firefighting the Middle Eastern blaze, vowing not to attack Iran before the mid-term elections just as oil prices were nearing the $110 per barrel mark amidst a deteriorating security situation in Saudi Arab"
-        },
-        {
-          "title": "Pashinyan’s Nuclear U-Turn Gives Moscow an Opening in Armenia",
-          "link": "https://oilprice.com/Geopolitics/International/Pashinyans-Nuclear-U-Turn-Gives-Moscow-an-Opening-in-Armenia.html",
-          "published": "Fri, 09 Oct 2026 11:00:00 -0500",
-          "summary": "Unable to persuade Armenia to abandon its efforts to join the European Union, Russia is now signaling that it is adopting a harder line. Armenian Prime Minister Nikol Pashinyan evidently is taking the menacing tone of recent Russian statements seriously. It appears the price of keeping the Kremlin at bay for now is the suspension of a nuclear cooperation deal with the United States and an accompan"
         }
       ]
     },
@@ -120,6 +120,18 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Panama Canal unaffected by huge earthquake",
+          "link": "https://splash247.com/panama-canal-unaffected-by-huge-earthquake/",
+          "published": "Sat, 10 Oct 2026 06:16:55 +0000",
+          "summary": "The Panama Canal has emerged largely unscathed from a powerful earthquake that struck Panama on Friday, with vessel transits continuing normally despite damage elsewhere across the Central American country. The magnitude 7.7 earthquake struck at 12.56pm local time, according to the US Geological Survey, with its epicentre in southern Panama, approximately 200 km from Panama &#8230;"
+        },
+        {
+          "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
+          "link": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
+          "published": "Sat, 10 Oct 2026 06:11:21 +0000",
+          "summary": "A fire-damaged HMM containership is seeking a port of refuge in South Africa after salvors were appointed under Lloyd’s Open Form (LOF), with cargo interests facing the prospect of general average. The 5,593 teu HMM Platinum suffered a fire while sailing from Kattupalli, India, towards Santos, Brazil. The blaze reportedly originated in a container off &#8230;"
+        },
         {
           "title": "CMB.TECH sends world’s first ammonia-powered bulker to sea",
           "link": "https://splash247.com/cmb-tech-sends-worlds-first-ammonia-powered-bulker-to-sea/",
@@ -155,18 +167,6 @@
           "link": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
           "published": "Fri, 09 Oct 2026 09:40:00 +0000",
           "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have identified the vessels as the 2016-built Bluebird and Starling, both constructed at China&#8217;s New Times Shipbuilding. Splash understands the pair has changed hands for approximately &#8"
-        },
-        {
-          "title": "Diana rolls capesize into $13m fixture",
-          "link": "https://splash247.com/diana-rolls-capesize-into-13m-fixture/",
-          "published": "Fri, 09 Oct 2026 09:30:00 +0000",
-          "summary": "New York-listed Greek bulker owner Diana Shipping has secured a 42% rate increase for its capesize GP Zafirakis in a new time charter with Classic Maritime. The 2014-built, 179,492 dwt vessel has been fixed at $38,000 per day, less a 5% commission, compared with the $26,800 per day currently paid by Japanese shipping giant NYK. &#8230;"
-        },
-        {
-          "title": "Black Sea grain exports crater amid widening maritime war",
-          "link": "https://splash247.com/black-sea-grain-exports-crater-amid-widening-maritime-war/",
-          "published": "Fri, 09 Oct 2026 08:42:41 +0000",
-          "summary": "Black Sea wheat exports are plunging at the height of the traditional shipping season as escalating attacks on commercial vessels and port infrastructure leave both Russia and Ukraine struggling to get their harvests to international markets. Fresh vessel-tracking data compiled by AXSMarine and published by Greek shipbroker Ursa show wheat loadings across the Black Sea &#8230;"
         }
       ]
     },
