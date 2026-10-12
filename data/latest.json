@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-11T01:42:40+00:00",
-  "take": "Hurricane Isaias has shut in 1.46 million b/d of US Gulf oil production, 71% of the region's output, which is the dominant crude headline even as Washington and Tehran talk peace and China signals it will resume refined fuel exports. The second theme is the shipping crisis proper: supertanker rates have soared to record highs as the Iran war reshuffles trade routes and ties up tonnage in inefficient voyages, whilst the IEA's fresh 100 million barrel release of diesel, gasoline and crude risks draining the world's last supply cushion. Positioning-wise, the US lifting of sanctions on Russian diesel for six months via General License 135, with EU and UK measures unchanged, plus extra Russian and German barrels, should soften the distillate squeeze that record US crude output of 13.8 million b/d cannot fix. The cross-market link to watch is product tanker earnings versus bunker economics, with FSL offloading another veteran product tanker and Larine clearing its two LR1s to UAE interests for $110m, signalling asset values are running hot into the dislocation. In the next 24 hours watch Isaias landfall damage assessments and any MMS restart guidance, the Panama Canal's post-earthquake inspections given transits are still running, and whether the Iran peace chatter gains enough traction to cap the hurricane bid.",
+  "generated_at_utc": "2026-10-12T02:11:24+00:00",
+  "take": "Trump’s narrower-than-expected Russia-Ukraine energy ceasefire, reportedly covering only refineries, matters most for crude and products because it leaves the broader supply-disruption premium intact whilst the US has simultaneously lifted sanctions on Russian diesel for six months under General License 135 until 7 April 2027, a bearish offset for gasoil and distillate cracks. The tanker war spreading deeper into the Gulf, with a fully laden VLCC struck off the UAE and another tanker hit in the Strait of Hormuz, is the second theme, and it transmits directly into freight: supertanker rates have already soared to record highs as the Iran conflict reshuffles trade routes and ties up tonnage in inefficient, lengthy voyages, with Clarksons’ cross-sector ClarkSea Index up 12% in a week to an unprecedented $84,951 a day. On flows and inventories, the IEA’s additional 100 million barrel release of diesel, gasoline and crude, alongside an SPR at just 283 million barrels at end-September — the lowest since October 1982 — risks draining the world’s last supply cushion, whilst China plans to resume refined fuel exports. The cross-market link to watch is bunker versus gasoil: the US diesel sanctions waiver pulls Russian barrels into the pool just as Singapore’s SIBCON delegates gather, capping marine fuel upside even as record tanker earnings and a 7.7 magnitude Panama earthquake — with canal transits continuing pending inspections — keep tonne-mile and routing risk elevated. In the next 24 hours, watch Hurricane Isaias landfall on the Gulf Coast late Friday or early Saturday for production shut-ins, any widening of the ceasefire terms beyond refineries, and whether the Panama Canal authority’s inspections disrupt transits.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Trump's Russia-Ukraine Energy Ceasefire May Only Cover Oil Refineries",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Russia-Ukraine-Energy-Ceasefire-May-Only-Cover-Oil-Refineries.html",
+          "published": "Sun, 11 Oct 2026 20:01:00 -0500",
+          "summary": "President Trump's announcement of an energy ceasefire between Russia and Ukraine appears to be considerably narrower than initially suggested, with a White House official telling Axios that the proposal only covers attacks on oil refineries and with no official confirmation from Moscow as of yet. Trump announced the apparent breakthrough on social media on Sunday, describing it broadly as an energ"
+        },
+        {
+          "title": "3 Stocks To Play The Nuclear Energy Boom",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/3-Stocks-To-Play-The-Nuclear-Energy-Boom.html",
+          "published": "Sun, 11 Oct 2026 18:00:00 -0500",
+          "summary": "Nuclear energy stocks have suffered heavy losses over the past year, even as technology companies commit billions of dollars to securing nuclear electricity for AI data centers. The Global X Uranium ETF (URA) has lost more than 20% over the past 12 months, compared with gains exceeding 40% for the Energy Select Sector SPDR Fund (XLE). Investors have grown increasingly concerned about valuations, f"
+        },
+        {
+          "title": "How Low Can the Strategic Petroleum Reserve Actually Go?",
+          "link": "https://oilprice.com/Energy/Crude-Oil/How-Low-Can-the-Strategic-Petroleum-Reserve-Actually-Go.html",
+          "published": "Sun, 11 Oct 2026 14:00:00 -0500",
+          "summary": "The U.S. Strategic Petroleum Reserve held just 283 million barrels of oil at the end of September, according to Reuters, the lowest level since October 1982, back when the reserve was still being filled for the first time. It's a scary-looking number, and most of the coverage has treated it that way. But the barrel count is the easy part of this story. Oil came out of those Gulf Coast salt caverns"
+        },
+        {
+          "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
+          "link": "https://oilprice.com/Energy/Coal/Australia-Approves-Giant-Coal-Extension-Despite-Paris-Commitments.html",
+          "published": "Sun, 11 Oct 2026 10:00:00 -0500",
+          "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the world moves away from coal in favour of cleaner energy sources, Australia is doubling down on its coal production, with plans to extend the life of coal operations in New South Wales. The New South Wales (NSW) Independent Planning Commission (IPC) approved an exte"
+        },
+        {
+          "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
+          "link": "https://oilprice.com/Energy/Crude-Oil/North-Sea-Oil-Producers-Push-Burnham-to-Scrap-Windfall-Tax.html",
+          "published": "Sun, 11 Oct 2026 10:00:00 -0500",
+          "summary": "Since coming into office, the Labour Party has heavily taxed oil and gas companies operating in the U.K. North Sea and restricted the development of new fossil fuel projects. However, there is still potential for two major projects to be developed if approved by the country’s new Prime Minister, Andy Burnham. While environmentalists and climate groups are deeply concerned about the harm new fossil"
+        },
+        {
           "title": "Tanker Rates Soar to Record as Oil Crisis Becomes Shipping Crisis",
           "link": "https://oilprice.com/Energy/Energy-General/Tanker-Rates-Soar-to-Record-as-Oil-Crisis-Becomes-Shipping-Crisis.html",
           "published": "Sat, 10 Oct 2026 18:00:00 -0500",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Energy/Crude-Oil/Pemex-Needs-Nearly-110-Billion-to-Hit-Mexicos-Output-Targets.html",
           "published": "Sat, 10 Oct 2026 16:00:00 -0500",
           "summary": "Mexico is dependent on oil and gas imports for two-thirds of its energy consumption, despite the fact that the country has abundant domestic fossil fuel resources. But instead of exploiting its own producing power to the greatest potential, Mexico relies on its neighbor to the north for the majority of its energy needs, leaving it in a vulnerable position. However, the answer to Mexico’s energy in"
-        },
-        {
-          "title": "Southeast Asia Needs More Power, But Its Weak Grid Could Be a Problem",
-          "link": "https://oilprice.com/Energy/Energy-General/Southeast-Asia-Needs-More-Power-But-Its-Weak-Grid-Could-Be-a-Problem.html",
-          "published": "Sat, 10 Oct 2026 14:00:00 -0500",
-          "summary": "The war in Iran has exposed a critical vulnerability in Southeast Asia’s energy markets. The region is heavily dependent on fossil fuel imports, and demand is continuing its steep growth trajectory even as global crude oil prices remain punishingly high. Though the Strait of Hormuz is finally reopening, restoring flows of crude oil out of the Persian Gulf and toward Asian buyers, global oil market"
-        },
-        {
-          "title": "The Iran War Is Fueling a Boom in Clean Energy",
-          "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Is-Fueling-a-Boom-in-Clean-Energy.html",
-          "published": "Sat, 10 Oct 2026 10:00:00 -0500",
-          "summary": "The Iran war might have done exactly what President Trump was trying to avoid: turning the world away from fossil fuels to alternative energy sources, because of the wide range of vulnerabilities it has exposed in the international energy system. Restrictions on trade through the Strait of Hormuz have underscored just how dependent many countries are on this waterway for fossil fuel imports, promp"
-        },
-        {
-          "title": "Why Record Crude Output Can’t Solve America’s Diesel Crisis",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Why-Record-Crude-Output-Cant-Solve-Americas-Diesel-Crisis.html",
-          "published": "Fri, 09 Oct 2026 17:00:00 -0500",
-          "summary": "The United States is producing more crude oil than ever. According to the Energy Information Administration, U.S. crude production is on track to average a record 13.8 million barrels per day in 2026, surpassing the previous record set last year. Yet diesel prices recently climbed to record highs, while distillate inventories remain unusually low. The EIA expects those inventories to stay below th"
-        },
-        {
-          "title": "Russia, Germany Add Diesel Supply as Fuel Market Scrambles for Barrels",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Germany-Add-Diesel-Supply-as-Fuel-Market-Scrambles-for-Barrels.html",
-          "published": "Fri, 09 Oct 2026 16:30:00 -0500",
-          "summary": "Russia and Germany are putting more diesel into a global market that has spent months looking for barrels almost anywhere it can find them. President Donald Trump said Friday that Russian President Vladimir Putin had agreed to immediately supply more than 300,000 metric tons of diesel to the U.S. and global market, followed by another 500,000 tons in November and 1 million tons after that. The fir"
-        },
-        {
-          "title": "Hurricane Isaias Shuts In 71% of U.S. Gulf Oil Production",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Hurricane-Isaias-Shuts-In-71-of-US-Gulf-Oil-Production.html",
-          "published": "Fri, 09 Oct 2026 15:30:00 -0500",
-          "summary": "Hurricane Isaias has now knocked nearly 1.46 million barrels per day of U.S. Gulf oil production offline, extending a rapid shutdown that began with just 185,120 bpd three days ago. The Marine Minerals Administration said Friday that operators had shut in 1,458,814 bpd, or 71.51% of current Gulf oil production, along with 1.26 billion cubic feet per day of natural gas, or 58.84% of Gulf gas output"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Panama Canal unaffected by huge earthquake",
-          "link": "https://splash247.com/panama-canal-unaffected-by-huge-earthquake/",
-          "published": "Sat, 10 Oct 2026 06:16:55 +0000",
-          "summary": "The Panama Canal has emerged largely unscathed from a powerful earthquake that struck Panama on Friday, with vessel transits continuing normally despite damage elsewhere across the Central American country. The magnitude 7.7 earthquake struck at 12.56pm local time, according to the US Geological Survey, with its epicentre in southern Panama, approximately 200 km from Panama &#8230;"
+          "title": "Baltic states push for EU-wide ban on Russian grain transit",
+          "link": "https://splash247.com/baltic-states-push-for-eu-wide-ban-on-russian-grain-transit/",
+          "published": "Sun, 11 Oct 2026 21:10:00 +0000",
+          "summary": "Estonia, Latvia and Lithuania have called for an EU-wide ban on Russian grain transit, seeking to block Moscow from redirecting agricultural exports through European transport networks as disruption in the Black Sea reshapes regional grain flows. The three countries have submitted a joint letter to European Council president António Costa and European Commission president Ursula &#8230;"
         },
         {
-          "title": "Fire-stricken HMM boxship seeks refuge in South Africa",
-          "link": "https://splash247.com/fire-stricken-hmm-boxship-seeks-refuge-in-south-africa/",
-          "published": "Sat, 10 Oct 2026 06:11:21 +0000",
-          "summary": "A fire-damaged HMM containership is seeking a port of refuge in South Africa after salvors were appointed under Lloyd’s Open Form (LOF), with cargo interests facing the prospect of general average. The 5,593 teu HMM Platinum suffered a fire while sailing from Kattupalli, India, towards Santos, Brazil. The blaze reportedly originated in a container off &#8230;"
+          "title": "Danaos plots Norwegian listing for bulker business",
+          "link": "https://splash247.com/danaos-plots-norwegian-listing-for-bulker-business/",
+          "published": "Sun, 11 Oct 2026 20:40:00 +0000",
+          "summary": "Greek owner Danaos is exploring a carve-out of its dry bulk business and the sale of a minority stake through a potential listing in Norway. The New York-listed John Coustas-led company said it has mandated investment banks to advise on a possible equity placement and listing, describing the move as part of a wider push &#8230;"
         },
         {
-          "title": "CMB.TECH sends world’s first ammonia-powered bulker to sea",
-          "link": "https://splash247.com/cmb-tech-sends-worlds-first-ammonia-powered-bulker-to-sea/",
-          "published": "Fri, 09 Oct 2026 10:44:00 +0000",
-          "summary": "Belgium’s CMB.TECH has sent the 210,000 dwt Mineral Europa on its maiden voyage to Australia, marking the first deployment of an ammonia-powered dry bulk carrier. The 2026-built newcastlemax is the first of a much larger ammonia-fuelled fleet being rolled out by the Alexander Saverys-led shipping group. CMB.TECH said 21 ammonia-powered ships are due to enter &#8230;"
+          "title": "Shipping’s extraordinary boom refuses to peak",
+          "link": "https://splash247.com/shippings-extraordinary-boom-refuses-to-peak/",
+          "published": "Sun, 11 Oct 2026 20:20:00 +0000",
+          "summary": "Global shipping earnings have reached another extraordinary milestone, with Clarksons Research&#8217;s cross-sector ClarkSea Index surging 12% in a week to an unprecedented $84,951 a day, its fifth consecutive all-time high. The index, a widely followed overall earnings barometer, measures average daily earnings across tankers, bulk carriers, containerships and gas carriers, weighted by vessel num"
         },
         {
-          "title": "BIMCO moves to break ship retrofit cost deadlock",
-          "link": "https://splash247.com/bimco-moves-to-break-ship-retrofit-cost-deadlock/",
-          "published": "Fri, 09 Oct 2026 10:20:03 +0000",
-          "summary": "Shipping association BIMCO has adopted a new contractual framework designed to settle one of the industry&#8217;s longstanding commercial disputes: who pays for energy-saving upgrades when the charterer receives much of the financial benefit. The Copenhagen-based organisation announced that its Documentary Committee had approved the Energy Saving Device Retrofit Addendum 2026, giving shipowners an"
+          "title": "Star Bulk sells down kamsarmax pair to Hermes",
+          "link": "https://splash247.com/star-bulk-sells-down-kamsarmax-pair-to-hermes/",
+          "published": "Sun, 11 Oct 2026 20:00:00 +0000",
+          "summary": "Nasdaq-listed Greek dry bulk heavyweight Star Bulk Carriers has agreed to sell a 35% ownership interest in two recently built kamsarmax bulkers to Itochu&#8217;s investment and asset-holding vehicle, Hermes World Maritime, while retaining commercial and technical management of both ships. The Petros Pappas-led owner identified the vessels as the 2026-built Star Ellie and Star Bella. &#8230;"
         },
         {
-          "title": "FSL cashes in on another veteran product tanker",
-          "link": "https://splash247.com/fsl-cashes-in-on-another-veteran-product-tanker/",
-          "published": "Fri, 09 Oct 2026 10:14:15 +0000",
-          "summary": "Singapore-listed First Ship Lease Trust (FSL) has agreed to sell another ageing product tanker, continuing a series of disposals that has reduced its fleet over recent years. The trust said in a filing that subsidiary FSL-14 had struck a deal to sell the 2006-built Speciality to an unrelated buyer. The 4,426 dwt tanker was built &#8230;"
+          "title": "Ship recycling drought leaves record ageing fleet afloat",
+          "link": "https://splash247.com/ship-recycling-drought-leaves-record-ageing-fleet-afloat/",
+          "published": "Sun, 11 Oct 2026 19:54:00 +0000",
+          "summary": "Ship recycling has sunk into its longest sustained slump in more than half a century, just as the global merchant fleet accumulates an unprecedented amount of ageing tonnage. Clarksons Research calculates that just 273 ships of 5.5m gt, equivalent to around 8m dwt, were sold for demolition in the first nine months of 2026, 13% &#8230;"
         },
         {
-          "title": "UK P&I and TT Club merger clears member vote",
-          "link": "https://splash247.com/uk-pi-and-tt-club-merger-clears-member-vote/",
-          "published": "Fri, 09 Oct 2026 10:00:00 +0000",
-          "summary": "Members of the UK P&#38;I Club and TT Club have approved a merger to create United Transport Mutual Limited (UTM), a transport mutual covering shipping, logistics, ports, and terminals. Members voted at separate special general meetings on October 7 and 8, following member consultations that began in September. The merger is scheduled to take effect &#8230;"
+          "title": "Ningbo Ocean eyes two car carriers in $480m leasing plan",
+          "link": "https://splash247.com/ningbo-ocean-eyes-two-car-carriers-in-480m-leasing-plan/",
+          "published": "Sun, 11 Oct 2026 19:40:00 +0000",
+          "summary": "China&#8217;s Ningbo Ocean Shipping is looking to add two 7,000 ceu LNG dual-fuel car carriers under a long-term leasing programme, with potential rental payments of up to $480m. The Shanghai-listed carrier disclosed the plan in a stock exchange filing, saying it or one of its subsidiaries intends to lease the vessels from a financial leasing &#8230;"
         },
         {
-          "title": "Hunter’s VLCC charter dispute swells to nearly $68m",
-          "link": "https://splash247.com/hunters-vlcc-charter-dispute-swells-to-nearly-68m/",
-          "published": "Fri, 09 Oct 2026 09:51:30 +0000",
-          "summary": "Norwegian shipping investment company Hunter Group&#8217;s dispute with an unnamed long-term VLCC charter counterparty has deepened further, with unpaid hire now approaching $68m after another substantial shortfall in September. The Oslo-listed company disclosed on Friday that its counterparty paid approximately $12.75m less than the amount due for September, marking the seventh consecutive month "
+          "title": "Chinese shipping investor makes play for asphalt tanker owner Xin Yuan",
+          "link": "https://splash247.com/chinese-shipping-investor-makes-play-for-asphalt-tanker-owner-xin-yuan/",
+          "published": "Sun, 11 Oct 2026 19:15:00 +0000",
+          "summary": "Chinese shipping entrepreneur Liu Jichun is seeking control of Hong Kong-listed asphalt tanker operator Xin Yuan Enterprises through a proposed cash takeover worth up to HK$771m ($99m). Liu&#8217;s investment vehicle Ocean Vivo has announced a voluntary conditional offer of HK$2.21 per share for the stock it does not already own, valuing Xin Yuan&#8217;s entire equity &#8230;"
         },
         {
-          "title": "Larine cashes out of LR1 tankers in $110m UAE deal",
-          "link": "https://splash247.com/larine-cashes-out-of-lr1-tankers-in-110m-uae-deal/",
-          "published": "Fri, 09 Oct 2026 09:40:00 +0000",
-          "summary": "Odfjell-family-linked Larine Tankers has reportedly sold its two LR1 product tankers to UAE interests for a combined $110m, clearing out its existing fleet amid strong secondhand tanker prices. Shipbrokers have identified the vessels as the 2016-built Bluebird and Starling, both constructed at China&#8217;s New Times Shipbuilding. Splash understands the pair has changed hands for approximately &#8"
+          "title": "Tanker war spreads across Gulf",
+          "link": "https://splash247.com/tanker-war-spreads-across-gulf/",
+          "published": "Sun, 11 Oct 2026 05:40:15 +0000",
+          "summary": "Attacks on commercial shipping are spreading deeper into the Gulf as Iran widens its campaign beyond Hormuz, with a fully laden VLCC struck off the UAE and another tanker hit in the strait over the weekend. The Panama-flagged, 302,000 dwt Gem No.2 was struck by an unidentified projectile on Friday around 13 nautical miles west &#8230;"
         }
       ]
     },
@@ -176,6 +176,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "SIBCON 2026: Delegates Gather in Singapore for World's Largest Bunkering Event",
+          "link": "https://shipandbunker.com/news/apac/297779-sibcon-2026-delegates-gather-in-singapore-for-worlds-largest-bunkering-event",
+          "published": "Mon, 12 Oct 2026 01:33:00 +0000",
+          "summary": "Three days at Resorts World Sentosa open with a standards symposium before keynotes from Shell, PetroChina and Vitol."
+        },
         {
           "title": "Magnitude 7.7 Earthquake Hits Panama; Canal Transits Continue as Authority Inspects Facilities",
           "link": "https://shipandbunker.com/news/am/496651-magnitude-77-earthquake-hits-panama-canal-transits-continue-as-authority-inspects-facilities",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/emea/470619-repsol-supplies-co-processed-b30-mgo-to-nclh-ship-in-barcelona",
           "published": "Fri, 09 Oct 2026 08:56:35 +0000",
           "summary": "The B30-MGO was supplied under an eight-year renewable fuel deal signed in 2025."
-        },
-        {
-          "title": "Malaysia Detains Tanker and Tugboat Over Alleged Unauthorised STS Transfer",
-          "link": "https://shipandbunker.com/news/apac/169333-malaysia-detains-tanker-and-tugboat-over-alleged-unauthorised-sts-transfer",
-          "published": "Fri, 09 Oct 2026 07:50:39 +0000",
-          "summary": "The tanker and tugboat were detained off Selangor after failing to produce permits for the suspected diesel transfer."
         }
       ]
     },
