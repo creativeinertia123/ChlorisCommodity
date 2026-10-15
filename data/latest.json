@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-14T01:42:35+00:00",
-  "take": "Record tanker rates have stranded heavy crude in the Americas, a logistics bottleneck that tightens the sour complex and widens light-heavy differentials whilst Middle East barrels stay boxed in. The same Hormuz disruption has choked Middle East LNG for seven and a half months, with four vessel attacks reported on Sunday, so freight and war-risk premia keep feeding through to both crude and gas pricing. OPEC's 2.6 million b/d demand-growth call for 2027 against just 200,000 b/d this year is a bullish positioning anchor, though the third-quarter crude and margin build already looks priced. Watch the cross-market link between record tanker earnings and product cracks: LR1 newbuildings from Emarat and CMB.TECH's fifth suezmax sale at a $59.6m gain show owners monetising these levels, whilst Ningbo-Zhoushan's simultaneous LNG, methanol and B24 bunkering signals the alternative-fuel hedge is real. Next 24 hours: Wednesday's US CPI print against oil above $90, plus any further Hormuz incident reports that could spike war-risk premia again.",
+  "generated_at_utc": "2026-10-15T01:23:58+00:00",
+  "take": "DeepSeek synthesis unavailable (HTTPSConnectionPool(host='api.deepseek.com', port=443): Read timed out.). Top headlines — EIA Today in Energy: Monthly wind generation in ISO-NE is about 68% higher than last year | Oilprice: Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site | Splash247: China P&I seeks seat at global insurance top table | Ship & Bunker: SIBCON2026: Shipowners Can Price In a Tough Environmental Rule but Not a Missing One | FT Alphaville: It’s been a bad year for turning lawsuits into earnings",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
+          "published": "Wed, 14 Oct 2026  09:00:00 EST",
+          "summary": "Monthly wind generation in the first nine months of 2026 was an average of 68% higher compared with the same period in 2025 in ISO New England (ISO-NE)."
+        },
         {
           "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68204",
           "published": "Fri, 25 Sep 2026  09:00:00 EST",
           "summary": "The Henry Hub natural gas spot price averaged $2.93 per million British thermal units from June through August, 6% less than the same period last year. Prices were lower this summer despite exceptionally hot weather that increased electricity demand for air conditioning. Natural gas-fired power plants often help meet higher demand during such periods."
-        },
-        {
-          "title": "Public companies produce most U.S. crude oil and natural gas",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68184",
-          "published": "Tue, 22 Sep 2026  09:00:00 EST",
-          "summary": "Publicly traded companies represent a tiny share of the total number of companies producing crude oil and natural gas in the United States, but they make up a large share of U.S. production. In 2025, publicly traded companies accounted for just 2% of about 12,000 oil and natural gas producers but produced 68% of the crude oil and natural gas in the Lower 48 states."
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Wall Street Sees Inflation Easing Even With Oil Above $90",
-          "link": "https://oilprice.com/Energy/Energy-General/Wall-Street-Sees-Inflation-Easing-Even-With-Oil-Above-90.html",
-          "published": "Tue, 13 Oct 2026 19:00:00 -0500",
-          "summary": "The U.S. Consumer Price Index (CPI) report is due to be released on Wednesday, with economists predicting that key inflation metrics continued to moderate in September despite elevated oil prices, giving the Fed room to slow down on interest rate hikes. For September, economists expect headline inflation growth to clock in at 0.5% month-over-month and 3.6%- 3.7% year-over-year, up from 0.4% m-o-m "
+          "title": "Brookfield, NextEra to Build $100 Billion AI Hub on Cold War Nuclear Site",
+          "link": "https://oilprice.com/Energy/Energy-General/Brookfield-NextEra-to-Build-100-Billion-AI-Hub-on-Cold-War-Nuclear-Site.html",
+          "published": "Wed, 14 Oct 2026 19:00:00 -0500",
+          "summary": "The U.S. Department of Energy (DoE) has announced a landmark $100-billion private investment to turn the former uranium enrichment site in Western Kentucky into the new Paducah American Energy Hub, marking one of the largest economic development projects in Kentucky's history. Led by U.S. Secretary of Energy Chris Wright, the initiative will bring together a private-sector coalition to build a mas"
         },
         {
-          "title": "Record Tanker Rates Leave Heavy Crude Stranded in the Americas",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Leave-Heavy-Crude-Stranded-in-the-Americas.html",
-          "published": "Tue, 13 Oct 2026 18:00:00 -0500",
-          "summary": "The Middle East crisis has driven tanker rates to all-time highs and created a shortage of vessels. This oil logistics problem is now causing a ripple effect, tipping the heavy crude market in North and South America into oversupply—while Asia and Europe grapple with a shortage of heavy grades. Canada is producing over 5 million barrels of crude daily, most of it heavy crude. Some 4 million barrel"
+          "title": "Oil Market Tightens as Tanker Attacks and Inventory Draws Mount",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Tightens-as-Tanker-Attacks-and-Inventory-Draws-Mount.html",
+          "published": "Wed, 14 Oct 2026 18:00:00 -0500",
+          "summary": "Brent crude is once again over $106, Iran is intensifying attacks on tankers in Hormuz, and global inventories are draining, while OPEC just forecast stronger demand for next year. Six months ago, one well-timed TruthSocial post by President Trump would have calmed traders down. Now, this no longer works as fundamentals trump talk. Earlier in the war between the United States and Israel, and Iran,"
         },
         {
-          "title": "Stranded Middle East LNG Supply Upends Gas Markets",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Stranded-Middle-East-LNG-Supply-Upends-Gas-Markets.html",
-          "published": "Tue, 13 Oct 2026 17:00:00 -0500",
-          "summary": "The LNG supply out of the Middle East has not recovered in any meaningful way seven and a half months after the Iran war choked oil and gas shipments through the Strait of Hormuz. Since March, some occasional LNG cargoes have managed to squeeze through the chokepoint where a fifth of global liquefied Natural Gas supplies passed before the war. The rare shipments are not making much of a difference"
+          "title": "White House Turns to Korean War-Era Law as Diesel Prices Stay Above $6",
+          "link": "https://oilprice.com/Energy/Crude-Oil/White-House-Turns-to-Korean-War-Era-Law-as-Diesel-Prices-Stay-Above-6.html",
+          "published": "Wed, 14 Oct 2026 17:00:00 -0500",
+          "summary": "The United States has used a 1950 authority to help boost fuel production at a small Texas refinery, Vice President JD Vance said on Tuesday, as the Trump Administration is running out of levers to lower record-high fuel prices. “I am pleased to announce that the Trump administration, working with the refinery at Delek, has used the Defense Production Act and we’re going to expand the refinery rig"
         },
         {
-          "title": "OPEC Sees Oil Demand Growth Surging to 2.6 Million Bpd in 2027",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Surging-to-26-Million-Bpd-in-2027.html",
-          "published": "Tue, 13 Oct 2026 16:30:00 -0500",
-          "summary": "OPEC just put a very large number on next year’s oil market: global demand growth of 2.6 million barrels per day in 2027, after growth of just 200,000 bpd this year. That would push average world oil demand from 105.7 million bpd in 2026 to 108.3 million bpd next year. OPEC also revised its 2027 demand forecast higher this month, even as it nudged this year’s growth estimate lower. Part of that ju"
+          "title": "US Crude Oil Inventories See Massive Drop Off",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-See-Massive-Drop-Off.html",
+          "published": "Wed, 14 Oct 2026 16:43:47 -0500",
+          "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by a massive 11.12 million barrels in the week ending October 9. In the week prior, US crude oil inventories fell by 2.09 million barrels. Commercial crude oil inventories excluding the SPR have lost more than 51 million barrels over the last 26 weeks, but US crude inventories are at roughly the s"
         },
         {
-          "title": "Five Shale Stocks to Watch Before Third-Quarter Earnings",
-          "link": "https://oilprice.com/Energy/Energy-General/Five-Shale-Stocks-to-Watch-Before-Third-Quarter-Earnings.html",
-          "published": "Tue, 13 Oct 2026 16:00:00 -0500",
-          "summary": "Permian producers spent much of this year paying buyers to haul away the natural gas that comes up with their oil. Waha Hub spot prices stayed below zero for a record 90 days in a row before turning positive on June 16, Reuters reported, and the hub had averaged minus $2.19 per million British thermal units for the year up to that point. Four of the five companies below still posted record results"
+          "title": "Trump Announces $80 Billion Taiwan LNG Deal",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Trump-Announces-80-Billion-Taiwan-LNG-Deal.html",
+          "published": "Wed, 14 Oct 2026 16:00:00 -0500",
+          "summary": "President Donald Trump has announced a massive new energy agreement with Taiwan, claiming the island will purchase between $70 billion and $80 billion worth of liquefied natural gas from Alaska over the next two decades, as Asian importers scramble to secure supplies beyond the increasingly dangerous Strait of Hormuz. In a Truth Social post on Wednesday, Trump said Taiwan had committed to purchasi"
         },
         {
-          "title": "Princeton Researchers Find a Lower-Energy Route to Fusion Ignition",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Princeton-Researchers-Find-a-Lower-Energy-Route-to-Fusion-Ignition.html",
-          "published": "Tue, 13 Oct 2026 15:00:00 -0500",
-          "summary": "A new model for nuclear fusion has potentially discovered a significantly more energy-efficient way to achieve nuclear fusion, and flipped everything we thought we knew about the fusion process. The scientists’ modelling also flips the traditional order of operations for managing and sustaining plasma in a controlled fusion experiment. Traditionally, fusion processes start by compressing plasma fo"
+          "title": "Britain's $47 Billion North Sea Oil Decision Hangs in the Balance",
+          "link": "https://oilprice.com/Energy/Energy-General/Britains-47-Billion-North-Sea-Oil-Decision-Hangs-in-the-Balance.html",
+          "published": "Wed, 14 Oct 2026 15:00:00 -0500",
+          "summary": "Approval for more oil and gas drilling at the North Sea sites Jackdaw and Rosebank have been delayed by “government process” and lengthy bureaucratic wrangling, Prime Minister Andy Burnham has said. Burnham told MPs that he would take a “pragmatic approach” on oil and gas drilling amid calls from energy bosses for drilling to go ahead at the two sites, which were blocked by Scottish courts on envi"
         },
         {
-          "title": "Guyana Oil Exports Set to Surpass 1 Million Barrels per Day for First Time",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Guyana-Oil-Exports-Set-to-Surpass-1-Million-Barrels-per-Day-for-First-Time.html",
-          "published": "Tue, 13 Oct 2026 14:00:00 -0500",
-          "summary": "Guyana, one of the world's newest oil exporters, is poised to surpass one million barrels per day in crude oil exports for the first time this December, marking another extraordinary milestone for the small South American country. According to Bloomberg, December's preliminary loading schedule includes 33 million barrels of crude exports, equivalent to approximately 1.06 million bpd. The first shi"
+          "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
+          "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
+          "published": "Wed, 14 Oct 2026 14:00:00 -0500",
+          "summary": "Iran has quite obviously been surging its attacks on commercial shipping in the Strait of Hormuz in an attempt to wreak uncertainty and economic havoc for the Trump administration ahead of the November midterm elections, undermining a recent recovery in Persian Gulf oil shipments. The attacks are now coming so frequently it is difficult to track. One source tallies of recent days, \"Twelve vessels "
         },
         {
-          "title": "Trump's Middle Corridor Plans Face Russian and Iranian Roadblocks",
-          "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Middle-Corridor-Plans-Face-Russian-and-Iranian-Roadblocks.html",
-          "published": "Tue, 13 Oct 2026 13:00:00 -0500",
-          "summary": "More than a year has passed since Armenia and Azerbaijan signed the Washington agreement under the direct mediation of President Trump. Nevertheless, the TRIPP project, an approximately 40-kilometer route that would constitute the shortest segment of the Middle Corridor, has yet to be implemented, leaving the broader project incomplete. Notably, the principal obstacles to its implementation origin"
+          "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
+          "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
+          "published": "Wed, 14 Oct 2026 13:00:00 -0500",
+          "summary": "Back in 1991, the formation of the Commonwealth of Independent States placed the final nail in the Soviet Union’s coffin. Since then, the CIS itself has proven mostly moribund, falling far short of fulfilling the aims outlined in its 1993 charter. The results of the recent CIS summit in Turkmenistan, marking the 35th anniversary of its formation, offered more of the same, featuring lots of empty r"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
+          "title": "China P&I seeks seat at global insurance top table",
+          "link": "https://splash247.com/china-pi-seeks-seat-at-global-insurance-top-table/",
+          "published": "Wed, 14 Oct 2026 17:44:17 +0000",
+          "summary": "China Shipowners Mutual Assurance Association, better known as China P&#38;I Club, has formally applied to join the International Group of P&#38;I Clubs, potentially bringing a mainland Chinese insurer into the powerful marine insurance grouping for the first time. The International Group confirmed it had received the application after China P&#38;I chairman Xu Lirong and other &#8230;"
+        },
+        {
+          "title": "EuroDry adds third $37m kamsarmax at Hengli",
+          "link": "https://splash247.com/eurodry-adds-third-37m-kamsarmax-at-hengli/",
+          "published": "Wed, 14 Oct 2026 15:36:02 +0000",
+          "summary": "Aristides Pittas-led EuroDry has returned to China’s Hengli Shipbuilding for another kamsarmax, adding a third 82,000 dwt newbuilding to a fleet renewal programme now worth almost $183m. The Nasdaq-listed dry bulk owner is paying about $37m for the latest vessel, which is scheduled for delivery in the third quarter of 2029. The contract remains conditional &#8230;"
+        },
+        {
+          "title": "Shipping firms and ports caught in mass cyber extortion claim",
+          "link": "https://splash247.com/shipping-firms-and-ports-caught-in-mass-cyber-extortion-claim/",
+          "published": "Wed, 14 Oct 2026 10:00:00 +0000",
+          "summary": "A cyber extortion group has threatened to publish data it claims it stole from 38 shipping, port, and logistics companies unless they pay multimillion-dollar ransoms by October 19. Cybersecurity firm SOCRadar said the group, known as n0n, added the 38 organisations to its dark web leak site in a single batch on October 12, marking &#8230;"
+        },
+        {
+          "title": "Zhonggu steps up boxship investments with larger newbuilds",
+          "link": "https://splash247.com/zhonggu-steps-up-boxship-investments-with-larger-newbuilds/",
+          "published": "Wed, 14 Oct 2026 09:29:47 +0000",
+          "summary": "China&#8217;s Zhonggu Shipping Group has signed up for two 14,000 teu containerships at Hudong-Zhonghua Shipbuilding, moving into significantly larger tonnage as investment across the group gathers pace. The Shanghai-based company has contracted the conventionally fuelled pair, without disclosing the value or delivery dates. The agreement adds another large containership series to Hudong-Zhonghua&"
+        },
+        {
+          "title": "Japan prepares to pay for oil’s long way round",
+          "link": "https://splash247.com/japan-prepares-to-pay-for-oils-long-way-round/",
+          "published": "Wed, 14 Oct 2026 08:30:40 +0000",
+          "summary": "Japan is preparing to subsidise the additional cost of importing oil from suppliers outside the Strait of Hormuz, in a significant government intervention aimed at reducing the country&#8217;s dependence on the increasingly dangerous waterway. The Japanese cabinet approved three bills yesterday designed to diversify energy imports, support tanker insurance and finance alternative oil transport inf"
+        },
+        {
+          "title": "India’s Aegis takes over Dubai tanker and logistics group Tristar",
+          "link": "https://splash247.com/indias-aegis-takes-over-dubai-tanker-and-logistics-group-tristar/",
+          "published": "Wed, 14 Oct 2026 08:15:28 +0000",
+          "summary": "India’s Aegis Logistics has struck a deal to acquire 89.8% of Dubai-based Tristar for $809m, taking control of a global energy logistics group with a sizeable tanker and dry bulk shipping operation. The Mumbai-listed group is buying the stake through Singapore-based Aegis Logistics International from shareholders including Agility, Gulf Investment Corporation and Diamond Holdings. The &#8230;"
+        },
+        {
           "title": "Splash Cruise launches with a fresh take on the global cruise business",
           "link": "https://splash247.com/splash-cruise-launches-with-a-fresh-take-on-the-global-cruise-business/",
-          "published": "Tue, 13 Oct 2026 20:00:00 +0000",
-          "summary": "SINGAPORE, 14 October 2026 – Splash Maritime Group has officially launched Splash Cruise, a new international news platform dedicated to the business of cruise shipping, bringing the editorial approach that has made Splash a leading independent voice in maritime journalism to the global cruise industry. Available at&#160;splashcruise.com, the new publication delivers daily news, exclusive intervie"
+          "published": "Wed, 14 Oct 2026 08:00:00 +0000",
+          "summary": "Splash Maritime Group has officially launched Splash Cruise, a new international news platform dedicated to the business of cruise shipping, bringing the editorial approach that has made Splash a leading independent voice in maritime journalism to the global cruise industry. Available at&#160;splashcruise.com, the new publication delivers daily news, exclusive interviews, analysis and features cov"
         },
         {
-          "title": "Emarat Maritime piles six more tankers onto China orderbook",
-          "link": "https://splash247.com/emarat-maritime-piles-six-more-tankers-onto-china-orderbook/",
-          "published": "Tue, 13 Oct 2026 11:33:00 +0000",
-          "summary": "Dubai-based Emarat Maritime has added another six tanker newbuildings to its rapidly expanding fleet, lining up a series of 74,000 dwt LR1 product carriers in China. The company’s own fleet register now lists six LR1 newbuildings, with the first two scheduled for delivery in 2029 and the remaining four in 2030. Shipbuilding database records seen &#8230;"
-        },
-        {
-          "title": "Lianson Fleet snaps up third ultramax",
-          "link": "https://splash247.com/lianson-fleet-snaps-up-third-ultramax/",
-          "published": "Tue, 13 Oct 2026 11:00:00 +0000",
-          "summary": "Malaysia’s Lianson Fleet Group (LFG) has added a third ultramax bulker, paying $23m (RM93.9m) for a 2013-built Japanese vessel as it continues to expand beyond its traditional offshore support vessel business. The Bursa Malaysia-listed company said its wholly owned subsidiary acquired the 61,446 dwt to-be-named LFG Cengal from an unrelated Japanese seller. The purchase is &#8230;"
-        },
-        {
-          "title": "Saverys keeps cashing in on tanker values",
-          "link": "https://splash247.com/saverys-keeps-cashing-in-on-tanker-values/",
-          "published": "Tue, 13 Oct 2026 10:30:00 +0000",
-          "summary": "Belgian shipping group CMB.TECH has continued to cash in on elevated tanker values, selling its fifth suezmax this year and locking in another $59.6m capital gain. The Alexander Saverys-led company said it has already delivered the 2011-built, 165,000 dwt Stella to its new owner and will book the gain in the fourth quarter. CMB.TECH did not disclose either &#8230;"
-        },
-        {
-          "title": "Fujian Guohang maps out Hong Kong fleet expansion",
-          "link": "https://splash247.com/fujian-guohang-maps-out-hong-kong-fleet-expansion/",
-          "published": "Tue, 13 Oct 2026 10:04:00 +0000",
-          "summary": "Chinese bulker owner Fujian Guohang Ocean Shipping is preparing to establish 12 wholly owned shipping companies in Hong Kong as it lays the groundwork for a newbuilding investment programme valued at approximately CNY2.49bn ($372m). The Beijing Stock Exchange-listed company disclosed on October 12 that its board had approved the creation of the subsidiaries through Guohang &#8230;"
-        },
-        {
-          "title": "Pertamina and Medco take slices of Eni’s Indonesia offshore assets",
-          "link": "https://splash247.com/pertamina-and-medco-take-slices-of-enis-indonesia-offshore-assets/",
-          "published": "Tue, 13 Oct 2026 10:00:00 +0000",
-          "summary": "Italian giant Eni has agreed to sell 10% interests in seven offshore production sharing contracts in Indonesia to Pertamina and MedcoEnergi as it reshapes its portfolio after creating its Searah joint venture with Petronas. The company will sell Pertamina 10% stakes in the East Sepinggan, North Ganal, and Rapak PSCs, all located offshore East Kalimantan &#8230;"
-        },
-        {
-          "title": "Bluecore takes nuclear barge plan beyond the drawing board",
-          "link": "https://splash247.com/bluecore-takes-nuclear-barge-plan-beyond-the-drawing-board/",
-          "published": "Tue, 13 Oct 2026 09:45:21 +0000",
-          "summary": "US maritime nuclear startup Bluecore Energy has secured low-enriched uranium for its first floating power system as it moves ahead simultaneously with fuel, regulatory and class work. The Long Beach-based company has purchased uranium hexafluoride, or UF₆, enriched to 4.95% uranium-235 through nuclear fuel intermediary WMC. The material is being held at an undisclosed US &#8230;"
-        },
-        {
-          "title": "Global Ship Lease locks in $1bn loan for boxship spree",
-          "link": "https://splash247.com/global-ship-lease-locks-in-1bn-loan-for-boxship-spree/",
-          "published": "Tue, 13 Oct 2026 09:40:00 +0000",
-          "summary": "New York-listed containership owner Global Ship Lease (GSL) has secured a $1bn syndicated loan facility to finance its expanding newbuilding programme. The George Youroukos-led company said the seven-year facility carries an interest margin of just 1.5% over SOFR and will be drawn in stages as its first 15 contracted newbuildings are completed between late 2028 &#8230;"
+          "title": "Elisabeth Braw: The Undersea War",
+          "link": "https://splash247.com/elisabeth-braw-the-undersea-war/",
+          "published": "Wed, 14 Oct 2026 07:45:22 +0000",
+          "summary": "A ship&#8217;s anchor can wreak havoc on the world&#8217;s undersea infrastructure, something that has provided plenty of rich material for Splash reporting in recent years. For Elisabeth Braw, the Cook Islands-flagged tanker Eagle S provides one of the most brazen examples. On Christmas Day 2024, the vessel was accused of dragging its anchor 90 km &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Ningbo-Zhoushan Sees Simultaneous Bunkering of LNG, Methanol and B24",
-          "link": "https://shipandbunker.com/news/apac/470185-ningbo-zhoushan-sees-simultaneous-bunkering-of-lng-methanol-and-b24",
-          "published": "Tue, 13 Oct 2026 10:02:40 +0000",
-          "summary": "Ningbo-Zhoushan port has completed 62 biofuel bunkering operations so far for international vessels."
+          "title": "SIBCON2026: Shipowners Can Price In a Tough Environmental Rule but Not a Missing One",
+          "link": "https://shipandbunker.com/news/apac/255856-sibcon2026-shipowners-can-price-in-a-tough-environmental-rule-but-not-a-missing-one",
+          "published": "Wed, 14 Oct 2026 23:33:00 +0000",
+          "summary": "Key takeaways from the panel on the shipowner&#039;s fuel decision today: cost, risk, and reality."
         },
         {
-          "title": "NYK-MISC JV Signs Long-Term Charter for Dual-Fuel LNG Carrier",
-          "link": "https://shipandbunker.com/news/apac/107249-nyk-misc-jv-signs-long-term-charter-for-dual-fuel-lng-carrier",
-          "published": "Tue, 13 Oct 2026 09:45:08 +0000",
-          "summary": "The vessel having cargo tank capacity of 18,700 m3 will be delivered in 2028."
+          "title": "SIBCON2026: Buyers Pool Demand and Lock In Supply as Availability Proves More Important than Price",
+          "link": "https://shipandbunker.com/news/apac/732554-sibcon2026-buyers-pool-demand-and-lock-in-supply-as-availability-proves-more-important-than-price",
+          "published": "Wed, 14 Oct 2026 13:26:00 +0000",
+          "summary": "Key takeaways from the Demand Vs Supply panel on the fuel market outlook to 2030."
         },
         {
-          "title": "ABS and US DOE Join Forces to Advance Nuclear Technology in Shipping",
-          "link": "https://shipandbunker.com/news/am/786800-abs-and-us-doe-join-forces-to-advance-nuclear-technology-in-shipping",
-          "published": "Tue, 13 Oct 2026 08:42:21 +0000",
-          "summary": "The duo will explore ways to develop the US shipbuilding sector to safely build and operate nuclear-powered vessels."
+          "title": "Oil Up On Iran Aggression, But High Prices Are Benefitting One Northern Country",
+          "link": "https://shipandbunker.com/news/world/834785-oil-up-on-iran-aggression-but-high-prices-are-benefitting-one-northern-country",
+          "published": "Wed, 14 Oct 2026 11:24:00 +0000",
+          "summary": "Meanwhile, Gulf attacks increase as U.S. midterm elections draw closer."
         },
         {
-          "title": "Wagenborg Launches First Alternative-Fuel-Ready Vessel",
-          "link": "https://shipandbunker.com/news/emea/323851-wagenborg-launches-first-alternative-fuel-ready-vessel",
-          "published": "Tue, 13 Oct 2026 07:37:20 +0000",
-          "summary": "The vessel is suitable for conversion to methanol, ammonia or LNG propulsion in the future."
+          "title": "Boxship Hit in New Strait of Hormuz Attack",
+          "link": "https://shipandbunker.com/news/emea/181019-boxship-hit-in-new-strait-of-hormuz-attack",
+          "published": "Wed, 14 Oct 2026 10:58:05 +0000",
+          "summary": "UKMTO says the vessel sustained minor damage but was able to continue its passage."
         },
         {
-          "title": "Port of Rotterdam Joins The Global Methanol Alliance as Board Participant",
-          "link": "https://shipandbunker.com/news/emea/544024-port-of-rotterdam-joins-the-global-methanol-alliance-as-board-participant",
-          "published": "Tue, 13 Oct 2026 07:06:59 +0000",
-          "summary": "The Dutch port has joined the alliance as a member and board participant."
+          "title": "Axpo Completes Its First LNG Bunkering Operation in Valencia",
+          "link": "https://shipandbunker.com/news/emea/523463-axpo-completes-its-first-lng-bunkering-operation-in-valencia",
+          "published": "Wed, 14 Oct 2026 10:12:27 +0000",
+          "summary": "The firm supplied an LNG stem containing more than 50% bio-LNG to a container vessel."
         },
         {
-          "title": "Guangzhou Port Completes First Green Methanol Bunkering at Nansha Terminal",
-          "link": "https://shipandbunker.com/news/apac/494027-guangzhou-port-completes-first-green-methanol-bunkering-at-nansha-terminal",
-          "published": "Tue, 13 Oct 2026 06:31:04 +0000",
-          "summary": "A Cosco boxship bunkered about 300 mt of green methanol at Guangzhou Port last month."
+          "title": "SIBCON2026: Hormuz Disruption is the \"New Normal\" and Shipping Should Plan for the Next Crisis",
+          "link": "https://shipandbunker.com/news/apac/283037-sibcon2026-hormuz-disruption-is-the-new-normal-and-shipping-should-plan-for-the-next-crisis",
+          "published": "Wed, 14 Oct 2026 09:23:41 +0000",
+          "summary": "Key takeaways from the event&#039;s opening panel on geopolitics, trade disruptions, and IMO developments."
         },
         {
-          "title": "Dockendale and Green Marine Partner on Alternative Fuel Training in India",
-          "link": "https://shipandbunker.com/news/apac/417123-dockendale-and-green-marine-partner-on-alternative-fuel-training-in-india",
-          "published": "Tue, 13 Oct 2026 05:39:36 +0000",
-          "summary": "Green Marine CEO Fredrik Stubner says seafarer training has struggled to keep pace with alternative fuel adoption."
+          "title": "CPC to Suspend MGO Supply at Taiwan's Suao Port for Three Days",
+          "link": "https://shipandbunker.com/news/apac/387411-cpc-to-suspend-mgo-supply-at-taiwans-suao-port-for-three-days",
+          "published": "Wed, 14 Oct 2026 09:02:36 +0000",
+          "summary": "MGO supply at the port will be suspended from October 19-21 due to pipeline maintenance."
         },
         {
-          "title": "UKMTO Reports Four Vessel Attacks in Strait of Hormuz",
-          "link": "https://shipandbunker.com/news/emea/490909-ukmto-reports-four-vessel-attacks-in-strait-of-hormuz",
-          "published": "Tue, 13 Oct 2026 05:09:55 +0000",
-          "summary": "The agency reported attacks on three tankers and a container ship on Sunday."
+          "title": "CMB.TECH's Ammonia-Fuelled Bulker Bunkers Green Ammonia in China",
+          "link": "https://shipandbunker.com/news/apac/965358-cmbtechs-ammonia-fuelled-bulker-bunkers-green-ammonia-in-china",
+          "published": "Wed, 14 Oct 2026 07:16:45 +0000",
+          "summary": "The world&#039;s first ammonia-fuelled bulk carrier bunkered 1,000 mt of green ammonia in Zhoushan."
         }
       ]
     },
@@ -232,6 +232,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "It’s been a bad year for turning lawsuits into earnings",
+          "link": "https://www.ft.com/content/7addd5d0-11d6-4706-bf0b-995084ef7bb6",
+          "published": "Wed, 14 Oct 2026 12:00:01 GMT",
+          "summary": "Litigation funders discovered a way to book the verdict before the trial. Guess what happened next"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/fa1aae13-a352-47cb-97aa-6667c070f308",
+          "published": "Wed, 14 Oct 2026 05:30:01 GMT",
+          "summary": "Convexity angst; Deloitte and Abramovich; Anthropic assistant; Terrence Tao; AI researchers smoking"
+        },
+        {
+          "title": "Maybe R-star never even existed?",
+          "link": "https://www.ft.com/content/76cd58f0-3a5c-4715-8879-d83c90ab6f2c",
+          "published": "Wed, 14 Oct 2026 05:00:01 GMT",
+          "summary": "Ruffer chimes in"
+        },
         {
           "title": "How governments spend money",
           "link": "https://www.ft.com/content/c6a28cf5-cd3c-447b-ad79-dcc247fc6fdf",
@@ -261,24 +279,6 @@
           "link": "https://www.ft.com/content/f4463a28-832d-4a2d-acc5-d83e258610cb?syn-25a6b1a6=1",
           "published": "Mon, 12 Oct 2026 09:09:04 GMT",
           "summary": "Live coverage of exciting economicsy stuff"
-        },
-        {
-          "title": "And the FTAV charts quiz winner is . . .",
-          "link": "https://www.ft.com/content/3e94e815-95b9-4e8d-9219-c9066cec08f6",
-          "published": "Mon, 12 Oct 2026 08:01:57 GMT",
-          "summary": "Capiche!"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/b01366df-466d-44ee-91c6-1c71932da89e",
-          "published": "Mon, 12 Oct 2026 05:30:05 GMT",
-          "summary": "Trump vs Norway; chōsen-seki; mathematicians and AI, RIP Quartz; Wallace and Gromit"
-        },
-        {
-          "title": "What a $30bn Aussie data centre IPO debacle actually means",
-          "link": "https://www.ft.com/content/97a2c4ae-79df-4e67-a408-91a07bfc2546",
-          "published": "Mon, 12 Oct 2026 05:00:06 GMT",
-          "summary": "Misery, thy name is pulled IPO"
         }
       ]
     },
