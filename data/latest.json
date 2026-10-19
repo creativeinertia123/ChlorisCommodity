@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-18T00:45:01+00:00",
-  "take": "Oil stays bid as the Iran war and Hormuz attacks keep supply tight into 2027, with the US offering another 17 million SPR barrels and the IEA accelerating emergency releases — that combination of physical disruption and strategic stock draws is what is holding crude and refinery margins up after 3Q26 already saw both rise on Middle East conflict. The freight read-across is bullish for tonne-miles: West Africa’s ore boom is set to absorb the equivalent of another 120 capesizes by 2030, whilst UK ports are pushing back on Brussels over ETS diversion claims and tanker owners keep adding suezmax newbuildings at Chinese yards. Positioning-wise, the SPR and IEA releases are the key flow signal — government barrels are being pushed into a market already short of Hormuz transit, so watch whether those offers clear and at what differential, with Fujairah bunker sales recovering from June’s record low but still more than half below last year. The cross-market link to watch is bunker versus crude: Singapore supplier consolidation (Toyota Tsusho Petroleum in liquidation) and methanol/LPG dual-fuel newbuildings point to a structurally tighter, greener bunker pool even as HSFO/VLSFO volumes lag. Over the next 24 hours, watch Hormuz and Black Sea attack headlines, whether the 17 million SPR barrels find buyers, and any European gas commentary as reserves run low into winter.",
+  "generated_at_utc": "2026-10-19T00:58:13+00:00",
+  "take": "Record shipping costs are now forcing oil producers to slash prices as delivered crude exceeds what refiners will pay, a clear signal that freight is repricing the crude curve rather than merely following it. The Hormuz crisis has extended beyond crude and gas into the bunker tank, tightening fuel supply for container shipping whilst UK ports push back on Brussels over ETS diversion claims, both of which point to higher effective voyage costs and wider product arbitrage. Fujairah bunker sales have recovered from June's record low but remain more than half below last year, a demand signal that sits awkwardly against firm outright prices and argues for caution on gasoil cracks. The cross-market link is the bunker complex itself: Hormuz disruption to shipping fuel and the AMS methanol-capable newbuild both feed the gasoil-VLSFO spread, whilst West Africa's ore boom absorbing another 120 capesizes by 2030 underpins the tonne-mile story. Watch Hormuz headlines and any Washington escalation against Iran, plus the next Fujairah bunker sales print for confirmation that the demand recovery is real rather than a dead-cat bounce.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,36 @@
       "count": 8,
       "items": [
         {
+          "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
+          "published": "Sun, 18 Oct 2026 18:00:00 -0500",
+          "summary": "Freight is reshaping global oil trade and the prices producers can command for their crude. Soaring shipping costs are pushing delivered prices beyond what refiners are willing to pay, forcing sellers to cut differentials or find buyers closer to home. With Chinese refiners inclined to wait for transport costs to ease, some producers are committing barrels for future loading at prices that leave l"
+        },
+        {
+          "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
+          "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
+          "published": "Sun, 18 Oct 2026 16:00:00 -0500",
+          "summary": "The Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at present pushing the bunker market into a dangerous position. Fuel remains available internationally, but"
+        },
+        {
+          "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
+          "published": "Sun, 18 Oct 2026 14:00:00 -0500",
+          "summary": "The process of increasing the maximum power level at which a commercial nuclear power plant may operate is called a power uprate. Several nuclear plants are now considering applying for permission to uprate operations to produce more power in the mid-term to bridge the gap while more nuclear capacity is being developed. The United States Nuclear Regulatory Commission (NRC) regulates the maximum po"
+        },
+        {
+          "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
+          "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
+          "published": "Sun, 18 Oct 2026 12:00:00 -0500",
+          "summary": "Iran's vast and restive southeastern province of Sistan-Baluchistan, located along the border with Afghanistan and Pakistan, has witnessed a deadly flare-up of violence in recent weeks. Armed groups and Iranian security forces have clashed almost daily across the impoverished province, the site of a decades-long, low-level insurgency. Separatist groups and Islamist militants in Sistan-Baluchistan,"
+        },
+        {
+          "title": "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
+          "link": "https://oilprice.com/Energy/Energy-General/Electric-Supercars-Are-Getting-Faster-Smarter-and-Harder-to-Ignore.html",
+          "published": "Sun, 18 Oct 2026 10:00:00 -0500",
+          "summary": "Electric vehicle (EV) and hybrid sales continue to rise, particularly in regions such as Europe and Asia, as people shift away from internal combustion engine (ICE) vehicles toward cleaner alternatives. However, there has long been a stigma surrounding high-end EVs and electric supercars, with most consumers sticking to the ICE versions. Now, several well-known automakers are offering hybrid and e"
+        },
+        {
           "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
           "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
           "published": "Sat, 17 Oct 2026 18:00:00 -0500",
@@ -81,36 +111,6 @@
           "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
           "published": "Sat, 17 Oct 2026 12:00:00 -0500",
           "summary": "The artificial intelligence boom is placing a dangerous strain on the world’s water and energy resources. As hyperscalers build up resource-hungry data centers at a breakneck pace, demand projections for these finite resources are skyrocketing faster than policymakers can keep pace. But a new study from researchers at the University of Texas at Austin suggests that there may be a way to sustainabl"
-        },
-        {
-          "title": "Europe Braces for a Winter Energy Crisis as Gas Reserves Run Low",
-          "link": "https://oilprice.com/Energy/Energy-General/Europe-Braces-for-a-Winter-Energy-Crisis-as-Gas-Reserves-Run-Low.html",
-          "published": "Sat, 17 Oct 2026 12:00:00 -0500",
-          "summary": "After months of elevated energy prices, Europe can expect fuel costs to continue rising through the winter months as demand grows. Ongoing energy trade constraints and threats to energy infrastructure across the Middle East are expected to limit global energy supplies and continue to drive up prices, hitting consumers hard unless governments intervene. The European Union (EU) is thought to have pa"
-        },
-        {
-          "title": "Bolivia’s Energy Crisis Deepens as Natural Gas Reserves Run Dry",
-          "link": "https://oilprice.com/Energy/Energy-General/Bolivias-Energy-Crisis-Deepens-as-Natural-Gas-Reserves-Run-Dry.html",
-          "published": "Sat, 17 Oct 2026 10:00:00 -0500",
-          "summary": "Years of underinvestment in Bolivia’s gas industry have left the South American country facing a severe fuel shortage, as energy prices rise ever higher owing to the ongoing war in Iran. The energy shortages and economic crisis follow years of poor decision-making by the government. In 2006, then-president Evo Morales took control of Bolivia’s fossil fuel industry, renegotiating contracts with int"
-        },
-        {
-          "title": "Global Energy Import Dependence Set to Peak by 2034, Rystad Says",
-          "link": "https://oilprice.com/Energy/Energy-General/Global-Energy-Import-Dependence-Set-to-Peak-by-2034-Rystad-Says.html",
-          "published": "Fri, 16 Oct 2026 17:00:00 -0500",
-          "summary": "Rystad Energy’s fifth edition of its flagship annual report, Global Energy Scenarios (GES) 2026, finds that global reliance on imported energy is projected to peak by 2034 as energy security concerns accelerate the shift towards electrification. Against the backdrop of two major energy crises in five years, the report highlights how a broader range of rapidly deployable technologies is helping the"
-        },
-        {
-          "title": "Norway's Untapped Oil and Gas Frontier Is Drawing Renewed Interest",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Norways-Untapped-Oil-and-Gas-Frontier-Is-Drawing-Renewed-Interest.html",
-          "published": "Fri, 16 Oct 2026 14:00:00 -0500",
-          "summary": "More than three decades after Norway opened parts of the Norwegian Sea to petroleum exploration, potentially significant oil and gas resources remain hidden beneath thick layers of volcanic rock. Now, advances in exploration technology and renewed industry interest could bring one of Europe's least explored offshore frontiers back into focus. Norway may still hold substantial undiscovered oil and "
-        },
-        {
-          "title": "U.S. Offers Another 17 Million SPR Barrels as Fuel Crisis Deepens",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Offers-Another-17-Million-SPR-Barrels-as-Fuel-Crisis-Deepens.html",
-          "published": "Fri, 16 Oct 2026 13:30:00 -0500",
-          "summary": "The United States is putting another 17 million barrels of crude from the Strategic Petroleum Reserve on offer, one day after the IEA accelerated emergency stock releases as governments scramble to get more oil and fuel into a tight market. The Department of Energy issued a request for proposals Friday for an exchange of up to 17 million barrels, part of the 172 million barrels Washington committe"
         }
       ]
     },
@@ -177,6 +177,12 @@
       "count": 8,
       "items": [
         {
+          "title": "Former Singapore Bunker Supplier Toyota Tsusho Petroleum Enters Liquidation",
+          "link": "https://shipandbunker.com/news/apac/967214-former-singapore-bunker-supplier-toyota-tsusho-petroleum-enters-liquidation",
+          "published": "Fri, 16 Oct 2026 17:39:00 +0000",
+          "summary": "The firm was removed from the Maritime and Port Authority of Singapore&#039;s list of licensed bunker suppliers in 2023."
+        },
+        {
           "title": "AMS Barging Adds Diesel-Electric Tanker to Fleet",
           "link": "https://shipandbunker.com/news/emea/406578-ams-barging-adds-diesel-electric-tanker-to-fleet",
           "published": "Fri, 16 Oct 2026 11:36:44 +0000",
@@ -193,12 +199,6 @@
           "link": "https://shipandbunker.com/news/world/601746-fujairah-bunker-sales-recover-some-but-remain-more-than-half-below-last-year",
           "published": "Fri, 16 Oct 2026 09:34:17 +0000",
           "summary": "Bunker sales have rebounded from June&#039;s record low, but year-to-date volumes remain more than half of last year."
-        },
-        {
-          "title": "Former Singapore Bunker Supplier Toyota Tsusho Petroleum Enters Liquidation",
-          "link": "https://shipandbunker.com/news/apac/967214-former-singapore-bunker-supplier-toyota-tsusho-petroleum-enters-liquidation",
-          "published": "Fri, 16 Oct 2026 08:19:23 +0000",
-          "summary": "The firm was removed from the Maritime and Port Authority of Singapore&#039;s list of licensed bunker suppliers in 2023."
         },
         {
           "title": "BUNKER JOBS: Peninsula Seeks LNG Supply Trader in Singapore",
