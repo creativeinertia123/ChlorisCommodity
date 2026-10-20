@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-19T00:58:13+00:00",
-  "take": "Record shipping costs are now forcing oil producers to slash prices as delivered crude exceeds what refiners will pay, a clear signal that freight is repricing the crude curve rather than merely following it. The Hormuz crisis has extended beyond crude and gas into the bunker tank, tightening fuel supply for container shipping whilst UK ports push back on Brussels over ETS diversion claims, both of which point to higher effective voyage costs and wider product arbitrage. Fujairah bunker sales have recovered from June's record low but remain more than half below last year, a demand signal that sits awkwardly against firm outright prices and argues for caution on gasoil cracks. The cross-market link is the bunker complex itself: Hormuz disruption to shipping fuel and the AMS methanol-capable newbuild both feed the gasoil-VLSFO spread, whilst West Africa's ore boom absorbing another 120 capesizes by 2030 underpins the tonne-mile story. Watch Hormuz headlines and any Washington escalation against Iran, plus the next Fujairah bunker sales print for confirmation that the demand recovery is real rather than a dead-cat bounce.",
+  "generated_at_utc": "2026-10-20T01:39:30+00:00",
+  "take": "Traders are shrugging off Iranian and proxy attacks, with the market’s focus narrowing instead to Trump’s diesel deal with Russia — that shift in attention matters more for product cracks than for crude flat price right now. On the freight side, Nanjing Tanker’s order for four more LR2 product and crude tankers at Dalian adds to a growing clean-tanker newbuilding programme, a slow-burn supply signal for the medium-term product trade. The inventory and positioning angle is thin in today’s headlines, though the EIA’s note that crude prices and refinery margins generally rose through 3Q26 amid persistent Middle East conflict suggests the margin strength has been carried by geopolitics rather than clean stock draws. The cross-market link sits in the bunker complex, where LNG bunkering is set to double in three years and barge availability beyond the primary ports is flagged as the pressure point — watch how that competes with conventional bunker demand as Germany commits €400m to climate-friendly shipping. For the next 24 hours, keep an eye on any detail on the Russia diesel deal and on Hormuz-related LNG disruption, given Pakistan’s growth is already slowing as the crisis hits its industry.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68325",
+          "published": "Mon, 19 Oct 2026  09:00:00 EST",
+          "summary": "In the third quarter of 2026 (3Q26), 23% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, down slightly from 24% in 3Q25. Between 3Q25 and 3Q26, hybrid electric vehicles continued to gain market share, reaching 16% of light-duty vehicle sales. Growth of hybrid electric vehicle sales has slowed this quarter as the aver"
+        },
         {
           "title": "U.S. small-scale solar generation has quadrupled in the last decade",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68324",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68225",
           "published": "Fri, 02 Oct 2026  09:00:00 EST",
           "summary": "U.S. natural gas production hit an all-time high in July 2026, driven primarily by increased output in the Permian Basin, according to our latest Natural Gas Monthly."
-        },
-        {
-          "title": "U.S. exports of propane reached records in the first half of 2026",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68244",
-          "published": "Thu, 01 Oct 2026  09:00:00 EST",
-          "summary": "U.S. propane exports increased to 2 million barrels per day (b/d) in the first half of 2026, 11% more than during the same period in 2025. Increased U.S. propane production and changing trade flows, particularly increased exports to India and other countries in South Asia, drove propane exports to a record high of 2.1 million (b/d) in April 2026. Since then, total propane exports, including export"
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Record Shipping Costs Force Oil Producers to Slash Prices",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Record-Shipping-Costs-Force-Oil-Producers-to-Slash-Prices.html",
-          "published": "Sun, 18 Oct 2026 18:00:00 -0500",
-          "summary": "Freight is reshaping global oil trade and the prices producers can command for their crude. Soaring shipping costs are pushing delivered prices beyond what refiners are willing to pay, forcing sellers to cut differentials or find buyers closer to home. With Chinese refiners inclined to wait for transport costs to ease, some producers are committing barrels for future loading at prices that leave l"
+          "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
+          "link": "https://oilprice.com/Energy/Energy-General/Robot-Wars-How-China-Has-the-Robotics-Industry-in-Its-Grip.html",
+          "published": "Mon, 19 Oct 2026 19:41:00 -0500",
+          "summary": "Last year, China started requiring export licenses for rare earth magnets. Within weeks, Elon Musk was telling investors that production of Tesla's Optimus robot had been affected. That's because every humanoid robot needs up to 4.5 kilos of rare earth magnets to move, and China makes more than 90% of the world's supply. It's exactly the problem REalloys (NASDAQ: ALOY) has been building to help so"
         },
         {
-          "title": "Hormuz Is Turning Shipping’s Fuel Bill Into a Supply Crisis",
-          "link": "https://oilprice.com/Geopolitics/Middle-East/Hormuz-Is-Turning-Shippings-Fuel-Bill-Into-a-Supply-Crisis.html",
-          "published": "Sun, 18 Oct 2026 16:00:00 -0500",
-          "summary": "The Hormuz crisis is not only hitting crude oil and gas, but also container shipping. It is also tightening its grip on global shipping through the fuel tanks of vessels carrying world trade. Disrupted exports, constrained refinery supplies, and increasingly unreliable deliveries are clearly at present pushing the bunker market into a dangerous position. Fuel remains available internationally, but"
+          "title": "UK Pays Record Sums to Balance Grid as Transmission Falls Behind",
+          "link": "https://oilprice.com/Energy/Energy-General/UK-Pays-Record-Sums-to-Balance-Grid-as-Transmission-Falls-Behind.html",
+          "published": "Mon, 19 Oct 2026 17:00:00 -0500",
+          "summary": "The UK is among the most ambitious states when it comes to a transition to a net-zero economy. Also, the UK is struggling with some of the highest electricity prices in Europe—and is paying significant sums to maintain grid balance, even when its wind installations are generating plenty of electricity. Normally, the cost of maintaining a balanced grid, meaning stable and secure supply of electrici"
         },
         {
-          "title": "The Nuclear Power Shortcut That Could Add Gigawatts to the U.S. Grid",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Nuclear-Power-Shortcut-That-Could-Add-Gigawatts-to-the-US-Grid.html",
-          "published": "Sun, 18 Oct 2026 14:00:00 -0500",
-          "summary": "The process of increasing the maximum power level at which a commercial nuclear power plant may operate is called a power uprate. Several nuclear plants are now considering applying for permission to uprate operations to produce more power in the mid-term to bridge the gap while more nuclear capacity is being developed. The United States Nuclear Regulatory Commission (NRC) regulates the maximum po"
+          "title": "Why Invading Iran Could Become America's Biggest Military Mistake",
+          "link": "https://oilprice.com/Energy/Energy-General/Why-Invading-Iran-Could-Become-Americas-Biggest-Military-Mistake.html",
+          "published": "Mon, 19 Oct 2026 16:00:00 -0500",
+          "summary": "The ghosts of Baghdad and Kabul should be enough to silence any talk of sending American troops into Iran. Yet here we are, more than seven months into a war that began on 28 February with U.S.-Israeli strikes that killed Supreme Leader Ali Khamenei, and voices in Washington and Tel Aviv are again whispering that only boots on the ground can finish the job. Plans to seize Kharg Island, Iran’s main"
         },
         {
-          "title": "Iran Faces Rising Threat From Within as Baluch Insurgency Escalates",
-          "link": "https://oilprice.com/Geopolitics/Middle-East/Iran-Faces-Rising-Threat-From-Within-as-Baluch-Insurgency-Escalates.html",
-          "published": "Sun, 18 Oct 2026 12:00:00 -0500",
-          "summary": "Iran's vast and restive southeastern province of Sistan-Baluchistan, located along the border with Afghanistan and Pakistan, has witnessed a deadly flare-up of violence in recent weeks. Armed groups and Iranian security forces have clashed almost daily across the impoverished province, the site of a decades-long, low-level insurgency. Separatist groups and Islamist militants in Sistan-Baluchistan,"
+          "title": "New Oil Fields Should Have to Build the Carbon Storage Market",
+          "link": "https://oilprice.com/Energy/Energy-General/New-Oil-Fields-Should-Have-to-Build-the-Carbon-Storage-Market.html",
+          "published": "Mon, 19 Oct 2026 15:00:00 -0500",
+          "summary": "The debate over new oil and gas fields usually ends in a familiar deadlock. Industry argues that production will still be needed for decades, supports jobs and reduces dependence on imports. Climate campaigners respond that every new field locks in emissions incompatible with net zero. Both sides then discuss carbon capture and storage as an afterthought: either a technological excuse for continue"
         },
         {
-          "title": "Electric Supercars Are Getting Faster, Smarter, and Harder to Ignore",
-          "link": "https://oilprice.com/Energy/Energy-General/Electric-Supercars-Are-Getting-Faster-Smarter-and-Harder-to-Ignore.html",
-          "published": "Sun, 18 Oct 2026 10:00:00 -0500",
-          "summary": "Electric vehicle (EV) and hybrid sales continue to rise, particularly in regions such as Europe and Asia, as people shift away from internal combustion engine (ICE) vehicles toward cleaner alternatives. However, there has long been a stigma surrounding high-end EVs and electric supercars, with most consumers sticking to the ICE versions. Now, several well-known automakers are offering hybrid and e"
+          "title": "Colombia’s Critical Minerals Could Be a Game Changer for America",
+          "link": "https://oilprice.com/Energy/Energy-General/Colombias-Critical-Minerals-Could-Be-a-Game-Changer-for-America.html",
+          "published": "Mon, 19 Oct 2026 14:00:00 -0500",
+          "summary": "Since taking office, Colombia’s far-right president, Abelardo de la Espriella, has moved aggressively to restore ties with Washington after relations frayed under Gustavo Petro. The rapprochement revives a decades-old strategic alliance that made Colombia one of Washington’s closest partners in Latin America. Early last month, the two countries agreed to deepen cooperation on critical minerals, in"
         },
         {
-          "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-          "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
-          "published": "Sat, 17 Oct 2026 18:00:00 -0500",
-          "summary": "During the first three months or so of the U.S. and Israeli war with Iran, the dominant mood on oil markets was that the conflict would end any day now. The brief June ceasefire reinforced that optimism, so it took a while longer for facts to be faced: the war would not end any day now. It might even extend into next year—and this means higher prices for a longer time. The ICE Brent crude futures "
+          "title": "The Sulfur Crisis Threatening the World's Food Supply",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Sulfur-Crisis-Threatening-the-Worlds-Food-Supply.html",
+          "published": "Mon, 19 Oct 2026 13:30:00 -0500",
+          "summary": "Sulfur has become an indispensable element for the modern industrial system, including agriculture. Before the outbreak of the Iran war, 24 percent of the world's supply of sulfur passed through the Strait of Hormuz. I can find no reliable information on whether sulfur is being shipped through the strait now after the Iranian government claimed control. I suspect the amount is close to zero. The s"
         },
         {
-          "title": "Middle East Chemicals Keep Their Cost Edge Despite Hormuz Crisis",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Middle-East-Chemicals-Keep-Their-Cost-Edge-Despite-Hormuz-Crisis.html",
-          "published": "Sat, 17 Oct 2026 16:00:00 -0500",
-          "summary": "Despite the Iran war and the Hormuz crisis, the Middle East’s low-cost chemicals production is set to retain its long-term advantage over other regions. Near-term shifts in the sourcing of polymers are taking place due to the current constraints in the Persian Gulf’s industrial base, benefiting U.S. chemicals companies. But in the long run, the Middle East is likely to retain its buyers’ base beca"
+          "title": "Qatar Offers Lebanon 2 Gas Plants and 20 Years of LNG Piped Through Syria",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Offers-Lebanon-2-Gas-Plants-and-20-Years-of-LNG-Piped-Through-Syria.html",
+          "published": "Mon, 19 Oct 2026 13:30:00 -0500",
+          "summary": "Qatar is offering to take over Lebanon's power supply problem at no upfront cost to Beirut. A draft program seen by Reuters has Qatar building two gas-fired power plants within three years and QatarEnergy supplying the gas under a 20-year LNG contract, with private financing in place of Lebanese public money. The document leaves payment obligations and guarantees open for negotiation, and Lebanon'"
         },
         {
-          "title": "Texas Researchers Say Permian Wastewater Could Cool AI Data Centers",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Texas-Researchers-Say-Permian-Wastewater-Could-Cool-AI-Data-Centers.html",
-          "published": "Sat, 17 Oct 2026 12:00:00 -0500",
-          "summary": "The artificial intelligence boom is placing a dangerous strain on the world’s water and energy resources. As hyperscalers build up resource-hungry data centers at a breakneck pace, demand projections for these finite resources are skyrocketing faster than policymakers can keep pace. But a new study from researchers at the University of Texas at Austin suggests that there may be a way to sustainabl"
+          "title": "Pakistan’s Growth Slows  as Hormuz Crisis Hits Industry",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistans-Growth-Slows-as-Hormuz-Crisis-Hits-Industry.html",
+          "published": "Mon, 19 Oct 2026 12:30:00 -0500",
+          "summary": "The Middle East crisis is threatening Pakistan’s tentative recovery from the brink with the help of the International Monetary Fund (IMF), as soaring energy prices and the lack of regular LNG supply from Qatar dragged growth in gross domestic product (GDP) well below analyst estimates. Pakistan’s economy grew by 2.0% in the quarter ended June, which is the fourth quarter of its fiscal year 2026, o"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Equinor keeps Odfjell Drilling semisub busy into late 2027",
-          "link": "https://splash247.com/equinor-keeps-odfjell-drilling-semisub-busy-into-late-2027/",
-          "published": "Fri, 16 Oct 2026 10:00:00 +0000",
-          "summary": "Norway’s Odfjell Drilling has secured more work for its Deepsea Atlantic semisubmersible drilling rig after compatriot energy major Equinor exercised options for two additional wells. The latest option exercise will keep the 2009-built rig employed until late in the fourth quarter of 2027, extending its existing contract without interruption. The additional wells will be drilled &#8230;"
+          "title": "Who owns shipping’s carbon decisions?",
+          "link": "https://splash247.com/who-owns-shippings-carbon-decisions/",
+          "published": "Tue, 20 Oct 2026 00:00:00 +0000",
+          "summary": "In an industry where a position list is a competitive weapon, the question is no longer just how to comply—but where carbon decisions are made and who controls the data behind them, said Argyris Zafeiropoulos, principal advisor at Resilience &#38; Compliance Advisory. With the EU Emissions Trading System fully phased into shipping and FuelEU Maritime &#8230;"
         },
         {
-          "title": "UK ports hit back at Brussels over ETS diversion claims",
-          "link": "https://splash247.com/uk-ports-hit-back-at-brussels-over-ets-diversion-claims/",
-          "published": "Fri, 16 Oct 2026 09:30:00 +0000",
-          "summary": "British ports have challenged European Union claims that shipping lines are diverting container traffic to the UK to escape carbon charges, warning that proposed anti-evasion measures risk penalising billions of pounds of investment in British terminals. The British Ports Association (BPA) has rejected findings from Spain&#8217;s EU ETS Observatory linking rising UK container activity to &#8230;"
+          "title": "EMGS lands offshore exploration survey award in Pakistan",
+          "link": "https://splash247.com/emgs-lands-offshore-exploration-survey-award-in-pakistan/",
+          "published": "Mon, 19 Oct 2026 12:00:00 +0000",
+          "summary": "Norwegian geophysical services specialist Electromagnetic Geoservices (EMGS) has secured a letter of award from Pakistan&#8217;s Mari Energies for controlled-source electromagnetic surveys across multiple offshore exploration blocks. The Oslo-based company said the programme would combine CSEM-derived resistivity information with seismic and geological data to improve prospect evaluation, reduce e"
         },
         {
-          "title": "International Seaways seals $370m Bruton takeover deal",
-          "link": "https://splash247.com/international-seaways-seals-370m-bruton-takeover-deal/",
-          "published": "Fri, 16 Oct 2026 08:15:57 +0000",
-          "summary": "New York-listed tanker owner International Seaways has struck a deal to take over Tor Olav Trøim-backed Bruton in a transaction valuing the Oslo-listed VLCC company at around $370m. The agreement, announced on Friday, will see the Lois Zabrocky-led group acquire Bruton&#8217;s entire four-ship supertanker portfolio, going considerably further than the sale of two newbuildings first &#8230;"
+          "title": "Ithaca Energy chief executive to retire",
+          "link": "https://splash247.com/ithaca-energy-chief-executive-to-retire/",
+          "published": "Mon, 19 Oct 2026 11:30:00 +0000",
+          "summary": "UK North Sea oil and gas producer Ithaca Energy has launched a search for a new chief executive after Luciano Vasques announced plans to retire by March 31, 2027. The company said its board has begun identifying a successor, with a further announcement to follow in due course to allow an orderly transition of responsibilities. &#8230;"
         },
         {
-          "title": "West Africa’s ore boom meets China’s growing VLOC armada",
-          "link": "https://splash247.com/west-africas-ore-boom-meets-chinas-growing-vloc-armada/",
-          "published": "Fri, 16 Oct 2026 08:00:10 +0000",
-          "summary": "West Africa is fast becoming dry bulk shipping&#8217;s biggest growth engine, with its mineral export boom poised to absorb the equivalent of another 120 capesizes by 2030. UK consultancy Tradeviews forecasts in a new report that shipments from the region will surge 50% from 2025 levels to 303m tonnes by the end of the decade, &#8230;"
+          "title": "Norway ends one offshore wage row only for Reach Subsea strike to begin",
+          "link": "https://splash247.com/norway-ends-one-offshore-wage-row-only-for-reach-subsea-strike-to-begin/",
+          "published": "Mon, 19 Oct 2026 11:00:00 +0000",
+          "summary": "Norway&#8217;s protracted offshore well services wage dispute has been settled through voluntary arbitration, even as a separate labour conflict has triggered a strike at subsea contractor Reach Subsea. An arbitration panel has ruled that wage and other provisions previously agreed under the Oil Services Agreement between employers&#8217; organisation Offshore Norge and trade union Styrke will &#8"
         },
         {
-          "title": "Splash Wrap: A missile from Riyadh",
-          "link": "https://splash247.com/splash-wrap-a-missile-from-riyadh/",
-          "published": "Fri, 16 Oct 2026 07:45:26 +0000",
-          "summary": "Ongoing attacks in Hormuz and the Black Sea dominated Splash coverage once again this week &#8211; both maritime theatres of war expanding worryingly. Another dangerous missile for tanker owners came from a conference in Saudi Arabia, where the US energy secretary was reported to have suggested the Trump administration was mulling easing sanctions on some &#8230;"
+          "title": "MSC-backed GCC expands car carrier spree with two more newbuilds",
+          "link": "https://splash247.com/msc-backed-gcc-expands-car-carrier-spree-with-two-more-newbuilds/",
+          "published": "Mon, 19 Oct 2026 10:20:00 +0000",
+          "summary": "MSC-controlled Global Car Carriers (GCC) has added another two large LNG dual-fuel car carriers in China, taking its rapidly expanding newbuilding programme to 22 ships. The former Gram Car Carriers has booked two 8,600 ceu pure car and truck carriers at Zhoushan Changhong International Shipyard, with both vessels scheduled for delivery in 2030. The latest &#8230;"
         },
         {
-          "title": "HMM commits $1.6bn to 12 more containerships",
-          "link": "https://splash247.com/hmm-commits-1-6bn-to-12-more-containerships/",
-          "published": "Fri, 16 Oct 2026 06:25:42 +0000",
-          "summary": "South Korea&#8217;s HMM is pressing ahead with its fleet expansion programme, approving a $1.62bn investment in 12 containerships comprising eight 13,000 teu newbuildings and four smaller vessels. The Seoul-listed carrier&#8217;s board approved spending KRW2.168trn ($1.617bn) yesterday, according to a stock exchange filing. The investment includes fresh orders for eight 13,000 teu ships, alongside"
+          "title": "Nanjing Tanker picks Dalian for LR2 quartet",
+          "link": "https://splash247.com/nanjing-tanker-picks-dalian-for-lr2-quartet/",
+          "published": "Mon, 19 Oct 2026 10:00:00 +0000",
+          "summary": "China Merchants-controlled Nanjing Tanker has selected Dalian Shipbuilding Industry Corporation (DSIC) to build four more LR2 product and crude tankers, taking its planned newbuilding programme in the segment at the Chinese yard to six vessels. The Shanghai-listed owner named DSIC as the winning bidder, following a tender launched last month. The newbuildings will have to &#8230;"
         },
         {
-          "title": "Liquimar lines up suezmax trio at New Hantong",
-          "link": "https://splash247.com/liquimar-lines-up-suezmax-trio-at-new-hantong/",
-          "published": "Fri, 16 Oct 2026 05:43:00 +0000",
-          "summary": "Greek tanker owner Liquimar Tankers has been linked to an order for three suezmax newbuildings in China, adding fresh crude carrier capacity after cashing in on the strong secondhand tanker market. The Dimitris Papadimitriou-controlled company has contracted three 157,000 dwt vessels at Jiangsu New Hantong Ship Heavy Industry, according to shipbuilding sources. The conventionally fuelled &#8230;"
+          "title": "Hai An lines up $70m feeder newbuild investment",
+          "link": "https://splash247.com/hai-an-lines-up-70m-feeder-newbuild-investment/",
+          "published": "Mon, 19 Oct 2026 09:40:00 +0000",
+          "summary": "Vietnamese shipowner Hai An Transport and Stevedoring has approved an investment of up to $70m in two feeder containerships at a Chinese shipyard, adding another pair of vessels to its expanding newbuilding programme. The Ho Chi Minh Stock Exchange-listed company has outlined plans for two 1,928 teu vessels at Guangzhou Wenchong Shipyard, with China Shipbuilding &#8230;"
         },
         {
-          "title": "Chemnav steps up suezmax bet with Jinglu pair",
-          "link": "https://splash247.com/chemnav-steps-up-suezmax-bet-with-jinglu-pair/",
-          "published": "Fri, 16 Oct 2026 05:07:00 +0000",
-          "summary": "Greek tanker owner Chemnav Shipmanagement has expanded its suezmax newbuilding programme with two more vessels in China, taking its orderbook in the segment to four ships. The Paul Coronis-backed company has been linked by shipbroking sources to a contract for two 158,000 dwt crude carriers at Penglai Zhongbai Jinglu Ship Industry, with deliveries expected in &#8230;"
+          "title": "MSC joins Rheinmetall in €138m Romanian shipyard takeover",
+          "link": "https://splash247.com/msc-joins-rheinmetall-in-e138m-romanian-shipyard-takeover/",
+          "published": "Mon, 19 Oct 2026 09:30:00 +0000",
+          "summary": "Mediterranean Shipping Co (MSC) has been confirmed as a joint buyer of Romania&#8217;s bankrupt Mangalia shipyard, teaming up with German defence giant Rheinmetall in a €138m deal to revive one of Europe&#8217;s largest shipbuilding facilities. As Splash reported last week, Rheinmetall secured the Black Sea yard at auction, but today&#8217;s announcement confirms that the Aponte-controlled &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Former Singapore Bunker Supplier Toyota Tsusho Petroleum Enters Liquidation",
-          "link": "https://shipandbunker.com/news/apac/967214-former-singapore-bunker-supplier-toyota-tsusho-petroleum-enters-liquidation",
-          "published": "Fri, 16 Oct 2026 17:39:00 +0000",
-          "summary": "The firm was removed from the Maritime and Port Authority of Singapore&#039;s list of licensed bunker suppliers in 2023."
+          "title": "SIBCON2026: LNG Bunkering Set to Double in Three Years, and Barges Beyond the Primary Ports Are the Pressure Points",
+          "link": "https://shipandbunker.com/news/apac/438011-sibcon2026-lng-bunkering-set-to-double-in-three-years-and-barges-beyond-the-primary-ports-are-the-pressure-points",
+          "published": "Mon, 19 Oct 2026 13:17:00 +0000",
+          "summary": "Key takeaways from the panel on LNG investment, market share, and emissions management."
         },
         {
-          "title": "AMS Barging Adds Diesel-Electric Tanker to Fleet",
-          "link": "https://shipandbunker.com/news/emea/406578-ams-barging-adds-diesel-electric-tanker-to-fleet",
-          "published": "Fri, 16 Oct 2026 11:36:44 +0000",
-          "summary": "The vessel is designed to carry out methanol bunkering in the future."
+          "title": "IBT Bunkering & Trading Appoints Sales Support Specialist in Hamburg",
+          "link": "https://shipandbunker.com/news/emea/613495-ibt-bunkering-trading-appoints-sales-support-specialist-in-hamburg",
+          "published": "Mon, 19 Oct 2026 10:21:41 +0000",
+          "summary": "Björn Hauschild joined the firm as a sales support specialist this month."
         },
         {
-          "title": "Oil Jumps On Hormuz Attacks As Washington Plans To Drop \"The Mother Of All Bombs\" On Iran",
-          "link": "https://shipandbunker.com/news/world/612192-oil-jumps-on-hormuz-attacks-as-washington-plans-to-drop-the-mother-of-all-bombs-on-iran",
-          "published": "Fri, 16 Oct 2026 10:00:00 +0000",
-          "summary": "Meanwhile, Ukraine vows to keep striking Russian refineries."
+          "title": "Oil Mixed As Iran And Proxy Attacks Shrugged Off By Traders",
+          "link": "https://shipandbunker.com/news/world/955029-oil-mixed-as-iran-and-proxy-attacks-shrugged-off-by-traders",
+          "published": "Mon, 19 Oct 2026 10:03:00 +0000",
+          "summary": "Instead, focus is narrowing on Trump&#039;s diesel deal with Russia."
         },
         {
-          "title": "Fujairah Bunker Sales Recover Some but Remain More Than Half Below Last Year",
-          "link": "https://shipandbunker.com/news/world/601746-fujairah-bunker-sales-recover-some-but-remain-more-than-half-below-last-year",
-          "published": "Fri, 16 Oct 2026 09:34:17 +0000",
-          "summary": "Bunker sales have rebounded from June&#039;s record low, but year-to-date volumes remain more than half of last year."
+          "title": "Malaysia Detains Tanker for Alleged Anchoring Without Permission",
+          "link": "https://shipandbunker.com/news/apac/102914-malaysia-detains-tanker-for-alleged-anchoring-without-permission",
+          "published": "Mon, 19 Oct 2026 08:41:33 +0000",
+          "summary": "The tanker is alleged to have anchored without authorisation from the authorities."
         },
         {
-          "title": "BUNKER JOBS: Peninsula Seeks LNG Supply Trader in Singapore",
-          "link": "https://shipandbunker.com/news/world/621224-bunker-jobs-peninsula-seeks-lng-supply-trader-in-singapore",
-          "published": "Fri, 16 Oct 2026 07:24:19 +0000",
-          "summary": "The company is looking for candidates to support its LNG bunkering business in Asian ports."
+          "title": "Avenir LNG Launches Second Bunkering Vessel in China",
+          "link": "https://shipandbunker.com/news/world/536910-avenir-lng-launches-second-bunkering-vessel-in-china",
+          "published": "Mon, 19 Oct 2026 08:21:10 +0000",
+          "summary": "The vessel was launched into the water at the Nantong CIMC Sinopacific Offshore &amp; Engineering Co. shipyard last week."
         },
         {
-          "title": "IINO Lines Deploys LPG Dual-Fuel VLGC on Borouge Charter",
-          "link": "https://shipandbunker.com/news/apac/480201-iino-lines-deploys-lpg-dual-fuel-vlgc-on-borouge-charter",
-          "published": "Fri, 16 Oct 2026 07:06:39 +0000",
-          "summary": "LPG remains a niche marine fuel, with its use largely concentrated in the gas carrier segment."
+          "title": "Guangzhou Port Conducts First Methanol Bunkering for RoRo Vessel",
+          "link": "https://shipandbunker.com/news/apac/207680-guangzhou-port-conducts-first-methanol-bunkering-for-roro-vessel",
+          "published": "Mon, 19 Oct 2026 07:48:21 +0000",
+          "summary": "The vessel departed to Europe after the bunkering methanol at the Chinese port."
         },
         {
-          "title": "Norsepower Fits Six Rotor Sails on Dual-Fuel Methanol RoRo Ship",
-          "link": "https://shipandbunker.com/news/emea/492524-norsepower-fits-six-rotor-sails-on-dual-fuel-methanol-roro-ship",
-          "published": "Fri, 16 Oct 2026 06:39:23 +0000",
-          "summary": "The company claims it is the largest RoRo ship fitted with a wind propulsion system."
+          "title": "Singapore, Indonesia and Malaysia Test Joint Oil Spill Response",
+          "link": "https://shipandbunker.com/news/apac/740057-singapore-indonesia-and-malaysia-test-joint-oil-spill-response",
+          "published": "Mon, 19 Oct 2026 07:18:02 +0000",
+          "summary": "The exercise tested cross-border coordination and explored the use of emerging technologies in oil spill response."
         },
         {
-          "title": "Maritima Starts Building Bunker Vessel Capable of Supplying Methanol",
-          "link": "https://shipandbunker.com/news/emea/977148-maritima-starts-building-bunker-vessel-capable-of-supplying-methanol",
-          "published": "Fri, 16 Oct 2026 06:08:00 +0000",
-          "summary": "The 4,300 DWT vessel is expected to be delivered in 2028 and will operate in southern France."
+          "title": "Germany Adopts National Plan for Climate-Friendly Shipping",
+          "link": "https://shipandbunker.com/news/emea/460050-germany-adopts-national-plan-for-climate-friendly-shipping",
+          "published": "Mon, 19 Oct 2026 06:41:31 +0000",
+          "summary": "Germany has adopted a plan to cut shipping emissions, backed by €400 million in new funding."
         }
       ]
     },
@@ -232,6 +232,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "And the FTAV charts quiz winner is . . .",
+          "link": "https://www.ft.com/content/eaa86af0-5183-4c3c-a697-c55fc04e4147",
+          "published": "Mon, 19 Oct 2026 09:43:47 GMT",
+          "summary": "Capital punishment"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/f5ee9924-0509-4a34-a347-c22278f023c6",
+          "published": "Mon, 19 Oct 2026 07:13:38 GMT",
+          "summary": "Business schools; chatbot sales; real earths; journals; maths; CoreWeave; and Cyberspace"
+        },
+        {
+          "title": "Has America’s wave of anti-globalisation populism peaked?",
+          "link": "https://www.ft.com/content/ba3b9244-bf94-4c3f-a89b-b761488fd71d",
+          "published": "Mon, 19 Oct 2026 05:00:06 GMT",
+          "summary": "When voters turn, leaders follow"
+        },
         {
           "title": "It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!",
           "link": "https://www.ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18",
@@ -261,24 +279,6 @@
           "link": "https://www.ft.com/content/d36787c1-f0b0-4445-8237-90eb4d521081",
           "published": "Fri, 16 Oct 2026 05:00:08 GMT",
           "summary": "Beat IT"
-        },
-        {
-          "title": "CoreWeave’s bonds scream financial distress",
-          "link": "https://www.ft.com/content/8171ef4a-b291-4375-bc85-87bee0f8bf7b",
-          "published": "Thu, 15 Oct 2026 09:17:23 GMT",
-          "summary": "The company better hurry up figuring out how to tap insurers for cash"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/c9ddcef8-a149-4273-a883-d6b33ef53bfa",
-          "published": "Thu, 15 Oct 2026 06:30:09 GMT",
-          "summary": "RIP Mehrling; rare earths; American electricity; Character.ai; bonds vs equities; dark matter"
-        },
-        {
-          "title": "Macro analysts: in aggregate, not useless",
-          "link": "https://www.ft.com/content/f3c93f16-28f0-4f67-a5e5-b3f6fae7bfd3",
-          "published": "Thu, 15 Oct 2026 05:30:09 GMT",
-          "summary": "One must consider sellsiders happy"
         }
       ]
     },
