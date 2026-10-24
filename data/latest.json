@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-23T01:21:04+00:00",
-  "take": "US refinery utilisation averaging above 95% between May and September, the highest for those months since 1998, is the key crude-to-products signal, implying strong run rates that underpin crude demand whilst keeping product cracks honest into the winter. The second theme is freight and macro: the global shipbuilding orderbook has surpassed its 2008 peak with Chinese yards tightening their grip, and LNG shipping is being reshaped by the near-paralysis of Gulf exports redirecting cargoes across oceans, both of which extend tonne-miles and support bunker demand even as dual-fuel container and vehicle carrier fleets pass 500 vessels. On flows, China’s rising crude imports are reducing its need to draw from its 1.3-billion-barrel strategic stash, a shift that removes a latent source of marginal demand and bears watching for spot crude balances. The cross-market link sits in Europe’s carbon market, where proposed shipping subsidies could make BioLNG cheaper than fuel oil, tilting the bunker complex away from residual fuel oil and into gas-derived alternatives. Watch in the next 24 hours for any escalation in the Iran attacks that have pushed oil into overbought territory for the third time this week, and for confirmation of Chinese import momentum against the inventory drawdown story.",
+  "generated_at_utc": "2026-10-24T01:25:44+00:00",
+  "take": "Brent’s creep towards $120 on escalating Saudi-Houthi tensions is the dominant story, with the US already tapping the SPR to keep crude flowing to a Louisiana refinery as prices climb above $117, which keeps the whole curve bid and product cracks firm. The freight and macro backdrop is thinner but relevant: Rio Tinto’s $1.9bn Queensland bauxite expansion includes export upgrades for larger capesizes, a slow-burn tonne-mile positive for dry bulk, whilst the European Parliament’s postponement of EU methane rules signals Brussels prioritising energy security over compliance costs. Positioning is the angle to watch, with the CFTC scrutinising a 6-million-barrel futures sale executed in two minutes on 23 March ahead of Trump’s climbdown on Iran, and the rig count flat for a second week despite the price surge. The cross-market link sits in the bunker complex, where Gibraltar bunker calls rose 10.6% in the first nine months and September’s 477 calls edged up from 431 a year earlier, keeping VLSFO demand supported as crude rallies. For the next 24 hours, watch whether Brent clears $120 and whether the US-Iran war resumption analysts now concede feeds through into product cracks and bunker premiums.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "LNG Canada Doubles Capacity as Asia Looks Beyond the Gulf",
-          "link": "https://oilprice.com/Energy/Natural-Gas/LNG-Canada-Doubles-Capacity-as-Asia-Looks-Beyond-the-Gulf.html",
-          "published": "Thu, 22 Oct 2026 19:00:00 -0500",
-          "summary": "Last month, Shell (NYSE:SHEL), alongside Malaysia's PETRONAS, China's PetroChina, Mitsubishi Corporation and KOGAS, officially approved the Final Investment Decision (FID) for the LNG Canada Phase 2 expansion project, doubling the facility's capacity to 28 million tons per annum (mtpa) and reinforcing the country's potential as a significant long-term supplier to Asian markets. Together with Cedar"
+          "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+          "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+          "published": "Fri, 23 Oct 2026 18:00:00 -0500",
+          "summary": "On October 9, hours after a phone call between President Trump and President Putin, the Treasury Department issued a six-month waiver allowing Russian diesel to be sold on the global market. The stated aim is to bring down fuel prices before the November 3 midterms. But I believe the deal is more consequential than that. It fits a larger strategy: for the United States to control as much of the wo"
         },
         {
-          "title": "Rising Crude Oil Imports Reduce China’s Need to Draw from Stocks",
-          "link": "https://oilprice.com/Energy/Energy-General/Rising-Crude-Oil-Imports-Reduce-Chinas-Need-to-Draw-from-Stocks.html",
-          "published": "Thu, 22 Oct 2026 18:00:00 -0500",
-          "summary": "China has relied on its huge crude oil inventories since the Iran war hiked oil prices to above $100 per barrel. The world’s biggest crude importer has drawn from its 1.3-billion-barrel stash for most of the months after March as it slashed imports amid soaring prices. The stock draws, and the reduced imports in the spring and summer, have even kept benchmark crude oil prices in check despite the "
+          "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
+          "published": "Fri, 23 Oct 2026 17:30:00 -0500",
+          "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency exchange of up to 400,000 barrels to Phillips 66's Lake Charles refinery, citing a temporary disrup"
         },
         {
-          "title": "EU’s Arctic Strategy Excludes Oil and Gas",
-          "link": "https://oilprice.com/Energy/Natural-Gas/EUs-Arctic-Strategy-Excludes-Oil-and-Gas.html",
-          "published": "Thu, 22 Oct 2026 17:00:00 -0500",
-          "summary": "The European Union will shun crude oil and natural gas produced from fields in the Arctic, recommending that these “stay in the ground” under its new Arctic strategy released this week. The reiteration of the EU’s stance on Arctic hydrocarbons comes amid a severe fuel crisis and soaring gas prices ahead of winter peak demand season. The update on the Arctic strategy of the bloc that has quite limi"
+          "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+          "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
+          "published": "Fri, 23 Oct 2026 17:00:00 -0500",
+          "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenures, they have not touched one very important commodity – oil and gas. This is because the nations ar"
         },
         {
-          "title": "Electric Giants Say They Already Have the Tools to Fix the AI Power Crunch",
-          "link": "https://oilprice.com/Energy/Energy-General/Electric-Giants-Say-They-Already-Have-the-Tools-to-Fix-the-AI-Power-Crunch.html",
-          "published": "Thu, 22 Oct 2026 16:00:00 -0500",
-          "summary": "The energy demand boom being driven by the artificial intelligence era is placing unprecedented strain on global energy infrastructure. Not only are the world’s energy production capacities – and especially clean energy production capacities – dwarfed by projected data center energy demand curves in coming years, the physical infrastructure needed to build and sustain never-before-seen rates of el"
+          "title": "NASA's Freeze-Resistant Moon Battery Could Eventually Reach EVs",
+          "link": "https://oilprice.com/Energy/Energy-General/NASAs-Freeze-Resistant-Moon-Battery-Could-Eventually-Reach-EVs.html",
+          "published": "Fri, 23 Oct 2026 15:00:00 -0500",
+          "summary": "The United States’ National Aeronautics and Space Administration (NASA) has developed a revolutionary new battery that could power the country’s return to the moon while potentially also revolutionizing the way that we power electric vehicles here on Earth. The new technology can function at extremely cold temperatures, opening new possibilities for powering lunar rovers and tools, and could event"
         },
         {
-          "title": "Why Fossil Fuel Demand Can Rise Even as Clean Energy Wins Terrain",
-          "link": "https://oilprice.com/Energy/Energy-General/Why-Fossil-Fuel-Demand-Can-Rise-Even-as-Clean-Energy-Wins-Terrain.html",
-          "published": "Thu, 22 Oct 2026 15:00:00 -0500",
-          "summary": "French historian Jean-Baptiste Fressoz has offered energy-transition skeptics an appealing historical argument. In More and More and More, he argues that humanity has never really moved from one energy source to another. Wood was joined by coal, coal by oil, oil by gas and all of them by renewables. Energy sources accumulate rather than replace one another. Global primary-energy charts make the ar"
+          "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
+          "published": "Fri, 23 Oct 2026 12:20:00 -0500",
+          "summary": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal regulator overseeing those trades says it has been looking into the activity. Commodity Futures Trading Commission Chairman Michael Selig said Friday that the agency's enforcement "
         },
         {
-          "title": "Asia Needs $1 Trillion a Year to Secure Energy Supplies",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/Asia-Needs-1-Trillion-a-Year-to-Secure-Energy-Supplies.html",
-          "published": "Thu, 22 Oct 2026 15:00:00 -0500",
-          "summary": "Asia will need as much as $1 trillion annually in energy investment over the next 15 years to meet rising demand and reduce its exposure to supply disruptions, according to a McKinsey report released Thursday. That amounts to $15 trillion through 2040, with the Iran war exposing just how vulnerable the region remains to disruptions in oil and gas shipments through the Strait of Hormuz. McKinsey no"
+          "title": "U.S. Rig Count Holds Steady as Oil Prices Surge",
+          "link": "https://oilprice.com/Energy/Energy-General/US-Rig-Count-Holds-Steady-as-Oil-Prices-Surge.html",
+          "published": "Fri, 23 Oct 2026 12:16:20 -0500",
+          "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged for the second week in a row this week, according to new data that Baker Hughes published on Friday, with the total rig count in the US staying at 603, up 53 from this same time last year. The number of active oil rigs rose by 1, to 460 during the latest reporting period, according to the data. This is"
         },
         {
-          "title": "Strathcona Pitches 250,000-Bpd Oil Export Route to Asia",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Strathcona-Pitches-250000-Bpd-Oil-Export-Route-to-Asia.html",
-          "published": "Thu, 22 Oct 2026 14:00:00 -0500",
-          "summary": "Canadian oil producer Strathcona Resources wants to export up to 250,000 barrels per day of crude from British Columbia’s northern coast using rail shipments and a new marine terminal to reach Asian markets. But first, it needs Ottawa to make an exception to its oil tanker ban. Strathcona Chairman Adam Waterous told Bloomberg that the company plans to approach Prime Minister Mark Carney’s governme"
+          "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+          "link": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
+          "published": "Fri, 23 Oct 2026 11:30:00 -0500",
+          "summary": "Brent crude nears $120 as escalating Saudi-Houthi tensions fuel another weekly oil price rally, putting fresh pressure on Trump. Friday, October 23, 2026 The slow creep of oil prices towards the $120 per barrel mark is a nightmarish scenario for US President Trump, even though there has been little fundamental change in the crude oil markets. A slight drop in freight rates and a ubiquitous flatten"
         },
         {
-          "title": "EU’s Proposed Shipping Subsidies Could Make BioLNG Cheaper Than Fuel Oil",
-          "link": "https://oilprice.com/Energy/Energy-General/EUs-Proposed-Shipping-Subsidies-Could-Make-BioLNG-Cheaper-Than-Fuel-Oil.html",
-          "published": "Thu, 22 Oct 2026 13:00:00 -0500",
-          "summary": "Europe’s carbon market could soon start paying shipowners to switch fuels, but the support on offer is far from equal. In July, the European Commission proposed a revision of the European Union’s Emissions Trading System that would reserve up to 110 million allowances between 2028 and 2040 for a new Sustainable Maritime Alternative Propulsion (SMAP) mechanism, which is meant to cover part of the p"
+          "title": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
+          "link": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html",
+          "published": "Fri, 23 Oct 2026 11:00:00 -0500",
+          "summary": "US officials publicly accused Russia of threatening a Finnish-operated commercial satellite that provides imagery and intelligence to Ukraine and other nations, calling the move \"deliberately reckless.\" In response to the accusations, made during a United Nations debate on October 21, Russia broadly described US claims as \"absurd\" and accused Washington of its own \"aggressive military space ambiti"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Marco Polo Marine expands Korean offshore push with new JV",
-          "link": "https://splash247.com/marco-polo-marine-expands-korean-offshore-push-with-new-jv/",
-          "published": "Thu, 22 Oct 2026 13:36:25 +0000",
-          "summary": "Singapore-listed offshore vessel owner and shipyard group Marco Polo Marine has established a joint venture in South Korea with local partner NSEL, strengthening its presence in the country&#8217;s offshore vessel market. The new company, Baramgil Offshore, will focus on vessel operations, management and chartering, with NSEL holding a 51% stake and Baramgil Corporation taking the &#8230;"
+          "title": "OEG books three more offshore wind CTVs at Diverse Marine",
+          "link": "https://splash247.com/oeg-books-three-more-offshore-wind-ctvs-at-diverse-marine/",
+          "published": "Fri, 23 Oct 2026 09:58:00 +0000",
+          "summary": "UK offshore services player OEG Marine Services has ordered three crew transfer vessels (CTVs) from Isle of Wight shipbuilder Diverse Marine as part of its offshore wind fleet expansion and renewal programme. The vessels, based on Chartwell Marine&#8217;s Brevity SL class design, are scheduled for delivery throughout 2027. Each vessel will measure 26 m in &#8230;"
         },
         {
-          "title": "Eastern Pacific takes wraps off first ammonia dual-fuel VLAC",
-          "link": "https://splash247.com/eastern-pacific-takes-wraps-off-first-ammonia-dual-fuel-vlac/",
-          "published": "Thu, 22 Oct 2026 10:30:00 +0000",
-          "summary": "Idan Ofer&#8217;s Eastern Pacific Shipping (EPS) has named its first ammonia dual-fuel very large ammonia carrier (VLAC) at HD Hyundai Heavy Industries in South Korea, bringing the 93,000 cu m vessel closer to its commercial debut. The Singapore-based owner christened the vessel Terra Clove at the Ulsan yard, with delivery scheduled for November following sea &#8230;"
+          "title": "Rio Tinto targets larger capesizes in $1.9bn Australian bauxite push",
+          "link": "https://splash247.com/rio-tinto-targets-larger-capesizes-in-1-9bn-australian-bauxite-push/",
+          "published": "Fri, 23 Oct 2026 09:28:00 +0000",
+          "summary": "Mining giant Rio Tinto has approved a $1.9bn investment in a major bauxite expansion in Australia&#8217;s Queensland state, including an upgrade of its export facilities to accommodate larger capesize bulk carriers. The Kangwinan project on the western Cape York Peninsula will add 20m tonnes of annual bauxite production capacity, with first output targeted for 2029 &#8230;"
         },
         {
-          "title": "Viridien sharpens exploration picture beyond Guyana’s Stabroek block",
-          "link": "https://splash247.com/viridien-sharpens-exploration-picture-beyond-guyanas-stabroek-block/",
-          "published": "Thu, 22 Oct 2026 09:59:00 +0000",
-          "summary": "French geophysical company Viridien has launched the first phase of a major seismic reimaging programme offshore Guyana, targeting more than 10,000 sq km of existing 3D data in and around the country&#8217;s emerging shallow-water exploration acreage. The project covers the Kaieteur, Georgetown, Kanuku, and Corentyne legacy surveys and is intended to sharpen subsurface imaging updip &#8230;"
+          "title": "Fatigue, fear and the flaws in shipping’s safety data",
+          "link": "https://splash247.com/fatigue-fear-and-the-flaws-in-shippings-safety-data/",
+          "published": "Fri, 23 Oct 2026 08:15:54 +0000",
+          "summary": "Seafarer fatigue, mental health and reluctance to report mistakes should become key considerations for marine insurers, banks and investors, according to new research warning that shipping is overlooking significant commercial risks hidden in its own data. The Sustainable Shipping Initiative&#8217;s (SSI) From Welfare to Risk report, published yesterday, examines 68 sources spanning accident inves"
         },
         {
-          "title": "Seven Yield secures Chinese charter deal for car carrier pair",
-          "link": "https://splash247.com/seven-yield-secures-chinese-charter-deal-for-car-carrier-pair/",
-          "published": "Thu, 22 Oct 2026 09:40:34 +0000",
-          "summary": "Luxembourg-incorporated shipowner Seven Yield has secured five-year time charters for two LNG-powered car carriers with a major Chinese automobile manufacturer, extending employment for the vessels into the next decade. The agreements cover the 2020-built, 7,500 ceu sisterships Siem Confucius and Siem Aristotle, with the new charters scheduled to start in 2027 and 2028, respectively. Seven &#8230;"
+          "title": "Sierra Leone launches Chinese-backed national shipping company",
+          "link": "https://splash247.com/sierra-leone-launches-chinese-backed-national-shipping-company/",
+          "published": "Fri, 23 Oct 2026 08:00:58 +0000",
+          "summary": "Sierra Leone has launched a new national shipping company backed by China&#8217;s Zhejiang Xiehai Group, with ambitions to develop a fleet of 50 vessels and capture a greater share of the country&#8217;s international cargo trade. President Julius Maada Bio inaugurated Sierra Leone Ocean Shipping Company (SLOSCO) at Queen Elizabeth II Quay in Freetown earlier this &#8230;"
         },
         {
-          "title": "Maersk Tankers lines up EU backing for four VLAC ammonia conversions",
-          "link": "https://splash247.com/maersk-tankers-lines-up-eu-backing-for-four-vlac-ammonia-conversions/",
-          "published": "Thu, 22 Oct 2026 09:30:00 +0000",
-          "summary": "Danish shipowner Maersk Tankers has moved closer to converting four very large ammonia carriers to run on the cargo they transport after its retrofit proposal was selected for support under the European Union&#8217;s Innovation Fund. The project, known as RIPPLE, involves installing dual-fuel, two-stroke ammonia engines on four vessels in the company&#8217;s expanding gas carrier &#8230;"
+          "title": "Splash Wrap: Sanctions, spreadsheets and shipyards",
+          "link": "https://splash247.com/splash-wrap-sanctions-spreadsheets-and-shipyards/",
+          "published": "Fri, 23 Oct 2026 07:45:35 +0000",
+          "summary": "The Trump administration has begun authorising the sale of sanctioned oil tankers to approved investors who must then refurbish the vessels before returning them to legitimate crude trades, US energy secretary Chris Wright revealed on Monday, as Washington scrambles to contain soaring freight costs amid the Hormuz crisis. Attacks continued in the region, with traffic &#8230;"
         },
         {
-          "title": "Global shipbuilding boom moves into overdrive",
-          "link": "https://splash247.com/global-shipbuilding-boom-moves-into-overdrive/",
-          "published": "Thu, 22 Oct 2026 08:16:42 +0000",
-          "summary": "The global shipbuilding boom is gathering pace, with orderbooks surpassing their previous 2008 peak, Chinese yards tightening their grip on the market and tanker owners increasingly turning to inexperienced builders to secure delivery slots. New figures from BIMCO put the global orderbook at 203.2m compensated gross tonnes (cgt) at the start of September, up 13% &#8230;"
+          "title": "Icon Energy faces shareholder revolt over dilution",
+          "link": "https://splash247.com/icon-energy-faces-shareholder-revolt-over-dilution/",
+          "published": "Fri, 23 Oct 2026 07:30:14 +0000",
+          "summary": "Nasdaq-listed Greek dry bulk owner Icon Energy is facing pressure from a significant shareholder to overhaul its capital structure and board, following accusations that repeated equity issuances have heavily diluted ordinary investors. Canada&#8217;s Hampton Financial, which holds 325,000 Icon shares representing approximately 9% of the company, has disclosed a letter sent to Icon&#8217;s manageme"
         },
         {
-          "title": "China adds new state-owned shipbuilding player in Guangzhou",
-          "link": "https://splash247.com/china-adds-new-state-owned-shipbuilding-player-in-guangzhou/",
-          "published": "Thu, 22 Oct 2026 07:56:26 +0000",
-          "summary": "Guangzhou has formally launched a new state-owned maritime industrial group as the southern Chinese shipbuilding hub looks to expand its manufacturing capacity and bring more of the industry&#8217;s supply chain under local ownership. Guangzhou Marine Equipment Group, established with registered capital of RMB2bn ($300m), has begun operations following an unveiling ceremony this week. The company "
+          "title": "Laskaridis linked to $312m newcastlemax order in China",
+          "link": "https://splash247.com/laskaridis-linked-to-312m-newcastlemax-order-in-china/",
+          "published": "Fri, 23 Oct 2026 07:00:35 +0000",
+          "summary": "Greek shipowner Panos Laskaridis is making a return to the newcastlemax newbuilding market, with his Lavinia Bulkers linked to an order for four vessels worth around $312m in China. Shipbroking sources have identified Zhoushan Changhong International Shipyard as the builder of the 212,000 dwt bulkers, with delivery scheduled for 2030. The reported contract is valued &#8230;"
         },
         {
-          "title": "A new world order emerges in LNG shipping",
-          "link": "https://splash247.com/a-new-world-order-emerges-in-lng-shipping/",
-          "published": "Thu, 22 Oct 2026 07:43:17 +0000",
-          "summary": "The world&#8217;s LNG trading map is undergoing its biggest upheaval in years, with the near-paralysis of Gulf exports redirecting cargoes across oceans, forcing Asian buyers towards alternative suppliers and pushing European gas prices to their highest levels since 2022. While gas prices approach $30 per million British thermal units, LNG carrier spot earnings remain remarkably &#8230;"
+          "title": "Taylor Maritime agrees final owned bulker sale ahead of London exit",
+          "link": "https://splash247.com/taylor-maritime-agrees-final-owned-bulker-sale-ahead-of-london-exit/",
+          "published": "Fri, 23 Oct 2026 06:00:35 +0000",
+          "summary": "London-listed Taylor Maritime has agreed to sell its last owned bulk carrier for $15.1m, taking its fleet disposal programme to 56 vessels and putting total proceeds on course to reach almost $933m. The Ed Buttery-led company said the final sale is expected to complete in December, bringing to an end a three-year selling campaign that &#8230;"
         }
       ]
     },
@@ -177,52 +177,52 @@
       "count": 8,
       "items": [
         {
-          "title": "VIEWPOINT: Carbon Capture Needs a Business Case, Not Just a Safety Framework",
-          "link": "https://shipandbunker.com/news/world/709723-viewpoint-carbon-capture-needs-a-business-case-not-just-a-safety-framework",
-          "published": "Fri, 23 Oct 2026 00:55:00 +0000",
-          "summary": "Safety guidelines alone will not make onboard carbon capture commercially viable, writes EmissionLink&#039;s Philippos Ioulianou."
+          "title": "Oil Climbs To Six-Month High As Analysts Concede U.S./Iran War May Soon Resume",
+          "link": "https://shipandbunker.com/news/world/545569-oil-climbs-to-six-month-high-as-analysts-concede-usiran-war-may-soon-resume",
+          "published": "Fri, 23 Oct 2026 12:20:00 +0000",
+          "summary": "Meanwhile, the U.S. continues to tout its energy security."
         },
         {
-          "title": "Iran Attacks Push Oil Into Overbought Territory For Third Time In A Week",
-          "link": "https://shipandbunker.com/news/world/957575-iran-attacks-push-oil-into-overbought-territory-for-third-time-in-a-week",
-          "published": "Thu, 22 Oct 2026 12:50:00 +0000",
-          "summary": "Iran is growing more desperate - &quot;and even more dangerous&quot;: analyst."
+          "title": "Amogy to Test Ammonia Cracking Technology in Singapore",
+          "link": "https://shipandbunker.com/news/apac/934964-amogy-to-test-ammonia-cracking-technology-in-singapore",
+          "published": "Fri, 23 Oct 2026 10:42:14 +0000",
+          "summary": "The pilot aims to produce up to 1 mt/day of hydrogen when the system is deployed in 2027."
         },
         {
-          "title": "Dual-Fuel Container Ship and Vehicle Carrier Fleet Surpasses 500: WSC",
-          "link": "https://shipandbunker.com/news/world/666347-dual-fuel-container-ship-and-vehicle-carrier-fleet-surpasses-500-wsc",
-          "published": "Thu, 22 Oct 2026 10:53:20 +0000",
-          "summary": "Despite the growth in dual-fuel orders, the WSC says conventional-fuelled ship orders have also risen amid regulatory uncertainty."
+          "title": "Port of Riga Explores Green Methanol Bunkering",
+          "link": "https://shipandbunker.com/news/emea/997370-port-of-riga-explores-green-methanol-bunkering",
+          "published": "Fri, 23 Oct 2026 10:12:35 +0000",
+          "summary": "The Latvian port has signed an MoU with two companies to explore green methanol production for export and marine fuel use."
         },
         {
-          "title": "World's First Ammonia-Fuelled VLAC Set to Bunker Green Ammonia in Ulsan",
-          "link": "https://shipandbunker.com/news/apac/892006-worlds-first-ammonia-fuelled-vlac-set-to-bunker-green-ammonia-in-ulsan",
-          "published": "Thu, 22 Oct 2026 10:22:21 +0000",
-          "summary": "Eastern Pacific Shipping has named the world&#039;s first ammonia-fuelled very large ammonia carrier."
+          "title": "European Parliament Postpones EU Methane Regulation Requirements",
+          "link": "https://shipandbunker.com/news/emea/414829-european-parliament-postpones-eu-methane-regulation-requirements",
+          "published": "Fri, 23 Oct 2026 09:51:06 +0000",
+          "summary": "MEPs voted in favour of a longer delay amid concerns over energy supplies and market pressures linked to the conflict in the Middle East."
         },
         {
-          "title": "One-Fifth of Green Shipping Corridor Initiatives Involve China: Global Maritime Forum",
-          "link": "https://shipandbunker.com/news/apac/827015-one-fifth-of-green-shipping-corridor-initiatives-involve-china-global-maritime-forum",
-          "published": "Thu, 22 Oct 2026 09:59:17 +0000",
-          "summary": "China is a leading player in green shipping corridor development, but demand for zero-emission fuels remains a challenge."
+          "title": "Alkagesta to Buy Turkish Marine Fuels Firm Energy Petrol",
+          "link": "https://shipandbunker.com/news/emea/466945-alkagesta-to-buy-turkish-marine-fuels-firm-energy-petrol",
+          "published": "Fri, 23 Oct 2026 08:56:38 +0000",
+          "summary": "The acquisition includes eight bunkering vessels and a long-term lease for 28,000 m3 of tank capacity in Turkey."
         },
         {
-          "title": "Buyers Alliance ZEMBA Completes First Inaugural Tender for Low-Carbon Shipping",
-          "link": "https://shipandbunker.com/news/world/855695-buyers-alliance-zemba-completes-first-inaugural-tender-for-low-carbon-shipping",
-          "published": "Thu, 22 Oct 2026 09:14:28 +0000",
-          "summary": "The tender with Hapag-Lloyd delivered 82,000 tonnes of CO2e emissions reductions."
+          "title": "Hanwha Power Gets ABS Approval for Battery-Powered Boxship Design",
+          "link": "https://shipandbunker.com/news/world/373021-hanwha-power-gets-abs-approval-for-battery-powered-boxship-design",
+          "published": "Fri, 23 Oct 2026 08:47:37 +0000",
+          "summary": "The 1,700 TEU container ship design uses containerised battery units that can be handled like standard cargo containers."
         },
         {
-          "title": "New Study Urges Ports to Prepare for Nuclear-Powered Ships",
-          "link": "https://shipandbunker.com/news/world/839792-new-study-urges-ports-to-prepare-for-nuclear-powered-ships",
-          "published": "Thu, 22 Oct 2026 08:35:07 +0000",
-          "summary": "A joint report from Lloyd&#039;s Register and the British Ports Association outlines how ports can prepare for advanced nuclear technology."
+          "title": "Gibraltar Bunker Calls Rose 10.6% in First Nine Months",
+          "link": "https://shipandbunker.com/news/emea/192185-gibraltar-bunker-calls-rose-106-in-first-nine-months",
+          "published": "Fri, 23 Oct 2026 06:31:24 +0000",
+          "summary": "The port saw 477 bunker calls in September, almost similar to 476 calls recorded in August, but up from 431 calls in September 2025."
         },
         {
-          "title": "Oceania Bunkering Mozambique Adds Pipeline Bunkering Services at Three Ports",
-          "link": "https://shipandbunker.com/news/emea/752760-oceania-bunkering-mozambique-adds-pipeline-bunkering-services-at-three-ports",
-          "published": "Thu, 22 Oct 2026 07:48:36 +0000",
-          "summary": "Ships can now take on marine fuel by pipeline at Beira, Nacala and Pemba, Oceania Bunkering Mozambique says."
+          "title": "Safe Bulkers Takes Delivery of First Methanol Dual-Fuel Kamsarmax",
+          "link": "https://shipandbunker.com/news/world/513222-safe-bulkers-takes-delivery-of-first-methanol-dual-fuel-kamsarmax",
+          "published": "Fri, 23 Oct 2026 05:45:33 +0000",
+          "summary": "The company plans to add a second methanol dual-fuel vessel next year."
         }
       ]
     },
@@ -232,6 +232,24 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "FTAV’s Friday chart quiz",
+          "link": "https://www.ft.com/content/49bd797f-603d-44b2-a7b2-2540e43d6cb9",
+          "published": "Fri, 23 Oct 2026 14:37:02 GMT",
+          "summary": "Til Death Do Us Chart"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/ddd17044-0b38-446b-a973-d0ab80d5738c",
+          "published": "Fri, 23 Oct 2026 07:17:12 GMT",
+          "summary": "Social money; taxes; PHP; undertakers; flowers; boomers; Kushner; Bacon; local Wiki; and doing things with wicker"
+        },
+        {
+          "title": "How nervous are bond markets about France?",
+          "link": "https://www.ft.com/content/9aa4549e-26f4-4963-94eb-50cf0fc0b8f9",
+          "published": "Fri, 23 Oct 2026 05:00:08 GMT",
+          "summary": "Dusting off our apples-for-apples spreadsheet"
+        },
         {
           "title": "A bond is like a party balloon",
           "link": "https://www.ft.com/content/7cd54d93-eff8-413a-896a-4fe5583147d7",
@@ -261,24 +279,6 @@
           "link": "https://www.ft.com/content/6d347f2c-b5da-4966-b95d-fd09f2d0960a",
           "published": "Wed, 21 Oct 2026 05:45:28 GMT",
           "summary": "Lettuce first applaud her productivity"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/bef7c51e-c07e-4a4a-867c-e792fa5f5186",
-          "published": "Wed, 21 Oct 2026 04:59:02 GMT",
-          "summary": "Meetings; neoclouds; Amazon; Huang; vibecoding firmware; Basel weights; and SimCity"
-        },
-        {
-          "title": "Is CoreWeave the Silicon Valley Bank of 2026?",
-          "link": "https://www.ft.com/content/4fb42dd7-a72c-4e20-9e7c-cdc9d3215159",
-          "published": "Tue, 20 Oct 2026 11:50:27 GMT",
-          "summary": "Perhaps, but not in the way you might think"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/fc55a650-74f2-4197-8f2f-89b5f3a4cc7c",
-          "published": "Tue, 20 Oct 2026 06:01:17 GMT",
-          "summary": "AI; homeschooling; skulls; cars; and opening lines"
         }
       ]
     },
