@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-25T00:55:45+00:00",
-  "take": "Record tanker rates have all but erased the economics of shipping US crude to Asia, and with Brent above $117 and the Iran war threatening to resume, the freight constraint is now doing more to tighten the crude arb than any OPEC+ signal. Singapore bunker costs are the second theme: disrupted Middle East and Russian fuel oil supply, resilient bunker demand and prohibitive freight have combined to make fuel oil Asia's next cost shock, which feeds directly into voyage economics and therefore into effective tonne-mile demand. The inventory angle is the US dipping into the SPR again to keep a Louisiana refinery supplied, whilst US refinery utilisation averaged above 95% between May and September, the highest for those months since 1998, leaving little slack if crude logistics stay impaired. The cross-market link is bunker versus gasoil and crude: fuel oil strength plus record tanker rates raises the all-in cost of moving product just as the Treasury's six-month waiver allowing Russian diesel onto the global market loosens the distillate side, so watch the gasoil-bunker spread rather than flat price alone. In the next 24 hours, watch whether the US-Iran conflict resumes and whether Washington extends the sanctioned-tanker sale programme, alongside Gibraltar's 10.6% year-to-date rise in bunker calls as a read on genuine physical demand.",
+  "generated_at_utc": "2026-10-26T01:03:49+00:00",
+  "take": "Oil’s push to a six-month high despite recovering Persian Gulf and Red Sea exports is the key signal, with the Iran war risk premium and disrupted Middle East and Russian fuel oil supplies mattering more than headline barrel availability for crude and products. Record tanker rates are the second theme, so inefficient voyages have erased the economics of US crude to Asia whilst Singapore bunker costs climb on resilient demand and prohibitive freight, tightening the arbitrage and supporting product cracks. The inventory angle is thin but constructive: US refinery utilisation averaged above 95% between May and September, the highest for those months since 1998, and Q3 crude prices and refinery margins rose through persistent Middle East conflict, so runs are absorbing crude into products rather than building length. The cross-market link is bunker versus gasoil, with Singapore fuel oil adding a fresh Asian cost shock that feeds directly into freight and tonne-miles, reinforced by Gibraltar bunker calls up 10.6% in the first nine months and 477 calls in September versus 431 a year earlier. Watch for confirmation on whether the US–Iran conflict resumes, any further Persian Gulf or Red Sea flow disruption, and whether record tanker rates keep US crude out of Asia, whilst Rio Tinto’s $1.9bn Queensland bauxite expansion and its capesize upgrade are worth tracking for dry bulk demand.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -65,6 +65,42 @@
       "count": 8,
       "items": [
         {
+          "title": "The Pentagon's Rare Earth Deadline Is Almost Here. Is Anyone Ready?",
+          "link": "https://oilprice.com/Energy/Energy-General/The-Pentagons-Rare-Earth-Deadline-Is-Almost-Here-Is-Anyone-Ready.html",
+          "published": "Sun, 25 Oct 2026 19:00:00 -0500",
+          "summary": "For years, the rare earth industry has been talking about January 1, 2027 as the date that changes everything. That date is now less than 75 days away. On January 1, new Pentagon procurement rules take effect that will restrict the use of Chinese-origin rare earth materials in American weapons systems. The restrictions cover the full supply chain, from mining and refining through separation, melti"
+        },
+        {
+          "title": "Asia Is Building the World’s Next $15 Trillion Energy Market",
+          "link": "https://oilprice.com/Energy/Energy-General/Asia-Is-Building-the-Worlds-Next-15-Trillion-Energy-Market.html",
+          "published": "Sun, 25 Oct 2026 18:00:00 -0500",
+          "summary": "The global energy transition is increasingly becoming an Asian story, and Asia is unlikely to follow the path envisioned in Washington or Brussels. The region’s governments will have enormous influence over the future of coal, oil, natural gas, renewables and energy storage. What happens next in Asia will determine whether the transition actually reduces global fossil fuel consumption or simply ad"
+        },
+        {
+          "title": "Oil Prices Rise Despite Middle East Export Recovery",
+          "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Rise-Despite-Middle-East-Export-Recovery.html",
+          "published": "Sun, 25 Oct 2026 18:00:00 -0500",
+          "summary": "Reports about recovering oil flows in the Persian Gulf and the Red Sea have dominated headlines over the past couple of weeks. Yet oil prices have only moved higher, suggesting barrel numbers alone are not enough to convince the world everything’s back to normal. It isn’t. According to the latest Kpler numbers, October oil exports out of the Middle East in total are in fact higher than they were b"
+        },
+        {
+          "title": "Britain's Renewable Energy Boom Is Hitting a Grid Bottleneck",
+          "link": "https://oilprice.com/Energy/Energy-General/Britains-Renewable-Energy-Boom-Is-Hitting-a-Grid-Bottleneck.html",
+          "published": "Sun, 25 Oct 2026 14:00:00 -0500",
+          "summary": "The United Kingdom has invested heavily in expanding its renewable energy capacity in recent years to reduce its dependence on fossil fuels and support a green transition. However, one major problem stands in the way of it achieving this goal – its unprepared transmission infrastructure. Despite several new wind and solar projects coming online, the U.K. still relies heavily on natural gas due to "
+        },
+        {
+          "title": "World Is on Track for Up to 2.8 Degrees of Warming Despite Clean Energy Boom",
+          "link": "https://oilprice.com/Energy/Energy-General/World-Is-on-Track-for-Up-to-28-Degrees-of-Warming-Despite-Clean-Energy-Boom.html",
+          "published": "Sun, 25 Oct 2026 12:00:00 -0500",
+          "summary": "The United Nations says that it is now an inevitability that the world will fail to meet the legally binding goals set forth by the Paris climate accord as a result of “decades of insufficient climate action”. The Paris Agreement, ratified in 2015, targeted limiting global warming to 1.5 degrees Celsius above pre-industrial averages, with a fallback target of 2?, with the understanding that this l"
+        },
+        {
+          "title": "COP31 Host Urges NATO Nations to Spend More on Climate Than Defense",
+          "link": "https://oilprice.com/Energy/Energy-General/COP31-Host-Urges-NATO-Nations-to-Spend-More-on-Climate-Than-Defense.html",
+          "published": "Sun, 25 Oct 2026 10:00:00 -0500",
+          "summary": "The host of the United Nations’ COP31 climate summit, Turkey, is encouraging wealthy countries participating in the conference to spend more on climate support than on defence. This follows Turkey’s announcement in September that it plans to invest heavily in developing its renewable energy capacity in the coming years. However, Turkey also intends to expand its oil and gas production, which could"
+        },
+        {
           "title": "Record Tanker Rates Cripple U.S. Crude Oil Flows to Asia",
           "link": "https://oilprice.com/Energy/Crude-Oil/Record-Tanker-Rates-Cripple-US-Crude-Oil-Flows-to-Asia.html",
           "published": "Sat, 24 Oct 2026 18:00:00 -0500",
@@ -75,42 +111,6 @@
           "link": "https://oilprice.com/Energy/Crude-Oil/Fuel-Oil-Becomes-Asias-Next-Cost-Shock.html",
           "published": "Sat, 24 Oct 2026 16:00:00 -0500",
           "summary": "Singapore’s shipping-fuel market is adding another layer of cost to Asian trade. Disrupted supplies from the Middle East and Russia, resilient bunker demand and prohibitive freight rates have pushed high-sulphur fuel oil above the price of the crude used to produce it. Seasonal relief from Gulf producers and additional Chinese export allowances could ease the squeeze towards year-end, particularly"
-        },
-        {
-          "title": "Syria's Energy Comeback Could Reshape Middle East Oil and Gas",
-          "link": "https://oilprice.com/Energy/Energy-General/Syrias-Energy-Comeback-Could-Reshape-Middle-East-Oil-and-Gas.html",
-          "published": "Sat, 24 Oct 2026 14:00:00 -0500",
-          "summary": "Syria is undergoing countrywide reconstruction after more than a decade of conflict, which caused extensive infrastructure damage and led to millions of people being displaced. As Syrians rebuild their lives, the government has big plans for economic diversification and growth to support long-term recovery. Thanks to its favourable geographic position, this includes the development of a strong ene"
-        },
-        {
-          "title": "Can Undersea Volcanoes Power Cities? A Seattle Startup Just Took the First Step",
-          "link": "https://oilprice.com/Energy/Energy-General/Can-Undersea-Volcanoes-Power-Cities-A-Seattle-Startup-Just-Took-the-First-Step.html",
-          "published": "Sat, 24 Oct 2026 12:00:00 -0500",
-          "summary": "A geothermal startup aiming to source energy directly from undersea volcanoes just hit a major milestone that could bring round-the-clock clean energy to cities on the northwest coast of the United States and serve as a critical proof of concept for other regions, with particular relevance for the other 14 countries situated along the Pacific Ring of Fire. Seattle-based energy startup Endurance En"
-        },
-        {
-          "title": "Trump Targets $6.2 Billion Offshore Wind Project Nearing Completion",
-          "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Trump-Targets-62-Billion-Offshore-Wind-Project-Nearing-Completion.html",
-          "published": "Sat, 24 Oct 2026 10:00:00 -0500",
-          "summary": "United States President Donald Trump has repeatedly targeted offshore wind since coming into office last year, as he strives to expand the country’s fossil fuel sector and shift the focus away from renewable energy. Trump has sought to halt the development of several offshore wind projects and has even resorted to paying companies to relinquish their leases on areas off the U.S. coast to instead i"
-        },
-        {
-          "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
-          "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
-          "published": "Fri, 23 Oct 2026 18:00:00 -0500",
-          "summary": "On October 9, hours after a phone call between President Trump and President Putin, the Treasury Department issued a six-month waiver allowing Russian diesel to be sold on the global market. The stated aim is to bring down fuel prices before the November 3 midterms. But I believe the deal is more consequential than that. It fits a larger strategy: for the United States to control as much of the wo"
-        },
-        {
-          "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-          "published": "Fri, 23 Oct 2026 17:30:00 -0500",
-          "summary": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel. The reserve, meanwhile, is already at its lowest level since 1982. The Department of Energy on Friday authorized an emergency exchange of up to 400,000 barrels to Phillips 66's Lake Charles refinery, citing a temporary disrup"
-        },
-        {
-          "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
-          "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
-          "published": "Fri, 23 Oct 2026 17:00:00 -0500",
-          "summary": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenures, they have not touched one very important commodity – oil and gas. This is because the nations ar"
         }
       ]
     },
@@ -177,6 +177,12 @@
       "count": 8,
       "items": [
         {
+          "title": "INTERVIEW: Propeller Eyes More Deals & Tech as Rising Bunker Trading Costs Fuels Market Consolidation",
+          "link": "https://shipandbunker.com/news/world/511532-interview-propeller-eyes-more-deals-tech-as-rising-bunker-trading-costs-fuels-market-consolidation",
+          "published": "Mon, 26 Oct 2026 00:21:00 +0000",
+          "summary": "Some smaller traders lack the cash for today&#039;s prices, and Propeller is ready to plug them in to its trading and back-office engine."
+        },
+        {
           "title": "Oil Climbs To Six-Month High As Analysts Concede U.S./Iran War May Soon Resume",
           "link": "https://shipandbunker.com/news/world/545569-oil-climbs-to-six-month-high-as-analysts-concede-usiran-war-may-soon-resume",
           "published": "Fri, 23 Oct 2026 12:20:00 +0000",
@@ -217,12 +223,6 @@
           "link": "https://shipandbunker.com/news/emea/192185-gibraltar-bunker-calls-rose-106-in-first-nine-months",
           "published": "Fri, 23 Oct 2026 06:31:24 +0000",
           "summary": "The port saw 477 bunker calls in September, almost similar to 476 calls recorded in August, but up from 431 calls in September 2025."
-        },
-        {
-          "title": "Safe Bulkers Takes Delivery of First Methanol Dual-Fuel Kamsarmax",
-          "link": "https://shipandbunker.com/news/world/513222-safe-bulkers-takes-delivery-of-first-methanol-dual-fuel-kamsarmax",
-          "published": "Fri, 23 Oct 2026 05:45:33 +0000",
-          "summary": "The company plans to add a second methanol dual-fuel vessel next year."
         }
       ]
     },
