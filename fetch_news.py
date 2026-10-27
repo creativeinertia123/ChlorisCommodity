@@ -106,7 +106,7 @@ Below are today's headlines from EIA Today in Energy, Oilprice, Splash247, \
 Ship & Bunker, FT Alphaville and the FRED Blog.
 
 Write a DAILY HEADLINE TAKE of exactly five sentences:
-1. The single most market-relevant story and why it matters for crude/products.
+1. Two market-relevant story and why it matters for crude and products.
 2. The second theme (shipping/freight/macro) and its transmission into \
 energy or freight markets.
 3. What the flow/positioning/inventory angle is, if any.
