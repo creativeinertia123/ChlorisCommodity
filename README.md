@@ -1,9 +1,6 @@
-# Desk Brief — Energy & Shipping Daily
+# Desk Brief 
 
-A static dashboard that pulls six RSS feeds — **EIA Today in Energy,
-Oilprice, Splash247, Ship & Bunker, FT Alphaville and the FRED Blog** —
-and synthesises them into a five-sentence **daily headline take** via the
-DeepSeek API, written with British spelling conventions.
+A dashboard that pulls RSS feeds and synthesises them into a **daily headline take** via the DeepSeek API, written with British spelling conventions.
 
 ## Files
 
@@ -44,13 +41,3 @@ python3 -m http.server 8000        # then open http://localhost:8000
 
 Your dashboard will be live at `https://<username>.github.io/` (or
 `https://<username>.github.io/<repo>/` for project pages).
-
-## Notes
-
-- **FT Alphaville**: `ft.com` blocks some cloud networks; if a run cannot
-  reach it the card shows the error and everything else still works.
-- **Splash247** sits behind an anti-bot challenge on some IPs; the script
-  degrades gracefully if challenged.
-- The synthesis prompt enforces British spelling (normalise, tonnes,
-  whilst…) and a five-sentence trader take. Edit `build_prompt()` in
-  `fetch_news.py` to change the format.
