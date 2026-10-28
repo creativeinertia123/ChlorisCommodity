@@ -2,13 +2,7 @@
 """
 Daily energy & shipping market dashboard — data pipeline.
 
-Pulls RSS feeds from:
-  - EIA Today in Energy
-  - Oilprice
-  - Splash247 (shipping)
-  - Ship & Bunker (bunker prices / marine fuels)
-  - FT Alphaville
-  - FRED Blog (macro / energy data commentary)
+Pulls RSS feeds
 
 Synthesises a single "daily headline take" via the DeepSeek API,
 written with British spelling conventions, aimed at a commodities
@@ -46,6 +40,10 @@ FEEDS = {
     "Splash247":           "https://splash247.com/feed/",
     "Ship & Bunker":       "https://shipandbunker.com/rss",
     "FT Alphaville":       "https://ftalphaville.ft.com/feed/",
+    "Seeking Alpha":       "https://seekingalpha.com/market_currents.xml",
+    "Federal Reserve":     "https://www.federalreserve.gov/feeds/press_all.xml",
+    "MarketWatch":         "https://feeds.marketwatch.com/marketwatch/topstories/",
+    "Financial Times":     "https://www.ft.com/rss/home",
     "FRED Blog":           "https://fredblog.stlouisfed.org/feed/",
 }
 
@@ -105,10 +103,10 @@ trader covering oil, refined products and dry bulk freight.
 Below are today's headlines from EIA Today in Energy, Oilprice, Splash247, \
 Ship & Bunker, FT Alphaville and the FRED Blog.
 
-Write a DAILY HEADLINE TAKE of exactly five sentences:
-1. Two market-relevant story and why it matters for crude and products.
+Write a DAILY HEADLINE TAKE of exactly six sentences:
+1. One market-relevant story and why it matters for crude and products.
 2. The second theme (shipping/freight/macro) and its transmission into \
-energy or freight markets.
+energy and/or freight markets.
 3. What the flow/positioning/inventory angle is, if any.
 4. One cross-market link (e.g. gasoil vs bunker, tonne-miles, rates vs FX).
 5. What to watch in the next 24 hours.
