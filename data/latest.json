@@ -1,6 +1,6 @@
 {
-  "generated_at_utc": "2026-10-29T02:14:31+00:00",
-  "take": "Refineries have become prime targets as the global fuel shortage worsens, with damaged Gulf and Iranian plants sustaining the product tightness that has kept crude and margins rising through 3Q26, so treat any peace-talk headline from Tehran as noise rather than a reason to fade the $100-plus oil call. On the freight side, Iran has threatened sweeping action against Sinokor, the world’s dominant VLCC owner, from 1 November, whilst three sanctioned Russian tankers head for the US carrying diesel under the Trump–Putin deal and the Agioi Fanendes has already dropped New York as its destination, all of which normalises a two-tier tanker market and keeps tonne-miles and war-risk premia bid. The inventory angle is the US refinery complex running above 95% utilisation between May and September, the highest for those months since 1998, leaving little slack to absorb refinery outages or a hurricane-driven shut-in. Watch the gasoil–bunker spread as Russian diesel reroutes away from the US and marine nuclear propulsion gains a full-scale Norwegian test, a slow-burn threat to HFO demand. In the next 24 hours, track Sinokor’s response to Tehran’s 1 November deadline, the FOMC hold against intensifying inflation, and whether the Russian diesel cargoes actually discharge in the US or divert to Cuba.",
+  "generated_at_utc": "2026-10-30T02:28:12+00:00",
+  "take": "US refinery utilisation averaged above 95% of capacity between May and September, the highest for those months since 1998, which underpins a heavy crude run-rate and keeps product supply ample into winter. The Iran war and the loss of Middle East LNG have forced Europe and Asia to lean harder on other gas sources, with Colombia importing more LNG as domestic production falls, tightening the global gas balance and spilling into fuel-switching economics for distillates. The flow angle sits in diesel: a Malta-flagged tanker left Primorsk on 22 October with nearly 40,000 tonnes of ultra-low-sulphur diesel bound for the US, a legal hot potato with a five-year fuse that could distort transatlantic arbitrage and product positioning. The cross-market link is freight and carbon: whatever the IMO decides in December, a broker will reprice a dry bulk trip the next morning, shifting which line of the fixture carries the carbon cost and how much. Watch the FOMC statement fallout and the dollar for its pass-through into bunker and freight economics, alongside any further Gulf supply disruption headlines.",
   "feeds": [
     {
       "source": "EIA Today in Energy",
@@ -8,6 +8,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "LNG imports make up increasing share of Colombia's natural gas supply",
+          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68364",
+          "published": "Thu, 29 Oct 2026 09:00:00 EST",
+          "summary": "Colombia is importing more liquefied natural gas (LNG) as domestic production continues to fall. A potential drought this fall and winter could limit the availability of hydroelectric generation and boost the country's demand for natural gas power generation. Colombia's government has declared a national disaster in anticipation of a drought resulting from an expected strong El Niño."
+        },
         {
           "title": "U.S. refineries have been running at very high rates in 2026",
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68344",
@@ -49,12 +55,6 @@
           "link": "https://www.eia.gov/todayinenergy/detail.php?id=68264",
           "published": "Wed, 07 Oct 2026  09:00:00 EST",
           "summary": "We expect energy expenditures this winter to vary because of diverging trends in energy prices among fuels and regional variation in forecast temperatures. We expect that lower prices for natural gas and propane will drive decreases in expenditures this year for the half of U.S. households heating with those fuels. Higher prices for electricity and heating oil drive increased expenditures for hous"
-        },
-        {
-          "title": "Crude oil prices and refinery margins generally increased throughout the third quarter",
-          "link": "https://www.eia.gov/todayinenergy/detail.php?id=68245",
-          "published": "Mon, 05 Oct 2026  09:00:00 EST",
-          "summary": "Petroleum markets in the third quarter of 2026 (3Q26) were characterized by increasing prices for crude oil and petroleum products amid persistent conflict in the Middle East."
         }
       ]
     },
@@ -65,52 +65,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Peace Talks Won’t Save Oil Buyers From $100-Plus Oil",
-          "link": "https://oilprice.com/Energy/Crude-Oil/Peace-Talks-Wont-Save-Oil-Buyers-From-100-Plus-Oil.html",
-          "published": "Wed, 28 Oct 2026 19:00:00 -0500",
-          "summary": "Middle East nations have renewed their diplomatic efforts, with high-level delegations from Saudi Arabia, Turkey and Pakistan having met with Iranian officials in Tehran on Monday to explore a regional security framework in a bid to de-escalate tensions. Whereas Iranian President Pezeshkian has expressed a willingness to resolve regional differences, Tehran continues to insist that U.S. sanctions "
+          "title": "Off-Grid Solar Is Now the Cheapest Power for Nearly 400 Million People",
+          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Off-Grid-Solar-Is-Now-the-Cheapest-Power-for-Nearly-400-Million-People.html",
+          "published": "Thu, 29 Oct 2026 19:00:00 -0500",
+          "summary": "The World Bank now ranks off-grid solar as the cheapest way to bring electricity to at least 398 million people who still live without it. A joint report released this week by the World Bank’s Energy Sector Management Assistance Program (ESMAP) and the off-grid solar industry association GOGLA treats the technology as permanent infrastructure. Systems once sold as a stopgap until the grid arrived "
         },
         {
-          "title": "Oil Refineries Become Prime Targets as Global Fuel Shortage Worsens",
-          "link": "https://oilprice.com/Energy/Energy-General/Oil-Refineries-Become-Prime-Targets-as-Global-Fuel-Shortage-Worsens.html",
-          "published": "Wed, 28 Oct 2026 18:00:00 -0500",
-          "summary": "Ten years ago, European countries were closing refineries while Gulf oil states were building new ones. Now, many of these refineries have been damaged in the war between the U.S. and Israel, and Iran. Fuel output from one of the biggest refining regions is not going to be coming back soon. Neither is full refining capacity from one of the world’s top fuel exporters, Russia. Earlier this week, the"
+          "title": "What’s Next for Global Natural Gas Demand?",
+          "link": "https://oilprice.com/Energy/Natural-Gas/Whats-Next-for-Global-Natural-Gas-Demand.html",
+          "published": "Thu, 29 Oct 2026 18:00:00 -0500",
+          "summary": "The Iran war and the lack of LNG supply from the Middle East have upended forecasts of near-term natural gas demand and import costs. So far this year, economies in Europe and Asia have relied more on renewables and coal for power generation to offset reduced gas supplies procured at very high prices. This year’s crisis has prompted governments to rethink energy policies with energy security the t"
         },
         {
-          "title": "How Trump’s Russian Diesel Could End Up in Cuba Instead",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/How-Trumps-Russian-Diesel-Could-End-Up-in-Cuba-Instead.html",
-          "published": "Wed, 28 Oct 2026 17:28:57 -0500",
-          "summary": "The tanker billed as the first to carry Russian diesel to the United States under Donald Trump’s deal with Vladimir Putin has dropped New York as its destination. The Malta-flagged Agioi Fanendes left Primorsk on October 22 with about 40,000 metric tons of ultra-low-sulfur diesel, due in New York on November 7. Lloyd’s List reported it idling off Skagen, Denmark, on October 26. Its tracking now sh"
+          "title": "China’s Battery Factories May Sit Atop Lithium Resources",
+          "link": "https://oilprice.com/Energy/Energy-General/Chinas-Battery-Factories-May-Sit-Atop-Lithium-Resources.html",
+          "published": "Thu, 29 Oct 2026 17:00:00 -0500",
+          "summary": "The world’s largest battery maker and user, the country that dominates all alternative energy technology, is about to find out whether it could also boost its already dominant presence in a critical battery metal: lithium. China, according to a new study, could have significant, untapped resources of lithium right underneath its battery factories. The possibility was detailed in a recent study tha"
         },
         {
-          "title": "U.S. Natural Gas Production Hits New Records as Demand Surges",
-          "link": "https://oilprice.com/Energy/Natural-Gas/US-Natural-Gas-Production-Hits-New-Records-as-Demand-Surges.html",
-          "published": "Wed, 28 Oct 2026 17:00:00 -0500",
-          "summary": "U.S. natural gas production is on track to close a second consecutive year with record-high natural gas output as producers respond to demand signs both at home and overseas. Soaring demand for powering data centers in the United States and rising liquefied natural gas exports amid expanding liquefaction capacity, as well as surging global demand for spot LNG cargoes in the absence of Qatar’s gas "
+          "title": "Trump's Russian Diesel Is a Legal Hot Potato With a Five-Year Fuse",
+          "link": "https://oilprice.com/Energy/Energy-General/Trumps-Russian-Diesel-Is-a-Legal-Hot-Potato-With-a-Five-Year-Fuse.html",
+          "published": "Thu, 29 Oct 2026 16:00:00 -0500",
+          "summary": "A Malta-flagged tanker called the Agioi Fanendes left the Russian port of Primorsk on Oct. 22 carrying nearly 40,000 metric tons of ultra-low-sulfur diesel, and ship-tracking data has it arriving at the Port of New York and New Jersey on Nov. 7, four days after the midterm elections. Nobody has publicly said who bought the fuel, and Sen. Richard Blumenthal, D-Conn., has asked the ship’s owner to i"
         },
         {
-          "title": "Solar Has Overtaken Nuclear in the Global Power Mix",
-          "link": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Has-Overtaken-Nuclear-in-the-Global-Power-Mix.html",
-          "published": "Wed, 28 Oct 2026 16:00:00 -0500",
-          "summary": "Last year, solar power quietly overtook nuclear power in the global energy mix. This is a stunning feat when you consider that just a decade ago, in 2015, global solar generation amounted to just 256 terawatt-hours (TWh) in 2015, while global nuclear power generated ten-fold that amount at 2,576 TWh. And solar didn’t just overtake nuclear power in 2025; it surpassed it by a wide margin, producing "
+          "title": "World's First Permanent Nuclear Waste Site Wins License in Finland",
+          "link": "https://oilprice.com/Energy/Energy-General/Worlds-First-Permanent-Nuclear-Waste-Site-Wins-License-in-Finland.html",
+          "published": "Thu, 29 Oct 2026 15:00:00 -0500",
+          "summary": "The world’s very first permanent nuclear waste repository just got one major step closer to opening its doors for business. Posiva, the waste management company responsible for the project located in Eurajoki, Finland, just received its operating license for the Onkalo facility from the country’s government. The solution that we have, it's the missing point for sustainable use of nuclear energy,\" "
         },
         {
-          "title": "GE Vernova Expands in High-Voltage Grid Gear With Trench Deal",
-          "link": "https://oilprice.com/Latest-Energy-News/World-News/GE-Vernova-Expands-in-High-Voltage-Grid-Gear-With-Trench-Deal.html",
-          "published": "Wed, 28 Oct 2026 15:30:00 -0500",
-          "summary": "GE Vernova is buying high-voltage equipment maker Trench Group from Triton Partners for $9 billion and raised its 2026 revenue forecast for the third straight time on Wednesday. The company now expects revenue of $46.5 billion to $47.5 billion this year, up from the $45.5-$46.5 billion in its July guidance. Trench makes high-voltage grid equipment, and utilities are spending more on grids to repla"
+          "title": "Exxon, Chevron Executives Cancel Gulf Visit Over Security Concerns",
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-Chevron-Executives-Cancel-Gulf-Visit-Over-Security-Concerns.html",
+          "published": "Thu, 29 Oct 2026 15:00:00 -0500",
+          "summary": "ExxonMobil CEO Darren Woods and Chevron upstream president Clay Neff have canceled plans to attend next week's ADIPEC conference in Abu Dhabi over security concerns, according to sources cited by Reuters on Thursday. Both executives were expected at the November 2-5 event, one of the oil industry's largest annual gatherings, and Woods is still showing up on the roster. Neither company would commen"
         },
         {
-          "title": "India’s Record LNG Buying Meets Record-High Prices",
-          "link": "https://oilprice.com/Energy/Natural-Gas/Indias-Record-LNG-Buying-Meets-Record-High-Prices.html",
-          "published": "Wed, 28 Oct 2026 15:00:00 -0500",
-          "summary": "India has spent years bringing more households and businesses onto its gas networks. Now, with domestic production declining, supplying those customers means buying more LNG from a market where prices have tripled in a year. Imports are nevertheless heading for a record this October. India’s LNG supply mix has changed a lot since the US-Iran war began in late February 2026. Qatar previously suppli"
+          "title": "BYD Earnings Miss Estimates as China's EV Price War Takes Its Toll",
+          "link": "https://oilprice.com/Energy/Energy-General/BYD-Earnings-Miss-Estimates-as-Chinas-EV-Price-War-Takes-Its-Toll.html",
+          "published": "Thu, 29 Oct 2026 14:00:00 -0500",
+          "summary": "Chinese electric vehicle giant BYD reported weaker-than-expected third-quarter earnings on Thursday, highlighting the growing challenges facing China's automakers even as overseas sales continue to surge. BYD's net profit rose 28% year-over-year to 10.02 billion yuan ($1.5 billion), missing analysts' expectations of approximately 11.1 billion yuan. Revenue increased 13.6% to 221.5 billion yuan ($3"
         },
         {
-          "title": "Why the Shipping Industry Is Turning Its Attention to Nuclear Power",
-          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Why-the-Shipping-Industry-Is-Turning-Its-Attention-to-Nuclear-Power.html",
-          "published": "Wed, 28 Oct 2026 14:00:00 -0500",
-          "summary": "Commercial shipping causes significant pollution, accounting for about 3% of global greenhouse gas emissions, or roughly a billion tonnes of CO2-equivalent annually. Heavy fuel oil combustion emits sulfur oxides (SOx), nitrogen oxides (NOx) and black carbon, worsening coastal air quality and causing respiratory illness. Ships release millions of gallons of oily bilge water that spreads invasive sp"
+          "title": "U.S. Pushes Nuclear Energy Expansion in Central Asia and Caucasus",
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/US-Pushes-Nuclear-Energy-Expansion-in-Central-Asia-and-Caucasus.html",
+          "published": "Thu, 29 Oct 2026 13:00:00 -0500",
+          "summary": "The United States is making a fresh push to promote the use of American nuclear energy technology in Central Asia and the Caucasus. Shawna J. Wilson, Deputy Assistant Secretary of State for Security Programs, traveled to both regions recently for meetings with Armenian and Kazakh officials that explored ways to advance US nuclear cooperation with both countries. The United States and Armenia final"
         }
       ]
     },
@@ -121,52 +121,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Noble offloads idle drillship for $38m",
-          "link": "https://splash247.com/noble-offloads-idle-drillship-for-38m/",
-          "published": "Wed, 28 Oct 2026 12:31:29 +0000",
-          "summary": "US offshore drilling contractor Noble Corporation has agreed to sell its 2013-built, sixth-generation drillship, Noble Globetrotter II, for $38m as it continues to dispose of underutilised drilling assets. The transaction is expected to close in the fourth quarter of 2026. Noble has not disclosed the buyer&#8217;s identity or the rig&#8217;s intended future use. However, chief executive Robert &#8"
+          "title": "The morning after: what December’s IMO vote means for a fixture",
+          "link": "https://splash247.com/the-morning-after-what-decembers-imo-vote-means-for-a-fixture/",
+          "published": "Thu, 29 Oct 2026 19:47:00 +0000",
+          "summary": "Whatever the IMO decides in December, a broker will price a dry bulk trip the next morning. The vote changes which line of that fixture carries the carbon, and how much. Argyris Zafeiropoulos from Resilience &#38; Compliance Advisory explains. Take a trip reported in the Baltic Exchange&#8217;s weekly round-up on 9 October: a 76,000 dwt &#8230;"
         },
         {
-          "title": "Norway lines up full-scale test of marine nuclear propulsion system",
-          "link": "https://splash247.com/norway-lines-up-full-scale-test-of-marine-nuclear-propulsion-system/",
-          "published": "Wed, 28 Oct 2026 10:30:00 +0000",
-          "summary": "A Norwegian-led consortium involving shipbuilder Vard and offshore vessel owner Island Offshore is preparing to build and test an integrated nuclear propulsion system, targeting its first vessel deployment in 2031 or 2032. The Marine Nuclear Propulsion System (MarNuPS) project, led by Emerald Nuclear Norway, will move from engineering studies to physical integration and testing, with &#8230;"
+          "title": "Wallenius Wilhelmsen locks in $1bn contract haul",
+          "link": "https://splash247.com/wallenius-wilhelmsen-locks-in-1bn-contract-haul/",
+          "published": "Thu, 29 Oct 2026 12:34:00 +0000",
+          "summary": "Norwegian car carrier and logistics giant Wallenius Wilhelmsen has secured two contracts worth more than $1bn with a major equipment manufacturer, adding another sizeable commitment to its shipping and logistics business. The Oslo-listed group said the agreements cover ocean transportation and logistics services over three years, with the shipping portion accounting for around $950m and &#8230;"
         },
         {
-          "title": "South Korean shipyard set for offshore wind makeover",
-          "link": "https://splash247.com/south-korean-shipyard-set-for-offshore-wind-makeover/",
-          "published": "Wed, 28 Oct 2026 10:00:00 +0000",
-          "summary": "Four South Korean companies have signed an agreement to transform part of the Gunsan shipyard into an offshore wind manufacturing hub, with plans to produce large turbines, towers and offshore substations. HJ Heavy Industries, J-Ocean Heavy Industries, Myeongun Industrial Development and turbine manufacturer Unison signed a memorandum of understanding to develop the facility on South &#8230;"
+          "title": "SFL adds $365m newbuild trio with $333m in charter cover",
+          "link": "https://splash247.com/sfl-adds-365m-newbuild-trio-with-333m-in-charter-cover/",
+          "published": "Thu, 29 Oct 2026 12:13:00 +0000",
+          "summary": "John Fredriksen-backed SFL Corporation has agreed to acquire three newbuildings for around $365m, securing long-term employment that will add at least $333m to its charter backlog. The New York-listed shipowner said the latest investment covers two 8,800 teu containerships scheduled for delivery in 2027 and a 93,000 cu m dual-fuel very large ammonia carrier (VLAC) &#8230;"
         },
         {
-          "title": "Woodside exits delayed Timor-Leste gas project",
-          "link": "https://splash247.com/woodside-exits-delayed-timor-leste-gas-project/",
-          "published": "Wed, 28 Oct 2026 09:38:00 +0000",
-          "summary": "Australian energy major Woodside has agreed to sell its entire 33.44% stake in the long-delayed Greater Sunrise gas development to Timor-Leste&#8217;s state-owned energy company TIMOR GAP for up to $200m. The agreement could bring one of the region&#8217;s largest undeveloped offshore gas resources under full Timorese ownership, following a separate agreement for TIMOR GAP to &#8230;"
+          "title": "Korean carrier Namsung returns to China for larger boxships",
+          "link": "https://splash247.com/korean-carrier-namsung-returns-to-china-for-larger-boxships/",
+          "published": "Thu, 29 Oct 2026 11:50:00 +0000",
+          "summary": "South Korea&#8217;s Namsung Shipping has been linked to another containership order in China, with brokers reporting a deal for two firm 7,100 teu vessels at Dalian Shipbuilding Industry Corporation (DSIC), plus options for another pair. Shipbroking sources said the CSSC-owned yard had secured the contract, with deliveries expected between 2030 and 2031. No price or &#8230;"
         },
         {
-          "title": "Containership orderbook heads towards 16m teu",
-          "link": "https://splash247.com/containership-orderbook-heads-towards-16m-teu/",
-          "published": "Wed, 28 Oct 2026 08:30:28 +0000",
-          "summary": "The containership industry&#8217;s extraordinary ordering spree is showing no signs of slowing, with the global orderbook now exceeding 15m teu and another wave of megamax contracts poised to push the total towards 16m teu before the end of the year. The latest figures from Alphaliner show that approximately 40 additional large containerships are expected to &#8230;"
+          "title": "US tightens entry rules for ships calling at Somali ports",
+          "link": "https://splash247.com/us-tightens-entry-rules-for-ships-calling-at-somali-ports/",
+          "published": "Thu, 29 Oct 2026 11:28:00 +0000",
+          "summary": "The US Coast Guard has imposed additional security conditions on commercial vessels arriving in American waters after calling at Somali ports, adding the East African country to its list of jurisdictions considered to have inadequate port security measures. The restrictions took effect this week, following a determination that Somalia was not maintaining effective antiterrorism measures &#8230;"
         },
         {
-          "title": "Iran singles out Sinokor",
-          "link": "https://splash247.com/iran-singles-out-sinokor/",
-          "published": "Wed, 28 Oct 2026 08:15:12 +0000",
-          "summary": "Iran has threatened South Korean tanker giant Sinokor, the world’s dominant VLCC owner, with sweeping action against its fleet from November 1, accusing the company of repeatedly violating Tehran&#8217;s restrictions on shipping through the Strait of Hormuz. Iran&#8217;s Persian Gulf Strait Authority (PGSA) has said Sinokor vessels have committed more transit violations than any other &#8230;"
+          "title": "Jiahua Energy lines up $165m gas carrier at Jiangnan",
+          "link": "https://splash247.com/jiahua-energy-lines-up-165m-gas-carrier-at-jiangnan/",
+          "published": "Thu, 29 Oct 2026 11:00:00 +0000",
+          "summary": "Chinese chemicals group Jiahua Energy is stepping up its shipowning ambitions with plans to invest up to $165m in a 102,000 cu m liquefied hydrocarbon carrier at Jiangnan Shipyard. The Shanghai-listed company has secured board approval for the project, with Jiangnan Shipyard and China Shipbuilding Trading named as the counterparties. The vessel is scheduled for &#8230;"
         },
         {
-          "title": "Maritime CEO Forum: Shipping’s wartime boom tests discipline",
-          "link": "https://splash247.com/maritime-ceo-forum-shippings-wartime-boom-tests-discipline/",
-          "published": "Wed, 28 Oct 2026 08:00:05 +0000",
-          "summary": "Shipping may be enjoying one of its strongest booms in decades, but the extraordinary profits generated by geopolitical turmoil are raising difficult questions about risk, investment and what happens when the wars end, delegates at yesterday&#8217;s Maritime CEO Forum in Monaco heard. Opening the event at the Yacht Club de Monaco, Splash editor Sam Chambers &#8230;"
+          "title": "COSCO turns to in-house yard for gas carrier expansion",
+          "link": "https://splash247.com/cosco-turns-to-in-house-yard-for-gas-carrier-expansion/",
+          "published": "Thu, 29 Oct 2026 10:45:00 +0000",
+          "summary": "China&#8217;s COSCO Shipping Energy Transportation is expanding its gas carrier business with a RMB335m ($50.2m) ethylene carrier newbuilding project at affiliated Dalian COSCO Shipping Heavy Industry. The Shanghai- and Hong Kong-listed shipowner said its board had approved the construction of a 9,000 cu m vessel through Hainan Zhaogang Shipping, a subsidiary controlled by COSCO&#8217;s Dalian &#8"
         },
         {
-          "title": "Sanctioned Russian tankers head for US carrying diesel",
-          "link": "https://splash247.com/sanctioned-russian-tankers-head-for-us-carrying-diesel/",
-          "published": "Wed, 28 Oct 2026 07:45:53 +0000",
-          "summary": "Three tankers carrying Russian diesel are heading towards the United States under the controversial agreement between presidents Donald Trump and Vladimir Putin, with Moscow preparing to dispatch a fourth vessel today. Russian deputy prime minister Alexander Novak confirmed yesterday that three shipments were underway, despite mounting opposition from US lawmakers who argue the deal breaches &#823"
+          "title": "Aker Solutions braces for more job cuts",
+          "link": "https://splash247.com/aker-solutions-braces-for-more-job-cuts/",
+          "published": "Thu, 29 Oct 2026 10:30:00 +0000",
+          "summary": "Norwegian offshore engineering group Aker Solutions is preparing for another round of workforce reductions as a sharp decline in activity following the completion of major oil and gas projects threatens hundreds more jobs. Chief financial officer Idar Eikrem told analysts during the company&#8217;s third-quarter results presentation that the contractor should expect further staffing adjustments as"
         }
       ]
     },
@@ -184,6 +184,30 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Palantir shareholders want to know when they’ll get their money back",
+          "link": "https://www.ft.com/content/fbca8eb0-76ef-4e0e-bcc9-c45c8f7d1311",
+          "published": "Thu, 29 Oct 2026 14:19:10 GMT",
+          "summary": "Vibesourcing the Pili"
+        },
+        {
+          "title": "Polymarket’s Swiss Tony returns",
+          "link": "https://www.ft.com/content/463865ad-6725-40a7-b394-5cd9ba60bb7d?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 10:30:01 GMT",
+          "summary": "The top-rated trader is back"
+        },
+        {
+          "title": "FTAV’s further reading",
+          "link": "https://www.ft.com/content/580fd746-85a1-42a8-801c-5fd1993d228c",
+          "published": "Thu, 29 Oct 2026 06:30:00 GMT",
+          "summary": "Judgment; credit; bonds; crisis; Lula; China; swaps; valuation; surveillance; touchscreens"
+        },
+        {
+          "title": "What has caused the bad economic vibes, and does it actually matter?",
+          "link": "https://www.ft.com/content/a3d8efb2-6553-46d6-af48-7886b1a14fa3",
+          "published": "Thu, 29 Oct 2026 06:00:10 GMT",
+          "summary": "Level-headed consumers"
+        },
         {
           "title": "We read Liz Truss’s book so you don’t have to",
           "link": "https://www.ft.com/content/7df6f936-b7c5-4ea3-9b9b-81c33706d945",
@@ -207,30 +231,6 @@
           "link": "https://www.ft.com/content/f0d7a819-7bdf-486d-9fd1-b8cf2eeee15a",
           "published": "Tue, 27 Oct 2026 16:55:48 GMT",
           "summary": "Maybe we never did"
-        },
-        {
-          "title": "FTAV’s further reading",
-          "link": "https://www.ft.com/content/fd09ca8f-a70d-42bd-8737-b4accd296e28",
-          "published": "Tue, 27 Oct 2026 06:30:08 GMT",
-          "summary": "Society; Tesla; training; business schools; credibility; repo; Civilization"
-        },
-        {
-          "title": "What makes a project ringfence? For Metlen, it’s complicated",
-          "link": "https://www.ft.com/content/a39295a1-b91d-4b35-9d0f-056bfc320483",
-          "published": "Tue, 27 Oct 2026 06:00:08 GMT",
-          "summary": "So near, and yet solar"
-        },
-        {
-          "title": "And the FTAV chart quiz winner is . . .",
-          "link": "https://www.ft.com/content/2c478980-b51a-4cfd-a63d-e55e0a7f67a6",
-          "published": "Mon, 26 Oct 2026 17:03:41 GMT",
-          "summary": "Hat-trick hero"
-        },
-        {
-          "title": "Anthropic S-1 as it happened: Inside the Claude maker’s 335-page IPO plan",
-          "link": "https://www.ft.com/content/4b2b9c0e-adfb-4362-800f-950f5b905984?syn-25a6b1a6=1",
-          "published": "Mon, 26 Oct 2026 13:08:09 GMT",
-          "summary": "Start-up’s planned listing could be the biggest stock market debut in history"
         }
       ]
     },
@@ -241,45 +241,45 @@
       "count": 7,
       "items": [
         {
-          "title": "Align expects 2026 revenue of $4.11B-$4.13B while outlining CEO transition and a U.S. sports mouthguard pilot",
-          "link": "https://seekingalpha.com/news/4659810-align-expects-2026-revenue-of-4_11b-4_13b-while-outlining-ceo-transition-and-a-u-s-sports?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 22:01:43 -0400",
+          "title": "Ryan Specialty signals 2026 adjusted EBITDAC margin down around 50 bps while launching Tera Underwriters with $625M capacity",
+          "link": "https://seekingalpha.com/news/4661103-ryan-specialty-signals-2026-adjusted-ebitdac-margin-down-around-50-bps-while-launching-tera?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 22:09:54 -0400",
           "summary": ""
         },
         {
-          "title": "CPKC signals sub-60 operating ratio in Q4 as land bridge revenue targets exiting 2026 above $600M",
-          "link": "https://seekingalpha.com/news/4659809-cpkc-signals-subminus-60-operating-ratio-in-q4-as-land-bridge-revenue-targets-exiting-2026?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 22:01:41 -0400",
+          "title": "CarParts.com outlines Q4 markers for A-Premium above $55M run rate and last-mile ramp to 300,000 packages annually",
+          "link": "https://seekingalpha.com/news/4661102-carparts-com-outlines-q4-markers-for-a-premium-above-55m-run-rate-and-last-mile-ramp-to?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 22:09:41 -0400",
           "summary": ""
         },
         {
-          "title": "Raymond James outlines $2.5B fiscal 2027 noncomp expense target as it expects Q1 asset management fees up ~1%",
-          "link": "https://seekingalpha.com/news/4659807-raymond-james-outlines-2_5b-fiscal-2027-noncomp-expense-target-as-it-expects-q1-asset?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 22:01:39 -0400",
+          "title": "Onespan expects $254M-$258M 2026 revenue as DigipassONE rollout expands",
+          "link": "https://seekingalpha.com/news/4661101-onespan-expects-254m-258m-2026-revenue-as-digipassone-rollout-expands?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 22:00:14 -0400",
           "summary": ""
         },
         {
-          "title": "FinWise anticipates $1.5B-$1.6B quarterly originations run rate for 2027 while scaling credit-enhanced balances",
-          "link": "https://seekingalpha.com/news/4659808-finwise-anticipates-1_5b-1_6b-quarterly-originations-run-rate-for-2027-while-scaling-credit?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 22:01:39 -0400",
+          "title": "Federal Signal forecasts $5.20-$5.32 adjusted EPS as 2026 net sales outlook narrows to $2.61B-$2.64B",
+          "link": "https://seekingalpha.com/news/4661100-federal-signal-forecasts-5_20-5_32-adjusted-eps-as-2026-net-sales-outlook-narrows-to-2_61b?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 22:00:05 -0400",
           "summary": ""
         },
         {
-          "title": "Fortinet outlines 2026 billings $9.568B-$9.718B as it raises guidance again",
-          "link": "https://seekingalpha.com/news/4659806-fortinet-outlines-2026-billings-9_568b-9_718b-as-it-raises-guidance-again?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 21:51:00 -0400",
+          "title": "Alphatec lowers FY 2026 revenue outlook to $862M while targeting 16% adjusted EBITDA margin",
+          "link": "https://seekingalpha.com/news/4661099-alphatec-lowers-fy-2026-revenue-outlook-to-862m-while-targeting-16-percent-adjusted-ebitda?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 22:00:01 -0400",
           "summary": ""
         },
         {
-          "title": "Hudson Technologies reaffirms 2026 gross margin at low-to-mid-20% range while advancing Icorium partnership and $210M DLA contract",
-          "link": "https://seekingalpha.com/news/4659805-hudson-technologies-reaffirms-2026-gross-margin-at-low-to-midminus-20-percent-range-while?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 21:50:56 -0400",
+          "title": "EPR outlines $675M-$725M 2026 investment plan while raising FFO as adjusted outlook to $5.49-$5.57",
+          "link": "https://seekingalpha.com/news/4661098-epr-outlines-675m-725m-2026-investment-plan-while-raising-ffo-as-adjusted-outlook-to-5_49?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 21:59:58 -0400",
           "summary": ""
         },
         {
-          "title": "Jushi outlines Virginia plan targeting 115+ annual harvests after 3 expansions as adult-use sales begin July 1, 2027",
-          "link": "https://seekingalpha.com/news/4659804-jushi-outlines-virginia-plan-targeting-115-plus-annual-harvests-after-3-expansions-as-adult?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "published": "Wed, 28 Oct 2026 21:40:56 -0400",
+          "title": "MPS outlines $8B capacity by 2H 2027 as it raises enterprise data growth floor to 150%",
+          "link": "https://seekingalpha.com/news/4661097-mps-outlines-8b-capacity-by-2h-2027-as-it-raises-enterprise-data-growth-floor-to-150-percent?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "published": "Thu, 29 Oct 2026 21:49:26 -0400",
           "summary": ""
         }
       ]
@@ -290,6 +290,12 @@
       "ok": true,
       "count": 8,
       "items": [
+        {
+          "title": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia",
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261029a.htm",
+          "published": "Thu, 29 Oct 2026 20:30:00 GMT",
+          "summary": "Federal Reserve Board announces approval of application by The Bank of Nova Scotia"
+        },
         {
           "title": "Federal Reserve issues FOMC statement",
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
@@ -331,12 +337,6 @@
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
           "published": "Mon, 5 Oct 2026 20:30:00 GMT",
           "summary": "Federal Reserve Board announces approval of application by Isabella Bank Corporation"
-        },
-        {
-          "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
-          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
-          "published": "Fri, 2 Oct 2026 20:45:00 GMT",
-          "summary": "Federal Reserve Board announces approval of application by Fleur Capital Corporation"
         }
       ]
     },
@@ -347,52 +347,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Why Alphabet’s stock could see its worst drop in years after the latest results",
-          "link": "https://www.marketwatch.com/story/why-alphabets-stock-could-see-its-worst-drop-in-years-after-the-latest-results-6b64cf98?mod=mw_rss_topstories",
-          "published": "Thu, 29 Oct 2026 01:58:00 GMT",
-          "summary": "A doubling of cloud revenue wasn’t enough to appease Wall Street as investors grew more concerned that AI is hurting the company’s ability to make money off search queries."
+          "title": "Amazon’s stock drops — even in the face of a bold new cloud forecast",
+          "link": "https://www.marketwatch.com/story/amazons-bold-cloud-forecast-isnt-enough-to-stave-off-a-stock-drop-ee23c1bb?mod=mw_rss_topstories",
+          "published": "Fri, 30 Oct 2026 00:15:00 GMT",
+          "summary": "Modest AWS results and weak advertising growth left Wall Street disappointed in Amazon’s third-quarter earnings"
         },
         {
-          "title": "Lumentum’s stock pops as investors cheer a possible sale to Marvell",
-          "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-          "published": "Thu, 29 Oct 2026 00:20:00 GMT",
-          "summary": "An agreement between the companies could come next week, Bloomberg reported"
+          "title": "A Starbucks turnaround is brewing — but perhaps not quickly enough for investors",
+          "link": "https://www.marketwatch.com/story/a-starbucks-turnaround-is-brewing-but-perhaps-not-quickly-enough-3b5f57ac?mod=mw_rss_topstories",
+          "published": "Fri, 30 Oct 2026 00:14:00 GMT",
+          "summary": "The coffee chain beat expectations on a key sales metric, but its stock was still moving lower."
         },
         {
-          "title": "‘Just watch Judge Judy’: I’m in my 70s. Why do people keep making the same avoidable financial mistakes?",
-          "link": "https://www.marketwatch.com/story/you-need-only-watch-episodes-of-judge-judy-im-in-my-70s-why-do-people-keep-making-the-same-avoidable-financial-mistakes-bbf60fe4?mod=mw_rss_topstories",
-          "published": "Thu, 29 Oct 2026 00:15:00 GMT",
-          "summary": "“Consider some familiar examples of poor decisions: accumulating credit-card debt or failing to plan for retirement.”"
+          "title": "Sandisk sees revenue nearly quintuple — and a stock split is on the way",
+          "link": "https://www.marketwatch.com/story/sandisk-sees-revenue-nearly-quintuple-and-its-stock-is-heading-higher-b9318916?mod=mw_rss_topstories",
+          "published": "Fri, 30 Oct 2026 00:06:00 GMT",
+          "summary": "Sandisk’s stock has climbed more than 2,600% since the company separated from Western Digital 20 months ago — and it has one of the highest prices in the S&amp;P 500."
         },
         {
-          "title": "The major reason Microsoft’s stock is heading higher after earnings",
-          "link": "https://www.marketwatch.com/story/the-major-reason-microsofts-stock-is-heading-higher-after-earnings-c019a036?mod=mw_rss_topstories",
-          "published": "Thu, 29 Oct 2026 00:10:00 GMT",
-          "summary": "Microsoft showed investors that it’s able to grow rapidly while keeping spending in check."
+          "title": "Our church has a $1.5 million bequest earning 3.75% in a bank account. Is inflation eroding it?",
+          "link": "https://www.marketwatch.com/story/there-may-be-better-investment-options-my-church-received-1-5-million-from-a-parishioner-is-3-75-interest-enough-5164d790?mod=mw_rss_topstories",
+          "published": "Fri, 30 Oct 2026 00:05:00 GMT",
+          "summary": "“Given the size and long-term nature of this gift, we want to make sure the funds are managed prudently.”"
         },
         {
-          "title": "Fortinet’s stock is taking a dive after earnings. Here’s why.",
-          "link": "https://www.marketwatch.com/story/fortinets-stock-is-taking-a-dive-after-earnings-heres-why-d407896e?mod=mw_rss_topstories",
-          "published": "Wed, 28 Oct 2026 23:18:00 GMT",
-          "summary": "Cybersecurity stocks are broadly falling as growth slows significantly in one of Fortinet’s business segments."
+          "title": "Why Intel’s stock is sinking toward its worst drop in two years",
+          "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+          "published": "Thu, 29 Oct 2026 23:21:00 GMT",
+          "summary": "Intel’s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops."
         },
         {
-          "title": "ServiceNow’s stock slides as earnings miss overshadows a raised AI outlook",
-          "link": "https://www.marketwatch.com/story/servicenows-stock-slides-as-earnings-miss-clouds-a-raised-ai-outlook-96e48385?mod=mw_rss_topstories",
-          "published": "Wed, 28 Oct 2026 23:02:00 GMT",
-          "summary": "Even with an uptick in multimillion-dollar AI deals, ServiceNow’s earnings results weren’t enough to win over software skeptics."
+          "title": "My abusive ex-husband promised $20,000 for our kids’ education. Now he refuses to pay. Is he legally obligated?",
+          "link": "https://www.marketwatch.com/story/my-abusive-ex-husband-promised-20-000-for-our-kids-education-now-he-refuses-to-pay-is-he-legally-obligated-325ef50f?mod=mw_rss_topstories",
+          "published": "Thu, 29 Oct 2026 22:45:00 GMT",
+          "summary": "“Before our divorce, my former mother-in-law entrusted him with $20,000 for each of our daughters to invest on their behalf.”"
+        },
+        {
+          "title": "The midterms are crucial to the future of Social Security — no matter how old you are",
+          "link": "https://www.marketwatch.com/story/the-midterms-are-crucial-to-the-future-of-social-security-no-matter-how-old-you-are-0f080a9c?mod=mw_rss_topstories",
+          "published": "Thu, 29 Oct 2026 22:01:00 GMT",
+          "summary": "The program is expected to run out of money in the next six years, which is the same amount of time as a senator’s term."
         },
         {
           "title": "Is it curtains for COLA? Saving Social Security could mean changing the cost-of-living adjustment.",
           "link": "https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8?mod=mw_rss_topstories",
-          "published": "Wed, 28 Oct 2026 22:41:00 GMT",
+          "published": "Thu, 29 Oct 2026 21:52:00 GMT",
           "summary": "Several proposals consider changing the way retirees receive inflation protection. Here’s what it could cost you."
-        },
-        {
-          "title": "Chipotle now has more demand from lower-income diners than higher-income ones",
-          "link": "https://www.marketwatch.com/story/chipotle-expects-modestly-higher-sales-this-year-as-drive-thru-chipotlanes-come-to-more-stores-4f255bbc?mod=mw_rss_topstories",
-          "published": "Wed, 28 Oct 2026 22:25:00 GMT",
-          "summary": "The fast-casual chain says menu-price increases helped results. It also noted rising beef costs and “higher protein usage” as people try to find ways to pack more protein into their diets."
         }
       ]
     },
@@ -403,52 +403,52 @@
       "count": 8,
       "items": [
         {
-          "title": "Weil leadership tells partners firm should be dissolved",
-          "link": "https://www.ft.com/content/0476f216-0060-475c-962f-61d73d7d660b?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 20:28:37 GMT",
-          "summary": "Decision marks stunning downfall for near-century-old law firm that was among America’s largest and most prestigious"
+          "title": "Intel shares fall 22% as weak sales outlook dents turnaround",
+          "link": "https://www.ft.com/content/d7540e89-08db-43d3-92e0-3c15dd3a60cb?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 23:45:30 GMT",
+          "summary": "Chipmaker forecasts lower than expected PC chip sales and falling margins"
         },
         {
-          "title": "Fed holds fire on interest rates despite intensifying inflation",
-          "link": "https://www.ft.com/content/f31fccd8-e9b6-4b01-989d-790ca6bb4d29?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 21:32:08 GMT",
-          "summary": "Central bank to vote on monetary policy seven times next year in shift from decades-old custom of having eight such meetings"
+          "title": "Amazon shares slide on lower Christmas sales forecast",
+          "link": "https://www.ft.com/content/8affd8dd-b783-48c8-86e2-ac4a647fa0f3?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 22:44:22 GMT",
+          "summary": "Ecommerce giant posts disappointing sales and guidance despite booming cloud unit"
         },
         {
-          "title": "The globetrotting Trump brothers",
-          "link": "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 05:00:07 GMT",
-          "summary": "The president’s sons Donald Jr and Eric have met world leaders and foreign officials while building a lucrative web of financial interests"
+          "title": "Starbucks to resume share buybacks but China shift clouds growth outlook",
+          "link": "https://www.ft.com/content/1f5eec1a-569a-493f-a0ce-bde2ca12a3cc?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 21:54:08 GMT",
+          "summary": "US same-store sales rise 7.7% as CEO touts progress in coffee chain turnaround"
         },
         {
-          "title": "Why even America’s ‘haves’ are feeling the squeeze",
-          "link": "https://www.ft.com/content/624f7138-96b0-4752-96f1-b54f2b18742b?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 10:00:04 GMT",
-          "summary": "Rising costs everywhere from insurance to lawn care mean almost half of US homeowners lack financial breathing room"
+          "title": "What killed Weil Gotshal?",
+          "link": "https://www.ft.com/content/98dfc71b-19eb-4194-8c6a-bb6d9b463074?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 21:17:34 GMT",
+          "summary": "Partners were stunned by the realisation that a profitable 95-year-old firm with 1,200 lawyers could be felled by a string of departures"
         },
         {
-          "title": "Google shares tumble 10% after $51bn AI outlay deepens cash burn",
-          "link": "https://www.ft.com/content/eb386156-5bf9-4edd-80f2-803fdee1e33d?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 23:27:01 GMT",
-          "summary": "Search giant admits its ‘AI mode’ has hurt traditional search as sales and profits undershoot expectations"
+          "title": "Has Australia’s push for lower house prices gone too far?",
+          "link": "https://www.ft.com/content/5e37d086-5ecf-45a2-96e1-278a0f5a86c2?syn-25a6b1a6=1",
+          "published": "Fri, 30 Oct 2026 00:21:27 GMT",
+          "summary": "Canberra wanted to cool one of the world’s hottest property markets"
         },
         {
-          "title": "Microsoft blames data centre delays for lower capital expenditure",
-          "link": "https://www.ft.com/content/93f53cb4-1fc8-4ca5-aa91-186b77b03d92?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 23:20:51 GMT",
-          "summary": "Software group reports overall revenue rose 19% to $92.3bn in quarter to the end of September"
+          "title": "Two fears will decide the fate of Anthropic’s giant IPO",
+          "link": "https://www.ft.com/content/9fd6faa4-0e06-4b2b-975a-3e6d3a7f3d7f?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 14:41:41 GMT",
+          "summary": "Investors must weigh missing out on extraordinary AI growth against potential pitfalls that include ‘existential’ risks to humanity"
         },
         {
-          "title": "How Israel’s opposition fell short against Netanyahu",
-          "link": "https://www.ft.com/content/6a370b14-23e9-43e9-8489-2732ac5a74f3",
-          "published": "Wed, 28 Oct 2026 17:45:48 GMT",
-          "summary": "Those long opposed to the prime minister fear they have missed a historic opportunity to oust him"
+          "title": "Binance temporarily suspends withdrawals after apparent hack",
+          "link": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1",
+          "published": "Fri, 30 Oct 2026 01:02:58 GMT",
+          "summary": "Tether and Circle freeze billions of dollars’ worth of their coins as world’s largest crypto exchange investigates security issue"
         },
         {
-          "title": "Israel’s Arabs seek a slice of power",
-          "link": "https://www.ft.com/content/e73bd81d-89b4-4ef4-9be0-459bcc97633b?syn-25a6b1a6=1",
-          "published": "Wed, 28 Oct 2026 17:40:19 GMT",
-          "summary": "Arab parties are eyeing a record number of Knesset seats and potential kingmaker role after a surge in Palestinian Israeli votes"
+          "title": "Google is eating itself — but it could still eat everyone else too",
+          "link": "https://www.ft.com/content/245107d8-ef54-4b30-a75a-538d055bc6d7?syn-25a6b1a6=1",
+          "published": "Thu, 29 Oct 2026 18:00:36 GMT",
+          "summary": "Leadership in the AI race can be won, lost and won again at speed"
         }
       ]
     },
